@@ -1,0 +1,664 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Adelowo2014.pdf",
+    "page_index": 9,
+    "page_count": 10,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Adelowo et al. – Resistant E. coli from Nigeria",
+            "block_bbox": [
+                96,
+                72,
+                405,
+                91
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "J Infect Dev Ctries 2014; 8(9):1103-1112.",
+            "block_bbox": [
+                843,
+                71,
+                1119,
+                91
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "14. Rwego IB, Gillespie TR, Isabirye-Basuta G, Goldberg TL (2008) High Rates of Escherichia coli Transmission between Livestock and Humans in Rural Uganda. J Clin Microbiol 46:3187-3191.",
+            "block_bbox": [
+                99,
+                130,
+                587,
+                210
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "15. Guerra B, Junker E, Schroeter A, Malorny B, Lehmann S, Helmuth R (2003) Phenotypic and genotypic characterization of antimicrobial resistance in German Escherichia coli isolates from cattle, swine and poultry. J Antimicrob Chemother 52: 489-492.",
+            "block_bbox": [
+                100,
+                213,
+                588,
+                314
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "16. Agersø Y, Sandvang D (2005) Class I integrons and tetracycline resistance genes in Alcaligenes, Arthrobacter and Pseudomonas spp. isolated from pigsties and manured soil. Appl Environ Microbiol 46: 7941-7947.",
+            "block_bbox": [
+                100,
+                316,
+                588,
+                396
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "17. Ogunleye AO, Oyekunle MA, Sonibare AO (2008) Multidrug resistant Escherichia coli isolates of poultry origin in Abeokuta, South Western Nigeria. Vet. arhiv 78:501-509.",
+            "block_bbox": [
+                100,
+                399,
+                588,
+                460
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "18. Adelowo OO, Akinlabi IA, Fagade OE (2012) Environmental impact assessment of Attenda abattoir, Ogbomoso southwestern Nigeria on surface and groundwater quality using geo-electrical imaging and microbiological analysis. Environ Monit Assess 184:4565-4574.",
+            "block_bbox": [
+                100,
+                461,
+                588,
+                562
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "19. [CLSI] Clinical and Laboratory Standards Institute (2005) Performance Standards for Antimicrobial Susceptibility Testing: Fifteenth Informational Supplement M100-S15. CLSI, Wayne, PA, USA.",
+            "block_bbox": [
+                100,
+                564,
+                587,
+                646
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "20. Peirano G, Agersø Y, Aarestrup FM, Falavina dos Reis FM, Rodrigues DP (2006) Occurrence of integrons and antimicrobial resistance genes among Salmonella enterica from Brazil. J Antimicrob Chemother 58: 305-309.",
+            "block_bbox": [
+                98,
+                647,
+                588,
+                728
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "21. Peirano G, Agersø Y, Aarestrup FM, Rodrigues DP (2005) Occurrence of integrons and resistance genes among sulphonamide-resistant Shigella spp. from Brazil. J Antimicrob Chemother 55: 301-305.",
+            "block_bbox": [
+                97,
+                730,
+                588,
+                810
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "22. Agersø Y, Guardabassi L (2005) Identification of Tet 39, a novel class of tetracycline resistance determinant in Acinetobacter spp. of environmental and clinical origin. J Antimicrob Chemother 55: 566-569.",
+            "block_bbox": [
+                98,
+                813,
+                588,
+                894
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "23. Agersø Y, Bruun MS, Dalsgaard I, Larsen JL (2007) The tetracycline resistance gene tet(E) is frequently occurring and present on large horizontally transferable plasmids in Aeromonas spp. from fish farms. Aquaculture 266: 47-52",
+            "block_bbox": [
+                98,
+                896,
+                588,
+                977
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "24. Cavaco LM, Hasman H, Xia S, Aarestrup FM (2009) qnrD, a novel gene conferring transferable quinolone resistance in",
+            "block_bbox": [
+                97,
+                979,
+                589,
+                1020
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Salmonella enterica serovar Kentucky and Bovismorbificans strains of human origin. Antimicrob Agents Chemother 53:603-608.",
+            "block_bbox": [
+                669,
+                130,
+                1124,
+                190
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "25. Wang M, Guo Q, Xu X, Wang X, Ye X, Wu S, Hooper DC, Wang M (2009) New plasmid-mediated quinolone resistance gene, qnrC, found in a clinical isolate of Proteus mirabilis. Antimicrob Agents Chemother 53: 1892-1897.",
+            "block_bbox": [
+                634,
+                192,
+                1124,
+                273
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "26. Enne VI, Cassar C, Sprigings K, Woodward MJ, Bennett PM (2008) A high prevalence of antimicrobial resistant Escherichia coli isolated from pigs and a low prevalence of antimicrobial resistant E. coli from cattle and sheep in Great Britain at slaughter. FEMS Microbiol Lett 278: 193-199.",
+            "block_bbox": [
+                634,
+                275,
+                1125,
+                376
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "27. Martinez-Martinez L, Pascual A, Jacoby GA (1998) Quinolone resistance from a transferable plasmid. Lancet 351:797–799.",
+            "block_bbox": [
+                634,
+                378,
+                1124,
+                437
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "28. Strahilevitz J, Jacoby GA, Hooper DC, Robicsek A (2009) Plasmid-Mediated Quinolone Resistance: a Multifaceted Threat. Clin Microbial Rev 22: 664–689.",
+            "block_bbox": [
+                635,
+                441,
+                1124,
+                500
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "29. Fashae K, Ogunsola F, Aarestrup FM, Hendricksen RS (2010) Antimicrobial susceptibility and serovars of Salmonella from chickens and humans in Ibadan, Nigeria. J Infect Dev Ctries 4: 484-494. doi:10.3855/jidc.909.",
+            "block_bbox": [
+                635,
+                503,
+                1125,
+                583
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "30. Collignon P, Powers JH, Chiller TM, Aidara-Kane A, Aarestrup FM (2009) World Health Organization ranking of antimicrobials according to their importance in human medicine: A critical step for developing risk management strategies for the use of antimicrobials in food production animals. Clin Infect Dis 49: 132-141.",
+            "block_bbox": [
+                634,
+                585,
+                1126,
+                707
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Corresponding author",
+            "block_bbox": [
+                633,
+                755,
+                851,
+                778
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "text",
+            "block_content": "Department for Microbiology and Risk Assessment, National Food Institute.",
+            "block_bbox": [
+                631,
+                797,
+                1124,
+                839
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "text",
+            "block_content": "Technical University of Denmark, Kemitorvet building 204st\n\nDK-2800 Lyngby, Denmark\n\nPhone +4535886273\n\nFax: +4535886341\n\nEmail: yvoa@food.dtu.dk",
+            "block_bbox": [
+                631,
+                839,
+                1083,
+                946
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "text",
+            "block_content": "Conflict of interests: No conflict of interests is declared.",
+            "block_bbox": [
+                632,
+                964,
+                1124,
+                988
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "number",
+            "block_content": "1112",
+            "block_bbox": [
+                1076,
+                1488,
+                1125,
+                1510
+            ],
+            "block_id": 24,
+            "block_order": null,
+            "group_id": 24
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9429370760917664,
+                "coordinate": [
+                    96.932373046875,
+                    72.21845245361328,
+                    405.8504333496094,
+                    91.68999481201172
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9438639879226685,
+                "coordinate": [
+                    843.9525146484375,
+                    71.82395935058594,
+                    1119.5369873046875,
+                    91.43040466308594
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9810479879379272,
+                "coordinate": [
+                    99.30360412597656,
+                    130.1037139892578,
+                    587.8131103515625,
+                    210.8263397216797
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.982383131980896,
+                "coordinate": [
+                    100.3133544921875,
+                    213.3807373046875,
+                    588.54150390625,
+                    314.1419677734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9820327162742615,
+                "coordinate": [
+                    100.04544067382812,
+                    316.5101318359375,
+                    588.197509765625,
+                    396.9534912109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9793921113014221,
+                "coordinate": [
+                    100.11289978027344,
+                    399.2336730957031,
+                    588.0228271484375,
+                    460.1734924316406
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9828401803970337,
+                "coordinate": [
+                    100.02496337890625,
+                    461.80078125,
+                    588.2935180664062,
+                    562.702392578125
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9914979338645935,
+                "coordinate": [
+                    97.06134033203125,
+                    128.90396118164062,
+                    590.6749877929688,
+                    1020.244384765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809775948524475,
+                "coordinate": [
+                    100.11126708984375,
+                    564.93017578125,
+                    587.7203979492188,
+                    646.05615234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809830784797668,
+                "coordinate": [
+                    98.51734924316406,
+                    647.99609375,
+                    588.2655029296875,
+                    728.857666015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809476137161255,
+                "coordinate": [
+                    97.9024658203125,
+                    730.1864013671875,
+                    588.2582397460938,
+                    810.8873291015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9808016419410706,
+                "coordinate": [
+                    98.35408020019531,
+                    813.125732421875,
+                    588.8541870117188,
+                    894.073486328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9807274341583252,
+                "coordinate": [
+                    98.30389404296875,
+                    896.093994140625,
+                    588.6990966796875,
+                    977.3291015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9685852527618408,
+                "coordinate": [
+                    97.87664794921875,
+                    979.1996459960938,
+                    589.0568237304688,
+                    1020.5005493164062
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9774104952812195,
+                "coordinate": [
+                    669.12841796875,
+                    130.23516845703125,
+                    1124.5733642578125,
+                    190.252685546875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9813416004180908,
+                "coordinate": [
+                    634.166015625,
+                    192.13882446289062,
+                    1124.475341796875,
+                    273.0572509765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9826692342758179,
+                "coordinate": [
+                    634.900634765625,
+                    275.3367919921875,
+                    1125.566650390625,
+                    376.8031005859375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.978708803653717,
+                "coordinate": [
+                    634.9337158203125,
+                    378.6278381347656,
+                    1124.5765380859375,
+                    437.8265075683594
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9917197227478027,
+                "coordinate": [
+                    632.664306640625,
+                    129.13290405273438,
+                    1127.028564453125,
+                    707.3055419921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9784002304077148,
+                "coordinate": [
+                    635.0416259765625,
+                    441.26800537109375,
+                    1124.5196533203125,
+                    500.892822265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806600213050842,
+                "coordinate": [
+                    635.300048828125,
+                    503.09130859375,
+                    1125.2576904296875,
+                    583.2332763671875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9816170930862427,
+                "coordinate": [
+                    634.7056884765625,
+                    585.2021484375,
+                    1126.439453125,
+                    707.803466796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9128450751304626,
+                "coordinate": [
+                    633.0223388671875,
+                    755.4432373046875,
+                    851.422119140625,
+                    778.1346435546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5968905687332153,
+                "coordinate": [
+                    631.732666015625,
+                    797.5804443359375,
+                    1124.293212890625,
+                    839.5198974609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6272702813148499,
+                "coordinate": [
+                    631.5146484375,
+                    839.706298828125,
+                    1083.718994140625,
+                    946.4754638671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.45543771982192993,
+                "coordinate": [
+                    633.4754028320312,
+                    923.172119140625,
+                    828.3726196289062,
+                    945.512451171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9379209280014038,
+                "coordinate": [
+                    632.0687255859375,
+                    964.1397094726562,
+                    1124.7362060546875,
+                    988.0475463867188
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9229860901832581,
+                "coordinate": [
+                    1076.857666015625,
+                    1488.03662109375,
+                    1125.821044921875,
+                    1510.271484375
+                ]
+            }
+        ]
+    }
+}

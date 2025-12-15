@@ -1,0 +1,25 @@
+Adelowo et al. – Resistant E. coli from Nigeria
+
+J Infect Dev Ctries 2014; 8(9):1103-1112.
+
+DO7pBR322 (tet(C)), E. coli C600psl106 (tet(D)), E. coli HB 101 psl 1604 tet(E)), E. coli YA5605 pUC19::tet(39) (tet(39)), E. coli K13 (acc(3)-IV), Salmonella Weltevreden TA428/97 (catA1), S. Typhimurium P502212 DT104 (floR), Paratyphi B63.48 (bla $ _{TEM} $ ), S. Typhimurium DT104 (strA, strB, aadA1), Salmonella B (sul2), Salmonella C (sul3), S. Typhimurium DS611 (cmlA, int1, sul1), Salmonella (int2).
+
+## Results
+
+## Antimicrobial susceptibility
+
+Tables 2 and 3 showed the distribution of MICs and phenotypic patterns of resistance among the isolates. Resistance to tetracycline (81%), sulphamethoxazole (67%), streptomycin (56%), trimethoprim (47%), ciprofloxacin (42%) and ampicillin (36%) was the most commonly detected among the isolates tested while phenotypic resistance to spectinomycin (28%), nalidixic acid (25%), chloramphenicol (22%), neomycin (14%) and gentamicin (8%) was less commonly detected. In contrast, all the isolates were sensitive to amoxicillin-clavulanate, ceftiofuro, cefotaxime, colistin, florfenicol and apramycin. Among the 15 ciprofloxacin resistant isolates, eight isolates had MICs to nalidixic acid  $ \leq $  32 mg/L. While this study was not designed to investigate the relationship between antibiotic use and resistance on the study farms due primarily to the non-availability of antibiotic-use information as mentioned earlier, it is important to report that tetracycline, streptomycin, sulphonamides, and ampicillin are among the antimicrobials used on all the study farms.
+
+Among isolates of the present study, resistance to two or more antibiotics was detected in 30 of 36 (83%) isolates. When looking at isolates from poultry droppings/litter, swine waste, soil (including fish pond sediment) and well water, 93% (14/15), 63% (5/8), 89% (8/9) and 75% (3/4) of the isolates respectively showed resistance to two or more antimicrobials. Four isolates from pig manure (EC137, EC146), farm soil (EC162) and well water (EC116) were fully susceptible to all antimicrobials tested (Table 3).
+
+## Mechanisms of resistance
+
+Table 3 showed the phenotypic patterns of resistance and resistance genes profiles of the isolates. Among the 36 isolates tested, six (17%) carried class 2 integrons, five (17%) of 24 sulphamethoxazole resistant isolates carried class 1 integrons, while only one isolate (3%) (EC3) carried both classes of integrons. The variable region of the class 1 integrons of one representative isolate (EC117) selected from among the most common sized amplicon (1500 bp found in four isolates) was partially sequenced (935 bp). The partial sequence showed 99% sequence identity with position 695 to 1629 containing aadA5 in E. coli GL1 (GenBank accession number FJ807902). As expected, the sulphonamide resistance gene sul1 was detected in all class 1 integron-positive isolates as part of the integron. The variable regions of the class 2 integrons detected among the int2 positive isolates showed three different sized PCR products. The product of one representative isolate (EC3, EC111 and EC113) for each type was sequenced. The partial sequences showed 88% identity with position 1057 to 436 of E. coli encoding a sat1 (GenBank accession number X56815) for isolate EC111, 100% identity with position 2073 to 2608 of E. coli encoding a dfrA1-sat2(partial) (GenBank accession number HM439239) for EC113 and 100% identity with position 1995 to 2668 of E. coli encoding a sat2 (GenBank accession number AY183453) for isolate EC3.
+
+
+
+In addition to sul1 carried as part of int1, sul2 and sul3 were detected in 16 (67%) and 4 (17%) of 24 sulphamethoxazole – resistant isolates. All the isolates positive for sul3 were from poultry waste or farm soil from Ogbomoso. Three of the int1/sul1 positive isolates were also positive for sul2. However, sul2/sul3 and sul1/sul3 combinations could not be detected in any of the isolates. Of 23 strains with phenotypic resistance to streptomycin, spectinomycin, or a combination of both antibiotics, aadA, strA and strB encoding resistance to spectinomycin / streptomycin were detected in 15 (65%) (including two isolates, EC123 and EC226 with intermediate resistance to streptomycin and spectinomycin), 16 (70%) and 14 (61%) isolates respectively. Five of these isolates were positive for the aadA/strA/strB combination while strA was found to occur together with strB in all 14 isolates positive for strB. Further, 12 (86%) of 14 isolates carrying the strA/strB combination were also positive for sul2.
+
+The only tested ampicillin resistance gene  $ bla_{-TEM} $  was found in 11 (85%) of 13 ampicillin-resistant isolates in the present study. The highest prevalence (7 of 8 ampicillin resistant isolates) of this gene was found among isolates from Ogbomoso. catA1 and cmlA1 was detected in 2 (25%) and 1 (13%) of eight chloramphenicol resistant isolates respectively.
+
+1106

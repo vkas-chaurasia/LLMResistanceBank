@@ -1,0 +1,463 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_1.pdf",
+    "page_index": 0,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_85_48_322_122.jpg\" alt=\"Image\" width=\"19%\" /></div>\n",
+            "block_bbox": [
+                85,
+                48,
+                322,
+                122
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "ORIGINAL RESEARCH published: 22 November 2016 doi: 10.3389/fmicb.2016.01846",
+            "block_bbox": [
+                905,
+                67,
+                1105,
+                118
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_1044_142_1100_198.jpg\" alt=\"Image\" width=\"4%\" /></div>\n",
+            "block_bbox": [
+                1044,
+                142,
+                1100,
+                198
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Prevalence of the Antibiotic Resistance Genes in Coagulase-Positive-and Negative-Staphylococcus in Chicken Meat Retailed to Consumers",
+            "block_bbox": [
+                350,
+                292,
+                1092,
+                521
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Kamelia Osman $ ^{1*} $ , Jihan Badr $ ^{2} $ , Khalid S. Al-Maary $ ^{3} $ , Ihab M. I. Moussa $ ^{3} $ , Ashgan M. Hessain $ ^{4} $ , Zeinab M. S. Amin Girah $ ^{5} $ , Usama H. Abo-shama $ ^{6} $ , Ahmed Orabi $ ^{1} $  and Aalaa Saad $ ^{2} $ ",
+            "block_bbox": [
+                348,
+                547,
+                1078,
+                615
+            ],
+            "block_id": 4,
+            "block_order": 2,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "OPEN ACCESS",
+            "block_bbox": [
+                171,
+                691,
+                323,
+                713
+            ],
+            "block_id": 5,
+            "block_order": 3,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Edited by: Octavio Luiz Franco,\n\nUniversidade Católica de Brasília,\n\nBrazil",
+            "block_bbox": [
+                115,
+                734,
+                324,
+                812
+            ],
+            "block_id": 6,
+            "block_order": 4,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Reviewed by:\n\nIldinete Silva-Pereira,\n\nUniversity of Brasília, Brazil\n\nElizabeth De Souza Cândido,\n\nCatholic University Dom Bosco, Brazil",
+            "block_bbox": [
+                89,
+                822,
+                325,
+                921
+            ],
+            "block_id": 7,
+            "block_order": 5,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "*Correspondence: Kamelia Osman\n\nkamelia-osman@hotmail.com",
+            "block_bbox": [
+                138,
+                930,
+                324,
+                988
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Specialty section: This article was submitted to Antimicrobials, Resistance and Chemotherapy, a section of the journal Frontiers in Microbiology",
+            "block_bbox": [
+                130,
+                1015,
+                324,
+                1133
+            ],
+            "block_id": 9,
+            "block_order": 7,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Received: 22 August 2016\n\nAccepted: 03 November 2016\n\nPublished: 22 November 2016",
+            "block_bbox": [
+                125,
+                1142,
+                324,
+                1202
+            ],
+            "block_id": 10,
+            "block_order": 8,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Citation:",
+            "block_bbox": [
+                258,
+                1210,
+                323,
+                1228
+            ],
+            "block_id": 11,
+            "block_order": 9,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Osman K, Badr J, Al-Maary KS, Moussa IM, Hessain AM, Girah ZMSA, Abo-shama UH, Orabi A and Saad A (2016) Prevalence of the Antibiotic Resistance Genes in Coagulase-Positive-and Negative-Staphylococcus in Chicken Meat Retailed to Consumers. Front. Microbiol. 7:1846. doi: 10.3389/fmicb.2016.01846\n\n $ ^{1} $  Department of Microbiology, Faculty of Veterinary Medicine, Cairo University, Giza, Egypt,  $ ^{2} $  Department of Poultry Diseases, Animal Health Research Institute, Giza, Egypt,  $ ^{3} $  Department of Botany and Microbiology, College of Science, King Saud University, Riyadh, Saudi Arabia,  $ ^{4} $  Department of Health Science, College of Applied Studies and Community Service, King Saud University, Riyadh, Saudi Arabia,  $ ^{5} $  Department of Poultry Diseases, National Research Center, Giza, Egypt,  $ ^{6} $  Department of Microbiology, Faculty of Veterinary Medicine, Sohag University, Sohag, Egypt",
+            "block_bbox": [
+                89,
+                1228,
+                324,
+                1429
+            ],
+            "block_id": 12,
+            "block_order": 10,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                348,
+                630,
+                1101,
+                733
+            ],
+            "block_id": 13,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "The use of antibiotics in farm management (growing crops and raising animals) has become a major area of concern. Its implications are the consequent emergence of antibiotic resistant bacteria (ARB) and accordingly their access into the human food chain with the passage of antibiotic resistance genes (ARG) to the normal human intestinal microbiota and hence to other pathogenic bacteria, causative human disease. Therefore, we pursued in this study to unravel the frequency and the quinolone resistance determining region, mecA and cfr genes of methicillin-susceptible Staphylococcus aureus (MSSA), methicillin-resistant S. aureus (MRSA), methicillin-resistant coagulase-negative staphylococci (MRCNS) and methicillin-susceptible coagulase-negative staphylococci (MSCNS) isolated from the retail trade of ready-to-eat raw chicken meat samples collected during 1 year and sold across the Great Cairo area. The 50 Staphylococcus isolated from retail raw chicken meat were analyzed for their antibiotic resistance phenotypic profile on 12 antibiotics (penicillin, oxacillin, methicillin, ampicillin-sulbactam, erythromycin, tetracycline, clindamycin, gentamicin, ciprofloxacin, chloramphenicol, sulfamethoxazole-trimethoprim, and vancomycin) and their endorsement of the quinolone resistance determining region, mecA and cfr genes. The isolation results revealed 50 isolates, CPS (14) and CNS (36), representing ten species (S. aureus, S. hyicus, S. epidermedius, S. lugdunensis, S. haemolyticus, S. hominus, S. schleiferi, S. cohnii, S. intermedius, and S. lentus). Twenty seven isolates were methicillin-resistant. Out of the characterized 50 staphylococcal isolates, three were MRSA but only 2/3 carried the mecA gene. The ARG that bestows resistance to quinolones,  $ \\beta $ -lactams, macrolides, lincosamides, and streptogramin B [MLS(B)] in MRSA and MR-CNS were perceived. According to the available literature, the present investigation was a unique endeavor into the identification.",
+            "block_bbox": [
+                347,
+                762,
+                1107,
+                1433
+            ],
+            "block_id": 14,
+            "block_order": 12,
+            "group_id": 14
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                86,
+                1480,
+                365,
+                1500
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        },
+        {
+            "block_label": "number",
+            "block_content": "1",
+            "block_bbox": [
+                588,
+                1481,
+                601,
+                1499
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        },
+        {
+            "block_label": "footer",
+            "block_content": "November 2016 | Volume 7 | Article 1846",
+            "block_bbox": [
+                850,
+                1479,
+                1104,
+                1500
+            ],
+            "block_id": 17,
+            "block_order": null,
+            "group_id": 17
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9562000036239624,
+                "coordinate": [
+                    85.53532409667969,
+                    48.917259216308594,
+                    322.29901123046875,
+                    122.7314224243164
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.956917941570282,
+                "coordinate": [
+                    905.5216064453125,
+                    67.52664184570312,
+                    1105.18115234375,
+                    118.89651489257812
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6722356677055359,
+                "coordinate": [
+                    1044.142578125,
+                    142.73245239257812,
+                    1100.60791015625,
+                    198.94137573242188
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.983917236328125,
+                "coordinate": [
+                    350.5045471191406,
+                    292.83282470703125,
+                    1092.0426025390625,
+                    521.9963989257812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9691744446754456,
+                "coordinate": [
+                    348.64306640625,
+                    547.735595703125,
+                    1078.993408203125,
+                    615.706298828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9057207703590393,
+                "coordinate": [
+                    171.61270141601562,
+                    691.39599609375,
+                    323.6249084472656,
+                    713.876220703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9411354064941406,
+                "coordinate": [
+                    115.40570068359375,
+                    734.3724365234375,
+                    324.55401611328125,
+                    812.6185302734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9727564454078674,
+                "coordinate": [
+                    89.61555480957031,
+                    822.1392822265625,
+                    325.10845947265625,
+                    921.9693603515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9570561051368713,
+                "coordinate": [
+                    138.63931274414062,
+                    930.8743286132812,
+                    324.5842590332031,
+                    988.4885864257812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9453652501106262,
+                "coordinate": [
+                    130.9385986328125,
+                    1015.0572509765625,
+                    324.7490234375,
+                    1133.5789794921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9634122848510742,
+                "coordinate": [
+                    125.19683837890625,
+                    1142.4354248046875,
+                    324.77093505859375,
+                    1202.5252685546875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5609716176986694,
+                "coordinate": [
+                    258.71124267578125,
+                    1210.3486328125,
+                    323.556396484375,
+                    1228.57861328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9596774578094482,
+                "coordinate": [
+                    89.24850463867188,
+                    1228.9560546875,
+                    324.7727355957031,
+                    1429.57470703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9744978547096252,
+                "coordinate": [
+                    348.90216064453125,
+                    630.19189453125,
+                    1101.672119140625,
+                    733.0390625
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9388512969017029,
+                "coordinate": [
+                    347.42254638671875,
+                    762.3770751953125,
+                    1107.719482421875,
+                    1433.5162353515625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9347515106201172,
+                "coordinate": [
+                    86.31944274902344,
+                    1480.2822265625,
+                    365.24359130859375,
+                    1500.76171875
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8425261378288269,
+                "coordinate": [
+                    588.1522827148438,
+                    1481.5079345703125,
+                    601.8546752929688,
+                    1499.4661865234375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9343820214271545,
+                "coordinate": [
+                    850.463623046875,
+                    1479.2767333984375,
+                    1104.170654296875,
+                    1500.4986572265625
+                ]
+            }
+        ]
+    }
+}

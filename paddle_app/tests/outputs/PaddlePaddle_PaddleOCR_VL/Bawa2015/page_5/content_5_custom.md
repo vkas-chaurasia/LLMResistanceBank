@@ -1,0 +1,9 @@
+Bawa et al. J. Appl. Biosci. 2015 Antimicrobial susceptibility of Salmonella enterica strains isolated from raw beef, mutton and intestines sold in Ouagadougou, Burkina Faso.
+
+in different fields. The resistance to tetracycline obtained is higher than those reported in Ethiopia, Sudan and China in raw meats (Tassew et al., 2010; Fadlalla et al., 2012; Li et al., 2013). In this study, results on intestines strains are similar with the study done in Ivory Coast, Nigeria and Iran (Coulibaly et al., 2010; Iroha et al., 2011; Sodagari et al., 2015). This suggests a potential health risk due to consumption of meat. Such risks can be minimized by avoiding poor handling and raising the awareness of food handlers. The results of this study have disclosed two public health problems; the presence of resistant Salmonella strains in the possibility of Salmonella human infections through the consumption of contaminated food, and the isolation of antibiotic-resistant strains might suggest the use of drugs in that animal's environment. The occurrence of antibiotic-resistant strains of a number of pathogenic bacteria especially Salmonella in foods has caused great concern in relation to public health (Carlvalho et al., 2013). While the antibiotics use has been proven an effective means for the prevention and control of Salmonella infection, their abusive use can have adverse consequences by promoting the selection and prevalence of drug-resistant microbial populations (Li
+
+## CONCLUSION
+
+This study shows the degree of contamination by salmonella enterica in raw meat sold in the open market of Ouagadougou, Burkina Faso. Of the samples analyzed, almost all of the meat was contaminated by this enteropathogen. In addition, several Salmonella strains
+
+Conflict of Interests: The authors declare that there is no conflict of interests regarding the publication of this paper.

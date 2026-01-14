@@ -1,0 +1,639 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bernadette2012.pdf",
+    "page_index": 1,
+    "page_count": 5,
+    "width": 1201,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "2",
+            "block_bbox": [
+                98,
+                87,
+                113,
+                105
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "International Journal of Microbiology",
+            "block_bbox": [
+                791,
+                84,
+                1101,
+                109
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Because of the increasing concerns of the public regarding the risk of exposure to antibiotic-resistant bacteria through food, monitoring programs for antimicrobial resistances in indicator bacteria isolated from food animals have been developed in a number of countries  $ [24–27] $ .",
+            "block_bbox": [
+                94,
+                143,
+                585,
+                258
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "In Côte d'Ivoire, although poultry meat and particularly broiler chicken is a major protein source for the population, no case of human campylobacteriosis has been published to date. However, our study in 2005 [28] showed a high prevalence (67%) of Campylobacter spp. in chickens. This situation can be explained by the fact that Vibrio cholerae, Salmonella, and many other microorganisms, out of Campylobacter, are the priorities of health authorities of Côte d'Ivoire. Therefore, survey data on the prevalence of Campylobacter spp. mainly C. jejuni and C. coli (as they are responsible for more than 98% cases of campylobacteriosis) [29] are needed. In addition, determination of antimicrobial resistance of Campylobacter isolates from chickens is important.",
+            "block_bbox": [
+                93,
+                258,
+                586,
+                554
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "The aims of this study were, on one hand, to estimate prevalence of thermophilic Campylobacteres in slaughtered chickens in Abidjan by biochemical and molecular technical and, on the other hand, to evaluate their antimicrobial resistance.",
+            "block_bbox": [
+                94,
+                553,
+                586,
+                668
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 2. Material and Methods",
+            "block_bbox": [
+                96,
+                692,
+                350,
+                717
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "2.1. Study Area and Sample Preparation. This study was conducted in Adjamé, a municipality in the north part of Abidjan. Adjamé is the principal market of Abidjan with more than 3 million visitors per day [30].",
+            "block_bbox": [
+                94,
+                734,
+                586,
+                826
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "From May to November 2009, 119 samples of chicken caeca were collected in a commercial poultry processing plant. This plant is one of the primary poultry processing of this municipality with visitors of diverse origin particularly restaurateurs.",
+            "block_bbox": [
+                94,
+                825,
+                586,
+                938
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Each randomly selected sample was collected during evisceration and put into a stomacher bag, then rapidly transported to the laboratory in a cooler.",
+            "block_bbox": [
+                94,
+                938,
+                586,
+                1011
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "2.2. Isolation and Biochemical Identification. Isolation of Campylobacter was performed with passive filtration method preceded by enrichment as proposed by Federighi [31].",
+            "block_bbox": [
+                94,
+                1030,
+                587,
+                1100
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Briefly, 1 g of caeca contents was transferred to 9 mL of Preston enrichment broth base (CM 0067 Oxoid, OXOID LTD., Basingstoke, Hampshire, UK) containing Campylobacter growth factor (SR 0232E Oxoid, OXOID LTD., Basingstoke, Hampshire, UK) and 7% (v/v) defibrinated sheep blood. Incubation was performed in an anaerobic jar containing a packet generator microaerophilic atmosphere (5% oxygen, 10% carbon dioxide, 85% nitrogen) type CAMPYGen (CN0025A Oxoid, Basingstoke, Hampshire, UK) during 24 hours at 37°C. After enrichment, 300 μL of broth was filtered through acetate cellulose filter (0.45 μm) on Columbia agar (Sharlau; Barcelona, Spain) containing 5% (v/v) fresh sheep blood at aerobic conditions during one hour.",
+            "block_bbox": [
+                94,
+                1099,
+                587,
+                1417
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "The filter was removed from agar and Campylobacter was isolated at  $ 42^{\\circ} $ C during 48 hours under microaerophilic atmosphere.\n\nOne presumptive Campylobacter colony from each agar plate was subcultured and identified by Gram staining reaction, and biochemical pattern for oxidase, catalase, indoxyl acetate hydrolysis, and hippurate hydrolysis [32]. All isolates were stored in 25% (v/v) glycerol-peptone broth at  $ -70^{\\circ} $ C.",
+            "block_bbox": [
+                94,
+                1417,
+                586,
+                1487
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                609,
+                143,
+                1103,
+                286
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "2.3. DNA Extraction and PCR Conditions. Genomic DNAs from all isolated colonies were obtained by treatment with dodecyl sulfate sodium and proteinase K followed by extraction with phenol-chloroform and precipitation with ethanol [33]. PCR procedures used in this study have been described previously by Linton et al. [34]. Two genes for the identification of Campylobacter jejuni and Campylobacter coli were used: hipo gene (encoding C. jejuni hippurase) and asp gene (encoding C. coli aspartokinase). Sequences of the two sets of primers used for gene amplification are asp (F 5'-GGT ATG ATT TCT ACA AAG CGA G-3' and R 5'-ATA TAT CGT CGC GTG AAAGAC-3') and hipo (F 5'-GAA GAG GGT TTG GGT GGT G-3' and R 5'-AGC CGC ATA ATA ACT TAGCTTTG-3').",
+            "block_bbox": [
+                609,
+                303,
+                1104,
+                632
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "PCR was performed in final volume of  $ 50 \\mu L $  mix containing  $ 2.5 \\mu L $  of each deoxynucleoside triphosphate (10 mM),  $ 2.5 \\mu L $  of  $ MgCl_{2} $  (25 mM),  $ 10 \\mu L $  of Buffer 5X DNA Taq polymerase,  $ 0.4 \\mu L $  of Taq polymerase,  $ 1.5 \\mu L $  of each primer asp (10  $ \\mu M $ ), and  $ 5 \\mu L $  of each primer hipo (10  $ \\mu M $ ). Amplification reactions were carried out using thermal cycler (Gene Amp PCR system type 9700, Applied Biosystems, Villebon-sur-yvette, France) with the following program: an initial denaturation at  $ 94^{\\circ}C $  for 15 min followed by 30 cycles of denaturation at  $ 94^{\\circ}C $  for 1 min, annealing at  $ 49^{\\circ}C $  for 1 min and polymerization at  $ 72^{\\circ}C $  for 1 min. A final extension was performed at  $ 72^{\\circ}C $  for 7 min.",
+            "block_bbox": [
+                610,
+                634,
+                1103,
+                910
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "The amplification generated 735 bp and 500 bp DNA fragments corresponding, respectively, to Campylobacter jejuni and Campylobacter coli. The PCR products were stained with a 0.6% solution of ethidium bromide and were visualized under UV light after gel electrophoresis on 1.5% agarose.",
+            "block_bbox": [
+                609,
+                912,
+                1103,
+                1052
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "2.4. Antimicrobial Susceptibility Testing. Antimicrobial susceptibility testing was performed by disc diffusion method using Mueller-Hinton agar (Oxoid) supplemented with 5% defibrinated sheep blood, according to Clinical Laboratory Standards Institute (CLSI) guidelines  $ [35] $ . Disks impregnated with antibiotics (Biomerieux, Marcy-l'Etoile, France) and their corresponding concentration are the following: ciprofloxacin (CIP: 5  $ \\mu $ g); nalidixic acid (NA: 30  $ \\mu $ g); erythromycin (E: 15  $ \\mu $ g); gentamicin (GM: 10 UI); amoxicillin (AMX: 25  $ \\mu $ g).",
+            "block_bbox": [
+                609,
+                1072,
+                1103,
+                1302
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "Briefly, well-isolated colonies of same morphological type were selected from an agar plate culture and transferred into 10 mL of sterile saline buffer (NaCl 0.9%). After homogenization, 2 mL of the mixture were flooded onto the surface of a Mueller-Hinton agar (Oxoid) containing 5% defibrinated sheep blood. The inoculum was allowed to dry for 5 min and antibiotic discs were placed on the plate. After 48 h of microaerobic incubation at  $ 37^{\\circ} $ C, diameters of",
+            "block_bbox": [
+                609,
+                1303,
+                1104,
+                1488
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8554189801216125,
+                "coordinate": [
+                    98.16682434082031,
+                    87.10986328125,
+                    113.73765563964844,
+                    105.03109741210938
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9459756016731262,
+                "coordinate": [
+                    791.3475341796875,
+                    84.96099090576172,
+                    1101.35498046875,
+                    109.53180694580078
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857926964759827,
+                "coordinate": [
+                    94.543701171875,
+                    143.63839721679688,
+                    585.9378662109375,
+                    258.1968994140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885762333869934,
+                "coordinate": [
+                    93.83616638183594,
+                    258.2760009765625,
+                    586.9447021484375,
+                    554.0548095703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.982437014579773,
+                "coordinate": [
+                    94.44517517089844,
+                    553.6046142578125,
+                    586.6138916015625,
+                    668.4876708984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9398024678230286,
+                "coordinate": [
+                    96.3443374633789,
+                    692.6165771484375,
+                    350.6139221191406,
+                    717.638671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9835293292999268,
+                "coordinate": [
+                    94.88385009765625,
+                    734.6392822265625,
+                    586.3687133789062,
+                    826.1900634765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9842658042907715,
+                "coordinate": [
+                    94.71157836914062,
+                    825.3945922851562,
+                    586.4625244140625,
+                    938.7200317382812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9770135283470154,
+                "coordinate": [
+                    94.76744079589844,
+                    938.5068969726562,
+                    586.2476196289062,
+                    1011.1067504882812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9764966368675232,
+                "coordinate": [
+                    94.849609375,
+                    1030.385498046875,
+                    587.212158203125,
+                    1100.616943359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884428381919861,
+                "coordinate": [
+                    94.39515686035156,
+                    1099.5604248046875,
+                    587.05029296875,
+                    1417.5220947265625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7472796440124512,
+                "coordinate": [
+                    301.766357421875,
+                    1304.140380859375,
+                    346.8411865234375,
+                    1325.7958984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.975364089012146,
+                "coordinate": [
+                    94.78221130371094,
+                    1417.380615234375,
+                    586.732421875,
+                    1487.985595703125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6487478613853455,
+                "coordinate": [
+                    219.1683349609375,
+                    1440.3909912109375,
+                    263.655517578125,
+                    1462.0291748046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7836002707481384,
+                "coordinate": [
+                    615.53955078125,
+                    262.06793212890625,
+                    673.652587890625,
+                    283.76239013671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9824724197387695,
+                "coordinate": [
+                    609.896240234375,
+                    143.75216674804688,
+                    1103.376953125,
+                    286.6888122558594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886935353279114,
+                "coordinate": [
+                    609.7303466796875,
+                    303.44097900390625,
+                    1104.28857421875,
+                    632.2454223632812
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4073391854763031,
+                "coordinate": [
+                    1047.8916015625,
+                    515.8698120117188,
+                    1098.3837890625,
+                    538.1000366210938
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4372759461402893,
+                "coordinate": [
+                    1008.1683349609375,
+                    636.150390625,
+                    1055.5181884765625,
+                    658.26904296875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4844409227371216,
+                "coordinate": [
+                    768.5863647460938,
+                    681.093505859375,
+                    824.5330200195312,
+                    704.5732421875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4277647137641907,
+                "coordinate": [
+                    756.842041015625,
+                    705.3409423828125,
+                    807.738037109375,
+                    727.4547119140625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.45114606618881226,
+                "coordinate": [
+                    709.6353759765625,
+                    727.8133544921875,
+                    774.0244140625,
+                    750.8638916015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4646715819835663,
+                "coordinate": [
+                    820.4122314453125,
+                    727.9739379882812,
+                    854.4503173828125,
+                    750.6080932617188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883121848106384,
+                "coordinate": [
+                    610.436279296875,
+                    634.4552001953125,
+                    1103.97216796875,
+                    910.4984130859375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.43896329402923584,
+                "coordinate": [
+                    1027.75732421875,
+                    727.908203125,
+                    1091.737548828125,
+                    750.269287109375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5263102054595947,
+                "coordinate": [
+                    830.6534423828125,
+                    818.0166015625,
+                    875.9796142578125,
+                    839.162109375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6026650667190552,
+                "coordinate": [
+                    819.5560302734375,
+                    841.4331665039062,
+                    863.6341552734375,
+                    862.7852172851562
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6012569069862366,
+                "coordinate": [
+                    896.447021484375,
+                    863.7877197265625,
+                    941.636962890625,
+                    885.252685546875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5883228778839111,
+                "coordinate": [
+                    1056.3770751953125,
+                    841.094482421875,
+                    1099.7474365234375,
+                    862.54541015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6859621405601501,
+                "coordinate": [
+                    840.1406860351562,
+                    886.3013305664062,
+                    883.4584350585938,
+                    907.6852416992188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9842394590377808,
+                "coordinate": [
+                    609.7291259765625,
+                    912.146240234375,
+                    1103.8297119140625,
+                    1052.17529296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880347847938538,
+                "coordinate": [
+                    609.8763427734375,
+                    1072.35546875,
+                    1103.43212890625,
+                    1302.48193359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867405295372009,
+                "coordinate": [
+                    609.869140625,
+                    1303.578369140625,
+                    1104.924072265625,
+                    1488.329833984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7415640354156494,
+                "coordinate": [
+                    946.5677490234375,
+                    1463.001708984375,
+                    991.7760009765625,
+                    1484.43603515625
+                ]
+            }
+        ]
+    }
+}

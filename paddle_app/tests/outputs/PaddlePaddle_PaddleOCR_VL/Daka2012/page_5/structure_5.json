@@ -1,0 +1,343 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Daka2012.pdf",
+    "page_index": 4,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Daka et al. Annals of Clinical Microbiology and Antimicrobials 2012, 11:26 http://www.ann-clinmicrob.com/content/11/1/26",
+            "block_bbox": [
+                106,
+                64,
+                601,
+                106
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 5 of 6",
+            "block_bbox": [
+                996,
+                65,
+                1081,
+                87
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "number of S. aureus isolated from immediate pasteurized milk was resistant to PG (10  $ \\mu $ g), AP (10  $ \\mu $ g), Ox (1  $ \\mu $ g) and V (30  $ \\mu $ g), it was evident from our results that this antibiotic is not frequently used in animals by large-scale farmers. Contrarily to our observations, a study reported in South Africa, was 100% of the isolates from the two commercial farms were susceptible to Vancomycin [28]. This drug is no longer used in veterinary medicine in many countries [29] including South Africa, which may account for the results reported here.",
+            "block_bbox": [
+                105,
+                175,
+                586,
+                415
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Small proportions (67.8%) of the isolates from this study area were resistant to the beta-lactam penicillin G (10  $ \\mu $ g), when compared to the isolates from the communal farms, in which 69% to 98% were resistant [28]. The antibiotic resistance obtained for S. aureus isolated from does not correlate with the extensive usage of Penicillin on dairy cattle farms in Hawassa town. The Ampicillin resistance pattern for isolates from these all levels of CCP were similar to the Penicillin G (10  $ \\mu $ g) resistance pattern, thus a smaller proportion of the isolates were resistant to this drug when compared to the isolates from the South Africa. Ampicillin (10  $ \\mu $ g) is also commonly used on dairy cattle farms in the study area. Resistance to Penicillin G (10  $ \\mu $ g) is thus used as a marker to assess the susceptibility of S. aureus isolates against other beta-lactam antibiotics [16,29]. This correlates with our findings but suggests that further studies need to be conducted to determine the exact inter-relation between these drugs in the expression of antibiotic-resistant phenotypes on dairy cattle farms in Ethiopia. The Methicillin-resistance pattern had a similar trend to that of several of the previously discussed antibiotics. This is because larger numbers of Oxacillin (10  $ \\mu $ g)-resistant isolates were obtained from the milk in this study area.",
+            "block_bbox": [
+                105,
+                415,
+                586,
+                1016
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "What is of concern is the large number of Oxacillin (10  $ \\mu $ g) (60.3%) that were isolated from the Study area. This is an indicator of MRSA. High levels of MRSA have been identified in patients in the United States and some European countries [30]. In these countries, 44.4%, 34.7%, 41.8% and 32.4% of isolates from patients in the United States, France, Italy and Spain, respectively, were resistant to Methicillin. These levels, however, are lower than those in our study. Methicillin is not used on dairy cattle farms in the South Ethiopia. However, Methicillin resistance could be explained by the inter-relationship between beta-lactam resistance and resistance to this drug. In MRSA, Methicillin resistance is conferred by the Penicillin binding protein (PBP) 2a that is encoded for by the mecA gene [31]. PBP2a does not readily bind the beta-lactam moiety. However, in MRSA that are exposed to beta-lactam antibiotics, this PBP2a would contribute to the resistance by providing transpeptidase activity to the native PBPs during cell wall synthesis. In our study, the resistant phenotype PG-AP-Ox was frequently identified usually with the addition of one or more antibiotics (Table 3). It is thus recommended that future studies should confirm the presence of the mecA gene in observed MRSA due to these  $ \\beta $ -lactamase antibiotics.",
+            "block_bbox": [
+                104,
+                1015,
+                587,
+                1475
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                600,
+                175,
+                1083,
+                318
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "It has also been documented that MRSA isolates that are resistant to beta-lactam antibiotics may develop induced resistance to Vancomycin (30  $ \\mu $ g) [31]. All the isolates from the study area were resistant to Oxacillin (1  $ \\mu $ g) were also resistant to penicillin G (10  $ \\mu $ g) and Ampicillin (10  $ \\mu $ g). In addition, all PG, AP, and AC antibiotic resistance S. aureus were also resistant to Oxavibiotics. Moreover, 26.5% of the Oxacillin resistances S. aureus were also resistant to Vancomycin (30  $ \\mu $ g). We therefore suggest that this may account for the identification of Vancomycin-resistant isolates in the study because Vancomycin is not used in either veterinary or human medicine in the area [29]. Moreover, beta-lactam-induced Vancomycin-resistant MRSA are not easily detected by conventional antibiotic susceptibility tests [32] and this may also account for the very low proportion of Vancomycin-resistant S. aureus observed.",
+            "block_bbox": [
+                601,
+                319,
+                1084,
+                728
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "The MAR phenotypes (Table 3) obtained in the study correlated with the percentage of antibiotic resistance. Although the development of resistance to a particular antibiotic depends on the level of exposure to the antimicrobials, [14] there are many other factors that are involved. We are therefore suggesting that molecular methods be used to characterize these isolates for the presence of antibiotic-resistance determinants, which may provide data to support our conclusions.",
+            "block_bbox": [
+                601,
+                728,
+                1084,
+                943
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "S. aureus is normally resident in humans; therefore the S. aureus present in the cow's milk may have resulted from transmission from humans, which raises questions regarding the hygiene practices followed.",
+            "block_bbox": [
+                601,
+                943,
+                1084,
+                1042
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Conclusion and recommendation",
+            "block_bbox": [
+                602,
+                1083,
+                921,
+                1107
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "S. aureus was isolated from all milk samples from Southern Ethiopia. A large proportion of the isolates obtained were resistant to three or more antibiotics. These were also resistant to Vancomycin (30  $ \\mu $ g). This was particularly the case in the public setting and is cause for concern. The high level of MAR S. aureus and the implications thereof warrant further investigation. One of the aspects that need to be investigated is the cause of the observed resistance phenotypes. Furthermore, impacts and dynamics of genetic antibiotic determinants should also be investigated using molecular methods.",
+            "block_bbox": [
+                600,
+                1109,
+                1085,
+                1398
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Competing interests",
+            "block_bbox": [
+                602,
+                1431,
+                749,
+                1452
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "The authors declare that they have no competing interests.",
+            "block_bbox": [
+                602,
+                1450,
+                973,
+                1472
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.955071747303009,
+                "coordinate": [
+                    106.6856689453125,
+                    64.06605529785156,
+                    601.19140625,
+                    106.78755187988281
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9038774967193604,
+                "coordinate": [
+                    996.1669311523438,
+                    65.0782470703125,
+                    1081.9541015625,
+                    87.1195068359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879658818244934,
+                "coordinate": [
+                    105.04026794433594,
+                    175.58514404296875,
+                    586.3175659179688,
+                    415.80914306640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884185194969177,
+                "coordinate": [
+                    105.21830749511719,
+                    415.44696044921875,
+                    586.4420776367188,
+                    1016.1084594726562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882578253746033,
+                "coordinate": [
+                    104.6318359375,
+                    1015.511474609375,
+                    587.7393188476562,
+                    1475.331298828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9854525923728943,
+                "coordinate": [
+                    600.8665771484375,
+                    175.4368896484375,
+                    1083.6390380859375,
+                    318.88446044921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885303378105164,
+                "coordinate": [
+                    601.076171875,
+                    319.5371398925781,
+                    1084.68798828125,
+                    728.252685546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879649877548218,
+                "coordinate": [
+                    601.3316650390625,
+                    728.0097045898438,
+                    1084.5335693359375,
+                    943.8060913085938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9784041047096252,
+                "coordinate": [
+                    601.3797607421875,
+                    943.7711181640625,
+                    1084.0565185546875,
+                    1042.7657470703125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.937198281288147,
+                "coordinate": [
+                    602.165283203125,
+                    1083.8795166015625,
+                    921.06201171875,
+                    1107.9385986328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9866406321525574,
+                "coordinate": [
+                    600.4622802734375,
+                    1109.01318359375,
+                    1085.1129150390625,
+                    1398.556396484375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7213683128356934,
+                "coordinate": [
+                    602.8327026367188,
+                    1431.547119140625,
+                    749.6071166992188,
+                    1452.558349609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6251722574234009,
+                "coordinate": [
+                    602.24951171875,
+                    1450.94775390625,
+                    973.3402099609375,
+                    1472.857421875
+                ]
+            }
+        ]
+    }
+}

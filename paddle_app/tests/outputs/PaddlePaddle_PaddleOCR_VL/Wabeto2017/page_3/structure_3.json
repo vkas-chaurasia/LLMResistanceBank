@@ -1,0 +1,555 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Wabeto2017.pdf",
+    "page_index": 2,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Wabeto et al. Journal of Health, Population and Nutrition (2017) 36:52",
+            "block_bbox": [
+                107,
+                61,
+                583,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 3 of 7",
+            "block_bbox": [
+                996,
+                62,
+                1081,
+                83
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Sample size determination",
+            "block_bbox": [
+                106,
+                173,
+                332,
+                195
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "The sample size was determined by taking a 17.7% prevalence; it was taken from a study entitled “Isolation, identification, antimicrobial susceptibility test and public awareness of Salmonella on raw goat meat at Dire Dawa Municipal Abattoir, eastern Ethiopia” [20], assuming a 5% margin of error and a 95% confidence level and a design effect of 2 and 10% for non-response rate. The calculated sample size was 448.",
+            "block_bbox": [
+                105,
+                196,
+                586,
+                390
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Sampling technique, sample collection, and procedures",
+            "block_bbox": [
+                106,
+                412,
+                564,
+                436
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "A total of 448 cattle were included in this study. Two carcass samples were taken from each cattle according to the guideline  $ [21] $ . Then, the cattle carcasses were taken consecutively still to complete the final sample size.",
+            "block_bbox": [
+                105,
+                437,
+                586,
+                532
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "The abdomen (flank), thorax (lateral), crutch, and breast (lateral) were the areas from the body parts of cattle. The sampling areas were delineated by using a  $ 10 \\times 10 $  cm aluminum foil templates. A sterile cotton-tipped swab  $ (2 \\times 3 $  cm) fit with shaft was first soaked in an approximately 10 ml of buffered peptone water (BPW) and rubbed over the delineated area horizontally and then vertically several times. Upon completion of the rubbing process, the swab was placed into the BPW used to wet the swab, breaking off the wooden shaft pressing against the inside of the universal bottle and disposed leaving the cotton swab in the universal bottle. Other swabs of the same types were used on the other marked areas and placed into the same container. A second dry sterile cotton swab of the same type was used as before over the entire sampled area as above and this swab placed into the same container. Finally, the samples were transported to Wolaita Sodo University Microbiology Laboratory in an ice box within an hour of collection. In addition to this, an observational checklist was used to assess carcass slaughtering and handling and to evaluate hygienic practices.",
+            "block_bbox": [
+                104,
+                532,
+                586,
+                1063
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Laboratory procedures",
+            "block_bbox": [
+                106,
+                1085,
+                301,
+                1108
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "The swab samples were pre-enriched in an appropriate amount of BPW in a 1:9 ratio and were incubated at  $ 37\\ ^{\\circ}C $  for 24 h. Rappaport-Vassiliadis (RV) medium broth and Müller-Kauffman tetrathionate with novobiocin (MKTTn) broth were used for selective enrichment of the samples. About 0.1 ml of the pre-enriched samples was transferred into a tube containing 10 ml of RV broth and incubated at  $ 42\\ ^{\\circ}C $  for 24 h. Another 1 ml of the pre-enriched broth was transferred into a tube containing 10 ml of MKTTn broth and incubated at  $ 37\\ ^{\\circ}C $  for 24 h.",
+            "block_bbox": [
+                104,
+                1108,
+                586,
+                1350
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Plating out and identification",
+            "block_bbox": [
+                106,
+                1372,
+                346,
+                1395
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Xylose lysine desoxycholate (XLD) agar and brilliant green agar (BGA) plates were used for plating out and identification. A loop full of inoculums from each RV and MKTTn broth cultures were plated onto XLD and BGA plates and incubated at 37  $ {}^{\\circ} $ C for 24 h. After incubation, the plates were examined for the presence of typical and suspected colonies. Typical colonies of Salmonella [22],  $ H_{2}S $ -negative variants, and lactose-positive Salmonella were grown on XLD agar. Five typical or suspected colonies were selected from the selective plating media, were streaked onto the surface of pre-dried nutrient agar plates, and were incubated at 37  $ {}^{\\circ} $ C for 24 h. Biochemical tests were done according to ISO-6579, 2002. Triple sugar iron (TSI) agar, Simmon's citrate indole motility (SIM) test, and citrate and urease tests were done.",
+            "block_bbox": [
+                105,
+                1395,
+                585,
+                1470
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                600,
+                172,
+                1084,
+                462
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial susceptibility tests",
+            "block_bbox": [
+                601,
+                485,
+                864,
+                507
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antibiogram was done on Mueller-Hinton agar [23]. The following 12 antimicrobial agents' resistance profiles, gentamicin (GEN 10  $ \\mu $ g), tetracycline (TE 30  $ \\mu $ g), amoxicillin/clavulanic acid (30  $ \\mu $ g), ampicillin (AMP 10  $ \\mu $ g), kanamycin (K-30  $ \\mu $ g), nitrofuran (F 50  $ \\mu $ g), streptomycin (S10  $ \\mu $ g), ceftriaxone (CRO 30  $ \\mu $ g), chloramphenicol (CHL 30  $ \\mu $ g), clindamycin (DA 30  $ \\mu $ g), nalidixic acid (NA 30  $ \\mu $ g), and ciprofloxacin (CIP 5  $ \\mu $ g), were done. All the antibiotic disks were purchased from Abtek Biological Ltd. (Liverpool). Inhibition diameters were interpreted according to the European Committee on Antimicrobial Susceptibility Instructions. The susceptibility, intermediate, and resistance characterizations were based on the recommendations from the CLSI and according to the manufacturer's leaflet attached to the disks [24].",
+            "block_bbox": [
+                600,
+                508,
+                1084,
+                871
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Quality control",
+            "block_bbox": [
+                602,
+                892,
+                734,
+                915
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "Pseudomonas aeruginosa (ATCC-27853), Staphylococcus aureus (ATCC-25923), and Escherichia coli (ATCC-25922) were used as a quality control throughout the study for culture and antimicrobial susceptibility testing. All the strains were obtained from the Ethiopian Public Health Institute.",
+            "block_bbox": [
+                600,
+                915,
+                1084,
+                1061
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Data entry and analysis",
+            "block_bbox": [
+                602,
+                1084,
+                804,
+                1108
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "Microbiological and observational data entry and analysis were done using the Microsoft Excel 2007.",
+            "block_bbox": [
+                601,
+                1107,
+                1083,
+                1158
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Results",
+            "block_bbox": [
+                602,
+                1179,
+                681,
+                1202
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "From the total 448 cattle carcasses, Salmonella species were detected in 56 (12.5%). Of these Salmonella species-contaminated samples, tetracycline-resistant isolates were detected in 47 samples (83.93%) followed by nitrofurantoin-resistant isolates, which was detected in 41 samples (73.21%). Streptomycin- and chloramphenicol-resistant isolates were detected in 37 (66.1%) and 29 (51.8%) samples respectively. Moreover, all isolated Salmonella spp. exhibited resistance to three or more antimicrobial agents and ciprofloxacin-susceptible isolates were detected in 49 samples (87.5%). Moreover, ceftriaxone- and",
+            "block_bbox": [
+                600,
+                1204,
+                1085,
+                1471
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9429213404655457,
+                "coordinate": [
+                    107.64616394042969,
+                    61.13966369628906,
+                    583.1448364257812,
+                    84.36036682128906
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8992286324501038,
+                "coordinate": [
+                    996.3636474609375,
+                    62.094635009765625,
+                    1081.1773681640625,
+                    83.643798828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9380227327346802,
+                "coordinate": [
+                    106.80802917480469,
+                    173.4083251953125,
+                    332.3660888671875,
+                    195.7989501953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871358275413513,
+                "coordinate": [
+                    105.35760498046875,
+                    196.5287628173828,
+                    586.0164794921875,
+                    390.61541748046875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9384875297546387,
+                "coordinate": [
+                    106.1229248046875,
+                    412.99810791015625,
+                    564.1200561523438,
+                    436.55950927734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9759894609451294,
+                "coordinate": [
+                    105.73443603515625,
+                    437.8436279296875,
+                    586.1602172851562,
+                    532.6312255859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887502789497375,
+                "coordinate": [
+                    104.82075500488281,
+                    532.233642578125,
+                    586.3836669921875,
+                    1063.8175048828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9285439252853394,
+                "coordinate": [
+                    106.64746856689453,
+                    1085.021484375,
+                    301.83319091796875,
+                    1108.2119140625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.44935309886932373,
+                "coordinate": [
+                    534.8521118164062,
+                    1132.3043212890625,
+                    582.5298461914062,
+                    1154.6815185546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987346887588501,
+                "coordinate": [
+                    104.83099365234375,
+                    1108.998779296875,
+                    586.8363037109375,
+                    1350.78369140625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40133553743362427,
+                "coordinate": [
+                    298.0054931640625,
+                    1324.33544921875,
+                    346.5789794921875,
+                    1347.0830078125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9311229586601257,
+                "coordinate": [
+                    106.99107360839844,
+                    1372.753662109375,
+                    346.84918212890625,
+                    1395.740966796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9721818566322327,
+                "coordinate": [
+                    105.34129333496094,
+                    1395.9072265625,
+                    585.9083251953125,
+                    1470.76806640625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5796312093734741,
+                "coordinate": [
+                    714.51611328125,
+                    196.1855926513672,
+                    767.218505859375,
+                    219.29283142089844
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881340861320496,
+                "coordinate": [
+                    600.5550537109375,
+                    172.29397583007812,
+                    1084.1842041015625,
+                    462.3400573730469
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5658611059188843,
+                "coordinate": [
+                    758.274169921875,
+                    365.01904296875,
+                    809.84814453125,
+                    387.3133544921875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9312567710876465,
+                "coordinate": [
+                    601.9290771484375,
+                    485.0343322753906,
+                    864.7847900390625,
+                    507.9963684082031
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988409161567688,
+                "coordinate": [
+                    600.52978515625,
+                    508.37139892578125,
+                    1084.638427734375,
+                    871.2405395507812
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.918237566947937,
+                "coordinate": [
+                    602.1879272460938,
+                    892.545166015625,
+                    734.3989868164062,
+                    915.9730224609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9828665852546692,
+                "coordinate": [
+                    600.2723388671875,
+                    915.924072265625,
+                    1084.356689453125,
+                    1061.614013671875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.930483877658844,
+                "coordinate": [
+                    602.3585205078125,
+                    1084.4844970703125,
+                    804.3135986328125,
+                    1108.1148681640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9633289575576782,
+                "coordinate": [
+                    601.08251953125,
+                    1107.94580078125,
+                    1083.12109375,
+                    1158.93896484375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9049855470657349,
+                "coordinate": [
+                    602.682373046875,
+                    1179.4415283203125,
+                    681.4046630859375,
+                    1202.2076416015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878106117248535,
+                "coordinate": [
+                    600.30224609375,
+                    1204.177490234375,
+                    1085.226806640625,
+                    1471.563720703125
+                ]
+            }
+        ]
+    }
+}

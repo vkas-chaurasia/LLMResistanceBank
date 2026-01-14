@@ -1,0 +1,869 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Agabou2016.pdf",
+    "page_index": 6,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Eur J Clin Microbiol Infect Dis (2016) 35:227–234",
+            "block_bbox": [
+                98,
+                64,
+                444,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "233",
+            "block_bbox": [
+                1060,
+                65,
+                1090,
+                82
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "10. Pitout JD, Hanson ND, Church DL, Laupland KB (2004) Population-based laboratory surveillance for Escherichia coli-producing extended-spectrum beta-lactamases: importance of community isolates with blaCTX-M genes. Clin Infect Dis 38:1736–1741",
+            "block_bbox": [
+                100,
+                112,
+                580,
+                191
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "11. Kim J, Lim YM, Jeong YS, Seol SY (2005) Occurrence of CTX-M-3, CTX-M-15, CTX-M-14 and CTX-M-9 extended-spectrum betalactamases in Enterobacteriaceae clinical isolates in Korea. Antimicrob Agents Chemother 49:1572–1575",
+            "block_bbox": [
+                100,
+                193,
+                580,
+                271
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "12. Poirel L, Walsh TR, Cuvillier V, Nordmann P (2011) Multiplex PCR for detection of acquired carbapenemase genes. Diagn Microbiol Infect Dis 70:119–123",
+            "block_bbox": [
+                100,
+                273,
+                580,
+                331
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "13. Park CH, Robicsek A, Jacoby GA, Sahm D, Hooper DC (2006) Prevalence in the United States of  $ aac(6')-Ib-cr $  encoding a ciprofloxacin-modifying enzyme. Antimicrob Agents Chemother 50:3953–3955",
+            "block_bbox": [
+                99,
+                332,
+                581,
+                409
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "14. Cattoir V, Poirel L, Rotimi V, Soussy CJ, Nordmann P (2007) Multiplex PCR for detection of plasmid-mediated quinolone resistance qnr genes in ESBL-producing enterobacterial isolates. J Antimicrob Chemother 60:394–397",
+            "block_bbox": [
+                100,
+                412,
+                580,
+                491
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "15. Yamane K, Wachino JI, Suzuki S, Arakawa Y (2008) Plasmid-mediated qepA gene among Escherichia coli clinical isolates from Japan. Antimicrob Agents Chemother 52:1564–1566",
+            "block_bbox": [
+                100,
+                492,
+                580,
+                551
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "16. Liu BT, Wang XM, Liao XP, Sun J, Zhu HQ, Chen XY (2011) Plasmid-mediated quinolone resistance determinants oqxAB and  $ aac(6')-Ib-cr $  and extended-spectrum beta-lactamase gene blaCTX-M-24 co-located on the same plasmid in one Escherichia coli strain from China. J Antimicrob Chemother 66:1638–1639",
+            "block_bbox": [
+                100,
+                552,
+                580,
+                651
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "17. Clermont O, Christenson JK, Denamur E, Gordon DM (2013) The Clermont Escherichia coli phylo-typing method revisited: improvement of specificity and detection of new phylo-groups. Environ Microbiol Rep 5:58–65",
+            "block_bbox": [
+                100,
+                653,
+                580,
+                731
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "18. Clermont O, Dhanji H, Upton M, Gibreel T, Fox A, Boyd D, Mulvey MR, Nordmann P, Ruppé E, Sarthou JL, Frank T, Vimont S, Arlet G, Branger C, Woodford N, Denamur E (2009) Rapid detection of the O25b-ST131 clone of Escherichia coli encompassing the CTX-M-15-producing strains. J Antimicrob Chemother 64:274–277",
+            "block_bbox": [
+                101,
+                732,
+                580,
+                850
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "19. Johnson JR, Kuskowski MA, Menard M, Gajewski A, Xercavins M, Garau J (2006) Similarity between human and chicken Escherichia coli isolates in relation to ciprofloxacin resistance status. J Infect Dis 194:71–78",
+            "block_bbox": [
+                100,
+                852,
+                580,
+                930
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "20. Johnson JR, Sannes MR, Croy C, Johnston B, Clabots C, Kuskowski MA, Bender J, Smith KE, Winokur PL, Belongia EA (2007) Antimicrobial drug-resistant Escherichia coli from humans and poultry products, Minnesota and Wisconsin, 2002–2004. Emerg Infect Dis 13:838–846",
+            "block_bbox": [
+                99,
+                932,
+                580,
+                1031
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "21. Duffy G (2003) Verocytoxigenic Escherichia coli in animal faeces, manures and slurries. J Appl Microbiol 94:94s–103s",
+            "block_bbox": [
+                98,
+                1032,
+                579,
+                1071
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "22. Jakobsen L, Kurbasic A, Skjøt-Rasmussen L, Ejrnaes K, Porsbo LJ, Pedersen K, Jensen LB, Emborg HD, Agersø Y, Olsen KE, Aarestrup FM, Frimodt-Møller N, Hammerum AM (2010) Escherichia coli isolates from broiler chicken meat, broiler chickens, pork, and pigs share phylogroups and antimicrobial resistance with community-dwelling humans and patients with urinary tract infection. Foodborne Pathog Dis 7:537–547",
+            "block_bbox": [
+                98,
+                1072,
+                580,
+                1211
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "23. Price LB, Graham JP, Lackey LG, Roess A, Vailes R, Silbergeld E (2007) Elevated risk of carrying gentamicin-resistant Escherichia coli among U.S. poultry workers. Environ Health Perspect 115:1738–1742",
+            "block_bbox": [
+                99,
+                1212,
+                580,
+                1290
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "24. Karfunkel D, Carmeli Y, Chmelnitsky I, Kotlovsky T, Navon-Venezia S (2013) The emergence and dissemination of CTX-M-producing Escherichia coli sequence type 131 causing community-onset bacteremia in Israel. Eur J Clin Microbiol Infect Dis 32:513–521",
+            "block_bbox": [
+                99,
+                1292,
+                580,
+                1389
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "25. Kolar M, Bardon J, Chroma M, Hricova K, Stosova T, Sauer P, Koukalova D (2010) ESBL and AmpC beta-lactamase-producing",
+            "block_bbox": [
+                98,
+                1392,
+                581,
+                1432
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Enterobacteriaceae in poultry in the Czech Republic. Vet Med Czech 55:119–124",
+            "block_bbox": [
+                645,
+                113,
+                1091,
+                151
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "26. Schmiedel J, Falgenhauer L, Domann E, Bauerfeind R, Prenger-Berninghoff E, Imirzalioglu C, Chakraborty T (2014) Multiresistant extended-spectrum  $ \\beta $ -lactamase-producing Enterobacteriaceae from humans, companion animals and horses in central Hesse, Germany. BMC Microbiol 14:187",
+            "block_bbox": [
+                609,
+                154,
+                1091,
+                252
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "27. Ciccozzi M, Giufr M, Accogli M, Lo Presti A, Graziani C, Cella E, Cerquetti M (2013) Phylogenetic analysis of multidrug-resistant Escherichia coli clones isolated from humans and poultry. New Microbiol 36:385–394",
+            "block_bbox": [
+                609,
+                255,
+                1091,
+                333
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "28. Gordon DM, Cowling A (2003) The distribution and genetic structure of Escherichia coli in Australian vertebrates: host and geographic effects. Microbiology 149:3575–3586",
+            "block_bbox": [
+                609,
+                336,
+                1091,
+                396
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "29. Wirth T, Falush D, Lan R, Colles F, Mensa P, Wieler LH, Karch H, Reeves PR, Maiden MCJ, Ochman H, Achtman M (2006) Sex and virulence in Escherichia coli: an evolutionary perspective. Mol Microbiol 60:1136–1151",
+            "block_bbox": [
+                609,
+                398,
+                1091,
+                476
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "30. Escobar-Páramo P, Grenet K, Le Menac'h A, Rode L, Salgado E, Amorin C, Gouriou S, Picard B, Rahimy MC, Andremont A, Denamur E, Ruimy R (2004) Large-scale population structure of human commensal Escherichia coli isolates. Appl Environ Microbiol 70:5698–5700",
+            "block_bbox": [
+                609,
+                479,
+                1092,
+                578
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "31. Yang Z (2007) PAML 4: Phylogenetic analysis by maximum likelihood. Mol Biol Evol 24:1586–1591",
+            "block_bbox": [
+                609,
+                580,
+                1091,
+                620
+            ],
+            "block_id": 24,
+            "block_order": 23,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "32. Bettelheim KA, Ismail N, Shinbaum R, Shooter RA, Moorhouse E, Farrell W (1976) The distribution of serotypes of Escherichia coli in cow-pats and other animal material compared with serotypes of E. coli isolated from human sources. J Hyg (Lond) 76:403–406",
+            "block_bbox": [
+                609,
+                623,
+                1091,
+                721
+            ],
+            "block_id": 25,
+            "block_order": 24,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "33. Agabou A, Pantel A, Ouchenane Z, Lezzar N, Khemissi S, Satta D, Sotto A, Lavigne JP (2014) First description of OXA-48-producing Escherichia coli and the pandemic clone ST131 from patients hospitalised at a military hospital in Algeria. Eur J Clin Microbiol Infect Dis 33:1641–1646",
+            "block_bbox": [
+                609,
+                723,
+                1091,
+                822
+            ],
+            "block_id": 26,
+            "block_order": 25,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "34. Brahmi S, Dunyach-Rémy C, Touati A, Lavigne JP (2015) CTX-M-15-producing Escherichia coli and the pandemic clone O25b-ST131 isolated from wild fish in Mediterranean Sea. Clin Microbiol Infect 21:e18–e20",
+            "block_bbox": [
+                609,
+                825,
+                1091,
+                904
+            ],
+            "block_id": 27,
+            "block_order": 26,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "35. Mora A, Herrera A, Mamani R, Lopez C, Pilar Alonso M, Blanco JE, Blanco M, Dahbi G, García-Garrote F, Pita JM, Coira A, Bernardez MI, Blanco J (2010) Recent emergence of clonal group O25b:K1:H4-B2-ST131 ibeA strains among Escherichia coli poultry isolates, including CTX-M-9-producing strains, and comparison with clinical human isolates. Appl Environ Microbiol 76:6991–6997",
+            "block_bbox": [
+                609,
+                906,
+                1092,
+                1044
+            ],
+            "block_id": 28,
+            "block_order": 27,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "36. Giufè M, Graziani C, Accogli M, Luzzi I, Busani L, Cerquetti M (2012) Escherichia coli of human and avian origin: detection of clonal groups associated with fluoroquinolone and multidrug resistance in Italy. J Antimicrob Chemother 67:860–867",
+            "block_bbox": [
+                609,
+                1048,
+                1092,
+                1127
+            ],
+            "block_id": 29,
+            "block_order": 28,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "37. Cortés P, Blanc V, Mora A, Dahbi G, Blanco JE, Blanco M, López C, Andreu A, Navarro F, Alonso MP, Bou G, Blanco J, Llagostera M (2010) Isolation and characterization of potentially pathogenic antimicrobial-resistant Escherichia coli strains from chicken and pig farms in Spain. Appl Environ Microbiol 76:2799–2805",
+            "block_bbox": [
+                609,
+                1129,
+                1091,
+                1248
+            ],
+            "block_id": 30,
+            "block_order": 29,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "38. Johnson JR, Murray AC, Gajewski A, Sullivan M, Snippes P, Kuskowski MA, Smith KE (2003) Isolation and molecular characterization of nalidixic acid-resistant extraintestinal pathogenic Escherichia coli from retail chicken products. Antimicrob Agents Chemother 47:2161–2168",
+            "block_bbox": [
+                609,
+                1251,
+                1091,
+                1349
+            ],
+            "block_id": 31,
+            "block_order": 30,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "39. Peirano G, Pitout JD (2010) Molecular epidemiology of Escherichia coli producing CTX-M beta-lactamases: the worldwide emergence of clone ST131 O25:H4. Int J Antimicrob Agents 35:316–321",
+            "block_bbox": [
+                609,
+                1352,
+                1092,
+                1431
+            ],
+            "block_id": 32,
+            "block_order": 31,
+            "group_id": 32
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_1005_1470_1087_1495.jpg\" alt=\"Image\" width=\"6%\" /></div>\n",
+            "block_bbox": [
+                1005,
+                1470,
+                1087,
+                1495
+            ],
+            "block_id": 33,
+            "block_order": null,
+            "group_id": 33
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.944821834564209,
+                "coordinate": [
+                    98.40644836425781,
+                    64.57115173339844,
+                    444.10076904296875,
+                    84.33290100097656
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8929285407066345,
+                "coordinate": [
+                    1060.314208984375,
+                    65.41073608398438,
+                    1090.620361328125,
+                    82.33328247070312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9797331094741821,
+                "coordinate": [
+                    100.01519775390625,
+                    112.59529113769531,
+                    580.8712768554688,
+                    191.37232971191406
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9805826544761658,
+                "coordinate": [
+                    100.7423095703125,
+                    193.36886596679688,
+                    580.1586303710938,
+                    271.2915954589844
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9786819815635681,
+                "coordinate": [
+                    100.30145263671875,
+                    273.11480712890625,
+                    580.2867431640625,
+                    331.36102294921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9808485507965088,
+                "coordinate": [
+                    99.926025390625,
+                    332.979736328125,
+                    581.1885986328125,
+                    409.5694580078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809923768043518,
+                "coordinate": [
+                    100.78672790527344,
+                    412.82501220703125,
+                    580.834228515625,
+                    491.08538818359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9781422019004822,
+                "coordinate": [
+                    100.3167724609375,
+                    492.87432861328125,
+                    580.5623779296875,
+                    551.3283081054688
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.98212069272995,
+                "coordinate": [
+                    100.90087890625,
+                    552.9600830078125,
+                    580.9096069335938,
+                    651.7025146484375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806593060493469,
+                "coordinate": [
+                    100.095947265625,
+                    653.3012084960938,
+                    580.610107421875,
+                    731.1455688476562
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9929002523422241,
+                "coordinate": [
+                    97.407958984375,
+                    113.276611328125,
+                    583.10205078125,
+                    1432.47021484375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9824908375740051,
+                "coordinate": [
+                    101.0220947265625,
+                    732.7681884765625,
+                    580.7420043945312,
+                    850.987548828125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9796796441078186,
+                "coordinate": [
+                    100.4757080078125,
+                    852.8952026367188,
+                    580.968994140625,
+                    930.9171752929688
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.98099684715271,
+                "coordinate": [
+                    99.0684814453125,
+                    932.55224609375,
+                    580.9482421875,
+                    1031.3314208984375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9694003462791443,
+                "coordinate": [
+                    98.7503662109375,
+                    1032.99072265625,
+                    579.9207763671875,
+                    1071.70458984375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9829639196395874,
+                "coordinate": [
+                    98.9786376953125,
+                    1072.76171875,
+                    580.8272705078125,
+                    1211.03466796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9800746440887451,
+                "coordinate": [
+                    99.20091247558594,
+                    1212.855224609375,
+                    580.3258056640625,
+                    1290.2861328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9817173480987549,
+                "coordinate": [
+                    99.20811462402344,
+                    1292.784423828125,
+                    580.7939453125,
+                    1389.923095703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9691952466964722,
+                "coordinate": [
+                    98.33320617675781,
+                    1392.54052734375,
+                    581.0173950195312,
+                    1432.72412109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9685662388801575,
+                "coordinate": [
+                    645.5443115234375,
+                    113.00529479980469,
+                    1091.2877197265625,
+                    151.87510681152344
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9808181524276733,
+                "coordinate": [
+                    609.5093994140625,
+                    154.04867553710938,
+                    1091.9541015625,
+                    252.80941772460938
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9810068011283875,
+                "coordinate": [
+                    609.5596923828125,
+                    255.50526428222656,
+                    1091.6700439453125,
+                    333.8282470703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9791646003723145,
+                "coordinate": [
+                    609.4371337890625,
+                    336.98895263671875,
+                    1091.6212158203125,
+                    396.1748046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806492328643799,
+                "coordinate": [
+                    609.7530517578125,
+                    398.87896728515625,
+                    1091.61767578125,
+                    476.15814208984375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981509804725647,
+                "coordinate": [
+                    609.794921875,
+                    479.81170654296875,
+                    1092.7916259765625,
+                    578.0466918945312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9677915573120117,
+                "coordinate": [
+                    609.349365234375,
+                    580.71435546875,
+                    1091.23779296875,
+                    620.394287109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9817205667495728,
+                "coordinate": [
+                    609.1737060546875,
+                    623.247802734375,
+                    1091.9383544921875,
+                    721.429931640625
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9919314980506897,
+                "coordinate": [
+                    606.979736328125,
+                    112.1044921875,
+                    1093.7509765625,
+                    1431.65625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9815466403961182,
+                "coordinate": [
+                    609.383544921875,
+                    723.9727783203125,
+                    1091.8486328125,
+                    822.2738037109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9802117347717285,
+                "coordinate": [
+                    609.8590087890625,
+                    825.7398681640625,
+                    1091.8116455078125,
+                    904.6334228515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9824714064598083,
+                "coordinate": [
+                    609.939208984375,
+                    906.99755859375,
+                    1092.118408203125,
+                    1044.8763427734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9807114005088806,
+                "coordinate": [
+                    609.483154296875,
+                    1048.46630859375,
+                    1092.642822265625,
+                    1127.6923828125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9823386073112488,
+                "coordinate": [
+                    609.4725341796875,
+                    1129.61279296875,
+                    1091.9603271484375,
+                    1248.709716796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9819722771644592,
+                "coordinate": [
+                    609.5567626953125,
+                    1251.735595703125,
+                    1091.58984375,
+                    1349.968017578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9787050485610962,
+                "coordinate": [
+                    609.3765869140625,
+                    1352.9793701171875,
+                    1092.7847900390625,
+                    1431.3778076171875
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.8864816427230835,
+                "coordinate": [
+                    1005.1627197265625,
+                    1470.9981689453125,
+                    1087.0198974609375,
+                    1495.7957763671875
+                ]
+            }
+        ]
+    }
+}

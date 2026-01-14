@@ -29,7 +29,7 @@ def output_folder():
     out.mkdir(parents=True, exist_ok=True)
     return out
 
-@pytest.mark.parametrize("pdf_file_name", ["Adelowo2014.pdf"])
+@pytest.mark.parametrize("pdf_file_name", ["Xie2019.pdf"])
 def test_paddle_ocr(pdf_file_name, pdf_folder, output_folder):
     model_type = "PaddlePaddle/PaddleOCR-VL"
     

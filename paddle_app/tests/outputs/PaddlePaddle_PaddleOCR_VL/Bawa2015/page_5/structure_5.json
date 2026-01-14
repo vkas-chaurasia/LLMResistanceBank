@@ -1,0 +1,461 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bawa2015.pdf",
+    "page_index": 4,
+    "page_count": 7,
+    "width": 1190,
+    "height": 1684,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Bawa et al. J. Appl. Biosci. 2015 Antimicrobial susceptibility of Salmonella enterica strains isolated from raw beef, mutton and intestines sold in Ouagadougou, Burkina Faso.",
+            "block_bbox": [
+                135,
+                139,
+                1050,
+                190
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "text",
+            "block_content": "in different fields. The resistance to tetracycline obtained is higher than those reported in Ethiopia, Sudan and China in raw meats (Tassew et al., 2010; Fadlalla et al., 2012; Li et al., 2013). In this study, results on intestines strains are similar with the study done in Ivory Coast, Nigeria and Iran (Coulibaly et al., 2010; Iroha et al., 2011; Sodagari et al., 2015). This suggests a potential health risk due to consumption of meat. Such risks can be minimized by avoiding poor handling and raising the awareness of food handlers. The results of this study have disclosed two public health problems; the presence of resistant Salmonella strains in the possibility of Salmonella human infections through the consumption of contaminated food, and the isolation of antibiotic-resistant strains might suggest the use of drugs in that animal's environment. The occurrence of antibiotic-resistant strains of a number of pathogenic bacteria especially Salmonella in foods has caused great concern in relation to public health (Carlvalho et al., 2013). While the antibiotics use has been proven an effective means for the prevention and control of Salmonella infection, their abusive use can have adverse consequences by promoting the selection and prevalence of drug-resistant microbial populations (Li",
+            "block_bbox": [
+                133,
+                211,
+                578,
+                780
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## CONCLUSION",
+            "block_bbox": [
+                135,
+                800,
+                261,
+                823
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "This study shows the degree of contamination by salmonella enterica in raw meat sold in the open market of Ouagadougou, Burkina Faso. Of the samples analyzed, almost all of the meat was contaminated by this enteropathogen. In addition, several Salmonella strains",
+            "block_bbox": [
+                134,
+                825,
+                578,
+                951
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Conflict of Interests: The authors declare that there is no conflict of interests regarding the publication of this paper.",
+            "block_bbox": [
+                134,
+                972,
+                577,
+                1048
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## REFERENCES",
+            "block_bbox": [
+                135,
+                1069,
+                263,
+                1093
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Abd el-Aziz DM, 2013 Detection of Salmonella typhimurium in retail chicken meat and chicken giblets. Asian Pacific Journal of Tropical Biomedicine 3: 678-681.",
+            "block_bbox": [
+                137,
+                1097,
+                575,
+                1191
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Alali WQ, Gaydashov R, Petrova E, Panin A, Tugarinov O, Kulikovskii A, 2012. Prevalence of Salmonella on retail chicken meat in Russian Federation. Journal of Food Protection 75: 1469-1473.",
+            "block_bbox": [
+                137,
+                1194,
+                575,
+                1312
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Bagré TS, Kagambèga A, Bawa IH, Bsadjo Tchamba G, Dembélé R, Zongo C, Savadogo A, Aggad H, Traoré AS, Barro N, 2014. Antibiotic susceptibility of Escherichia coli and Salmonella strains isolated from raw and curds milk consumed in Ouagadougou and Ziniaré, Burkina",
+            "block_bbox": [
+                137,
+                1317,
+                575,
+                1464
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "et al., 2013; Makka et al., 2014; Sodagari et al., 2015). Continuous and improper use of this antibiotic may increase resistance of antibiotics, thereby compromising human food safety and creating a difficulty in treating human salmonellosis (Sodagari et al., 2015). The problem may be due to the natural resistance of species to certain antibiotics, possible transfer of antibiotic resistance among species and the use of sub-therapeutic doses of antibiotics in animal feeds to improve animal productivity, which could also select for resistant strains (EFSA, 2012; Sambe-Ba et al., 2013). This practice leads into a possibility that bacterial resistance developing in the animals or food animals' transfers to the human population thus posing a risk for public health by spreading of the resistance (Kagambèga et al., 2013). In Burkina Faso, the irrational use of antibiotics in animal husbandry is considered a major cause of increased Salmonella resistance. Furthermore, unlimited access to these agents without a prescription or under veterinary control may be additional reasons for the high level of resistance. Therefore, surveillance of antimicrobial resistance should be done on food-borne pathogens.",
+            "block_bbox": [
+                610,
+                209,
+                1055,
+                755
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "isolated were resistant to commonly antibiotics used. This study confirms that beef, sheep and intestines are a major reservoir of resistant Salmonella enterica in Burkina Faso. Special attention should be taken to prevent the scattering of resistant strains in the environment.",
+            "block_bbox": [
+                610,
+                825,
+                1054,
+                951
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Acknowledgments: The authors would like to thank \"International Foundation for Sciences (IFS)\" for financial support.",
+            "block_bbox": [
+                610,
+                972,
+                1055,
+                1048
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Faso. African Journal of Microbiology Research 8: 1012-1016.",
+            "block_bbox": [
+                681,
+                1096,
+                1052,
+                1143
+            ],
+            "block_id": 12,
+            "block_order": 12,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Bauer AW, Kirby WMM, Sherries JC, Turck M, 1966. Antibiotic susceptibility testing. American Journal of Clinical Pathology 45: 493-496.",
+            "block_bbox": [
+                615,
+                1145,
+                1051,
+                1217
+            ],
+            "block_id": 13,
+            "block_order": 13,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Bonkoungou I, Haukka K, Österblad M, Hakanen AJ, Traoré AS, Barro N, Siitonen A, 2013. Bacterial and viral etiology of childhood diarrhea in Ouagadougou, Burkina Faso. BMC Pediatrics 13: 1-6.",
+            "block_bbox": [
+                615,
+                1219,
+                1052,
+                1337
+            ],
+            "block_id": 14,
+            "block_order": 14,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Bsadjo Tchamba G, Bawa IH, Nzouankeu A, Bagré TS, Traoré AS, Barro N, 2015. Isolation, characterization and antibiotic susceptibility of Escherichia coli and Salmonella spp. isolated from local beverages (bissap, gnamakoudji) sold",
+            "block_bbox": [
+                615,
+                1341,
+                1053,
+                1465
+            ],
+            "block_id": 15,
+            "block_order": 15,
+            "group_id": 15
+        },
+        {
+            "block_label": "number",
+            "block_content": "8970",
+            "block_bbox": [
+                571,
+                1493,
+                619,
+                1514
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9106594920158386,
+                "coordinate": [
+                    135.3804931640625,
+                    139.93582153320312,
+                    1050.1925048828125,
+                    190.46664428710938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886668920516968,
+                "coordinate": [
+                    133.79025268554688,
+                    211.20755004882812,
+                    578.38330078125,
+                    780.066650390625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.936757504940033,
+                "coordinate": [
+                    135.75631713867188,
+                    800.0372924804688,
+                    261.7104797363281,
+                    823.9458618164062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9824475646018982,
+                "coordinate": [
+                    134.239501953125,
+                    825.6982421875,
+                    578.000244140625,
+                    951.1134033203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9711741209030151,
+                "coordinate": [
+                    134.20455932617188,
+                    972.1427001953125,
+                    577.212890625,
+                    1048.692138671875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9292453527450562,
+                "coordinate": [
+                    135.67251586914062,
+                    1069.760009765625,
+                    263.38580322265625,
+                    1093.57861328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9765045046806335,
+                "coordinate": [
+                    137.01380920410156,
+                    1097.4093017578125,
+                    575.259765625,
+                    1191.6661376953125
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9825820922851562,
+                "coordinate": [
+                    135.93209838867188,
+                    1094.948974609375,
+                    577.157958984375,
+                    1465.356689453125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9782684445381165,
+                "coordinate": [
+                    137.43429565429688,
+                    1194.3946533203125,
+                    575.6942138671875,
+                    1312.1895751953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9796381592750549,
+                "coordinate": [
+                    137.75437927246094,
+                    1317.105224609375,
+                    575.9688720703125,
+                    1464.593017578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988275408744812,
+                "coordinate": [
+                    610.1849365234375,
+                    209.64483642578125,
+                    1055.461181640625,
+                    755.0845336914062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9840788841247559,
+                "coordinate": [
+                    610.5516357421875,
+                    825.3372802734375,
+                    1054.9456787109375,
+                    951.0565185546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9722312092781067,
+                "coordinate": [
+                    610.8638916015625,
+                    972.2470703125,
+                    1055.048828125,
+                    1048.4698486328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9615388512611389,
+                "coordinate": [
+                    681.548095703125,
+                    1096.5146484375,
+                    1052.0968017578125,
+                    1143.60888671875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9734183549880981,
+                "coordinate": [
+                    615.0091552734375,
+                    1145.431884765625,
+                    1051.7955322265625,
+                    1217.042724609375
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9845722913742065,
+                "coordinate": [
+                    613.412841796875,
+                    1095.41748046875,
+                    1054.048095703125,
+                    1465.40185546875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9797117114067078,
+                "coordinate": [
+                    615.41650390625,
+                    1219.7489013671875,
+                    1052.91650390625,
+                    1337.7156982421875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9793201684951782,
+                "coordinate": [
+                    615.391357421875,
+                    1341.38720703125,
+                    1053.1981201171875,
+                    1465.383544921875
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8924678564071655,
+                "coordinate": [
+                    571.1551513671875,
+                    1493.9736328125,
+                    619.958740234375,
+                    1514.968505859375
+                ]
+            }
+        ]
+    }
+}

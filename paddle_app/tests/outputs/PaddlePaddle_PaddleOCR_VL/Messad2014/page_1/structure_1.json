@@ -1,0 +1,686 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Messad2014.pdf",
+    "page_index": 0,
+    "page_count": 5,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Food Control 40 (2014) 324–328",
+            "block_bbox": [
+                483,
+                89,
+                686,
+                111
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_62_139_186_252.jpg\" alt=\"Image\" width=\"10%\" /></div>\n",
+            "block_bbox": [
+                62,
+                139,
+                186,
+                252
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "Contents lists available at ScienceDirect",
+            "block_bbox": [
+                428,
+                142,
+                749,
+                166
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "header",
+            "block_content": "ELSEVIER",
+            "block_bbox": [
+                63,
+                256,
+                187,
+                282
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "header",
+            "block_content": "Food Control",
+            "block_bbox": [
+                499,
+                191,
+                677,
+                223
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "header",
+            "block_content": "journal homepage: www.elsevier.com/locate/foodcont",
+            "block_bbox": [
+                327,
+                254,
+                850,
+                278
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_991_130_1106_277.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                991,
+                130,
+                1106,
+                277
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Frequency of contamination and antimicrobial resistance of thermotolerant Campylobacter isolated from some broiler farms and slaughterhouses in the region of Algiers",
+            "block_bbox": [
+                60,
+                349,
+                890,
+                454
+            ],
+            "block_id": 7,
+            "block_order": 1,
+            "group_id": 7
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_987_351_1108_401.jpg\" alt=\"Image\" width=\"10%\" /></div>\n",
+            "block_bbox": [
+                987,
+                351,
+                1108,
+                401
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Sara Messad $ ^{a} $ , Taha-Mossadak Hamdi $ ^{a,*} $ , Radia Bouhamed $ ^{a} $ , Nadjia Ramdani-Bouguessa $ ^{b} $ , Mohamed Tazir $ ^{b} $ \n\n $ ^{a} $  HASAQ Laboratory, High National Veterinary School, BP 161 El-Harrach, Algiers, Algeria",
+            "block_bbox": [
+                59,
+                469,
+                962,
+                521
+            ],
+            "block_id": 9,
+            "block_order": 2,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                61,
+                531,
+                592,
+                551
+            ],
+            "block_id": 10,
+            "block_order": 3,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{b} $  Microbiology Department, University Hospital Center of Mustapha Bacha, Algiers, Algeria",
+            "block_bbox": [
+                60,
+                549,
+                600,
+                570
+            ],
+            "block_id": 11,
+            "block_order": 4,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## ARTICLE INFO",
+            "block_bbox": [
+                61,
+                614,
+                259,
+                634
+            ],
+            "block_id": 12,
+            "block_order": 5,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Article history:\n\nReceived 6 March 2013\n\nReceived in revised form \n\n9 December 2013\n\nAccepted 17 December 2013",
+            "block_bbox": [
+                60,
+                651,
+                242,
+                742
+            ],
+            "block_id": 13,
+            "block_order": 6,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Keywords:\n\nThermotolerant Campylobacter\n\nBroilers\n\nFrequency of contamination\n\nAntimicrobial resistance\n\nPoultry farms\n\nSlaughterhouses",
+            "block_bbox": [
+                61,
+                760,
+                255,
+                883
+            ],
+            "block_id": 14,
+            "block_order": 7,
+            "group_id": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## A B S T R A C T",
+            "block_bbox": [
+                389,
+                613,
+                534,
+                634
+            ],
+            "block_id": 15,
+            "block_order": 8,
+            "group_id": 15
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Campylobacteriosis in humans is caused by thermotolerant Campylobacter spp, following consumption of contaminated poultry, most commonly broiler.\n\nThe aim of this study was to assess the frequency of contamination by thermotolerant Campylobacter and to characterize antimicrobial resistance of the strains isolated from broilers in some farms and slaughterhouses in the region of Algiers.\n\nOne hundred droppings samples, 100 contents of ceaca and 100 neck skins were taken from six poultry farms and five slaughterhouses, than analyzed according to NF. ISO 10272-1/1995 norm and the OIE recommendations. Susceptibility to antibiotics was determined according to the guidelines of the CA-SFM/2010 by disc diffusion method.\n\nThermotolerant Campylobacter strains were isolated from 85%, 98%, and 80% of droppings, caecal content and neck skin, respectively. All the strains (100%) were resistant to nalidixic acid and sensitive to gentamicin and to chloramphenicol. 83.7% of them were resistant to tetracycline and to ciprofloxacin, 75.3% to ampicillin, 46.8% to amoxicillin/clavulanic acid and 21.7% were resistant to erythromycin. All the isolates showed a multi-drug resistance. Nineteen different profiles were identified with \"AM, AMC, NA, CIP, TE\" combination as the most common profile identified for 27% (n = 74) of isolated strains. In addition, 15% of the strains were resistant to both erythromycin and ciprofloxacin, which are systematically used in treatment of human Campylobacter infections.\n\nOur results showed a high prevalence of thermotolerant Campylobacter with multidrug resistance profiles in poultry farms and slaughterhouses of Algiers. These results stress that the risk of human contamination throughout the food chain is very high, which may generate: i) a danger of food poisoning by ingestion of chicken meat and chicken meat products and, ii) a cross-resistance to antibiotics between human and avian strains.",
+            "block_bbox": [
+                387,
+                649,
+                1110,
+                1076
+            ],
+            "block_id": 16,
+            "block_order": 9,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "© 2013 Elsevier Ltd. All rights reserved.",
+            "block_bbox": [
+                827,
+                1074,
+                1108,
+                1094
+            ],
+            "block_id": 17,
+            "block_order": 10,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 1. Introduction",
+            "block_bbox": [
+                61,
+                1160,
+                193,
+                1182
+            ],
+            "block_id": 18,
+            "block_order": 11,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "In human health, Campylobacter is considered as the major cause of diarrheal illnesses and, the most common bacterial cause of gastroenteritis in the world (Bolla & Garnotel, 2008), causing up to 14% of diarrhea worldwide. It is estimated that 2.5 million of the diarrhea worldwide occur each year, resulting in 13,000 hospitalizations and 124 deaths (Braam, 2004).\n\nIn western Algeria, a case–control study in infants showed that Campylobacter were isolated in 17.7% of the 411 patients and in 14.9% of the 247 controls (Megraud et al., 1990). However, no official data concerning contamination of poultry or other food products in Algeria is available.",
+            "block_bbox": [
+                59,
+                1201,
+                571,
+                1329
+            ],
+            "block_id": 19,
+            "block_order": 12,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                597,
+                1160,
+                1110,
+                1265
+            ],
+            "block_id": 20,
+            "block_order": 13,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "Compared to Salmonella, Campylobacter isolation frequency from human diarrheal stool samples is generally similar or higher; thus they represent a major problem in microbiological food safety. Campylobacter's ubiquitous nature and extent of adaptation to wild, farm animals and pets, contribute to the introduction and persistence of this bacteria in different biotopes and to contamination of the foodstuffs (Federighi, 2005, pp. 145–167). While numerous potential vehicles of transmission exist, commercial chicken meat",
+            "block_bbox": [
+                596,
+                1265,
+                1111,
+                1435
+            ],
+            "block_id": 21,
+            "block_order": 14,
+            "group_id": 21
+        },
+        {
+            "block_label": "footnote",
+            "block_content": " $ ^{*} $  Corresponding author. ENSV, BP 161 EL-Harrach, Algiers, Algeria. Tel.: +213 0771619944.",
+            "block_bbox": [
+                59,
+                1364,
+                571,
+                1399
+            ],
+            "block_id": 22,
+            "block_order": null,
+            "group_id": 22
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "E-mail addresses: moussahamdi@hotmail.com, tahamossadak@yahoo.fr (T.-M. Hamdi).",
+            "block_bbox": [
+                59,
+                1398,
+                571,
+                1435
+            ],
+            "block_id": 23,
+            "block_order": null,
+            "group_id": 23
+        },
+        {
+            "block_label": "footer",
+            "block_content": "0956-7135/$ – see front matter © 2013 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.foodcont.2013.12.016",
+            "block_bbox": [
+                59,
+                1452,
+                509,
+                1490
+            ],
+            "block_id": 24,
+            "block_order": null,
+            "group_id": 24
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9260897636413574,
+                "coordinate": [
+                    483.85546875,
+                    89.81178283691406,
+                    686.1572265625,
+                    111.84300231933594
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9380993247032166,
+                "coordinate": [
+                    62.83075714111328,
+                    139.41241455078125,
+                    186.37631225585938,
+                    252.99154663085938
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.934171736240387,
+                "coordinate": [
+                    428.5662841796875,
+                    142.6250762939453,
+                    749.7152099609375,
+                    166.21885681152344
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8207709193229675,
+                "coordinate": [
+                    63.875389099121094,
+                    256.0455322265625,
+                    187.07244873046875,
+                    282.1651611328125
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9298843741416931,
+                "coordinate": [
+                    499.42913818359375,
+                    191.80392456054688,
+                    677.6494750976562,
+                    223.46823120117188
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9383901953697205,
+                "coordinate": [
+                    327.3178405761719,
+                    254.9501953125,
+                    850.507568359375,
+                    278.74615478515625
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9476819038391113,
+                "coordinate": [
+                    991.47900390625,
+                    130.59710693359375,
+                    1106.604736328125,
+                    277.3973388671875
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9814929366111755,
+                "coordinate": [
+                    60.287139892578125,
+                    349.2027893066406,
+                    890.2806396484375,
+                    454.7294616699219
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.6958726048469543,
+                "coordinate": [
+                    987.6560668945312,
+                    351.6593933105469,
+                    1108.731201171875,
+                    401.7460632324219
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9636433720588684,
+                "coordinate": [
+                    59.974090576171875,
+                    469.09686279296875,
+                    962.111083984375,
+                    521.7610473632812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.799495279788971,
+                "coordinate": [
+                    61.074920654296875,
+                    531.375,
+                    592.03564453125,
+                    551.2059326171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7595000267028809,
+                "coordinate": [
+                    60.774688720703125,
+                    549.95068359375,
+                    600.05712890625,
+                    570.47265625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9294003844261169,
+                "coordinate": [
+                    61.34784698486328,
+                    614.0181274414062,
+                    259.77978515625,
+                    634.5032348632812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9728354215621948,
+                "coordinate": [
+                    60.984161376953125,
+                    651.893310546875,
+                    242.64144897460938,
+                    742.579833984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9722687005996704,
+                "coordinate": [
+                    61.011573791503906,
+                    760.4644775390625,
+                    255.33798217773438,
+                    883.7269287109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9205437898635864,
+                "coordinate": [
+                    389.99285888671875,
+                    613.690185546875,
+                    534.6970825195312,
+                    634.5587158203125
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.6052088141441345,
+                "coordinate": [
+                    386.9684753417969,
+                    651.5977783203125,
+                    1111.117431640625,
+                    692.8626708984375
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.6414955258369446,
+                "coordinate": [
+                    387.14312744140625,
+                    691.777099609375,
+                    1111.015380859375,
+                    750.6787109375
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.6924741268157959,
+                "coordinate": [
+                    387.0472412109375,
+                    749.3902587890625,
+                    1110.580078125,
+                    826.8397216796875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.5326923131942749,
+                "coordinate": [
+                    387.5145263671875,
+                    649.3131103515625,
+                    1110.6878662109375,
+                    1076.8092041015625
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.8098057508468628,
+                "coordinate": [
+                    387.3834228515625,
+                    825.1741943359375,
+                    1111.468994140625,
+                    980.689208984375
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.7714857459068298,
+                "coordinate": [
+                    387.6484680175781,
+                    978.5926513671875,
+                    1111.054443359375,
+                    1076.7232666015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9283257722854614,
+                "coordinate": [
+                    827.5074462890625,
+                    1074.1348876953125,
+                    1108.2415771484375,
+                    1094.9642333984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9348737597465515,
+                "coordinate": [
+                    61.44219970703125,
+                    1160.3836669921875,
+                    193.62234497070312,
+                    1182.0255126953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9848702549934387,
+                "coordinate": [
+                    59.708984375,
+                    1201.905517578125,
+                    571.778564453125,
+                    1329.7548828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9851704239845276,
+                "coordinate": [
+                    597.2999267578125,
+                    1160.30810546875,
+                    1110.2640380859375,
+                    1265.16943359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872484803199768,
+                "coordinate": [
+                    596.286865234375,
+                    1265.16064453125,
+                    1111.38134765625,
+                    1435.2373046875
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9429930448532104,
+                "coordinate": [
+                    59.200775146484375,
+                    1364.138427734375,
+                    571.361572265625,
+                    1399.245849609375
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8982276320457458,
+                "coordinate": [
+                    59.55192565917969,
+                    1398.978515625,
+                    571.2369384765625,
+                    1435.549560546875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.938065230846405,
+                "coordinate": [
+                    59.6943359375,
+                    1452.7965087890625,
+                    509.40185546875,
+                    1490.4173583984375
+                ]
+            }
+        ]
+    }
+}

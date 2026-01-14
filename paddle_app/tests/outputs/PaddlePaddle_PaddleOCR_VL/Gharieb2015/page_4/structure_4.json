@@ -1,0 +1,319 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Gharieb2015.pdf",
+    "page_index": 3,
+    "page_count": 11,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Gharieb et al. Gut Pathog (2015) 7:34",
+            "block_bbox": [
+                108,
+                65,
+                356,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 4 of 11",
+            "block_bbox": [
+                992,
+                66,
+                1080,
+                89
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "[16]. Therefore, ciprofloxacin still to have a high potency against NTS strains in humans and continue to be the most successful drug used for treatment of septicaemic salmonellosis in adult humans. The increased resistance of S. Typhimurium isolated from humans to quinolones (nalidixic acid) in this study (100 %) is a matter of concern and could be attributed to indiscriminate use of these antibiotics by human patients. Moreover, the presence of these drug residues in food of animal origin may result in increased resistance among human's isolates.",
+            "block_bbox": [
+                105,
+                175,
+                586,
+                416
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Table 3 verified that all Salmonella spp. isolated from poultry and humans were MDR, exhibiting resistance to at least four or more antibiotics displayed by ten resistance patterns.",
+            "block_bbox": [
+                106,
+                416,
+                585,
+                515
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Molecular detection of Salmonella virulence genes (virulotyping)",
+            "block_bbox": [
+                107,
+                536,
+                517,
+                584
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Table 3 revealed the presence of pefA gene among three Salmonella strains isolated from poultry meat, belonged to S. Rubislaw, S. Typhimurium and untypable strain (one isolate, each) (Fig. 1). Moreover, hilA gene was only identified in one isolate of S. Kiel (Fig. 2). Furthermore, three Salmonella isolates from poultry meat comprising untypable strains (two isolates) and S. Typhimurium (one isolate) were harboring sopB gene (Fig. 3). The detection of pefA gene in S. Rubislaw in Gambia and Senegal [14] and S. Typhimurium in India [4] was previously reported. On the other hand, hilA gene was identified in Salmonella serotypes isolated from chickens in Iran [17].",
+            "block_bbox": [
+                106,
+                584,
+                586,
+                756
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                175,
+                1082,
+                296
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "It was obvious from Table 3 that all S. Typhimurium isolates from humans were harboring sopB compared to one isolate had stn gene (Figs. 3, 4). Consistent with our findings, sopB gene was previously identified in S. Typhimurium isolated from diarrhoeic patients and birds in India [18]. Meanwhile, stn gene was detected in S. Typhimurium isolated from humans in India [4].",
+            "block_bbox": [
+                601,
+                296,
+                1083,
+                467
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Molecular detection and sequencing of class 1 integrons",
+            "block_bbox": [
+                602,
+                488,
+                1060,
+                512
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "A notable feature in this study is that all Salmonella strains isolated from poultry meat and humans were MDR and harboring class I integrons that are chromosomally located (Fig. 5). Ten different profiles of class I integrons with variable amplicon sizes ranged from 650–3000 bp were observed (Table 3). Similarly, class I integrons were detected in 97 % of S. Typhimurium isolated from Norwegian diarrhoeic patients [19]. On the contrary, a lower detection rate (9 %) was recorded in Salmonella spp. isolated from poultry meat [20]. Sequencing",
+            "block_bbox": [
+                601,
+                512,
+                1083,
+                756
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 3 Resistance pattern, virulence genes and class I integron profiles among multidrug resistant Salmonella serotypes in this study</div>\n",
+            "block_bbox": [
+                105,
+                798,
+                1081,
+                845
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Strain no.</td><td rowspan=\"2\">Serovar (source of isolate)</td><td rowspan=\"2\">Resistance pattern</td><td colspan=\"4\">Virulence genes</td><td rowspan=\"2\">Integron amplicon size (bp)</td><td rowspan=\"2\">Integron profile (IP)</td><td rowspan=\"2\">Genes in the cassettes</td><td rowspan=\"2\">Accession numbers</td></tr><tr><td style='text-align: center;'>PefA</td><td style='text-align: center;'>hilA</td><td style='text-align: center;'>SopB</td><td style='text-align: center;'>Stn</td></tr><tr><td style='text-align: center;'>1</td><td style='text-align: center;'>S. Derby (duck)</td><td style='text-align: center;'>ST E Amc</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>937</td><td style='text-align: center;'>I</td><td style='text-align: center;'>aac (3)-Idaac (3)-Id, aadA7</td><td style='text-align: center;'>KT581257</td></tr><tr><td style='text-align: center;'>2</td><td style='text-align: center;'>S. Kiel (chicken)</td><td style='text-align: center;'>AT E Amc</td><td style='text-align: center;'>−</td><td style='text-align: center;'>+</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>937</td><td style='text-align: center;'>II</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>3</td><td style='text-align: center;'>Untypable (duck)</td><td style='text-align: center;'>A C S Sxt T E Cx As Na G Amc</td><td style='text-align: center;'>+</td><td style='text-align: center;'>−</td><td style='text-align: center;'>+</td><td style='text-align: center;'>−</td><td style='text-align: center;'>1500</td><td style='text-align: center;'>III</td><td style='text-align: center;'>aac (3)-Id, aadA7</td><td style='text-align: center;'>KT581256</td></tr><tr><td style='text-align: center;'>4</td><td style='text-align: center;'>S. Rubislaw (chicken)</td><td style='text-align: center;'>A C S Sxt T E As Na G Amc</td><td style='text-align: center;'>+</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>1500</td><td style='text-align: center;'>III</td><td style='text-align: center;'>−</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>5</td><td style='text-align: center;'>S. Typhimurium (chicken)</td><td style='text-align: center;'>A C S Sxt T E As Na G Amc</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>1100</td><td style='text-align: center;'>IV</td><td style='text-align: center;'>−</td><td style='text-align: center;'>KT581255</td></tr><tr><td style='text-align: center;'>6</td><td style='text-align: center;'>S. Typhimurium (chicken)</td><td style='text-align: center;'>S Sxt T E Cx Co Na G</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>+</td><td style='text-align: center;'>−</td><td style='text-align: center;'>650</td><td style='text-align: center;'>V</td><td style='text-align: center;'>sat</td><td style='text-align: center;'>KT449570</td></tr><tr><td style='text-align: center;'>7</td><td style='text-align: center;'>Untypable (duck)</td><td style='text-align: center;'>A Sxt T E As Na Amc</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>+</td><td style='text-align: center;'>−</td><td style='text-align: center;'>1550</td><td style='text-align: center;'>VI</td><td style='text-align: center;'>ac (3)-Id, aadA7at</td><td style='text-align: center;'>KT598359</td></tr><tr><td style='text-align: center;'>8</td><td style='text-align: center;'>S. Typhimurium (human)</td><td style='text-align: center;'>A C S Sxt T E Cro As Na G Amc</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>+</td><td style='text-align: center;'>−</td><td style='text-align: center;'>1000</td><td style='text-align: center;'>VII</td><td style='text-align: center;'>−</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>9</td><td style='text-align: center;'>S. Typhimurium (human)</td><td style='text-align: center;'>A C S Sxt T E As Na Amc</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>650</td><td style='text-align: center;'>VIII</td><td style='text-align: center;'>adA4</td><td style='text-align: center;'>KT581253</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>750</td><td style='text-align: center;'></td><td style='text-align: center;'>adfrA15</td><td style='text-align: center;'>KT449571</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>1600</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>10</td><td style='text-align: center;'>S. Typhimurium (chicken)</td><td style='text-align: center;'>S Sxt T E As G Amc</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>1900</td><td style='text-align: center;'>IX</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>11</td><td style='text-align: center;'>S. Typhimurium (chicken)</td><td style='text-align: center;'>A C S Sxt T E As Na G Amc</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>1900</td><td style='text-align: center;'>IX</td><td style='text-align: center;'>aadA2, InuF</td><td style='text-align: center;'>KT449569</td></tr><tr><td style='text-align: center;'>12</td><td style='text-align: center;'>S. Typhimurium (chicken)</td><td style='text-align: center;'>C Sxt T E Cx As Na G Amc</td><td style='text-align: center;'>+</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>−</td><td style='text-align: center;'>1550</td><td style='text-align: center;'>X</td><td style='text-align: center;'>aac (3)-Id, aadA7</td><td style='text-align: center;'>KT581254</td></tr></table>",
+            "block_bbox": [
+                105,
+                849,
+                1077,
+                1437
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9403434991836548,
+                "coordinate": [
+                    108.44929504394531,
+                    65.28684997558594,
+                    356.890869140625,
+                    87.72514343261719
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9090319871902466,
+                "coordinate": [
+                    992.5049438476562,
+                    66.79283142089844,
+                    1080.03369140625,
+                    89.46070861816406
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889407753944397,
+                "coordinate": [
+                    105.71022033691406,
+                    175.2802734375,
+                    586.2572021484375,
+                    416.20672607421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9830038547515869,
+                "coordinate": [
+                    106.25810241699219,
+                    416.52569580078125,
+                    585.4996337890625,
+                    515.1096801757812
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9669920802116394,
+                "coordinate": [
+                    107.10321044921875,
+                    536.5877685546875,
+                    517.3294677734375,
+                    584.380126953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865238666534424,
+                "coordinate": [
+                    106.00749206542969,
+                    584.716552734375,
+                    586.7390747070312,
+                    756.105224609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9862784743309021,
+                "coordinate": [
+                    601.5078125,
+                    175.17291259765625,
+                    1082.06494140625,
+                    296.9002685546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9870571494102478,
+                "coordinate": [
+                    601.5426025390625,
+                    296.896728515625,
+                    1083.6571044921875,
+                    467.4029541015625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9356118440628052,
+                "coordinate": [
+                    602.7139892578125,
+                    488.86309814453125,
+                    1060.7550048828125,
+                    512.3012084960938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.98340904712677,
+                "coordinate": [
+                    601.173583984375,
+                    512.2557373046875,
+                    1083.839111328125,
+                    756.5670166015625
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9626848697662354,
+                "coordinate": [
+                    105.56716918945312,
+                    798.3732299804688,
+                    1081.87158203125,
+                    845.7236938476562
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896826148033142,
+                "coordinate": [
+                    105.310546875,
+                    849.714599609375,
+                    1077.396240234375,
+                    1437.124755859375
+                ]
+            }
+        ]
+    }
+}

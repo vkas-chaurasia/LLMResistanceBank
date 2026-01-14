@@ -1,0 +1,39 @@
+Moawad et al. Gut Pathog (2017) 9:57
+
+Page 7 of 13
+
+Twenty-one E. coli isolates were characterized as 4 O18 (19.0%) and 4 O78 (19.0%) serotypes. Other serotypes are given in Table 2.
+
+## Molecular identification of Salmonella serovars
+
+All 15 recovered S. enterica serovars harboured ompC gene, which confirms Salmonella genus. Nine S. enterica serovar Typhimurium (60.0%) and two S. enterica serovar Enteritidis (13.3%) were identified by means of serovar-specific bands using PCR (Table 3). Four other isolates could not be typed with PCR method (26.7%).
+
+## Determination of antimicrobial susceptibility profiles
+
+The results of determination of antimicrobial resistance of S. enterica and E. coli isolates to thirteen antibiotics are given in Tables 4 and 5. Most of the S. enterica isolates showed resistance to ampicillin (87.0%) and cefotaxime (80.0%) and all were susceptible to chloramphenicol, colistin and ciprofloxacin. Resistance to other antibiotics was shown in Table 4.
+
+Seven isolates of S. enterica serovar Typhimurium were resistant to ampicillin, cefotaxime and cefpodoxime (77.8%), while 6 isolates (66.7%) were highly sensitive to ciprofloxacin. Resistance to other antibiotics was weaker developed.
+
+Both S. enterica serovar Enteritidis isolates were resistant to ampicillin, cefotaxime and tetracycline. Additionally, one isolate showed resistance to streptomycin, nalidixic acid, trimethoprim/sulphamethoxazole and streptomycin.
+
+In addition to the entire resistance to ampicillin and cefotaxime, majority of the S. enterica serovar Paratyphi A isolates were resistant to amoxicillin–clavulanic acid, ceftriaxone and trimethoprim/sulphamethoxazole.
+
+
+
+Salmonella enterica serovar Kentucky isolate showed no pronounced susceptibility to any of the tested antibiotics and was resistant to six of them (Table 4). Seven out of 15 S. enterica serovars (46.7%) revealed phenotypic multidrug resistance exhibiting by resistance to three or more classes of antibiotics (Table 4).
+
+Escherichia coli isolates showed resistance to tetracycline, ampicillin, streptomycin, trimethoprim/sulphamethoxazole and amoxicillin–clavulanic acid with 80.9, 71.4, 61.9, 61.9 and 61.9%, respectively. Ten (47.6%), 9 (42.8%) and 9 (42.8%) isolates were susceptible to ciprofloxacin, enrofloxacin and ceftriaxone, respectively. All tested isolates were susceptible to colistin. Thirteen E. coli isolates (61.9%) were characterized as multidrug resistant (Table 5).
+
+The multidrug resistance of isolated Salmonella and  $ E.\ coli $  was shown in Tables 6 and 7, respectively.
+
+## Molecular detection of resistance-associated genes
+
+Six of 8 screened resistance-associated genes were detected in S. enterica serovars by PCR (Table 6). Eleven (73.3%) isolates harboured  $ bla_{CTX-M} $  gene (1, 3 and 14) associated with cefotaxime resistance and 11 (73.3%) isolates harboured  $ bla_{TEM-1} $  gene associated with penicillin and narrow spectrum  $ \beta $ -lactamase resistance. Five (33.3%) isolates harboured quinolone resistance gene.
+
+<div style="text-align: center;">Table 6 Phenotypic resistance and resistance determinants found in S. enterica isolates in this study</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Source</td><td style='text-align: center;'>Serovar</td><td style='text-align: center;'>Resistance phenotype</td><td style='text-align: center;'>Resistance genes/class 1 integrons</td></tr><tr><td style='text-align: center;'>Poultry</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>CPD, CTX, NAL</td><td style='text-align: center;'>bla $ _{\text{CTX-M-1}} $ , qnrA, qnrB, qnrS</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, AMP, CPD</td><td style='text-align: center;'>bla $ _{\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>Enteritidis</td><td style='text-align: center;'>AMP, CTX, TET</td><td style='text-align: center;'>bla $ _{\text{CTX-M-1}} $ , bla $ _{\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>Kentucky</td><td style='text-align: center;'>AMC, AMP, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\text{TEM-1}} $ , qnrA</td></tr><tr><td style='text-align: center;'>Fresh poultry organs (liver)</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, AMP, CPD, CRO, CTX, NAL, T/S</td><td style='text-align: center;'>bla $ _{\text{CTX-M-1}} $ , bla $ _{\text{TEM-1}} $ , qnrA, dfrA15, dfrA17</td></tr><tr><td style='text-align: center;'>Fresh poultry organs (liver)</td><td style='text-align: center;'>Paratyphi A</td><td style='text-align: center;'>AMC, AMP, CAZ CRO, CTX, T/S</td><td style='text-align: center;'>bla $ _{\text{CTX-M-14}} $ , bla $ _{\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Frozen poultry meat</td><td style='text-align: center;'>Paratyphi A</td><td style='text-align: center;'>AMC, AMP, CRO, CTX, T/S</td><td style='text-align: center;'>bla $ _{\text{CTX-M-14}} $ , bla $ _{\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Beef</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMP, CAZ, CTX</td><td style='text-align: center;'>bla $ _{\text{CTX-M-1}} $</td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMP, CAZ, CRO, CTX</td><td style='text-align: center;'>bla $ _{\text{CTX-M-1}} $</td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, CPD, CTX, TET, T/S</td><td style='text-align: center;'>bla $ _{\text{CTX-M-3}} $ , bla $ _{\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>Enteritidis</td><td style='text-align: center;'>AMP, CPD, CTX, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\text{CMY-2}} $ , bla $ _{\text{CTX-M-1}} $ , bla $ _{\text{TEM-1}} $ , qnrA, qnrB</td></tr><tr><td style='text-align: center;'>Fresh beef organs (spleen)</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMP, CPD, CTX, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\text{CTX-M-14}} $ , bla $ _{\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh beef organs (liver)</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, AMP, CPD</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>Fresh beef organs (liver)</td><td style='text-align: center;'>Paratyphi A</td><td style='text-align: center;'>AMP, CPD, CTX</td><td style='text-align: center;'>bla $ _{\text{TEM1}} $</td></tr><tr><td style='text-align: center;'>Frozen beef meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, AMP, CAZ, CPD, CRO, CTX, ENR, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\text{CMY-2}} $ , bla $ _{\text{CTX-M-1}} $ , bla $ _{\text{TEM1}} $ , qnrA, qnrB, aadA2</td></tr></table>
+
+AMC amoxycillin–clavulanic acid, AMP ampicillin, CAZ ceftazidime, CPD cefpodoxime, CRO chloramphenicol, CTX cefotaxime, ENR enrofloxacin, NAL nalidixic acid, STR streptomycin, TET tetracycline, T/S trimethoprim/sulphamethoxazole

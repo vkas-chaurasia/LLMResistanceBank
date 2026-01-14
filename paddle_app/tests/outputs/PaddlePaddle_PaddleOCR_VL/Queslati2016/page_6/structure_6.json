@@ -1,0 +1,557 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Queslati2016.pdf",
+    "page_index": 5,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "W. Oueslati et al. / Meat Science 119 (2016) 154–159",
+            "block_bbox": [
+                456,
+                73,
+                752,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "159",
+            "block_bbox": [
+                1099,
+                73,
+                1125,
+                87
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Nayak, R., Stewart, T., & Wang, R. F. (2004). Genetic diversity and virulence gene determinants of antibiotic-resistant Salmonella isolated from preharvest turkey production sources. International Journal of Food Microbiology, 91, 51–62.",
+            "block_bbox": [
+                83,
+                109,
+                588,
+                157
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Okamoto, S. A., Filho, R., & Rocha, T. S. (2009). Relation between the spvC and invA virulence genes and resistance of Salmonella Enteritidis. International Journal of Poultry Science, 8, 579–582.",
+            "block_bbox": [
+                83,
+                158,
+                589,
+                204
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Popoff, M. Y., Bockemühl, J., & Gheesling, L. L. (2001). Supplement 2001 (no. 45) to the Kauffmann–White scheme. Research in Microbiology, 154, 173–174.",
+            "block_bbox": [
+                83,
+                205,
+                588,
+                237
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "R.T.S.R.B.A (2012). Report of the supervisory Tunisian network of bacterial resistance to antibiotics 2008 to 2010.",
+            "block_bbox": [
+                83,
+                238,
+                587,
+                268
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Rabsch, W., Tschäpe, H., & Baumler, A. J. (2001). Non-typhoidal Salmonellosis: Emerging problem. Microbes and Infection, 3, 237–247.",
+            "block_bbox": [
+                83,
+                269,
+                588,
+                300
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Radostits, O. M., Blood, D. C., & Hinchcliff, K. W. (2000). Diseases caused by Salmonella spp. Veterinary Medicine, a textbook for the disease of cattle, sheep, pigs, goats and horses (pp. 809–826) (9th ed.). London: WB Saunders.",
+            "block_bbox": [
+                84,
+                302,
+                588,
+                348
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Randall, L. P., Cooles, S. W., Osborn, M. K., Piddock, L. J., & Woodward, M. J. (2004). Antibiotic resistance genes, integrons and multiple antibiotic resistances in thirty-five serotypes of Salmonella enterica isolated from humans and animals in the UK. Journal of Antimicrobial Chemotherapy, 53, 208–216.",
+            "block_bbox": [
+                83,
+                349,
+                589,
+                412
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Rotger, R., & Casadesus, J. (1999). The virulence plasmid of Salmonella. International Microbiology, 2, 177–184.",
+            "block_bbox": [
+                83,
+                412,
+                589,
+                443
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Scallan, E., Hoekstra, R. M., Angulo, F. J., Tauxe, R. V., Widdowson, M. -A., & Roy, S. L. (2011). Foodborne illness acquired in the United States—Major pathogens. Emerging Infectious Diseases, 17, 7–15.",
+            "block_bbox": [
+                83,
+                444,
+                588,
+                491
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Scharff, R. L. (2010). Health related costs from foodborne illness in USA. Washington, D. C.: Georgetown University.",
+            "block_bbox": [
+                617,
+                109,
+                1124,
+                141
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Schwartz, D. (1993). Méthodes statistiques à l'usage des médecins et des biologistes (3ème éd.). Paris, France: Flammarion.",
+            "block_bbox": [
+                618,
+                141,
+                1124,
+                173
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Sire, J. M., & Garin, B. (2008). Low-level resistance to ciprofloxacin in non-Typhi Salmonella isolates from human gastroenteritis. International Journal of Antimicrobial Agents, 31, 581–592.",
+            "block_bbox": [
+                618,
+                174,
+                1124,
+                220
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Su, C., & Ou, J. T. (2004). Antimicrobial resistance in nontyphoid Salmonella. Clinical Infectious Diseases, 39, 546–551.",
+            "block_bbox": [
+                617,
+                221,
+                1124,
+                252
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Turki, Y., Ouzari, H., & Ben Aissa, R. (2012). Biofilm formation, virulence gene and multidrug resistance in Salmonella Kentucky isolated in Tunisia. Food Research International, 45, 940–946.",
+            "block_bbox": [
+                618,
+                253,
+                1124,
+                300
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Valone, S., & Muller, V. L. (1993). Stress induction of the virulence proteins. Infection and Immunity, 61, 707–713.",
+            "block_bbox": [
+                618,
+                301,
+                1124,
+                332
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Vieria-Pinto, M., & Tenreiro, R. (2012). Relationship between tonsils and mandibular lymph nodes concerning Salmonella sp. infection. Food Research International, 45, 863–866.",
+            "block_bbox": [
+                618,
+                333,
+                1124,
+                379
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Weill, F. X., Grimont, P., & Cloeckaert, A. (2006). Ciprofloxacin-resistance Salmonella Kentucky in travelers. Emerging Infectious Diseases, 12, 1611–1612.",
+            "block_bbox": [
+                618,
+                381,
+                1124,
+                412
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Whichard, J., Gay, K., & Cooper, K. L. (2007). Human Salmonella and concurrent decreased susceptibility to quinolones. Emerging Infectious Diseases, 13, 1681–1688.",
+            "block_bbox": [
+                618,
+                412,
+                1124,
+                443
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "WHO (2013). Salmonella (non-typhoidal). Media Centre, Fact sheet No 139, Updated August 2013.",
+            "block_bbox": [
+                618,
+                444,
+                1124,
+                475
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9401158690452576,
+                "coordinate": [
+                    456.18670654296875,
+                    73.22392272949219,
+                    752.1884155273438,
+                    88.81398010253906
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.891480028629303,
+                "coordinate": [
+                    1099.802001953125,
+                    73.58905029296875,
+                    1125.597900390625,
+                    87.5859375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.977893054485321,
+                "coordinate": [
+                    83.038330078125,
+                    109.8711166381836,
+                    588.3892211914062,
+                    157.13058471679688
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9766619205474854,
+                "coordinate": [
+                    83.3084716796875,
+                    158.4927978515625,
+                    589.055419921875,
+                    204.17279052734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9706925749778748,
+                "coordinate": [
+                    83.0411376953125,
+                    205.86444091796875,
+                    588.3746337890625,
+                    237.31207275390625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9688053131103516,
+                "coordinate": [
+                    83.41307067871094,
+                    238.17221069335938,
+                    587.7516479492188,
+                    268.3651123046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9702089428901672,
+                "coordinate": [
+                    83.49639892578125,
+                    269.6651611328125,
+                    588.1853637695312,
+                    300.6903076171875
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9900643229484558,
+                "coordinate": [
+                    81.91482543945312,
+                    108.45046997070312,
+                    590.587646484375,
+                    492.7225036621094
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9778733253479004,
+                "coordinate": [
+                    84.138671875,
+                    302.1358642578125,
+                    588.17529296875,
+                    348.6173095703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9797816276550293,
+                "coordinate": [
+                    83.71891784667969,
+                    349.89727783203125,
+                    589.6649780273438,
+                    412.18914794921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9667655229568481,
+                "coordinate": [
+                    83.20231628417969,
+                    412.8779296875,
+                    589.0702514648438,
+                    443.20654296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9745817184448242,
+                "coordinate": [
+                    83.03535461425781,
+                    444.4227294921875,
+                    588.1459350585938,
+                    491.77490234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9698055982589722,
+                "coordinate": [
+                    617.674560546875,
+                    109.41752624511719,
+                    1124.84619140625,
+                    141.24729919433594
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9685959815979004,
+                "coordinate": [
+                    618.06396484375,
+                    141.91978454589844,
+                    1124.704345703125,
+                    173.03224182128906
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9763885140419006,
+                "coordinate": [
+                    618.0098876953125,
+                    174.249267578125,
+                    1124.6221923828125,
+                    220.449462890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9696803689002991,
+                "coordinate": [
+                    617.8642578125,
+                    221.8332061767578,
+                    1124.4404296875,
+                    252.52171325683594
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9892127513885498,
+                "coordinate": [
+                    616.117431640625,
+                    107.53573608398438,
+                    1126.206298828125,
+                    476.6497497558594
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9774720072746277,
+                "coordinate": [
+                    618.4515380859375,
+                    253.88592529296875,
+                    1124.7176513671875,
+                    300.13287353515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9690458178520203,
+                "coordinate": [
+                    618.393798828125,
+                    301.3116760253906,
+                    1124.82666015625,
+                    332.5281677246094
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9762954711914062,
+                "coordinate": [
+                    618.5662841796875,
+                    333.68939208984375,
+                    1124.6383056640625,
+                    379.79388427734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9679789543151855,
+                "coordinate": [
+                    618.064208984375,
+                    381.3814697265625,
+                    1124.556884765625,
+                    412.57647705078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.968829333782196,
+                "coordinate": [
+                    618.174560546875,
+                    412.97833251953125,
+                    1124.54638671875,
+                    443.68194580078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9668008685112,
+                "coordinate": [
+                    618.34228515625,
+                    444.37042236328125,
+                    1124.47509765625,
+                    475.23895263671875
+                ]
+            }
+        ]
+    }
+}

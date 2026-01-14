@@ -1,0 +1,391 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Gharieb2015.pdf",
+    "page_index": 0,
+    "page_count": 11,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Gharieb et al. Gut Pathog (2015) 7:34 DOI 10.1186/s13099-015-0081-1",
+            "block_bbox": [
+                107,
+                64,
+                356,
+                108
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Gut Pathogens",
+            "block_bbox": [
+                870,
+                64,
+                1082,
+                103
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "RESEARCH",
+            "block_bbox": [
+                118,
+                182,
+                262,
+                212
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Open Access",
+            "block_bbox": [
+                921,
+                181,
+                1076,
+                211
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_970_217_1081_261.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                970,
+                217,
+                1081,
+                261
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Non-Typhoidal Salmonella in poultry meat and diarrhoeic patients: prevalence, antibiogram, virulotyping, molecular detection and sequencing of class I integrons in multidrug resistant strains",
+            "block_bbox": [
+                106,
+                235,
+                1074,
+                496
+            ],
+            "block_id": 5,
+            "block_order": 3,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Rasha M. Gharieb $ ^{1*} $ , Yasmine H. Tartor $ ^{2} $  and Mariam H. E. Khedr $ ^{3} $ ",
+            "block_bbox": [
+                106,
+                512,
+                663,
+                542
+            ],
+            "block_id": 6,
+            "block_order": 4,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Abstract",
+            "block_bbox": [
+                120,
+                600,
+                209,
+                627
+            ],
+            "block_id": 7,
+            "block_order": 5,
+            "group_id": 7
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Background: The worldwide increase of food-borne infections with antibiotic resistant pathogens constitutes a major public health problem. Therefore, this study aimed to determine the prevalence, antibiogram, virulence genes profiles and integron characteristics of non-typhoidal Salmonella spp. isolated from poultry meat and diarrhoeic patients in Egypt.",
+            "block_bbox": [
+                117,
+                629,
+                1056,
+                732
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Methods: A total of 150 samples comprising (100 poultry meat and 50 diarrhoeic patients' stool) were examined for the presence of Salmonella spp. using culture methods followed by biochemical and serological identification of the isolates. All Salmonella strains were tested for their susceptibility to the antibiotics using disk diffusion method and screened for the presence of virulence genes and class I integrons using PCR.",
+            "block_bbox": [
+                117,
+                732,
+                1057,
+                834
+            ],
+            "block_id": 9,
+            "block_order": 7,
+            "group_id": 9
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Results: The overall prevalence of Salmonella spp. in poultry meat samples was 10% compared to 4% in diarrhoeic patients. All the isolates were serologically identified into Salmonella Typhimurium (seven isolates), S. Derby, S. Kiel, S. Rubislaw (one isolate, each) and untypable strains (two isolates). Antibiotic susceptibility testing showed a higher resistance of the total isolates to erythromycin and tetracycline (100%, each), followed by amoxicillin-clavulanic acid (91.7%), trimethoprim-sulfamethoxazole (83.3%), streptomycin, nalidixic acid, ampicillin-sulbactam (75%, each), gentamycin, ampicillin (66.7%, each), chloramphenicol (58.3%), ciprofloxacin (25%) and ceftriaxone (16.7%). Virulence genes profiles revealed the presence of sopB gene in five Salmonella strains isolated from poultry meat (n=3) and humans (n=2). Moreover, pefA was only identified in three isolates from poultry meat. On the other hand, S. Kiel and S. Typhimurium (one isolate, each) were harboring hilA and stn genes, respectively. Class 1 integrons were detected in all Salmonella spp. with variable amplicon sizes ranged from 650–3000 bp. Sequencing of these amplicons revealed the presence of gene cassettes harboring  $ aac(3) $ -ld, aadA2, aadA4, aadA7, sat, dfrA15, lnuF and estX resistance genes. Nucleotide sequence analysis showed point mutations in the  $ aac(3) $ -ld of S. Derby, aadA2, estX-sat genes of S. Typhimurium. Meanwhile, frame shift mutation was observed in aadA7 genes of S. Typhimurium.",
+            "block_bbox": [
+                117,
+                834,
+                1064,
+                1152
+            ],
+            "block_id": 10,
+            "block_order": 8,
+            "group_id": 10
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Conclusions: Increasing rate of antimicrobial resistance and class 1 integrons among multidrug resistant Salmonella spp. has prompted calls for the reduction of antimicrobial use in livestock to prevent future emergence of resistance.\nKeywords: Salmonella spp., Zoonoses, multidrug resistance, Virulence, Class I integrons",
+            "block_bbox": [
+                117,
+                1153,
+                1058,
+                1237
+            ],
+            "block_id": 11,
+            "block_order": 9,
+            "group_id": 11
+        },
+        {
+            "block_label": "footnote",
+            "block_content": " $ ^{*} $ Correspondence: ghariebrasha@gmail.com\n $ ^{1} $  Department of Zoonoses, Faculty of Veterinary Medicine, Zagazig University, 44511 Zagazig, Egypt\nFull list of author information is available at the end of the article",
+            "block_bbox": [
+                107,
+                1306,
+                509,
+                1381
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_109_1406_337_1455.jpg\" alt=\"Image\" width=\"19%\" /></div>\n",
+            "block_bbox": [
+                109,
+                1406,
+                337,
+                1455
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "footer",
+            "block_content": "© 2015 Gharieb et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
+            "block_bbox": [
+                354,
+                1405,
+                1064,
+                1491
+            ],
+            "block_id": 14,
+            "block_order": null,
+            "group_id": 14
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9518159627914429,
+                "coordinate": [
+                    107.06767272949219,
+                    64.36111450195312,
+                    356.43505859375,
+                    108.47412109375
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9220799207687378,
+                "coordinate": [
+                    870.3780517578125,
+                    64.66975402832031,
+                    1082.5233154296875,
+                    103.82443237304688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8211160898208618,
+                "coordinate": [
+                    118.7891845703125,
+                    182.89976501464844,
+                    262.7898864746094,
+                    212.59437561035156
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6813125610351562,
+                "coordinate": [
+                    921.7120361328125,
+                    181.27389526367188,
+                    1076.6434326171875,
+                    211.51104736328125
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.5675954818725586,
+                "coordinate": [
+                    970.9317626953125,
+                    217.70758056640625,
+                    1081.8267822265625,
+                    261.05926513671875
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9821287393569946,
+                "coordinate": [
+                    106.699462890625,
+                    235.95306396484375,
+                    1074.586181640625,
+                    496.50726318359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9428266882896423,
+                "coordinate": [
+                    106.94866943359375,
+                    512.5743408203125,
+                    663.818115234375,
+                    542.8016357421875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8893692493438721,
+                "coordinate": [
+                    120.85204315185547,
+                    600.653564453125,
+                    209.9627685546875,
+                    627.05078125
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.7982625961303711,
+                "coordinate": [
+                    117.444580078125,
+                    629.8033447265625,
+                    1056.11865234375,
+                    732.2642822265625
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.8293903470039368,
+                "coordinate": [
+                    117.52383422851562,
+                    732.873779296875,
+                    1057.09765625,
+                    834.03466796875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9695262908935547,
+                "coordinate": [
+                    117.57882690429688,
+                    834.0645751953125,
+                    1064.7230224609375,
+                    1152.1405029296875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.6296871304512024,
+                "coordinate": [
+                    117.9873046875,
+                    1153.5589599609375,
+                    1058.9532470703125,
+                    1237.9417724609375
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.930228590965271,
+                "coordinate": [
+                    107.79148864746094,
+                    1306.453125,
+                    509.07696533203125,
+                    1381.584228515625
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.955095112323761,
+                "coordinate": [
+                    109.83942413330078,
+                    1406.721435546875,
+                    337.1400146484375,
+                    1455.408203125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9644436240196228,
+                "coordinate": [
+                    354.6331787109375,
+                    1405.3232421875,
+                    1064.9051513671875,
+                    1491.17626953125
+                ]
+            }
+        ]
+    }
+}

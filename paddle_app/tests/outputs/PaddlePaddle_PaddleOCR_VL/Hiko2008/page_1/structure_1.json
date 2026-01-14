@@ -1,0 +1,459 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Hiko2008.pdf",
+    "page_index": 0,
+    "page_count": 5,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Brief Original Article",
+            "block_bbox": [
+                97,
+                131,
+                351,
+                161
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Occurrence of Escherichia coli O157:H7 in retail raw meat products in Ethiopia",
+            "block_bbox": [
+                96,
+                192,
+                1031,
+                258
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Adem Hiko $ ^{1} $ , Daniel Asrat $ ^{2} $ , Girma Zewde $ ^{1} $ ",
+            "block_bbox": [
+                94,
+                283,
+                549,
+                313
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{1} $ Department of Veterinary Microbiology and Public Health, Faculty of Veterinary Medicine, Addis Ababa University, P.O.Box 34, Debre Zeit, Ethiopia",
+            "block_bbox": [
+                95,
+                339,
+                1117,
+                381
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{2} $ Department of Medical Microbiology, Immunology and Parasitology, Faculty of Medicine, Addis Ababa University, P.O.Box 9086, Addis Ababa, Ethiopia",
+            "block_bbox": [
+                95,
+                381,
+                1084,
+                424
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Abstract",
+            "block_bbox": [
+                96,
+                467,
+                185,
+                488
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Background: Escherichia coli O157:H7 (E. coli O157:H7) is now recognized as a major cause of diarrhoea, hemorrhagic colitis and hemolytic-uremic syndrome worldwide. Consumption of raw or undercooked meat of bovine origin has been the most common means of transmitting this organism.\n\nMethodology: Over a period of 7 months (October 2006 to April 2007), a total of 738 raw meat samples were collected from bovines (n=250), sheep (n=243) and goat (n=245) and investigated for the presence of E. coli O157:H7. Antimicrobial susceptibility testing was performed using the disk diffusion method.\n\nResults: E. coli O157:H7 were isolated from 31 (4.2%) out of 738 meat samples examined. Among meat samples examined, the highest prevalence (8%) was recorded in beef, followed by lamb and mutton (2.5%) and goat meat (2%). The isolated strains were found to be susceptible (100%) to amikacin, chloramphenicol, gentamicin, kanamycin, nalidixic acid, norfloxacin, polymyxin B and trimethoprim-sulfamethoxazole. Multidrug resistance to three or more drugs was detected in 7/31 (22.6%) strains.\n\nConclusions: The results of this study revealed the presence of E. coli O157:H7 in retail raw meats reaching consumers, indicating possible risks of infection to people through the consumption of raw/under-cooked meat or cross-contamination of other food products. Coordinated actions are needed to reduce or eliminate the risks posed by this organism at various stages in food chain. Multiple drug resistant isolates detected in the present study may pose a threat to humans and further limit therapeutic options.",
+            "block_bbox": [
+                94,
+                489,
+                1128,
+                784
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Key Words: Escherichia coli O157:H7, prevalence, antimicrobial susceptibility, raw meat, Ethiopia",
+            "block_bbox": [
+                95,
+                800,
+                834,
+                823
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "J Infect Developing Countries 2008; 2(5):389-393.",
+            "block_bbox": [
+                95,
+                842,
+                468,
+                864
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Received 18 April 2008 - Accepted 7 July 2008",
+            "block_bbox": [
+                95,
+                881,
+                410,
+                903
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Copyright © 2008 Hiko et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+            "block_bbox": [
+                93,
+                919,
+                1124,
+                960
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I ntroduction",
+            "block_bbox": [
+                95,
+                986,
+                232,
+                1008
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Escherichia coli (E. coli) is a normal part of the intestinal micro-flora of many healthy animals, including humans. However, some strains can cause diseases. Verocytotoxigenic E. coli (VTEC) (also referred to as Shiga toxin-producing E. coli), including serotype O157:H7, are one such group, causing severe, chronic, and potentially fatal illness such as hemorrhagic colitis, hemolytic uremic syndrome, thrombotic thrombocytopenic purpura and, in severe cases, death, related to their ability to produce one or more toxins known as verotoxin or Shiga-like toxin $ ^{[1]} $ . Consumption of raw or undercooked foods of bovine origin has been the most common means of transmitting VTEC organisms in sporadic cases and in outbreaks of VTEC infection $ ^{[2]} $ .",
+            "block_bbox": [
+                93,
+                1010,
+                601,
+                1389
+            ],
+            "block_id": 12,
+            "block_order": 12,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Nevertheless, a variety of other foods have also been implicated in causing outbreaks  $ [3,4] $ . Antibiotic use in VTEC infections is controversial because of the potential to increase production and secretion of Shiga toxins  $ [5] $ . However, increase in antibiotic resistance has been noted over the last 20 years  $ [6-8] $ . Outbreaks of  $ E.\\ coli $  O157 have been reported in different parts of the world  $ [9-11] $ .",
+            "block_bbox": [
+                94,
+                1390,
+                602,
+                1441
+            ],
+            "block_id": 13,
+            "block_order": 13,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                618,
+                985,
+                1127,
+                1137
+            ],
+            "block_id": 14,
+            "block_order": 14,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "However, little is known about the prevalence of this serogroup in Ethiopia, either in humans or in the animal population or in foods  $ [12] $ . The present study was conducted to address the lack of information pertaining to the prevalence and antibiotic susceptibility profiles of  $ E.\\ coli $  O157:H7 in raw meat obtained from food animals in Ethiopia where raw meat from these sources is widely consumed.",
+            "block_bbox": [
+                618,
+                1137,
+                1128,
+                1340
+            ],
+            "block_id": 15,
+            "block_order": 15,
+            "group_id": 15
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8651204705238342,
+                "coordinate": [
+                    97.39653778076172,
+                    131.060302734375,
+                    351.55902099609375,
+                    161.899658203125
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9749334454536438,
+                "coordinate": [
+                    96.07373046875,
+                    192.41195678710938,
+                    1031.5723876953125,
+                    258.38934326171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.944085955619812,
+                "coordinate": [
+                    94.98516845703125,
+                    283.18499755859375,
+                    549.4407958984375,
+                    313.28546142578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9609242081642151,
+                "coordinate": [
+                    95.695556640625,
+                    339.450927734375,
+                    1117.7823486328125,
+                    381.6243896484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9534632563591003,
+                "coordinate": [
+                    95.09011840820312,
+                    381.4781188964844,
+                    1084.88134765625,
+                    424.4891662597656
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9176368117332458,
+                "coordinate": [
+                    96.63207244873047,
+                    467.39971923828125,
+                    185.3441162109375,
+                    488.58453369140625
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.520225465297699,
+                "coordinate": [
+                    94.60888671875,
+                    489.9787902832031,
+                    1127.7528076171875,
+                    552.531982421875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.6167417764663696,
+                "coordinate": [
+                    94.826171875,
+                    552.2200927734375,
+                    1126.79150390625,
+                    615.7039794921875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.7513325214385986,
+                "coordinate": [
+                    94.233154296875,
+                    489.52203369140625,
+                    1128.19189453125,
+                    784.1204223632812
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.6815932989120483,
+                "coordinate": [
+                    94.0355224609375,
+                    614.258056640625,
+                    1127.3389892578125,
+                    698.3160400390625
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.7869318127632141,
+                "coordinate": [
+                    93.6983642578125,
+                    697.1507568359375,
+                    1128.330322265625,
+                    783.2733154296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9364344477653503,
+                "coordinate": [
+                    95.29541015625,
+                    800.6162109375,
+                    834.120361328125,
+                    823.3779296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9450361728668213,
+                "coordinate": [
+                    95.25323486328125,
+                    842.555419921875,
+                    468.94952392578125,
+                    864.28759765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.948566198348999,
+                "coordinate": [
+                    95.576904296875,
+                    881.9208984375,
+                    410.31048583984375,
+                    903.426025390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9631872773170471,
+                "coordinate": [
+                    93.8883056640625,
+                    919.0159912109375,
+                    1124.723388671875,
+                    960.46435546875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9446189403533936,
+                "coordinate": [
+                    95.55865478515625,
+                    986.11962890625,
+                    232.37039184570312,
+                    1008.5712890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9890088438987732,
+                "coordinate": [
+                    93.27154541015625,
+                    1010.9781494140625,
+                    601.8319702148438,
+                    1389.4932861328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9725606441497803,
+                "coordinate": [
+                    94.19435119628906,
+                    1390.86376953125,
+                    602.159423828125,
+                    1441.912353515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873907566070557,
+                "coordinate": [
+                    618.73193359375,
+                    985.1884765625,
+                    1127.67626953125,
+                    1137.140380859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882661700248718,
+                "coordinate": [
+                    618.6253662109375,
+                    1137.942626953125,
+                    1128.6373291015625,
+                    1340.79931640625
+                ]
+            }
+        ]
+    }
+}

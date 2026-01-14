@@ -1,0 +1,411 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Odwar2014.pdf",
+    "page_index": 3,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Odwar et al. BMC Research Notes 2014, 7:627",
+            "block_bbox": [
+                108,
+                64,
+                417,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "http://www.biomedcentral.com/1756-0500/7/627",
+            "block_bbox": [
+                107,
+                85,
+                444,
+                106
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 4 of 8",
+            "block_bbox": [
+                995,
+                64,
+                1082,
+                87
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 1 Descriptive statistics of microbiological count of raw chicken meats from 5 different classifications of retail outlets</div>\n",
+            "block_bbox": [
+                106,
+                174,
+                1047,
+                219
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Bacteria</td><td rowspan=\"2\">Summary statistics</td><td colspan=\"3\">Total count  $ \\log_{10} $  CFU/ml of carcass rinse</td><td rowspan=\"2\">L.M.I butcheries</td><td rowspan=\"2\">L.I.A butcheries</td></tr><tr><td style='text-align: center;'>Supermarkets</td><td style='text-align: center;'>H.I.A butcheries</td><td style='text-align: center;'>H.M.I butcheries</td></tr><tr><td rowspan=\"5\">E.coli</td><td style='text-align: center;'>Average  $ \\log_{10} $</td><td style='text-align: center;'>0.9376</td><td style='text-align: center;'>2.6510</td><td style='text-align: center;'>5.0007</td><td style='text-align: center;'>4.8084</td><td style='text-align: center;'>4.9882</td></tr><tr><td style='text-align: center;'>Median</td><td style='text-align: center;'>0.9031</td><td style='text-align: center;'>1.7243</td><td style='text-align: center;'>6.0000</td><td style='text-align: center;'>5.9031</td><td style='text-align: center;'>6.0792</td></tr><tr><td style='text-align: center;'>SD</td><td style='text-align: center;'>0.6794</td><td style='text-align: center;'>2.3638</td><td style='text-align: center;'>2.8155</td><td style='text-align: center;'>2.5910</td><td style='text-align: center;'>3.1096</td></tr><tr><td style='text-align: center;'>Minimum</td><td style='text-align: center;'>0.0000</td><td style='text-align: center;'>0.0000</td><td style='text-align: center;'>0.0000</td><td style='text-align: center;'>1.0410</td><td style='text-align: center;'>0.0000</td></tr><tr><td style='text-align: center;'>Maximum</td><td style='text-align: center;'>2.1460</td><td style='text-align: center;'>8.0000</td><td style='text-align: center;'>8.0790</td><td style='text-align: center;'>8.0000</td><td style='text-align: center;'>8.0000</td></tr><tr><td rowspan=\"5\">Coliforms</td><td style='text-align: center;'>Average  $ \\log_{10} $</td><td style='text-align: center;'>1.7239</td><td style='text-align: center;'>5.0769</td><td style='text-align: center;'>6.1855</td><td style='text-align: center;'>5.2953</td><td style='text-align: center;'>6.0111</td></tr><tr><td style='text-align: center;'>Median</td><td style='text-align: center;'>1.5315</td><td style='text-align: center;'>6.0000</td><td style='text-align: center;'>7.5374</td><td style='text-align: center;'>6.0000</td><td style='text-align: center;'>7.0731</td></tr><tr><td style='text-align: center;'>SD</td><td style='text-align: center;'>1.3324</td><td style='text-align: center;'>2.9304</td><td style='text-align: center;'>2.3052</td><td style='text-align: center;'>2.5475</td><td style='text-align: center;'>2.6770</td></tr><tr><td style='text-align: center;'>Minimum</td><td style='text-align: center;'>0.6990</td><td style='text-align: center;'>0.9030</td><td style='text-align: center;'>0.3420</td><td style='text-align: center;'>1.1760</td><td style='text-align: center;'>0.4770</td></tr><tr><td style='text-align: center;'>Maximum</td><td style='text-align: center;'>8.0000</td><td style='text-align: center;'>8.0790</td><td style='text-align: center;'>8.1610</td><td style='text-align: center;'>8.0000</td><td style='text-align: center;'>8.1760</td></tr></table>",
+            "block_bbox": [
+                107,
+                220,
+                1079,
+                554
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "H.I.A butcheries-High income area butcheries, H.M.I butcheries-High-middle income area butcheries.",
+            "block_bbox": [
+                107,
+                557,
+                725,
+                576
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "L.M.I- Low-middle income area butcheries, L.I.A- Low income area butcheries.",
+            "block_bbox": [
+                107,
+                575,
+                582,
+                594
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "retail outlets  $ (\\chi^{2}n-1=4.178;\\ d.f=4;\\ p=0.382) $ . However, samples from supermarkets had the highest prevalence (84.6%) while samples from outlets in low income areas had the lowest prevalence of antimicrobial resistance (62.5%).",
+            "block_bbox": [
+                105,
+                629,
+                585,
+                752
+            ],
+            "block_id": 7,
+            "block_order": 1,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Prevalence of E. coli isolates harboring virulence markers\n\nOf the E. coli isolated from raw retail chicken meat, 40.4% carried at least one of 10 virulence genes tested and specific for 5 known diarrheagenic E. coli. Of the E. coli positive for virulence genes in this study, ETEC was the most common pathogenic E. coli (61%) while the least common was EAggEC (5%) (Table 4).",
+            "block_bbox": [
+                104,
+                774,
+                585,
+                946
+            ],
+            "block_id": 8,
+            "block_order": 2,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Conclusion",
+            "block_bbox": [
+                106,
+                966,
+                220,
+                990
+            ],
+            "block_id": 9,
+            "block_order": 3,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "The  $ E.\\ coli $  contamination rate observed in this study was almost similar to that observed in studies conducted in other developing countries. For instance, contamination rates of 98% were observed in the north east part of India, 100% in Cameroon and 100% in Vietnam [28-30]. Similar high recovery rates have been observed in studies from developed countries with contamination rates as high as 100% in Japan, 89% in Minnesota, U.S.A., and 90% in two states in Australia [31-34]. Similarly, studies in Hanoi, Vietnam, Morocco and some states in America have shown that the percentage of retail chicken samples which fall under the unacceptable food safety range were also high and that perishable produce items, including poultry, available in markets in low-socio-economic status census tracts had higher microbial indicator counts compared to markets in high-socio-economic status due to a higher prevalence of food safety violations [30,35-37,16,17]. The results observed in this study might be due to factors common in Nairobi such as home slaughter of chicken by small scale poultry producers instead of slaughter at private or municipal government approved chicken slaughter houses thus increasing the potential risks for contamination due to bio-security flaws [13]. All samples from supermarkets and a majority of samples from high income butcheries were products of government approved private chicken slaughter houses. Majority of carcasses in Nairobi tend to be lumped together in one large container or sack as they are being transported in ambient temperature thus exposing them to the open air as well as allowing transfer of contaminants from one carcass to another and subsequent microbial",
+            "block_bbox": [
+                105,
+                990,
+                586,
+                1186
+            ],
+            "block_id": 10,
+            "block_order": 4,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                600,
+                630,
+                1085,
+                1187
+            ],
+            "block_id": 11,
+            "block_order": 5,
+            "group_id": 10
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 2 Assessment of Microbial count results of raw chicken meat from the different retail markets</div>\n",
+            "block_bbox": [
+                106,
+                1219,
+                926,
+                1243
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'></td><td colspan=\"2\">% acceptable samples</td><td colspan=\"2\">% marginal samples</td><td colspan=\"2\">% unacceptable samples</td></tr><tr><td style='text-align: center;'>Retail outlet</td><td style='text-align: center;'>E.coli</td><td style='text-align: center;'>Coliforms</td><td style='text-align: center;'>E.coli</td><td style='text-align: center;'>Coliforms</td><td style='text-align: center;'>E.coli</td><td style='text-align: center;'>Coliforms</td></tr><tr><td style='text-align: center;'>Supermarket</td><td style='text-align: center;'>97%</td><td style='text-align: center;'>84%</td><td style='text-align: center;'>3%</td><td style='text-align: center;'>13%</td><td style='text-align: center;'>0%</td><td style='text-align: center;'>3%</td></tr><tr><td style='text-align: center;'>H.I.A butcheries</td><td style='text-align: center;'>69%</td><td style='text-align: center;'>26%</td><td style='text-align: center;'>10%</td><td style='text-align: center;'>15%</td><td style='text-align: center;'>21%</td><td style='text-align: center;'>59%</td></tr><tr><td style='text-align: center;'>H.M.I butcheries</td><td style='text-align: center;'>29%</td><td style='text-align: center;'>7%</td><td style='text-align: center;'>12%</td><td style='text-align: center;'>14%</td><td style='text-align: center;'>60%</td><td style='text-align: center;'>79%</td></tr><tr><td style='text-align: center;'>L.M.I butcheries</td><td style='text-align: center;'>25%</td><td style='text-align: center;'>10%</td><td style='text-align: center;'>10%</td><td style='text-align: center;'>20%</td><td style='text-align: center;'>65%</td><td style='text-align: center;'>70%</td></tr><tr><td style='text-align: center;'>L.I.A butcheries</td><td style='text-align: center;'>16%</td><td style='text-align: center;'>33%</td><td style='text-align: center;'>6%</td><td style='text-align: center;'>6%</td><td style='text-align: center;'>78%</td><td style='text-align: center;'>61%</td></tr></table>",
+            "block_bbox": [
+                106,
+                1265,
+                1081,
+                1466
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8798106908798218,
+                "coordinate": [
+                    108.21014404296875,
+                    64.19062805175781,
+                    417.7528076171875,
+                    84.97682189941406
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8121803402900696,
+                "coordinate": [
+                    107.73722839355469,
+                    85.22062683105469,
+                    444.94708251953125,
+                    106.71717834472656
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9047474265098572,
+                "coordinate": [
+                    995.834228515625,
+                    64.59370422363281,
+                    1082.0078125,
+                    87.48152160644531
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9613107442855835,
+                "coordinate": [
+                    106.21127319335938,
+                    174.37652587890625,
+                    1047.1571044921875,
+                    219.66534423828125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40572303533554077,
+                "coordinate": [
+                    465.8071594238281,
+                    226.48321533203125,
+                    504.9176330566406,
+                    247.0164794921875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4698185324668884,
+                "coordinate": [
+                    288.9036865234375,
+                    279.76300048828125,
+                    325.65582275390625,
+                    301.50567626953125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.987464189529419,
+                "coordinate": [
+                    107.148681640625,
+                    220.26275634765625,
+                    1079.58154296875,
+                    554.7839965820312
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9238871335983276,
+                "coordinate": [
+                    107.0875244140625,
+                    557.2550048828125,
+                    725.171630859375,
+                    576.3974609375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8956320285797119,
+                "coordinate": [
+                    107.32244873046875,
+                    575.66015625,
+                    582.8878173828125,
+                    594.632080078125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6218528151512146,
+                "coordinate": [
+                    224.12811279296875,
+                    630.642822265625,
+                    493.10662841796875,
+                    656.47998046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9794741272926331,
+                "coordinate": [
+                    105.706787109375,
+                    629.8011474609375,
+                    585.531005859375,
+                    752.71875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9851198792457581,
+                "coordinate": [
+                    104.874755859375,
+                    774.8840942382812,
+                    585.2562866210938,
+                    946.5000610351562
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9284648895263672,
+                "coordinate": [
+                    106.74674224853516,
+                    966.2325439453125,
+                    220.37149047851562,
+                    990.3238525390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857326149940491,
+                "coordinate": [
+                    105.19358825683594,
+                    990.6002807617188,
+                    586.7692260742188,
+                    1186.599365234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.472619891166687,
+                "coordinate": [
+                    562.7459716796875,
+                    848.7564697265625,
+                    582.3028564453125,
+                    870.2435302734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886074662208557,
+                "coordinate": [
+                    600.864013671875,
+                    630.60009765625,
+                    1085.256103515625,
+                    1187.4219970703125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9420275092124939,
+                "coordinate": [
+                    106.480224609375,
+                    1219.56787109375,
+                    926.6572265625,
+                    1243.91455078125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9704968333244324,
+                "coordinate": [
+                    106.68878173828125,
+                    1265.770263671875,
+                    1081.342041015625,
+                    1466.612060546875
+                ]
+            }
+        ]
+    }
+}

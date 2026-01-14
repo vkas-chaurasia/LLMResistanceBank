@@ -1,0 +1,103 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2015.pdf",
+    "page_index": 3,
+    "page_count": 9,
+    "width": 1584,
+    "height": 1224,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 1. ANTIBIOTIC RESISTANCE PROFILE OF STAPHYLOCOCCI ISOLATES IN CHICKEN AND BEEF RAW MEAT SAMPLES</div>\n",
+            "block_bbox": [
+                322,
+                120,
+                1301,
+                142
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"4\">Antibiotic resistance profile</td><td colspan=\"5\">Chicken isolates</td><td colspan=\"7\">Beef isolates</td><td rowspan=\"4\">Total number of resistant isolates</td></tr><tr><td colspan=\"5\">Local beef</td><td colspan=\"7\">Imported beef</td></tr><tr><td colspan=\"2\">S. aureus</td><td colspan=\"2\">Non-S. aureus staphylococci</td><td colspan=\"2\">S. aureus</td><td colspan=\"2\">Non-S. aureus staphylococci</td><td colspan=\"2\">S. aureus</td><td colspan=\"2\">Non-S. aureus staphylococci</td></tr><tr><td style='text-align: center;'>No. of isolates</td><td style='text-align: center;'>No. of antibiotics</td><td style='text-align: center;'>No. of isolates</td><td style='text-align: center;'>No. of antibiotics</td><td style='text-align: center;'>No. of isolates</td><td style='text-align: center;'>No. of antibiotics</td><td style='text-align: center;'>No. of isolates</td><td style='text-align: center;'>No. of antibiotics</td><td style='text-align: center;'>No. of isolates</td><td style='text-align: center;'>No. of antibiotics</td><td style='text-align: center;'>No. of isolates</td><td style='text-align: center;'>No. of antibiotics</td></tr><tr><td style='text-align: center;'>VA</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>P, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>4</td><td style='text-align: center;'>2</td><td style='text-align: center;'>6</td></tr><tr><td style='text-align: center;'>E, DA, TE</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>3</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>CN, E, DA, TE</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td rowspan=\"5\">6</td></tr><tr><td style='text-align: center;'>P, E, DA, TE</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>4</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, E, CN, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, VA, SXT, CIP</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td></tr><tr><td style='text-align: center;'>P, TE, VA, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td></tr><tr><td style='text-align: center;'>P, OX, MET, SAM, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td rowspan=\"5\">6</td></tr><tr><td style='text-align: center;'>P, CN, E, DA, TE</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>5</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>E, DA, TE, VA, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, CN, E, DA, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5</td></tr><tr><td style='text-align: center;'>P, OX, CN, DA, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5</td></tr><tr><td style='text-align: center;'>P, Ox, CN, DA, TE, CIP</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td rowspan=\"9\">15</td></tr><tr><td style='text-align: center;'>P, E, DA, TE, C, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, CN, E, DA, TE, C</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, DA, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>6</td></tr><tr><td style='text-align: center;'>P, CN, E, DA, VA, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>CN, E, DA, TE, C, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, OX, CN, DA, VA, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, OX, SAM, CN, DA, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, Ox, CN, E, DA, TE, C</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>7</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td rowspan=\"4\">16</td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, TE</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>7</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, OX, CN, E, DA, TE, CIP</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>7</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>P, CN, E, DA, TE, VA, SXT</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>7</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr></table>",
+            "block_bbox": [
+                107,
+                146,
+                1515,
+                1052
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "footer",
+            "block_content": "(continued)",
+            "block_bbox": [
+                1421,
+                1072,
+                1516,
+                1094
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9507389068603516,
+                "coordinate": [
+                    322.9226989746094,
+                    120.2347183227539,
+                    1301.2796630859375,
+                    142.98983764648438
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896289706230164,
+                "coordinate": [
+                    107.06634521484375,
+                    146.4671630859375,
+                    1515.6884765625,
+                    1052.1217041015625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6518917083740234,
+                "coordinate": [
+                    1421.796630859375,
+                    1072.2542724609375,
+                    1516.443603515625,
+                    1094.8258056640625
+                ]
+            }
+        ]
+    }
+}

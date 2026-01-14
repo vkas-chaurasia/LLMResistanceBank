@@ -1,0 +1,618 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Ahmed2014.pdf",
+    "page_index": 0,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "International Journal of Food Microbiology 189 (2014) 39–44",
+            "block_bbox": [
+                426,
+                70,
+                781,
+                91
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_83_122_205_231.jpg\" alt=\"Image\" width=\"10%\" /></div>\n",
+            "block_bbox": [
+                83,
+                122,
+                205,
+                231
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "Contents lists available at ScienceDirect",
+            "block_bbox": [
+                462,
+                124,
+                751,
+                145
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "header",
+            "block_content": "ELSEVIER",
+            "block_bbox": [
+                84,
+                234,
+                206,
+                260
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "header",
+            "block_content": "International Journal of Food Microbiology",
+            "block_bbox": [
+                336,
+                171,
+                876,
+                205
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "header",
+            "block_content": "journal homepage: www.elsevier.com/locate/ijfoodmicro",
+            "block_bbox": [
+                345,
+                235,
+                866,
+                256
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_1008_111_1123_256.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                1008,
+                111,
+                1123,
+                256
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Characterization of integrons and resistance genes in multidrug-resistant Salmonella enterica isolated from meat and dairy products in Egypt",
+            "block_bbox": [
+                79,
+                329,
+                958,
+                398
+            ],
+            "block_id": 7,
+            "block_order": 1,
+            "group_id": 7
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1012_333_1124_378.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                1012,
+                333,
+                1124,
+                378
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Ashraf M. Ahmed $ ^{a} $ , Toshi Shimamoto $ ^{b} $ , Tadashi Shimamoto $ ^{b,*} $ ",
+            "block_bbox": [
+                79,
+                413,
+                681,
+                441
+            ],
+            "block_id": 9,
+            "block_order": 2,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "a Department of Bacteriology, Mycology and Immunology, Faculty of Veterinary Medicine, Kafrelsheikh University, Kafr El-Sheikh 33516, Egypt\n\nb Laboratory of Food Microbiology and Hygiene, Graduate School of Biosphere Science, Hiroshima University, Higashi-Hiroshima 739-8528, Japan",
+            "block_bbox": [
+                80,
+                450,
+                874,
+                488
+            ],
+            "block_id": 10,
+            "block_order": 3,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## ARTICLE INFO",
+            "block_bbox": [
+                80,
+                530,
+                277,
+                550
+            ],
+            "block_id": 11,
+            "block_order": 4,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Article history:\n\nReceived 28 February 2014\n\nReceived in revised form 22 July 2014\n\nAccepted 23 July 2014\n\nAvailable online 31 July 2014",
+            "block_bbox": [
+                80,
+                569,
+                302,
+                656
+            ],
+            "block_id": 12,
+            "block_order": 5,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Keywords:\n\nβ-lactamase\n\nEnteritidis\n\nInfantis\n\nPlasmid-mediated\n\nTyphimurium",
+            "block_bbox": [
+                80,
+                672,
+                191,
+                778
+            ],
+            "block_id": 13,
+            "block_order": 6,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## A B S T R A C T",
+            "block_bbox": [
+                410,
+                530,
+                547,
+                550
+            ],
+            "block_id": 14,
+            "block_order": 7,
+            "group_id": 14
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Foodborne pathogens are a leading cause of illness and death, especially in developing countries. The problem is exacerbated if bacteria attain multidrug resistance. Little is currently known about the extent of antibiotic resistance in foodborne pathogens and the molecular mechanisms underlying this resistance in Africa. Therefore, the current study was carried out to characterize, at the molecular level, the mechanism of multidrug resistance in Salmonella enterica isolated from 1600 food samples (800 meat products and 800 dairy products) collected from different street vendors, butchers, retail markets and slaughterhouses in Egypt. Forty-seven out of 69 isolates (68.1%) showed multidrug resistance phenotypes to at least three classes of antimicrobials. The incidence of multidrug-resistant isolates was higher in meat products (37, 69.8%) than in dairy products (10, 62.5%). The multidrug-resistant serovars included, S. enterica serovar Typhimurium (24 isolates, 34.8%), S. enterica serovar Enteritidis, (15 isolates, 21.8%), S. enterica serovar Infantis (7 isolates, 10.1%) and S. enterica non-typable serovar (1 isolate, 1.4%). The highest resistance was to ampicillin (95.7%), then to kanamycin (93.6%), spectinomycin (93.6%), streptomycin (91.5%) and sulfamethoxazole/trimethoprim (91.5%). PCR and DNA sequencing were used to screen and characterize integrons and antibiotic resistance genes and 39.1% and 8.7% of isolates were positive for class 1 and class 2 integrons, respectively.  $ \\beta $ -lactamase-encoding genes were identified in 75.4% of isolates and plasmid-mediated quinolone resistance genes were identified in 27.5% of isolates. Finally, the florphenicol resistance gene, floR, was identified in 18.8% of isolates. PCR screening identified S. enterica serovar Typhimurium DT104 in both meat and dairy products. This is the first study to report many of these resistance genes in dairy products. This study highlights the high incidence of multidrug-resistant S. enterica in meat and dairy products in Egypt, with the possibility of their transfer to humans leading to therapeutic failure. Therefore, the overuse of antibiotics in animals should be drastically reduced in developing countries.",
+            "block_bbox": [
+                407,
+                567,
+                1127,
+                953
+            ],
+            "block_id": 15,
+            "block_order": 8,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "© 2014 Elsevier B.V. All rights reserved.",
+            "block_bbox": [
+                866,
+                951,
+                1125,
+                971
+            ],
+            "block_id": 16,
+            "block_order": 9,
+            "group_id": 16
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 1. Introduction",
+            "block_bbox": [
+                81,
+                1022,
+                200,
+                1043
+            ],
+            "block_id": 17,
+            "block_order": 10,
+            "group_id": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "Increasing resistance to antimicrobial agents remains a major challenge to public health professionals in both developed and developing countries. However, in developing countries, antimicrobial resistance is exacerbated by over-prescription of antibiotics and increased use in both human and animal healthcare. Furthermore, strategies to combat and prevent resistance are not at the top of the list of priorities in these countries (da Costa et al., 2013). More recently, the Centers for Disease Control and Prevention of the USA estimates that, in the USA, more than two million people are made ill every year with antibiotic-resistant infections, with at least 23,000 dying as a result of these infections (CDC, 2013). Food may act as a vector for the transfer of antimicrobial resistant bacteria and antimicrobial resistance genes to humans (Verraes et al., 2013). Multidrug-resistant (MDR) bacteria can spread to humans either via the food supply (e.g., meat, fish, eggs and dairy products), direct contact with animals or, more indirectly, through environmental pathways (Angulo et al., 2004). The consequences of antimicrobial resistance are particularly important when pathogens are resistant to antimicrobials that are critically important in the treatment of human disease. This concern includes infections acquired in hospitals, community infections acquired in outpatient care settings, and also, resistant foodborne disease associated with drug use in food-producing animals (WHO, 2009).",
+            "block_bbox": [
+                78,
+                1064,
+                591,
+                1339
+            ],
+            "block_id": 18,
+            "block_order": 11,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                614,
+                1021,
+                1127,
+                1210
+            ],
+            "block_id": 19,
+            "block_order": 12,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "The spread of MDR bacteria via meat and dairy products poses serious public health concerns. In the United States, the newly-released 10th National Antimicrobial Resistance Monitoring System (NARMS) report describes alarming increases in antibiotic-resistant bacteria found on retail meats. The report also confirmed that 80% of all antibiotics used in the United States are used not on humans but on food animals, most of which are perfectly healthy (NARMS, 2011). The increasing prevalence of multidrug resistance among Salmonella, not only against the first-line antibiotics, ampicillin, chloramphenicol and trimethoprim/sulfamethoxazole, but also, against clinically important",
+            "block_bbox": [
+                614,
+                1210,
+                1127,
+                1423
+            ],
+            "block_id": 20,
+            "block_order": 13,
+            "group_id": 20
+        },
+        {
+            "block_label": "footnote",
+            "block_content": " $ ^{*} $  Corresponding author. Tel./fax: +81 82 424 7897.",
+            "block_bbox": [
+                90,
+                1383,
+                397,
+                1401
+            ],
+            "block_id": 21,
+            "block_order": null,
+            "group_id": 21
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "E-mail address: tadashis@hiroshima-u.ac.jp (T. Shimamoto).",
+            "block_bbox": [
+                102,
+                1401,
+                449,
+                1420
+            ],
+            "block_id": 22,
+            "block_order": null,
+            "group_id": 22
+        },
+        {
+            "block_label": "footer",
+            "block_content": "http://dx.doi.org/10.1016/j.ijfoodmicro.2014.07.0310168-1605/©2014 Elsevier B.V. All rights reserved.",
+            "block_bbox": [
+                80,
+                1456,
+                378,
+                1493
+            ],
+            "block_id": 23,
+            "block_order": null,
+            "group_id": 23
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9454415440559387,
+                "coordinate": [
+                    426.48468017578125,
+                    70.16190338134766,
+                    781.3922729492188,
+                    91.86083221435547
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9515212178230286,
+                "coordinate": [
+                    83.6025390625,
+                    122.32302856445312,
+                    205.38577270507812,
+                    231.14859008789062
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9317750930786133,
+                "coordinate": [
+                    462.2685546875,
+                    124.2960205078125,
+                    751.97412109375,
+                    145.1038818359375
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.874057412147522,
+                "coordinate": [
+                    84.89124298095703,
+                    234.884765625,
+                    206.0860595703125,
+                    260.22210693359375
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9539197087287903,
+                "coordinate": [
+                    336.41705322265625,
+                    171.25906372070312,
+                    876.5475463867188,
+                    205.75094604492188
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9395017027854919,
+                "coordinate": [
+                    345.33319091796875,
+                    235.51351928710938,
+                    866.1309204101562,
+                    256.84088134765625
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9477086663246155,
+                "coordinate": [
+                    1008.0859985351562,
+                    111.4904556274414,
+                    1123.73974609375,
+                    256.8475036621094
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9761199355125427,
+                "coordinate": [
+                    79.12298583984375,
+                    329.7716979980469,
+                    958.6460571289062,
+                    398.4709777832031
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7129144668579102,
+                "coordinate": [
+                    1012.796142578125,
+                    333.20965576171875,
+                    1124.055419921875,
+                    378.50531005859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9385091662406921,
+                "coordinate": [
+                    79.62982177734375,
+                    413.28424072265625,
+                    681.9093627929688,
+                    441.33453369140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.45549196004867554,
+                "coordinate": [
+                    80.50537109375,
+                    450.4781494140625,
+                    864.1275024414062,
+                    469.53485107421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8701043128967285,
+                "coordinate": [
+                    80.3056640625,
+                    450.5045471191406,
+                    874.8609008789062,
+                    488.8693542480469
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8804738521575928,
+                "coordinate": [
+                    80.74299621582031,
+                    530.5420532226562,
+                    277.546142578125,
+                    550.1801147460938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9722570776939392,
+                "coordinate": [
+                    80.25025939941406,
+                    569.0035400390625,
+                    302.95709228515625,
+                    656.4730224609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9544375538825989,
+                "coordinate": [
+                    80.74636840820312,
+                    672.7647094726562,
+                    191.51223754882812,
+                    778.3501586914062
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9304254651069641,
+                "coordinate": [
+                    410.583984375,
+                    530.37841796875,
+                    547.033447265625,
+                    550.417724609375
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9899067282676697,
+                "coordinate": [
+                    407.92169189453125,
+                    567.97265625,
+                    1127.73828125,
+                    953.431396484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9375959634780884,
+                "coordinate": [
+                    866.4029541015625,
+                    951.7577514648438,
+                    1125.2188720703125,
+                    971.0607299804688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.93502277135849,
+                "coordinate": [
+                    81.02056884765625,
+                    1022.233154296875,
+                    200.27581787109375,
+                    1043.93994140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882941246032715,
+                "coordinate": [
+                    78.71133422851562,
+                    1064.608154296875,
+                    591.7509765625,
+                    1339.081298828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882283806800842,
+                "coordinate": [
+                    614.379150390625,
+                    1021.9200439453125,
+                    1127.288330078125,
+                    1210.4696044921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884244203567505,
+                "coordinate": [
+                    614.235107421875,
+                    1210.45849609375,
+                    1127.690185546875,
+                    1423.099609375
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.870364248752594,
+                "coordinate": [
+                    90.38327026367188,
+                    1383.0653076171875,
+                    397.3959655761719,
+                    1401.6490478515625
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8381277918815613,
+                "coordinate": [
+                    102.38893127441406,
+                    1401.096923828125,
+                    449.1072998046875,
+                    1420.386474609375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9407190084457397,
+                "coordinate": [
+                    80.27662658691406,
+                    1456.665771484375,
+                    378.57781982421875,
+                    1493.1796875
+                ]
+            }
+        ]
+    }
+}

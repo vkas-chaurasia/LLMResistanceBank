@@ -1,0 +1,679 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Queslati2016.pdf",
+    "page_index": 0,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Meat Science 119 (2016) 154–159",
+            "block_bbox": [
+                484,
+                70,
+                687,
+                91
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_65_122_187_231.jpg\" alt=\"Image\" width=\"10%\" /></div>\n",
+            "block_bbox": [
+                65,
+                122,
+                187,
+                231
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "ELSEVIER",
+            "block_bbox": [
+                67,
+                235,
+                187,
+                260
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "header",
+            "block_content": "Contents lists available at ScienceDirect",
+            "block_bbox": [
+                444,
+                124,
+                734,
+                145
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "header",
+            "block_content": "Meat Science",
+            "block_bbox": [
+                504,
+                167,
+                674,
+                197
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "header",
+            "block_content": "journal homepage: www.elsevier.com/locate/meatsci",
+            "block_bbox": [
+                344,
+                235,
+                831,
+                256
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_990_111_1105_256.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                990,
+                111,
+                1105,
+                256
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Prevalence, virulence and antibiotic susceptibility of Salmonella spp. strains, isolated from beef in Greater Tunis (Tunisia)",
+            "block_bbox": [
+                62,
+                329,
+                889,
+                397
+            ],
+            "block_id": 7,
+            "block_order": 1,
+            "group_id": 7
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_996_331_1108_377.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                996,
+                331,
+                1108,
+                377
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Walid Oueslati $ ^{a,*} $ , Mohamed Ridha Rjeibi $ ^{b} $ , Moez Mhadhbi $ ^{b} $ , Mounir Jbeli $ ^{c} $ , Samia Zrelli $ ^{a} $ , Abdelfettah Ettriqui $ ^{a} $ \n\na Laboratory of Food Microbiology, University Manouba, National School of Veterinary Medicine of Sidi Thabet, 2020 Sidi Thabet, Tunisia  \n\nb Laboratory of Parasitology, University Manouba, National School of Veterinary Medicine of Sidi Thabet, 2020 Sidi Thabet, Tunisia  \n\nc Department of National Defense, 1008 Tunis, Tunisia",
+            "block_bbox": [
+                62,
+                413,
+                1109,
+                441
+            ],
+            "block_id": 9,
+            "block_order": 2,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                62,
+                450,
+                810,
+                470
+            ],
+            "block_id": 10,
+            "block_order": 3,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                63,
+                469,
+                778,
+                487
+            ],
+            "block_id": 11,
+            "block_order": 4,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                63,
+                486,
+                365,
+                505
+            ],
+            "block_id": 12,
+            "block_order": 5,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## ARTICLE INFO",
+            "block_bbox": [
+                63,
+                547,
+                260,
+                567
+            ],
+            "block_id": 13,
+            "block_order": 6,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Article history:\n\nReceived 30 September 2015\n\nReceived in revised form 29 March 2016\n\nAccepted 29 April 2016\n\nAvailable online 29 April 2016",
+            "block_bbox": [
+                62,
+                585,
+                301,
+                673
+            ],
+            "block_id": 14,
+            "block_order": 7,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "Chemical compounds studied in this article:\n\nAmoxicillin (PubChem CID: 33613)\n\nTetracycline (PubChem CID: 54675776)\n\nStreptomycin (PubChem CID: 19649)\n\nNalidixic acid (PubChem CID: 4421)\n\nClavulanic acid (PubChem CID: 5280980)\n\nCefoxitin (PubChem CID: 441199)\n\nCeftazidime (PubChem CID: 5481173)",
+            "block_bbox": [
+                62,
+                690,
+                306,
+                828
+            ],
+            "block_id": 15,
+            "block_order": 8,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Keywords:\n\nSalmonella\n\nBeef\n\nSerotype\n\nAntibiotic resistance\n\ninvA\n\nspvC\n\nh-li\n\nTunisia",
+            "block_bbox": [
+                62,
+                846,
+                185,
+                1001
+            ],
+            "block_id": 16,
+            "block_order": 9,
+            "group_id": 16
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## A B S T R A C T",
+            "block_bbox": [
+                392,
+                546,
+                529,
+                567
+            ],
+            "block_id": 17,
+            "block_order": 10,
+            "group_id": 17
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "The aim of this work was to investigate the presence of Salmonella spp. in 300 beef meat samples collected from cattle carcasses of different categories (young bulls, culled heifers and culled cows). The detection of Salmonella spp. was performed by the alternative VIDAS Easy Salmonella technique and confirmed by PCR using Salmonella specific primers. Salmonella serotypes were determined by slide agglutination tests. The resistance to 12 antibiotics was determined by the diffusion method on Mueller-Hinton agar antibiotic discs. The overall contamination rate of beef by Salmonella spp. was 5.7% (17/300). This rate varied from naught (0/100) in bulls' meat to 14% (14/100) in culled cows' meat (p < 0.001). The prevalence of Salmonella spp. was higher in summer and in cattle with digestive disorders: chronic gastroenteritis (6/17), traumatic peritonitis (3/17) and intestinal obstruction (2/17) (p < 0.0001). Of the 17 Salmonella isolates, 6 serotypes were identified, namely Salmonella Montevideo (8/17), Salmonella Anatum (3/17), Salmonella Minnesota (2/17), Salmonella Amsterdam (2/17), Salmonella Kentucky (1/17) and Salmonella Brandenburg (1/17) (p < 0.05). Unlike other serotypes, S. Montevideo was present during the whole year except winter. Almost all of the strains (16/17) were resistant to at least one of the 12 tested antibiotics. Multidrug-resistance concerned 14/17 of the strains, including Amoxicillin (13/17), Tetracycline (12/17), Streptomycin (10/17) and Nalidixic acid (6/17). All the strains were sensitive to the association (Amoxicillin + Clavulanic acid), Cefoxitin and Ceftazidime. In addition, our study showed that all Salmonella strains (17) were positive for invasion gene invA and negative for the virulence gene spvC. Only one isolate (S. Kentucky) harbored the h-li virulence gene.",
+            "block_bbox": [
+                390,
+                584,
+                1110,
+                913
+            ],
+            "block_id": 18,
+            "block_order": 11,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "© 2016 Elsevier Ltd. All rights reserved.",
+            "block_bbox": [
+                849,
+                911,
+                1107,
+                931
+            ],
+            "block_id": 19,
+            "block_order": 12,
+            "group_id": 19
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 1. Introduction",
+            "block_bbox": [
+                63,
+                1064,
+                182,
+                1085
+            ],
+            "block_id": 20,
+            "block_order": 13,
+            "group_id": 20
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonellosis is a bacterial disease with a rising prevalence in the cattle industry. It is frequent in calves of one to ten weeks ago, but also reported in dairy and beef cattle (Randall, Cooles, Osborn, Piddock, & Woodward, 2004). Typical clinical signs of acute Salmonella infection include fever associated with diarrhea. Infected animals can be asymptomatic and shed to one billion Salmonella a day in their feces (Milemann, 1998). Salmonellosis is a major food-borne disease worldwide (WHO, 2013). The pathogenicity of Salmonella depends essentially on its chromosomal and/or plasmatic virulence genes (Okamoto, Filho, & Rocha, 2009; Montero, Herrero, & Rodicio, 2012). The chromosomal invA gene enables the invasion of epithelial cells (Galan & Curtiss, 1989). H-li gene is involved in the control of phase change and motility of Salmonella. In addition, h-li gene is required for optimal transcription of several genes of invasion (Milemann, 1998). The virulence plasmid spv genes play a role in multiplication of Salmonella in its host cell (Rotger & Casadesus, 1999), increase the severity of enteritis. It allows both infection and persistence in extra-intestinal sites (Libby, Lesnick, & Guiney, 2000) and under hostile conditions (Valone & Muller, 1993).",
+            "block_bbox": [
+                61,
+                1104,
+                574,
+                1360
+            ],
+            "block_id": 21,
+            "block_order": 14,
+            "group_id": 21
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                596,
+                1063,
+                1109,
+                1189
+            ],
+            "block_id": 22,
+            "block_order": 15,
+            "group_id": 21
+        },
+        {
+            "block_label": "text",
+            "block_content": "Ciprofloxacin and Cefotaxime are the most commonly used antibiotics for the treatment of invasive Salmonella infections in humans (Su & Ou, 2004; Bertrand, Weill, & Vrints, 2006; Whichard, Gay, & Cooper, 2007). However, multidrug resistant Salmonella strains are becoming a real worldwide threat (Weill, Grimont, & Cloeckaert, 2006; Bouchrif, Ennajii, & Timinouni, 2008). Since 2002 in Europe an emergence of ciprofloxacin-resistant Salmonella spp. isolates has been reported in travelers returning from Northeast and Eastern Africa (Collard, Place, & Denis, 2007). In African countries, multidrug-resistant Salmonella spp. strains exhibiting resistance to Ciprofloxacin have been reported in several studies (Aragaw, Molla, Muckle, & Poppe, 2007; Bouchrif et al.,",
+            "block_bbox": [
+                596,
+                1190,
+                1110,
+                1422
+            ],
+            "block_id": 23,
+            "block_order": 16,
+            "group_id": 23
+        },
+        {
+            "block_label": "footnote",
+            "block_content": " $ ^{*} $  Corresponding author.",
+            "block_bbox": [
+                72,
+                1383,
+                222,
+                1402
+            ],
+            "block_id": 24,
+            "block_order": null,
+            "group_id": 24
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "E-mail address: drwalid04@yahoo.fr (W. Oueslati).",
+            "block_bbox": [
+                84,
+                1401,
+                377,
+                1421
+            ],
+            "block_id": 25,
+            "block_order": null,
+            "group_id": 25
+        },
+        {
+            "block_label": "footer",
+            "block_content": "http://dx.doi.org/10.1016/j.meatsci.2016.04.037\n0309-1740/© 2016 Elsevier Ltd. All rights reserved.",
+            "block_bbox": [
+                62,
+                1456,
+                359,
+                1493
+            ],
+            "block_id": 26,
+            "block_order": null,
+            "group_id": 26
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9383025765419006,
+                "coordinate": [
+                    484.9642333984375,
+                    70.38771057128906,
+                    687.626220703125,
+                    91.24391174316406
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9522143006324768,
+                "coordinate": [
+                    65.68186950683594,
+                    122.38679504394531,
+                    187.21339416503906,
+                    231.23204040527344
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9005424380302429,
+                "coordinate": [
+                    67.135498046875,
+                    235.12869262695312,
+                    187.62559509277344,
+                    260.5959167480469
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9335390329360962,
+                "coordinate": [
+                    444.5364685058594,
+                    124.01335144042969,
+                    734.0933837890625,
+                    145.1742401123047
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9425504207611084,
+                "coordinate": [
+                    504.69549560546875,
+                    167.79515075683594,
+                    674.1203002929688,
+                    197.0974578857422
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9434148669242859,
+                "coordinate": [
+                    344.951416015625,
+                    235.37310791015625,
+                    831.8258056640625,
+                    256.7326965332031
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9507504105567932,
+                "coordinate": [
+                    990.6560668945312,
+                    111.39862060546875,
+                    1105.375732421875,
+                    256.18035888671875
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9774596095085144,
+                "coordinate": [
+                    62.628143310546875,
+                    329.44091796875,
+                    889.21923828125,
+                    397.518798828125
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9267514944076538,
+                "coordinate": [
+                    996.4405517578125,
+                    331.9952392578125,
+                    1108.0709228515625,
+                    377.74169921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9500619173049927,
+                "coordinate": [
+                    62.2325439453125,
+                    413.6409912109375,
+                    1109.0303955078125,
+                    441.80224609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8770073056221008,
+                "coordinate": [
+                    62.75775146484375,
+                    450.02740478515625,
+                    810.1908569335938,
+                    470.50592041015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8117140531539917,
+                "coordinate": [
+                    63.547698974609375,
+                    469.6099548339844,
+                    778.525390625,
+                    487.3769226074219
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7668449282646179,
+                "coordinate": [
+                    63.656951904296875,
+                    486.0498046875,
+                    365.7779541015625,
+                    505.5634765625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9397233724594116,
+                "coordinate": [
+                    63.206634521484375,
+                    547.1558837890625,
+                    260.0079650878906,
+                    567.3411865234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9740415811538696,
+                "coordinate": [
+                    62.524261474609375,
+                    585.8394165039062,
+                    301.2533874511719,
+                    673.6217651367188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9790640473365784,
+                "coordinate": [
+                    62.72161865234375,
+                    690.029296875,
+                    306.4874572753906,
+                    828.583251953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9683127999305725,
+                "coordinate": [
+                    62.775123596191406,
+                    846.2910766601562,
+                    185.87094116210938,
+                    1001.5798950195312
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.928852915763855,
+                "coordinate": [
+                    392.40399169921875,
+                    546.7532958984375,
+                    529.5360717773438,
+                    567.67431640625
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9903501272201538,
+                "coordinate": [
+                    390.457763671875,
+                    584.876708984375,
+                    1110.2215576171875,
+                    913.3948974609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9410154819488525,
+                "coordinate": [
+                    849.9892578125,
+                    911.133056640625,
+                    1107.681640625,
+                    931.56201171875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9386756420135498,
+                "coordinate": [
+                    63.86781311035156,
+                    1064.8675537109375,
+                    182.5740509033203,
+                    1085.4952392578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882742166519165,
+                "coordinate": [
+                    61.3973388671875,
+                    1104.4771728515625,
+                    574.0258178710938,
+                    1360.3448486328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9868558049201965,
+                "coordinate": [
+                    596.60546875,
+                    1063.70849609375,
+                    1109.5516357421875,
+                    1189.56640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882293939590454,
+                "coordinate": [
+                    596.3321533203125,
+                    1190.06103515625,
+                    1110.48779296875,
+                    1422.782958984375
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.7485306859016418,
+                "coordinate": [
+                    72.8818359375,
+                    1383.5394287109375,
+                    222.08489990234375,
+                    1402.1251220703125
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8615561723709106,
+                "coordinate": [
+                    84.56378173828125,
+                    1401.416748046875,
+                    377.4957275390625,
+                    1421.48974609375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.940717339515686,
+                "coordinate": [
+                    62.65519714355469,
+                    1456.38232421875,
+                    359.63531494140625,
+                    1493.2470703125
+                ]
+            }
+        ]
+    }
+}

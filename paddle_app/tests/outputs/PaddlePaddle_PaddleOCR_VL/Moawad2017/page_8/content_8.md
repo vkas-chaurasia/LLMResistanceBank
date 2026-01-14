@@ -1,0 +1,27 @@
+Table 7 Phenotypic resistance and resistance determinants found in E. coli isolates in this study
+
+
+
+<table><tr><td>Source</td><td>E. coli serotype</td><td>Resistance phenotype</td><td>Resistance genes/class 1 integron</td></tr><tr><td>Poultry</td><td></td><td></td><td></td></tr><tr><td>Fresh poultry meat</td><td>O1</td><td>STR, TET</td><td>-</td></tr><tr><td>Fresh poultry meat</td><td>O18</td><td>AMP, CIP, CPD, NAL, STR, TET, T/S</td><td>qnrA, qnrB</td></tr><tr><td>Fresh poultry meat</td><td>O18</td><td>AMC, AMP, CHL, CIP, CRO, CTX, NAL, STR, TET, T/S</td><td>bla $ _{\text{CTX-M-1}} $ , bla $ _{\text{OXA-1}} $ , qnrA, qnrB</td></tr><tr><td>Fresh poultry meat</td><td>O78</td><td>AMC, AMP, CAZ, TET, T/S</td><td>bla $ _{\text{CTX-M-1}} $ , bla $ _{\text{TEM-1}} $</td></tr><tr><td>Fresh poultry meat</td><td>O119</td><td>AMC, AMP, CAZ, CTX, STR, TET, T/S</td><td>bla $ _{\text{CTX-M-14}} $ , bla $ _{\text{TEM-104}} $</td></tr><tr><td>Fresh poultry meat</td><td>O20</td><td>AMC, AMP, CPD, TET, T/S</td><td>bla $ _{\text{CTX-M1}} $ , bla $ _{\text{OXA-1}} $ , bla $ _{\text{TEM-1}} $</td></tr><tr><td>Fresh poultry organs (liver)</td><td>O18</td><td>AMC, AMP, CAZ, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, T/S</td><td>bla $ _{\text{CTX-M-1}} $ , bla $ _{\text{TEM-104}} $ , qnrA, qnrB, dfrA1-orf</td></tr><tr><td>Fresh poultry organs (liver)</td><td>O126</td><td>AMP, CTX, STR</td><td>bla $ _{\text{CTX-M-1}} $</td></tr><tr><td>Fresh poultry organs (gizzard)</td><td>O20</td><td>AMC, AMP, STR, T/S</td><td>bla $ _{\text{TEM-1}} $</td></tr><tr><td>Fresh poultry organs (liver)</td><td>O145</td><td>CAZ, TET</td><td>-</td></tr><tr><td>Frozen poultry meat</td><td>O1</td><td>CTX, NAL, TET</td><td>qnrA, qnrB</td></tr><tr><td>Frozen poultry meat</td><td>O18</td><td>AMC, AMP, STR, TET, T/S</td><td>bla $ _{\text{OXA-1}} $ , bla $ _{\text{TEM-1}} $</td></tr><tr><td>Frozen poultry</td><td>O78</td><td>AMC, AMP, CPD</td><td></td></tr><tr><td>Frozen poultry meat</td><td>O146</td><td>AMC, AMP, TET, T/S</td><td>bla $ _{\text{TEM-1}} $</td></tr><tr><td>Frozen organ poultry</td><td>O78</td><td>AMC, AMP, CAZ, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, T/S</td><td>bla $ _{\text{CTX-M-14}} $ , bla $ _{\text{TEM-1}} $ , qnrA, qnrB, dfrA15</td></tr><tr><td>Beef</td><td></td><td></td><td></td></tr><tr><td>Fresh beef meat</td><td>O119</td><td>CPD</td><td>-</td></tr><tr><td>Fresh beef meat</td><td>O158</td><td>CPD, TET</td><td>-</td></tr><tr><td>Fresh beef organs (liver)</td><td>O78</td><td>AMC, AMP, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, T/S</td><td>bla $ _{\text{CTX-M-1}} $ , bla $ _{\text{TEM-104}} $ , qnrA, qnrB, dfrA1, dfrA1-orf</td></tr><tr><td>Frozen beef meat</td><td>O103</td><td>STR, TET</td><td>bla $ _{\text{CTX-M-1}} $</td></tr><tr><td>Frozen beef meat</td><td>O126</td><td>AMC, AMP, CIP, STR, TET, T/S</td><td>bla $ _{\text{TEM-1}} $ , qnrA, qnrB</td></tr><tr><td>Frozen beef meat</td><td>O158</td><td>AMC, AMP, STR, TET, T/S</td><td>bla $ _{\text{TEM-1}} $</td></tr></table>
+
+AMC amoxycillin–clavulanic acid, AMP ampicillin, CAZ ceftazidime, CPD cefpodoxime, CRO chloramphenicol, CTX cefotaxime, ENR enrofloxacin, NAL nalidixic acid, STR streptomycin, TET tetracycline, T/S trimethoprim/sulphamethoxazole
+
+A (qnrA), while 3 (20.0%), 2 (13.3%) and 1 (6.7%) of S. enterica serovars possessed qnrB,  $ bla_{CMY} $  and qnrS genes, respectively.  $ bla_{OXA} $  associated with resistance to ampicillin and cephalothin and  $ bla_{SHV} $  associated with plasmid-mediated ampicillin resistance were not found in any isolate.
+
+In E. coli isolates, 5 of 8 screened resistance-associated genes were detected by PCR (Table 7). Eleven (52.4%) out of 21 isolates harboured  $ bla_{TEM} $  (1 and 104), while  $ bla_{CTX-M} $  (1 and 14) was detected in 9 isolates (42.9%). Seven isolates (33.3%) carried qnrA and qnrB and in three isolates (14.3%)  $ bla_{OXA-1} $  was detected. Genes  $ bla_{CMY} $ ,  $ bla_{SHV} $  and qnrS were not detected in any of the E. coli isolates.
+
+Plasmid-mediated colistin resistance gene mcr-1 and carbapenemase resistance gene blaOXA-23 were not identified neither in S. enterica nor in E. coli isolates using PCR assay.
+
+## I ntegron gene cassettes and DNA sequencing
+
+Class 1 integron was detected in two isolates of S. Typhimurium using PCR (Table 6). The inserted gene cassettes identified three types of antimicrobial resistance genes associated with class 1 integron: dihydrofolate reductase types (dfrA15 and dfrA17) which confer resistance to trimethoprim, and aminoglycoside adenyltransferase type aadA2 that confers resistance to streptomycin and spectinomycin.
+
+
+
+Three E. coli isolates of serotypes O18, O78 and O78 were harbouring class 1 integron (Table 7). The inserted gene cassettes identified three types of class 1 integron. The identified antimicrobial resistance genes were dihydrofolate reductase types; dfrA1, dfrA15 and dfrA1-orf which confer resistance to trimethoprim.
+
+All S. enterica and E. coli isolates were negative for class 2 integrons.
+
+## Discussion
+
+Salmonellosis and Salmonella infections considered as critical threats to human and animal health. In this study, the prevalence of S. enterica serovars in chicken and beef meat was 8.3%, which was considerably lower than incidence rates that reported in Ethiopia (12.0% in raw

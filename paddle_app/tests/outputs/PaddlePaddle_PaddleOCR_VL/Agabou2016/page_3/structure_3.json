@@ -1,0 +1,746 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Agabou2016.pdf",
+    "page_index": 2,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Eur J Clin Microbiol Infect Dis (2016) 35:227–234",
+            "block_bbox": [
+                97,
+                63,
+                444,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "229",
+            "block_bbox": [
+                1060,
+                64,
+                1091,
+                83
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Results",
+            "block_bbox": [
+                97,
+                113,
+                172,
+                137
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### Drug resistance profiles and phylogenetic grouping in chicken commensal E. coli",
+            "block_bbox": [
+                95,
+                163,
+                531,
+                213
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "The resistance phenotypes confirmed that among the 70 avian commensal  $ E.\\ coli $ , 44.3 % (belonging to all flocks except B and F) were resistant to three or more antimicrobial classes.",
+            "block_bbox": [
+                95,
+                238,
+                581,
+                312
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Resistance levels to nalidixic acid (88.6 %), ofloxacin (80 %) and ciprofloxacin (51.4 %) were very frequent, and all the strains were susceptible to  $ 3^{rd} $  generation cephalosporins and many other antibiotics (Table 1).",
+            "block_bbox": [
+                95,
+                313,
+                582,
+                413
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Among the ciprofloxacin-resistant isolates  $ (n=36) $  none harbored qnr, qepA, or oqxAB genes, but 22.2% of them carried the  $ aac(6')-Ib-cr $  gene. These isolates were distributed among the four main phylogenetic groups: B1 (41.7%), D (30.6%), A (25%), and B2 (2.7%) (Table 2). They were detected from all the poultry farms except the F one, and 59.6% of them belonged to flocks where quinolones had not been used.",
+            "block_bbox": [
+                95,
+                414,
+                583,
+                612
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### Drug resistance profiles and phylogenetic grouping in chicken farmers commensal E. coli",
+            "block_bbox": [
+                95,
+                649,
+                531,
+                699
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "These isolates showed lower resistance levels to nalidixic acid (15.7%), ofloxacin (11.4%), and ciprofloxacin (5.7%), and all were susceptible to  $ 3^{rd} $  generation cephalosporins and other drugs (Table 1). None of the chicken farmers was treated with antibiotics, and 64.3% of them had pets.",
+            "block_bbox": [
+                95,
+                724,
+                582,
+                848
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Half of the ciprofloxacin-resistant isolates were collected from farmers who did not use these drugs for their poultry. These isolates harboured no PMQR genes. They belonged to phylogroups A (25%), B1 (25%), and D (50%) (Table 2), and were isolated in poultry farms B, D, F, and N.",
+            "block_bbox": [
+                95,
+                849,
+                582,
+                974
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### Drug resistance profiles and phylogenetic grouping in human pathogenic E. coli",
+            "block_bbox": [
+                95,
+                1010,
+                531,
+                1061
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Among the 94 clinical isolates, one exhibited resistance to ertapenem (1.1%), 84 (89.4%) showed an ESBL phenotype, and 70 (74.5%) were insensitive to ciprofloxacin.",
+            "block_bbox": [
+                95,
+                1085,
+                581,
+                1159
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Resistance to antibiotics was significantly more prevalent in clinical isolates than in farmers or poultry isolates (22/31 antibiotics tested), in particular to ciprofloxacin (p<0.001) (Table 1).",
+            "block_bbox": [
+                95,
+                1161,
+                581,
+                1259
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The ertapenem-resistant strain harboured the  $ bla_{OXA-48} $  gene in association with  $ bla_{TEM-1} $  and  $ aac(6')-Ib-cr $ . Among the 84 ESBL-producers, 82 harboured the  $ bla_{CTX-M-15} $  gene and the two remaining strains carried  $ bla_{TEM-24} $  and  $ bla_{TEM-3} $ . These ESBLs were significantly associated with strains isolated from patients  $ (p<0.001) $ . Co-resistance to ciprofloxacin was shown by 78.1% of the  $ bla_{CTX-M-15}^{+} $ isolates (Table 2).\n\nThe  $ aac(6')-Ib-cr $  gene was identified in 51 ciprofloxacin-resistant strains (72.9 %), qnrS in seven (10 %) and qnrB in five (7.1 %). The presence of the  $ aac(6')-Ib-cr $  gene was significantly associated with clinical strains as compared to poultry or farmer ones (p<0.001). The qnr+ strains also harboured  $ aac(6')-Ib-cr $  gene in six of the qnrS+ and two of the qnrB+ strains. Ciprofloxacin-resistant isolates were scattered among the four major phylogenetic groups: D (40 %), A (24.3 %), B1 (18.6 %), and B2 (17.1 %). (Table 2).",
+            "block_bbox": [
+                95,
+                1262,
+                582,
+                1435
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                604,
+                114,
+                1093,
+                340
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### Clonality analysis and MLST of ciprofloxacin-resistant E. coli strains",
+            "block_bbox": [
+                605,
+                363,
+                1071,
+                412
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "The obtained dendrogram showed that the 110 fluoroquinolones-resistant isolates were grouped in 38 Rep-PCR patterns (data not shown). Only seven profiles included five or more isolates: patterns XXIII (n=14; phylogroup D; ST3), XXXIII (n=13; B2; ST43), VI (n=10, B1; ST471), XXXVI (n=10; D; ST477), XIII (n=8; A; ST2), XVI (n=5; A; ST2), and XIX (n=5; A; ST347). The residual patterns contained two to four isolates (ten Rep-PCR patterns) or single isolates (21 Rep-PCR patterns). Cluster of the sixth profile was very diverse, intermixing isolates of different origins (hospital and several farms: A, C, D, and J), and all the clonally related isolates (determined by Rep-PCR) were of the same sequence-type defined by MLST. Three clonal groups (VI, X, and XXXI) connected chicken commensal isolates to human pathogenic ones. They belonged to phylotypes B1 and D and ST21, ST48, and ST471 (Fig. 1). One pattern (XXX) was common to chicken and chicken-farmer commensal strains (D; ST108), and another (I) was identified in a chicken-farmer commensal strain and a human pathogenic one (B1; ST19) (Fig. 1). The clustered isolates exhibited slight variations independently of their origin, year of isolation, resistance pattern, or sample nature. This suggests a link between the poultry E. coli isolates and the humans' ones.",
+            "block_bbox": [
+                604,
+                437,
+                1094,
+                1010
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "None of the 12 human B2 O25b-ST131 strains clustered with any avian strain, suggesting the absence of any chicken reservoir for this worldwide clone. The same observation could be made for the  $ bla_{OXA-48}^{+} $  strain that belonged to ST5.",
+            "block_bbox": [
+                604,
+                1011,
+                1093,
+                1112
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Discussion",
+            "block_bbox": [
+                607,
+                1159,
+                711,
+                1183
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "The findings of the present study provide evidence of a genetic homogeneity and a clonal link between  $ E.\\ coli $  from poultry, farmers, and clinical cases in the Constantine region, suggesting that avian commensal, human commensal, and pathogenic strains are from the same origin. However, the exact routes of transmission remain uncertain.",
+            "block_bbox": [
+                604,
+                1210,
+                1094,
+                1358
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "Chicken-to-human transmission of bacteria during farming has been largely demonstrated. Johnson et al.  $ [19, 20] $  showed that ciprofloxacin-resistant  $ E.\\ coli $  strains from human blood",
+            "block_bbox": [
+                604,
+                1359,
+                1093,
+                1435
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_1004_1470_1087_1496.jpg\" alt=\"Image\" width=\"6%\" /></div>\n",
+            "block_bbox": [
+                1004,
+                1470,
+                1087,
+                1496
+            ],
+            "block_id": 21,
+            "block_order": null,
+            "group_id": 21
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9464005827903748,
+                "coordinate": [
+                    97.8201904296875,
+                    63.501609802246094,
+                    444.169189453125,
+                    84.83548736572266
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8826370239257812,
+                "coordinate": [
+                    1060.16845703125,
+                    64.43328857421875,
+                    1091.09228515625,
+                    83.09486389160156
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9269798994064331,
+                "coordinate": [
+                    97.99153900146484,
+                    113.73992919921875,
+                    172.12228393554688,
+                    137.75949096679688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9646647572517395,
+                "coordinate": [
+                    95.50010681152344,
+                    163.50241088867188,
+                    531.953369140625,
+                    213.68258666992188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9796650409698486,
+                "coordinate": [
+                    95.53590393066406,
+                    238.32119750976562,
+                    581.31103515625,
+                    312.4846496582031
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845855832099915,
+                "coordinate": [
+                    95.69232177734375,
+                    313.9871826171875,
+                    582.04541015625,
+                    413.06732177734375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7226423025131226,
+                "coordinate": [
+                    366.54522705078125,
+                    361.6627197265625,
+                    392.2137451171875,
+                    384.7291259765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987135112285614,
+                "coordinate": [
+                    95.2093505859375,
+                    414.29339599609375,
+                    583.1591186523438,
+                    612.9625854492188
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9708561897277832,
+                "coordinate": [
+                    95.53971862792969,
+                    649.5992431640625,
+                    531.5709228515625,
+                    699.8978271484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858413934707642,
+                "coordinate": [
+                    95.48403930664062,
+                    724.5687255859375,
+                    582.4700927734375,
+                    848.8172607421875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6264868974685669,
+                "coordinate": [
+                    272.760498046875,
+                    772.7993774414062,
+                    297.67822265625,
+                    795.9309692382812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845103621482849,
+                "coordinate": [
+                    95.04649353027344,
+                    849.8807373046875,
+                    582.1627197265625,
+                    974.803466796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9695013165473938,
+                "coordinate": [
+                    95.83428955078125,
+                    1010.8705444335938,
+                    531.5861206054688,
+                    1061.1767578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9807519912719727,
+                "coordinate": [
+                    95.76742553710938,
+                    1085.3231201171875,
+                    581.5830078125,
+                    1159.9949951171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846745729446411,
+                "coordinate": [
+                    95.57664489746094,
+                    1161.297119140625,
+                    581.876220703125,
+                    1259.717041015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5200940370559692,
+                "coordinate": [
+                    494.02203369140625,
+                    1211.80712890625,
+                    576.4378051757812,
+                    1234.2646484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7470164895057678,
+                "coordinate": [
+                    497.2383117675781,
+                    1262.9993896484375,
+                    578.347412109375,
+                    1284.3970947265625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9017477035522461,
+                "coordinate": [
+                    297.7131042480469,
+                    1286.46630859375,
+                    365.0915222167969,
+                    1309.017578125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5571670532226562,
+                "coordinate": [
+                    405.9645690917969,
+                    1285.8970947265625,
+                    511.4481506347656,
+                    1307.4481201171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9863765835762024,
+                "coordinate": [
+                    95.52830505371094,
+                    1262.148193359375,
+                    582.3114013671875,
+                    1435.962158203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8840473890304565,
+                "coordinate": [
+                    441.11944580078125,
+                    1311.307861328125,
+                    534.448486328125,
+                    1334.484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9213184118270874,
+                "coordinate": [
+                    391.3487548828125,
+                    1335.7589111328125,
+                    469.3341064453125,
+                    1358.6302490234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8897942304611206,
+                "coordinate": [
+                    504.3095703125,
+                    1336.8466796875,
+                    575.872802734375,
+                    1359.200439453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6516450047492981,
+                "coordinate": [
+                    240.4218292236328,
+                    1385.473876953125,
+                    322.52325439453125,
+                    1407.55029296875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9263164401054382,
+                "coordinate": [
+                    328.58807373046875,
+                    1410.6160888671875,
+                    432.39202880859375,
+                    1434.0045166015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40231025218963623,
+                "coordinate": [
+                    668.8598022460938,
+                    116.2034912109375,
+                    771.7850952148438,
+                    138.3868408203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.47998765110969543,
+                "coordinate": [
+                    873.9050903320312,
+                    164.86932373046875,
+                    977.5527954101562,
+                    186.998046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876298308372498,
+                "coordinate": [
+                    604.46435546875,
+                    114.14520263671875,
+                    1093.6788330078125,
+                    340.2151184082031
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4181545376777649,
+                "coordinate": [
+                    609.54443359375,
+                    239.52984619140625,
+                    714.667236328125,
+                    262.0665283203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4988415241241455,
+                "coordinate": [
+                    752.177490234375,
+                    214.40606689453125,
+                    833.0687255859375,
+                    237.490966796875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5742009878158569,
+                "coordinate": [
+                    876.0518798828125,
+                    215.84524536132812,
+                    914.6021728515625,
+                    237.407958984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9696322083473206,
+                "coordinate": [
+                    605.8453369140625,
+                    363.271728515625,
+                    1071.8629150390625,
+                    412.9454345703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886668920516968,
+                "coordinate": [
+                    604.4671630859375,
+                    437.23968505859375,
+                    1094.7369384765625,
+                    1010.2949829101562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9835256338119507,
+                "coordinate": [
+                    604.9017333984375,
+                    1011.030517578125,
+                    1093.2174072265625,
+                    1112.103271484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9183111786842346,
+                "coordinate": [
+                    782.87451171875,
+                    1086.822021484375,
+                    867.728759765625,
+                    1109.776123046875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9262298345565796,
+                "coordinate": [
+                    607.3010864257812,
+                    1159.124267578125,
+                    711.4686889648438,
+                    1183.931640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865319132804871,
+                "coordinate": [
+                    604.8533935546875,
+                    1210.35693359375,
+                    1094.2156982421875,
+                    1358.20166015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978789210319519,
+                "coordinate": [
+                    604.894775390625,
+                    1359.8194580078125,
+                    1093.62841796875,
+                    1435.1461181640625
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.9090144634246826,
+                "coordinate": [
+                    1004.9893798828125,
+                    1470.597900390625,
+                    1087.2425537109375,
+                    1496.449951171875
+                ]
+            }
+        ]
+    }
+}

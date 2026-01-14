@@ -1,0 +1,463 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Wabeto2017.pdf",
+    "page_index": 1,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Wabeto et al. Journal of Health, Population and Nutrition (2017) 36:52",
+            "block_bbox": [
+                107,
+                61,
+                582,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 2 of 7",
+            "block_bbox": [
+                996,
+                62,
+                1081,
+                83
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Background",
+            "block_bbox": [
+                107,
+                171,
+                230,
+                195
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "The consumption of multidrug-resistant Salmonella isolates along with a raw meat dish is directly relevant to the global public health crisis of antimicrobial resistance. Food-borne diseases caused by non-typhoid salmonella still remains as a public health challenge. All countries around the globe are suffering from food-borne disease outbreaks. The problem is more serious in developing countries; more than one billion cases of gastroenteritis and five million individuals die annually $ ^{[1]} $ .",
+            "block_bbox": [
+                105,
+                196,
+                585,
+                412
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Poor food handling and sanitation practices, inadequate food safety laws, weak regulatory systems, lack of financial resources, and awareness about proper food handling create a conducive environment for the spread of food-borne and food poisoning etiologic agents in Ethiopia [2]. According to Minister of Health (MoH) report, 60% of the disease burden in Ethiopia was related to poor hygiene and sanitation [3]. Factors that contribute for the emerging of food-borne disease outbreak were unsafe sources, contaminated raw food items, improper food storage, and poor personal hygiene during food preparation, inadequate cooling and reheating of food items, and a prolonged time lapse between preparing and consuming food items [4].",
+            "block_bbox": [
+                105,
+                412,
+                586,
+                725
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonella spp. are associated with a variety of food item and known for the cause of gastroenteritis, enteric fever, and septicemia. Foods of animal and vegetable origin such as beef, poultry, pork, egg, raw dairy products, vegetables, fruits, and juices are susceptible to Salmonella colonization during production and storage.",
+            "block_bbox": [
+                106,
+                725,
+                585,
+                869
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Microorganisms contaminate meat in abattoir during slaughtering and spread from the exterior part of animals and from the intestinal tract. Moreover, they are added from knives, cloths, air, workers, carts, boxes, and equipments. These microorganisms begin to multiply and spoil the meat if the environment is suitable for their growth. Food handlers in a carrier state or having an acute infection play a significant role in transmitting infection  $ [5–7] $ .",
+            "block_bbox": [
+                105,
+                869,
+                586,
+                1061
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Studies showed that contaminations of raw meat with Salmonella may occur by contaminated feeds, during transportation of animals to abattoir, slaughtering operation and fecal contamination of edible organs, and storage, distribution, and preparation for consumption. Contamination of equipment, utensils, and personal hygiene of food handlers help to spread Salmonella  $ [8–13] $ .",
+            "block_bbox": [
+                105,
+                1061,
+                585,
+                1229
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "The occurrence and distribution of Salmonella in Ethiopia was high. In recent years, the number of outbreaks of Salmonella in humans has been increasing from time to time. Much more was known about the extent of food-borne illness and its severity. Meanwhile, the effort has not been made to overcome the problem. Thus, food-borne pathogen continued to be a public health challenge in Ethiopia. Studies indicated that high percentages of Salmonella typhi isolates have been found to be resistant for antimicrobial agents  $ [14] $ .\n\nIn Ethiopia, eating raw meat is an indication of wealth. There is a popular traditional dish known locally as \"KITFO\" which is prepared from minced beef and, most of the time, it is consumed raw or moderately cooked. The habit of raw meat consumption and the presence of Salmonella in minced beef create a conducive environment to develop infection in the community $ ^{[15]} $ .",
+            "block_bbox": [
+                104,
+                1229,
+                586,
+                1472
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                172,
+                1083,
+                340
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Global trends in antimicrobial use in food animals in 2010 at 63,151 tons. It projects that antimicrobial consumption will rise by 67% by 2030 and nearly double in Brazil, Russia, India, China, and South Africa  $ [16] $ .",
+            "block_bbox": [
+                602,
+                340,
+                1082,
+                436
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "A study conducted in Bishoftu, Ethiopia, demonstrated the problems in clinical practice of veterinary medicine like problems in generic prescribing, incorrect diagnosis, and non-availability of standard veterinary treatment guideline and drug formulary $ ^{[17]} $ .",
+            "block_bbox": [
+                601,
+                436,
+                1083,
+                556
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "The emerging of multiple drug-resistant Salmonella to commonly used antimicrobials has become a threat in both public health and veterinary sectors in Ethiopia [18]. The extensive use of the first-line drugs has led to the development of multiple drug resistance (MDR) at a level which could pose a serious problem in the near future. MDR is defined as resistance of an isolate to three or more antimicrobial drugs tested [19]. People living in the southern part of Ethiopia regularly eat raw meat, but nothing is known about the prevalence of Salmonella in raw beef. Therefore, this study intended to show the risk of Salmonella associated with consuming traditional raw meat dishes and to characterize the antimicrobial resistance profile at Wolaita Sodo municipal abattoir.",
+            "block_bbox": [
+                601,
+                556,
+                1084,
+                896
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Methods",
+            "block_bbox": [
+                603,
+                937,
+                697,
+                961
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Study area",
+            "block_bbox": [
+                603,
+                962,
+                701,
+                985
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "This study was conducted in Wolaita Sodo town administration, which is located in the southern part of Ethiopia and lies between 1600 and 2100 m above sea level, 330 km away from Addis Ababa, the capital city of Ethiopia. The total population range and household data of the town is 110,659 and 14,551, respectively, in 2015 (information from the study area finance office). The rainfall is bimodal and characterized by medium rainy season from February to May and high rainy season from July to September. The dry season extends from October to January. There are three sub-cities and one municipality. However, there is only one abattoir. More than 25 cattle are slaughtered per day in the abattoir, and majority of people have the habit of eating raw meat in the study area. It is considered as an indication of wealth.",
+            "block_bbox": [
+                601,
+                986,
+                1084,
+                1348
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Study design",
+            "block_bbox": [
+                602,
+                1396,
+                720,
+                1420
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "A cross-sectional study was carried out from December 2015 to May 2016.",
+            "block_bbox": [
+                601,
+                1420,
+                1082,
+                1470
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9444057941436768,
+                "coordinate": [
+                    107.85882568359375,
+                    61.21112823486328,
+                    582.889404296875,
+                    84.32659149169922
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8980548977851868,
+                "coordinate": [
+                    996.55419921875,
+                    62.14397430419922,
+                    1081.0869140625,
+                    83.66071319580078
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.927851676940918,
+                "coordinate": [
+                    107.1848373413086,
+                    171.59603881835938,
+                    230.31698608398438,
+                    195.80996704101562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874832630157471,
+                "coordinate": [
+                    105.53071594238281,
+                    196.80355834960938,
+                    585.8182373046875,
+                    412.9256896972656
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884555339813232,
+                "coordinate": [
+                    105.93296813964844,
+                    412.8233642578125,
+                    586.1387329101562,
+                    725.6810302734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9868196249008179,
+                "coordinate": [
+                    106.06866455078125,
+                    725.2820434570312,
+                    585.364990234375,
+                    869.2440795898438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877610206604004,
+                "coordinate": [
+                    105.65260314941406,
+                    869.0765380859375,
+                    586.2615966796875,
+                    1061.5692138671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9870001673698425,
+                "coordinate": [
+                    105.96046447753906,
+                    1061.82373046875,
+                    585.6243896484375,
+                    1229.3486328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876703023910522,
+                "coordinate": [
+                    104.96136474609375,
+                    1229.218505859375,
+                    586.5279541015625,
+                    1472.04931640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869750738143921,
+                "coordinate": [
+                    601.451904296875,
+                    172.32693481445312,
+                    1083.528076171875,
+                    340.7935485839844
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9817349314689636,
+                "coordinate": [
+                    602.528076171875,
+                    340.59637451171875,
+                    1082.78271484375,
+                    436.62054443359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9844202399253845,
+                "coordinate": [
+                    601.92041015625,
+                    436.97442626953125,
+                    1083.3521728515625,
+                    556.9813232421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882071614265442,
+                "coordinate": [
+                    601.076416015625,
+                    556.848876953125,
+                    1084.4920654296875,
+                    896.51171875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9113075733184814,
+                "coordinate": [
+                    603.12158203125,
+                    937.1678466796875,
+                    697.501953125,
+                    961.4300537109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8880831003189087,
+                "coordinate": [
+                    603.2646484375,
+                    962.8681030273438,
+                    701.418701171875,
+                    985.8556518554688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875263571739197,
+                "coordinate": [
+                    601.009521484375,
+                    986.2076416015625,
+                    1084.7734375,
+                    1348.7904052734375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9240424633026123,
+                "coordinate": [
+                    602.48193359375,
+                    1396.421875,
+                    720.64794921875,
+                    1420.489990234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9589720368385315,
+                "coordinate": [
+                    601.3623046875,
+                    1420.195068359375,
+                    1082.3826904296875,
+                    1470.175048828125
+                ]
+            }
+        ]
+    }
+}

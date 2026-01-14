@@ -1,0 +1,435 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Samaxa2011.pdf",
+    "page_index": 3,
+    "page_count": 6,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "640",
+            "block_bbox": [
+                107,
+                42,
+                144,
+                62
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "SAMAXA ET AL.",
+            "block_bbox": [
+                209,
+                44,
+                338,
+                64
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "J. Food Prot., Vol. 75, No. 4",
+            "block_bbox": [
+                911,
+                44,
+                1107,
+                64
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 1. Presence of Salmonella in naturally contaminated raw meat sausages as determined by conventional culture method and PCR assay</div>\n",
+            "block_bbox": [
+                104,
+                105,
+                593,
+                173
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'></td><td colspan=\"3\">No. of samples</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td rowspan=\"2\">Total</td><td rowspan=\"2\">Culture positive for Salmonella</td><td rowspan=\"2\">PCR positive for Salmonella</td><td rowspan=\"2\">% positive for Salmonella</td></tr><tr><td style='text-align: center;'>Sausage type</td></tr><tr><td style='text-align: center;'>Beef</td><td style='text-align: center;'>79</td><td style='text-align: center;'>20</td><td style='text-align: center;'>20</td><td style='text-align: center;'>25.3</td></tr><tr><td style='text-align: center;'>Mutton</td><td style='text-align: center;'>71</td><td style='text-align: center;'>11</td><td style='text-align: center;'>11</td><td style='text-align: center;'>15.5</td></tr><tr><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>72</td><td style='text-align: center;'>20</td><td style='text-align: center;'>20</td><td style='text-align: center;'>27.8</td></tr><tr><td style='text-align: center;'>Pork</td><td style='text-align: center;'>78</td><td style='text-align: center;'>14</td><td style='text-align: center;'>14</td><td style='text-align: center;'>17.9</td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'>300</td><td style='text-align: center;'>65</td><td style='text-align: center;'>65</td><td style='text-align: center;'>21.7</td></tr></table>",
+            "block_bbox": [
+                105,
+                177,
+                591,
+                418
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "most frequently isolated serotype, all strains had the predominant antimicrobial resistance pattern (AN, CXM, GM, TM). Salmonella Enteritidis from the chicken sausage was resistant to seven antibiotics, the highest number for any isolate (Table 3).",
+            "block_bbox": [
+                103,
+                449,
+                593,
+                571
+            ],
+            "block_id": 5,
+            "block_order": 1,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## DISCUSSION",
+            "block_bbox": [
+                283,
+                589,
+                415,
+                613
+            ],
+            "block_id": 6,
+            "block_order": 2,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, beef and pork sausages had the highest total viable bacterial counts; more than half of the samples had counts above the Food and Agriculture Organization recommended limit of  $ 1 \\times 10^{6} $  CFU/g (10). The results for beef sausages were similar to those obtained by Odumeru and Belvedere (19), who found total viable bacterial counts of  $ 10^{2} $  to  $ 10^{8} $  CFU/g in ground beef, with 72% of the samples above the recommended limit. A high total viable bacterial count may be an indication of poor sanitation or problems with processing control or ingredients. Sausages are derived from a variety of meat cuts, which are ground and manipulated several times during processing; as a result, high microbial counts were expected.",
+            "block_bbox": [
+                103,
+                625,
+                594,
+                939
+            ],
+            "block_id": 7,
+            "block_order": 3,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Mutton sausages had the highest microbiological quality, i.e., low culturable microorganism counts, and the least amount of contamination with Salmonella, making them a better choice for human consumption. In contrast, chicken sausages had lower aerobic mesophilic bacterial counts than did beef and pork sausages but had the highest incidence of Salmonella. This result was expected because poultry is a principal reservoir for Salmonella (21). These results clearly indicate that aerobic bacterial counts provide information on the extent of sanitary quality but cannot assure the safety of the product with respect to the presence of pathogens. However, the incidence of Salmonella in the four types of sausage was not significantly different. For example, even though the prevalence of Salmonella was most disparate in chicken and mutton, this difference was not statistically significant.",
+            "block_bbox": [
+                103,
+                939,
+                594,
+                1326
+            ],
+            "block_id": 8,
+            "block_order": 4,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, the prevalence of Salmonella was 25.3% in beef sausages, similar to the 26% prevalence reported in an earlier study of Salmonella in beef sausages carried out by Mrema et al. (17). In that study, Salmonella prevalence was determined only for beef sausages. Similar prevalences (23 and 28%) were reported for two abattoir environments by Motsoela et al. (16), who inferred that environments in meat-cutting rooms of abattoirs, butchers, and supermarkets",
+            "block_bbox": [
+                103,
+                1326,
+                594,
+                1522
+            ],
+            "block_id": 9,
+            "block_order": 5,
+            "group_id": 9
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 2. Salmonella serotypes isolated from raw meat sausages</div>\n",
+            "block_bbox": [
+                619,
+                105,
+                1107,
+                128
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Sausage type</td><td style='text-align: center;'>Salmonella serotype</td><td style='text-align: center;'>No. of samples</td><td style='text-align: center;'>% of samples</td></tr><tr><td rowspan=\"6\">Beef</td><td style='text-align: center;'>II</td><td style='text-align: center;'>9</td><td style='text-align: center;'>13.8</td></tr><tr><td style='text-align: center;'>Thompson</td><td style='text-align: center;'>4</td><td style='text-align: center;'>6.2</td></tr><tr><td style='text-align: center;'>Anatum</td><td style='text-align: center;'>4</td><td style='text-align: center;'>6.2</td></tr><tr><td style='text-align: center;'>Bovismorbificans</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1.5</td></tr><tr><td style='text-align: center;'>Saintpaul</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1.5</td></tr><tr><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1.5</td></tr><tr><td rowspan=\"5\">Chicken</td><td style='text-align: center;'>Muenchen</td><td style='text-align: center;'>13</td><td style='text-align: center;'>20</td></tr><tr><td style='text-align: center;'>II</td><td style='text-align: center;'>4</td><td style='text-align: center;'>6.2</td></tr><tr><td style='text-align: center;'>Saintpaul</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1.5</td></tr><tr><td style='text-align: center;'>Lawndale, II</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1.5</td></tr><tr><td style='text-align: center;'>Enteritidis</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1.5</td></tr><tr><td rowspan=\"4\">Mutton</td><td style='text-align: center;'>II</td><td style='text-align: center;'>5</td><td style='text-align: center;'>7.7</td></tr><tr><td style='text-align: center;'>Muenchen</td><td style='text-align: center;'>3</td><td style='text-align: center;'>4.6</td></tr><tr><td style='text-align: center;'>Reading</td><td style='text-align: center;'>2</td><td style='text-align: center;'>3.1</td></tr><tr><td style='text-align: center;'>Thompson</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1.5</td></tr><tr><td rowspan=\"5\">Pork</td><td style='text-align: center;'>II</td><td style='text-align: center;'>5</td><td style='text-align: center;'>7.7</td></tr><tr><td style='text-align: center;'>Muenchen</td><td style='text-align: center;'>4</td><td style='text-align: center;'>6.2</td></tr><tr><td style='text-align: center;'>Thompson</td><td style='text-align: center;'>2</td><td style='text-align: center;'>3.1</td></tr><tr><td style='text-align: center;'>Anatum</td><td style='text-align: center;'>2</td><td style='text-align: center;'>3.1</td></tr><tr><td style='text-align: center;'>Brenzany</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1.5</td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'></td><td style='text-align: center;'>65</td><td style='text-align: center;'>100</td></tr></table>",
+            "block_bbox": [
+                619,
+                130,
+                1103,
+                667
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "were avenues for Salmonella cross-contamination and that the composition of the bacterial flora on meat at retail outlets was a reflection of the contamination introduced during slaughtering.",
+            "block_bbox": [
+                617,
+                697,
+                1108,
+                794
+            ],
+            "block_id": 12,
+            "block_order": 6,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The PCR assay and the conventional culture method were used in parallel, and the results revealed that the PCR method was more rapid and sensitive for detection of Salmonella. However, one of the limitations of PCR-based methods for detection of pathogens from various food matrices has been the inhibition of the Taq polymerase by the food components  $ (15, 23) $ . The blood and fats present in the raw meat sausages utilized in this study could have caused PCR inhibition. Another constraint of PCR is that remnants of DNA from dead bacterial cells can serve as a template for PCR long after cell viability has been lost  $ (2, 23) $ , making it possible to obtain false-positive results. These deficiencies have reduced the usefulness of PCR methods for routine monitoring in food microbiology laboratories, where injured or nonviable cells are generally present even after the stress induced by food processing and preservation. However, the PCR method utilized in the present study did not have these problems because, as duly noted by Bansal et al.  $ (4) $  and Piknova et al.  $ (20) $ , the enrichment steps  $ (1:1,000 $  dilution $  that allow proliferation of the target organism also dilute PCR inhibitors, thereby ensuring the detection of only viable bacteria, without inhibition by meat components. When the results for PCR assay and the conventional culture method were not in agreement, the results were verified by repeating both tests, and in all the cases the subsequent results of the conventional culture method conformed to that of the PCR method.",
+            "block_bbox": [
+                617,
+                794,
+                1110,
+                1446
+            ],
+            "block_id": 13,
+            "block_order": 7,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Although all Salmonella serotypes are thought to have the potential to cause disease in humans, some serotypes have more clinical significance  $ (14) $ . An annual list of",
+            "block_bbox": [
+                617,
+                1447,
+                1110,
+                1521
+            ],
+            "block_id": 14,
+            "block_order": 8,
+            "group_id": 14
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9019776582717896,
+                "coordinate": [
+                    107.89010620117188,
+                    42.552223205566406,
+                    144.1786651611328,
+                    62.676124572753906
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.930061936378479,
+                "coordinate": [
+                    209.5067138671875,
+                    44.226417541503906,
+                    338.36456298828125,
+                    64.06914520263672
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9415892362594604,
+                "coordinate": [
+                    911.869384765625,
+                    44.542869567871094,
+                    1107.4776611328125,
+                    64.77099609375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9718034267425537,
+                "coordinate": [
+                    104.22392272949219,
+                    105.41462707519531,
+                    593.9489135742188,
+                    173.4724884033203
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9845538139343262,
+                "coordinate": [
+                    105.89105224609375,
+                    177.34805297851562,
+                    591.616455078125,
+                    418.1920471191406
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9836242198944092,
+                "coordinate": [
+                    103.22146606445312,
+                    449.440185546875,
+                    593.9600830078125,
+                    571.421630859375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9292527437210083,
+                "coordinate": [
+                    283.95025634765625,
+                    589.59228515625,
+                    415.96728515625,
+                    613.532958984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6286417245864868,
+                "coordinate": [
+                    136.08331298828125,
+                    768.6212158203125,
+                    169.04296875,
+                    792.3021240234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.586288332939148,
+                "coordinate": [
+                    199.39285278320312,
+                    768.3550415039062,
+                    232.25997924804688,
+                    792.1985473632812
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5744907855987549,
+                "coordinate": [
+                    230.66802978515625,
+                    747.1185302734375,
+                    267.41912841796875,
+                    769.3309326171875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4776040017604828,
+                "coordinate": [
+                    292.3512878417969,
+                    697.3037109375,
+                    462.9685974121094,
+                    720.947021484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886278510093689,
+                "coordinate": [
+                    103.34965515136719,
+                    625.8436889648438,
+                    594.765869140625,
+                    939.5685424804688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886946082115173,
+                "coordinate": [
+                    103.38215637207031,
+                    939.5890502929688,
+                    594.739501953125,
+                    1326.347412109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880786538124084,
+                "coordinate": [
+                    103.55052185058594,
+                    1326.671630859375,
+                    594.8984985351562,
+                    1522.194091796875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9479749798774719,
+                "coordinate": [
+                    619.931396484375,
+                    105.79707336425781,
+                    1107.2965087890625,
+                    128.84523010253906
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9869996905326843,
+                "coordinate": [
+                    619.6025390625,
+                    130.99371337890625,
+                    1103.69482421875,
+                    667.1260986328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.982956051826477,
+                "coordinate": [
+                    617.6201171875,
+                    697.684326171875,
+                    1108.9786376953125,
+                    794.570068359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889647960662842,
+                "coordinate": [
+                    617.2109375,
+                    794.872314453125,
+                    1110.838134765625,
+                    1446.7939453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9792096614837646,
+                "coordinate": [
+                    617.046142578125,
+                    1447.741455078125,
+                    1110.4754638671875,
+                    1521.483642578125
+                ]
+            }
+        ]
+    }
+}

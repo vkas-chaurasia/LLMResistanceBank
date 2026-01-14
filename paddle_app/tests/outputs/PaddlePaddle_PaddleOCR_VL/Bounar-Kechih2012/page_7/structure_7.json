@@ -1,0 +1,677 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bounar-Kechih2012.pdf",
+    "page_index": 6,
+    "page_count": 7,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "ANTIBIOGRAM AND PLASMID PROFILES OF SALMONELLA",
+            "block_bbox": [
+                327,
+                54,
+                895,
+                75
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "1185",
+            "block_bbox": [
+                1090,
+                54,
+                1136,
+                74
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "nella isolated from turkeys and other livestock in Great Britain. Vet. Rec. 144:320–322.",
+            "block_bbox": [
+                109,
+                92,
+                594,
+                130
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Delpech, P. 1992. La filière viande de volailles. Pages 9–14 in Manuel de Pathologie Aviaire. J. Picoux, and A. Silim, ed. Edition Brugère. Ecole Nationale Vétérinaire, Maisons-Alfort, France.",
+            "block_bbox": [
+                87,
+                131,
+                595,
+                187
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Dinh Nam Lâm,, M. Carles, A. Tripodi, J. Brugere-Picoux, and G. Bodin. 2000. Etude bactériologique des infections par le genre Salmonella chez le canard dans la province de Can Tho (Vietnam). Rev Méd. Vét. (Toulouse) 151:955–964.",
+            "block_bbox": [
+                88,
+                188,
+                595,
+                263
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "EFSA (European Food Safety Authority). 2007. Report of the task force on zoonoses data collection on the analysis of the baseline study on the prevalence of Salmonella in holdings of laying hen flocks of Gallus gallus. EFSA J. 97:84.",
+            "block_bbox": [
+                87,
+                264,
+                596,
+                339
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Elgroud, R., F. Zerdoumi, M. Benazzouz, C. Bouzitouna-Bentchouala, S. A. Granier, S. Frémy, A. Brisabois, B. Dufour, and Y. Millemann. 2009. Characteristics of Salmonella contamination of broilers and slaughterhouses in the region of Constantine (Algeria). Zoonoses Public Health 56:84–93.",
+            "block_bbox": [
+                87,
+                339,
+                596,
+                434
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Espigares, E., A. Bueno, M. Espigares, and R. Galvez. 2006. Isolation of Salmonella serotypes in wastewater and effluent: Effect of treatment and potential risk. Int. J. Hyg. Environ. Health 209:103–107.",
+            "block_bbox": [
+                88,
+                434,
+                595,
+                509
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Ferrah, A., S. Yahiaoui, A. Kaci, and L. Kabli. 2003. Evaluation des besoins en matière de renforcement des capacités nécessaires à la conservation et l'utilisation durable de la biodiversité importante pour l'agriculture: Cas des petits élevages. Page 66 in Projet ALG/97/G31 PNUD. Alger, Algérie.",
+            "block_bbox": [
+                87,
+                510,
+                596,
+                605
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Fluit, A. C. 2005. Towards more virulent and antibiotic-resistant Salmonella? FEMS Immunol. Med. Microbiol. 43:1–11.",
+            "block_bbox": [
+                87,
+                606,
+                595,
+                643
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Foley, S. L., A. M. Lynne, and R. Nayak. 2008. Salmonella challenges: Prevalence in swine and poultry and potential pathogenicity of such isolates. J. Anim. Sci. 86:E149–162.",
+            "block_bbox": [
+                87,
+                644,
+                595,
+                700
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Heurtin-Le Corre, C., P. Y. Donnio, M. Perrin, M. F. Travert, and J. L. Avril. 1999. Increasing incidence and comparison of nalidixic acid-resistant Salmonella enterica subsp. enterica serotype Typhimurium isolates from humans and animals. J. Clin. Microbiol. 37:266–269.",
+            "block_bbox": [
+                87,
+                700,
+                596,
+                795
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Jaecklin, T. 2002. Evolution de la résistance aux antibiotiques des germes respiratoires à Genève entre 1989 et 2000. Thèse de doctorat en médecine no. 10300. Faculté de Médecine de l'université de Genève, Genève, Suisse.",
+            "block_bbox": [
+                87,
+                796,
+                596,
+                871
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "JORA (Journal Officiel de la République Algérienne). 2003. Arrêté interministériel du 20 janvier 2003 définissant les mesures de prévention et de lutte spécifique aux salmonelloses aviaires à Salmonella Enteritidis, Typhimurium, Typhi, arizona, Dublin, Paratyphi et Pullorum Gallinarum. JORA 36:15–17.",
+            "block_bbox": [
+                88,
+                871,
+                596,
+                967
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Kado, C. I., and S. T. Liu. 1981. Rapid procedure for detection and isolation of large and small plasmids. J. Bacteriol. 145:1365–1373.",
+            "block_bbox": [
+                627,
+                92,
+                1136,
+                149
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Mammina, C., M. Talini, M. Pontello, A. M. Di Noto, and A. Nastasi. 2003. Circulation clonale de Salmonella enterica serovar Heidelberg en Italie. Euro Surveill. 8:222–225.",
+            "block_bbox": [
+                627,
+                149,
+                1135,
+                206
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Mc Kenzie, I. and M. Nadeau, 2006. Surveillance de l'antibiorésistance chez les bactéries d'origine avicole. Pages 60–62 in Rev. Epidem. Surveill. Anim. RAIZO publiée par l'Institut national de santé animale.",
+            "block_bbox": [
+                627,
+                207,
+                1136,
+                282
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Millemann, Y. 1998. Les marqueurs épidémiologiques des Salmonelles. Vet. Res. 29:3–19.",
+            "block_bbox": [
+                626,
+                283,
+                1136,
+                321
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "PICRA. 2006. Page 171 in Programme intégré canadien de surveillance de la résistance aux antimicrobiens pour la préservation d'antimicrobiens efficaces pour les humains et les animaux. Agence de santé publique du Canada, Guelph, Ontario.",
+            "block_bbox": [
+                627,
+                322,
+                1136,
+                397
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "San Martín, B., L. Lapierre, C. Toro, V. Bravo, J. Cornejo, J. C. Hormazabal, and C. Borie. 2005. Isolation and molecular characterization of quinolone resistant Salmonella spp. from poultry farms. Vet. Microbiol. 110:239–244.",
+            "block_bbox": [
+                627,
+                397,
+                1136,
+                473
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Usera, M. A., A. Aladuena, R. Diaz, M. De La Fuente, P. Cerdan, R. Gutierrez, and A. Echeita. 1999. Analisis de las cepas de Salmonella sp aisladas de muestras de origen no humano en Espana en el ano 1999. Bol. Epidemiol. Semanal. 8:45–48.",
+            "block_bbox": [
+                628,
+                474,
+                1136,
+                549
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Uyttendaele, M. R., J. M. Debevere, R. M. Lips, and K. D. Neyts. 1998. Prevalence of Salmonella in poultry carcasses and their products in Belgium. Int. J. Food Microbiol. 40:1–8.",
+            "block_bbox": [
+                627,
+                550,
+                1136,
+                607
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Van Immerseel, F., J. De Buck, F. Boyen, F. Pasmans, S. Bertrand, J. M. Collard, C. Saegerman, J. Hooyberghs, F. Haesebrouck, and R. Ducatelle. 2005. Salmonella dans la viande de volaille et dans les œufs, un danger pour le consommateur qui demande la mise en place d'un programme de lutte efficace. Ann. Med. Vet. 149:34–48.",
+            "block_bbox": [
+                628,
+                607,
+                1136,
+                719
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Villate, D. 2001. Pages 244–259 in Maladies des volailles: Les salmonelloses. 2nd Ed. France Agricole, Paris, France.",
+            "block_bbox": [
+                627,
+                720,
+                1136,
+                758
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Wasyl, D., and A. Hoszowski. 2004. Antimicrobial resistance of Salmonella isolated from animals and feed in Poland. Bull. Vet. Inst. Pulawy. 48:233–240.",
+            "block_bbox": [
+                628,
+                759,
+                1135,
+                815
+            ],
+            "block_id": 24,
+            "block_order": 23,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "WHO. 1999. Containing antimicrobial resistance. Review of the literature and report of a WHO workshop on the development of a global strategy for the containment of antimicrobial resistance. World Health Organization, Geneva, Switzerland. WHO/CDS/CSR/DRS/99.2. www.who.int/emc/WHO_docs/general.htm.",
+            "block_bbox": [
+                628,
+                815,
+                1136,
+                911
+            ],
+            "block_id": 25,
+            "block_order": 24,
+            "group_id": 25
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.948020339012146,
+                "coordinate": [
+                    327.3613586425781,
+                    54.982460021972656,
+                    895.758056640625,
+                    75.52613067626953
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9064323306083679,
+                "coordinate": [
+                    1090.891845703125,
+                    54.29641342163086,
+                    1136.229736328125,
+                    74.25192260742188
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.968762993812561,
+                "coordinate": [
+                    109.97174072265625,
+                    92.29118347167969,
+                    594.2489624023438,
+                    130.46791076660156
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9768306016921997,
+                "coordinate": [
+                    87.88706970214844,
+                    131.29055786132812,
+                    595.1319580078125,
+                    187.92605590820312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9804989695549011,
+                "coordinate": [
+                    88.2523193359375,
+                    188.25335693359375,
+                    595.5376586914062,
+                    263.5704345703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9807832837104797,
+                "coordinate": [
+                    87.949462890625,
+                    264.2137451171875,
+                    596.0847778320312,
+                    339.69781494140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9824318289756775,
+                "coordinate": [
+                    87.97874450683594,
+                    339.92376708984375,
+                    596.0784912109375,
+                    434.70880126953125
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9922217726707458,
+                "coordinate": [
+                    86.2808837890625,
+                    90.69732666015625,
+                    598.212158203125,
+                    967.4855346679688
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981186032295227,
+                "coordinate": [
+                    88.06817626953125,
+                    434.94268798828125,
+                    595.6531982421875,
+                    509.99383544921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9815717935562134,
+                "coordinate": [
+                    87.68556213378906,
+                    510.9058837890625,
+                    596.3186645507812,
+                    605.7943115234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9682327508926392,
+                "coordinate": [
+                    87.57635498046875,
+                    606.167724609375,
+                    595.7374877929688,
+                    643.4935302734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9764336347579956,
+                "coordinate": [
+                    87.55194091796875,
+                    644.2100830078125,
+                    595.518310546875,
+                    700.416015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9816156029701233,
+                "coordinate": [
+                    87.47943115234375,
+                    700.8801879882812,
+                    596.3231201171875,
+                    795.3252563476562
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9796995520591736,
+                "coordinate": [
+                    87.87525939941406,
+                    796.1446533203125,
+                    596.23779296875,
+                    871.0799560546875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806019067764282,
+                "coordinate": [
+                    88.29266357421875,
+                    871.6728515625,
+                    596.6631469726562,
+                    967.2845458984375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9758344888687134,
+                "coordinate": [
+                    627.0367431640625,
+                    92.22740173339844,
+                    1136.2689208984375,
+                    149.18797302246094
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9768642783164978,
+                "coordinate": [
+                    627.0863037109375,
+                    149.69407653808594,
+                    1135.756103515625,
+                    206.3657684326172
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9794225096702576,
+                "coordinate": [
+                    627.8114013671875,
+                    207.0736083984375,
+                    1136.8907470703125,
+                    282.4353942871094
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9705454707145691,
+                "coordinate": [
+                    626.9091796875,
+                    283.59283447265625,
+                    1136.094970703125,
+                    321.96466064453125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809438586235046,
+                "coordinate": [
+                    627.580078125,
+                    322.2985534667969,
+                    1136.2161865234375,
+                    397.4715881347656
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9803008437156677,
+                "coordinate": [
+                    627.535400390625,
+                    397.77166748046875,
+                    1136.033203125,
+                    473.67144775390625
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9918941855430603,
+                "coordinate": [
+                    625.614990234375,
+                    90.88174438476562,
+                    1138.4814453125,
+                    911.447509765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9797083735466003,
+                "coordinate": [
+                    628.549072265625,
+                    474.0557861328125,
+                    1136.1365966796875,
+                    549.8565673828125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9770765900611877,
+                "coordinate": [
+                    627.863525390625,
+                    550.0133056640625,
+                    1136.1058349609375,
+                    607.0008544921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9820788502693176,
+                "coordinate": [
+                    628.1026611328125,
+                    607.0797119140625,
+                    1136.5377197265625,
+                    719.866943359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9684017896652222,
+                "coordinate": [
+                    627.7171630859375,
+                    720.9091796875,
+                    1136.2208251953125,
+                    758.99072265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9752933979034424,
+                "coordinate": [
+                    628.3482666015625,
+                    759.47314453125,
+                    1135.7169189453125,
+                    815.158447265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9804731607437134,
+                "coordinate": [
+                    628.9285888671875,
+                    815.8984985351562,
+                    1136.3509521484375,
+                    911.7439575195312
+                ]
+            }
+        ]
+    }
+}

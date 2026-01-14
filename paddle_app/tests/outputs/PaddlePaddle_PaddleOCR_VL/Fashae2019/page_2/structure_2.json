@@ -1,0 +1,463 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Fashae2019.pdf",
+    "page_index": 1,
+    "page_count": 11,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Fashae et al. – Salmonella from chickens and humans in Nigeria",
+            "block_bbox": [
+                95,
+                70,
+                516,
+                91
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "J Infect Dev Ctries 2010; 4(8):484-494.",
+            "block_bbox": [
+                862,
+                70,
+                1123,
+                91
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "In Nigeria, there is limited data of the prevalence in Salmonella serovars causing human salmonellosis and the importance of transmitting food-borne pathogens from the food chain to humans is not well understood. Decades ago, a study reported the important role of S. Typhi and NTS in septicemia in humans in Ibadan, Nigeria; however, the specific NTS serotypes [17] were not revealed, probably due to the lack of resources and high-quality antisera that are often lacking from many African countries [18]. Chicken is an important food source to man; chicken meat dishes are special delicacies, particularly during festive periods in Nigeria, but the poultry industry is largely unregulated. The link between human salmonellosis and consumption of chicken is not known nor is the prevalence of the serovars in Nigeria. A previous study found the prevalence of S. Enteritidis in chicken meat in Maiduguri, Nigeria, to be 27% [19]. A recent study from Maiduguri, in the northern part of Nigeria, reported S. Hiduddify to be the predominant serovar in free-range chickens and poultry meat [20].",
+            "block_bbox": [
+                92,
+                130,
+                582,
+                687
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Treatment with antimicrobials is crucial for the proper management of severe or invasive human salmonellosis. Fluoroquinolones and third-generation cephalosporins are now commonly used in adults for treatment due to widespread resistance to chloramphenicol, ampicillin, and cotrimoxazole  $ [21] $ . Fluoroquinolones are often the last resort for treatment of children and are listed by the World Health Organization as critically important antimicrobials for human health  $ [7,22] $ . Multi-drug resistance and reduced susceptibility to ciprofloxacin have been reported from some African countries. Increasing multi-drug resistance associated with NTS in humans has been reported from Malawi and Ethiopia  $ [15,23] $ ; multi-drug resistance rates of 10% or less with decreased susceptibility to ciprofloxacin have also been reported from Senegal  $ [14] $ . A recent study reported high rates of resistance to ciprofloxacin in S. Hiduddify in chickens in Maiduguri, Nigeria  $ [20] $ ; otherwise, there are limited data on antimicrobial resistance on Salmonella in both humans and food animals in Nigeria.",
+            "block_bbox": [
+                92,
+                686,
+                582,
+                1243
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "This study was conducted to determine the prevalence of Salmonella serovars in chickens and from invasive extraintestinal salmonellosis in humans from the city of Ibadan, Nigeria, in various periods between 2004 and 2007. The susceptibility to antimicrobial resistance in the Salmonella isolates was also investigated and the presence of qnr genes was investigated in the isolates with a resistance phenotype indicating the presence of qnr genes. The serovars and susceptibility patterns of the isolates from the different reservoirs were compared.",
+            "block_bbox": [
+                92,
+                1243,
+                582,
+                1448
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                639,
+                129,
+                1128,
+                208
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Materials and methods",
+            "block_bbox": [
+                641,
+                230,
+                890,
+                255
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I solation of bacteria from humans",
+            "block_bbox": [
+                641,
+                256,
+                954,
+                281
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "During 2004 and 2005, blood samples were collected from 991 febrile patients attending seven major hospitals and a private diagnostic laboratory in Ibadan province. Blood samples of 10 to 15 mL and 2 to 5 mL of were collected from adults and children, respectively. Bacteria were isolated from each blood sample following standard procedure by using Brain-Heart infusion broth (Lab M, Lancashire, UK) followed by plating on Brain-Heart Infusion agar supplemented with 5% sheep blood, Salmonella-Shigella agar (Lab M, Lancashire, UK), and McConkey agar (Lab M, Lancashire, UK). The isolates were incubated aerobically at  $ 37^{\\circ} $ C for 18 to 24 hours [24]. Presumptive Salmonella colonies were identified by standard methods [25,26].",
+            "block_bbox": [
+                638,
+                282,
+                1129,
+                664
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I solation of bacteria from chicken",
+            "block_bbox": [
+                640,
+                687,
+                953,
+                711
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "In 2007, a total of 641 fecal samples were collected at 12 intensive poultry farms. Five grams of each chicken fecal sample were enriched in 25 mL of selenite-F broth (Lab M, Lancashire, UK) and incubated aerobically at  $ 37^{\\circ} $ C for 18 to 24 hours followed by plating on Salmonella-Shigella agar (Lab M, Lancashire, UK) and incubated aerobically at  $ 37^{\\circ} $ C for 18 to 24 hours. Presumptive Salmonella colonies were identified following standard methods [25,26].",
+            "block_bbox": [
+                638,
+                712,
+                1129,
+                967
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Statistical analysis",
+            "block_bbox": [
+                640,
+                989,
+                819,
+                1014
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "SAS version 9.1.3 (SAS Institute Inc.) was used to assess the association of the prevalence in males compared to the prevalence in females using a Fisher's Exact test. The criteria for evaluating the significance level in the model was a P-value of < 0.05.",
+            "block_bbox": [
+                638,
+                1014,
+                1128,
+                1168
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Serotyping",
+            "block_bbox": [
+                641,
+                1193,
+                748,
+                1218
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Serotyping of all the presumptive biochemical positive Salmonella isolates was performed at the National Salmonella and Shigella Centre, Bangkok, Thailand, according to the previously described method  $ [27] $ .",
+            "block_bbox": [
+                638,
+                1218,
+                1128,
+                1347
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial susceptibility testing",
+            "block_bbox": [
+                640,
+                1370,
+                960,
+                1395
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Susceptibility to antimicrobial agents was performed at the National Food Institute,",
+            "block_bbox": [
+                639,
+                1396,
+                1127,
+                1447
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "number",
+            "block_content": "485",
+            "block_bbox": [
+                1086,
+                1471,
+                1126,
+                1493
+            ],
+            "block_id": 17,
+            "block_order": null,
+            "group_id": 17
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9444394111633301,
+                "coordinate": [
+                    95.5911865234375,
+                    70.20043182373047,
+                    516.4569702148438,
+                    91.96526336669922
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.944017767906189,
+                "coordinate": [
+                    862.522216796875,
+                    70.2270736694336,
+                    1123.58837890625,
+                    91.4320297241211
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988581120967865,
+                "coordinate": [
+                    92.64247131347656,
+                    130.05419921875,
+                    582.6708374023438,
+                    687.13134765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884830117225647,
+                "coordinate": [
+                    92.4576416015625,
+                    686.58056640625,
+                    582.7650146484375,
+                    1243.786865234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876937866210938,
+                "coordinate": [
+                    92.47769165039062,
+                    1243.787841796875,
+                    582.81982421875,
+                    1448.231689453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9768494963645935,
+                "coordinate": [
+                    639.2392578125,
+                    129.9547882080078,
+                    1128.10595703125,
+                    208.9831085205078
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.936477541923523,
+                "coordinate": [
+                    641.208984375,
+                    230.34268188476562,
+                    890.490966796875,
+                    255.56234741210938
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8639670014381409,
+                "coordinate": [
+                    641.086669921875,
+                    256.7943115234375,
+                    954.209228515625,
+                    281.0888671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884716272354126,
+                "coordinate": [
+                    638.4471435546875,
+                    282.27685546875,
+                    1129.5797119140625,
+                    664.6009521484375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.939332902431488,
+                "coordinate": [
+                    640.4483032226562,
+                    687.1412353515625,
+                    953.2005004882812,
+                    711.9346923828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986474335193634,
+                "coordinate": [
+                    638.5811767578125,
+                    712.4239501953125,
+                    1129.7474365234375,
+                    967.4642333984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9224183559417725,
+                "coordinate": [
+                    640.6951904296875,
+                    989.6906127929688,
+                    819.3463134765625,
+                    1014.5673217773438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9833039045333862,
+                "coordinate": [
+                    638.7340087890625,
+                    1014.7503051757812,
+                    1128.900634765625,
+                    1168.267333984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9016271233558655,
+                "coordinate": [
+                    641.0911865234375,
+                    1193.218505859375,
+                    748.8482666015625,
+                    1218.89306640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9801125526428223,
+                "coordinate": [
+                    638.82861328125,
+                    1218.197509765625,
+                    1128.64111328125,
+                    1347.012939453125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9416850805282593,
+                "coordinate": [
+                    640.1375122070312,
+                    1370.40185546875,
+                    960.7788696289062,
+                    1395.0439453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9650798439979553,
+                "coordinate": [
+                    639.6878662109375,
+                    1396.3291015625,
+                    1127.3377685546875,
+                    1447.3447265625
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9075273871421814,
+                "coordinate": [
+                    1086.2813720703125,
+                    1471.741455078125,
+                    1126.0909423828125,
+                    1493.555908203125
+                ]
+            }
+        ]
+    }
+}

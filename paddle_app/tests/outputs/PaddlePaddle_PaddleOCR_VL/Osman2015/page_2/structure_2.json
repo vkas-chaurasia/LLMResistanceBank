@@ -1,0 +1,389 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2015.pdf",
+    "page_index": 1,
+    "page_count": 9,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "FOODBORNE PATHOGENS AND DISEASE\nVolume 12, Number 5, 2015\n© Mary Ann Liebert, Inc.\nDOI: 10.1089/fpd.2014.1882",
+            "block_bbox": [
+                118,
+                65,
+                448,
+                141
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Prevalence and Antimicrobial Resistance Profile of Staphylococcus Species in Chicken and Beef Raw Meat in Egypt",
+            "block_bbox": [
+                226,
+                207,
+                1000,
+                328
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Kamelia M. Osman $ ^{1} $ , Aziza M. Amer $ ^{2} $ , Jihan M. Badr $ ^{3} $ , and Aalaa S.A. Saad $ ^{3} $ ",
+            "block_bbox": [
+                270,
+                383,
+                955,
+                410
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Abstract",
+            "block_bbox": [
+                119,
+                493,
+                201,
+                516
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Coagulase-positive (CPS) and coagulase-negative (CNS) staphylococci cause staphylococcal food poisoning. Recently, CPS and CNS have received increasing attention due to their potential role in the dissemination of antibiotic resistance markers. The present study aimed to evaluate CPS and CNS species distribution and their antibiotic resistance profile isolated from chicken and beef meat. Fifty fresh, uncooked chicken parts and 50 beef meat cuts (local n=27; imported n=23) were used. One hundred staphylococcal isolates belonging to 11 species were isolated and identified from chicken (n=50) and beef (n=50) raw meat samples. Staphylococcus hyicus (26/100), lugdunensis (18/100), aureus (15/100) and epidermidis (14/100) were dominant. S. aureus was 100% resistant to penicillin and sulfamethoxazole/trimethoprim. Vancomycin-resistant S. aureus showed intermediate resistance (51%), which might indicate the dissemination of vancomycin resistance in the community and imply food safety hazards. The percentage of resistance to  $ \\beta $ -lactams was variable, with the highest resistance being to penicillin (94%) and lowest to ampicillin-sulbactam (22%). Antimicrobial resistance was mainly against penicillin (94%), clindamycin (90%) and sulfamethoxazole/trimethoprim (82%). The results indicate that chicken and beef raw meat are an important source of antibiotic-resistant CPS and CNS.",
+            "block_bbox": [
+                116,
+                524,
+                1110,
+                839
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I ntroduction",
+            "block_bbox": [
+                118,
+                861,
+                232,
+                883
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "The POULTRY INDUSTRY in Egypt with a population of 1 billion broilers is estimated to produce 1.5 metric tons (MT) of poultry meat during the period of 2014 (Hassan, 2014). The investment in the poultry industry is around 25 billion Egyptian pounds, and ranks first in the Middle East (Hassan, 2014). The beef meat imports were around 230 MT in the year 2014 (USDA, 2014). Chicken meat contributes substantially to the diet in Egypt, and is an important, low-cost source of animal protein encouraging the consumption of chicken meat by a large number of consumers.",
+            "block_bbox": [
+                117,
+                904,
+                605,
+                1124
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Today, according to the current List of Bacterial Names with Standing in Nomenclature (Euzéby, 2014), the genus Staphylococcus comprises 71 species, with 24 named subspecies. Staphylococcal food poisoning is believed to be greatly underreported (by about 25-fold) and underdiagnosed (by about 29-fold) (Doyle et al., 2012). The consumption of chicken and beef meat was implicated in a large number of outbreaks of staphylococcal food poisoning in humans in different countries (Argudín et al., 2010). Discrimination between Staphylococcus (S.) aureus and NSA (non-S. aureus staphylococci) involved in meat contamination is essential in terms of public health significance. Most staphylococci species are coagulase-negative (CNS) and they are distinguished from coagulase-positive staphylococci (CPS) by their inability to produce the enzyme coagulase. Although CPS, and especially S. aureus, are regarded as important pathogens in humans and animals, CNS should not be ignored in epidemiological investigations of foodborne outbreaks based on the presence of enterotoxin genes (Rall et al., 2010; Batista et al., 2013). In the last 20 years, however, the interest in CNS species has significantly increased in both human and veterinary medicine (Rogers et al., 2009; Braem et al., 2014). Information regarding the detailed prevalence of S. aureus and NSA isolates was insufficient in Egypt.",
+            "block_bbox": [
+                116,
+                1124,
+                607,
+                1391
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                618,
+                861,
+                1109,
+                1125
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "The aim of this study was to evaluate the occurrence of S. aureus and NSA and between CPS and CNS strains isolated from retail chicken and beef marketed in Cairo, Egypt, by using cultural and biochemical tests, to determine their diversity between samples and to characterize the isolated strains based on their resistance to antibiotics.",
+            "block_bbox": [
+                618,
+                1125,
+                1109,
+                1258
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Materials and Methods",
+            "block_bbox": [
+                621,
+                1289,
+                825,
+                1311
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "A total of 100 samples each of chicken  $ (n=50) $  and beef (local, n=27 and imported, n=23) were randomly collected from various local supermarkets and butcher shops. All",
+            "block_bbox": [
+                619,
+                1322,
+                1110,
+                1390
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "Departments of  $ {}^{1} $ Microbiology and  $ {}^{2} $ Pharmacology, Faculty of Veterinary Medicine, Cairo University, Cairo, Egypt.  $ {}^{3} $ Department of Poultry Diseases, Animal Health Research Institute, Dokki, Egypt.",
+            "block_bbox": [
+                134,
+                1435,
+                980,
+                1477
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "number",
+            "block_content": "406",
+            "block_bbox": [
+                597,
+                1499,
+                631,
+                1519
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.962794303894043,
+                "coordinate": [
+                    118.50968933105469,
+                    65.83404541015625,
+                    448.0745849609375,
+                    141.30133056640625
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9796972870826721,
+                "coordinate": [
+                    226.72467041015625,
+                    207.75392150878906,
+                    1000.0631713867188,
+                    328.8111572265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9388699531555176,
+                "coordinate": [
+                    270.77435302734375,
+                    383.58416748046875,
+                    955.6751098632812,
+                    410.95184326171875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9120421409606934,
+                "coordinate": [
+                    119.49781799316406,
+                    493.9617919921875,
+                    201.2091827392578,
+                    516.2794189453125
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9909862279891968,
+                "coordinate": [
+                    116.579833984375,
+                    524.5699462890625,
+                    1110.2894287109375,
+                    839.3099365234375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9278203845024109,
+                "coordinate": [
+                    118.49398803710938,
+                    861.489013671875,
+                    232.01425170898438,
+                    883.8251953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988138735294342,
+                "coordinate": [
+                    117.07286071777344,
+                    904.9576416015625,
+                    605.9639892578125,
+                    1124.5517578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885405898094177,
+                "coordinate": [
+                    116.72320556640625,
+                    1124.705810546875,
+                    607.2024536132812,
+                    1391.893310546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886934161186218,
+                "coordinate": [
+                    618.60546875,
+                    861.160400390625,
+                    1109.978515625,
+                    1125.02978515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858988523483276,
+                "coordinate": [
+                    618.9608154296875,
+                    1125.157958984375,
+                    1109.466796875,
+                    1258.431884765625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9379063248634338,
+                "coordinate": [
+                    621.425048828125,
+                    1289.00341796875,
+                    825.0751953125,
+                    1311.51513671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9743583798408508,
+                "coordinate": [
+                    619.596435546875,
+                    1322.02783203125,
+                    1110.0098876953125,
+                    1390.708984375
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.681353747844696,
+                "coordinate": [
+                    134.29595947265625,
+                    1435.9736328125,
+                    980.9237670898438,
+                    1477.125
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.6053739190101624,
+                "coordinate": [
+                    134.36285400390625,
+                    1435.95849609375,
+                    981.2005004882812,
+                    1457.87939453125
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.5789510011672974,
+                "coordinate": [
+                    135.51171875,
+                    1455.467529296875,
+                    743.1727905273438,
+                    1477.493896484375
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9079081416130066,
+                "coordinate": [
+                    597.0142822265625,
+                    1499.91552734375,
+                    631.3934326171875,
+                    1519.01513671875
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,450 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Hiko2008.pdf",
+    "page_index": 4,
+    "page_count": 5,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Hiko et al. – Escherichia coli O157:H7 in retail raw meat products of Ethiopia",
+            "block_bbox": [
+                96,
+                71,
+                606,
+                91
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "J Infect Developing Countries 2008; 2(5): 389-393.",
+            "block_bbox": [
+                796,
+                73,
+                1131,
+                93
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "13. De Boer E, Heuvelink AE (2000) Methods for the detection and isolation of Shiga toxin-producing E. coli. J Appl Microbiol Symp Suppl. 88: 1335–1435.",
+            "block_bbox": [
+                98,
+                130,
+                599,
+                191
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "14. National Committee for Clinical Laboratory Standards (2000) Performance standards for antimicrobial disk susceptibility tests. In: Approved Standard M2-A7, seventh ed. National Committee for Clinical Laboratory Standards, Wayne, PA.",
+            "block_bbox": [
+                99,
+                192,
+                599,
+                273
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "15. Chapman PA (1994) Isolation, identification and typing of verotoxin producing Escherichia coli O157. PHL5 Microbiol Digest 11: 13-27.",
+            "block_bbox": [
+                99,
+                275,
+                600,
+                335
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "16. Dontorou C, Papadopoulou C, Filioussis G, Economou V, Apostolou I, Zakkas G, Salamoura A, Kansouzidou A, Levidiotou S (2003) Isolation of Escherichia coli O157:H7 from foods in Greece. Int J Food Microbiol 82: 273-279.",
+            "block_bbox": [
+                100,
+                337,
+                600,
+                418
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "17. Chapman PA, Siddons CA, Cerdan Malo AT, Harkin MA (2000) A one year study of Escherichia coli O157 in raw beef and lamb products. Epidemiol Infect 124: 207–213.",
+            "block_bbox": [
+                100,
+                420,
+                600,
+                480
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "18. Magwira CA, Gashe BA, Collison EK (2005) Prevalence and antibiotic resistance profiles of Escherichia coli O157:H7 in beef products from retail outlets in Gaborone, Botswana. J Food Prot 68: 403-406.",
+            "block_bbox": [
+                100,
+                482,
+                600,
+                562
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "19. Mayrhofer S, Paulsen P, Smulders FJM, Hilbert H (2004) Antimicrobial resistance profile of five major food-borne pathogens isolated from beef, pork and poultry. Int J Food Microbiol 97: 23-29.",
+            "block_bbox": [
+                100,
+                564,
+                600,
+                645
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "20. Mora A, León SL, Blanco M, Blanco JE, López C, Dahbi G, Echeita A, González EA, Blanco J (2007) Phage types, virulence genes and PFGE profiles of Shiga toxin-producing Escherichia coli O157:H7 isolated from raw beef, soft cheese and vegetables in Lima (Peru). Int J Food Microbiol 114: 204-210.",
+            "block_bbox": [
+                98,
+                647,
+                600,
+                768
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "21. Doyle MP, Schoeni JL (1987) Isolation of Escherichia coli O157:H7 from retail fresh meats and poultry. Appl Environ Microbiol 53:2394–2396.",
+            "block_bbox": [
+                98,
+                772,
+                600,
+                832
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "22. Hoyle B (2000) Renewed concerns over Escherichia coli O157:H7 in ground beef. ASM News 66:331–332.",
+            "block_bbox": [
+                98,
+                834,
+                599,
+                873
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "23. Reyes MS, Durán CT, Prado VJ (2004) Antimicrobial susceptibility of shiga toxin producing Escherichia coli (STEC) strains isolated from human infections and food. Rev Med Chil 132: 1211-1216.",
+            "block_bbox": [
+                98,
+                875,
+                599,
+                955
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "24. Schroeder CM, Zhao C, Deb Roy C, Torcolini J, Zhao S, White DG, Wagner DD, McDermott PF, Walker RD, Meng J (2002) Antimicrobial resistance of Escherichia coli O157 isolated from humans, cattle, swine, and food. Appl Environ Microbiol 68: 576-581.",
+            "block_bbox": [
+                98,
+                958,
+                600,
+                1059
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Corresponding Author: Daniel Asrat, Department of Medical Microbiology, Immunology and Parasitology, Faculty of Medicine, Addis Ababa University, P.O.Box 9086, Addis Ababa, Ethiopia  \n\nE-mail: asratdaniel@ethionet.et",
+            "block_bbox": [
+                619,
+                129,
+                1127,
+                245
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "Conflict of interest: No conflict of interest is declared.",
+            "block_bbox": [
+                621,
+                263,
+                997,
+                285
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "number",
+            "block_content": "393",
+            "block_bbox": [
+                1090,
+                1485,
+                1125,
+                1506
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9463808536529541,
+                "coordinate": [
+                    96.49786376953125,
+                    71.34208679199219,
+                    606.1840209960938,
+                    91.03805541992188
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9494116306304932,
+                "coordinate": [
+                    796.1131591796875,
+                    73.05284118652344,
+                    1131.9537353515625,
+                    93.22392272949219
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9781126379966736,
+                "coordinate": [
+                    98.81196594238281,
+                    130.37057495117188,
+                    599.4454345703125,
+                    191.16790771484375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9805359840393066,
+                "coordinate": [
+                    99.67742919921875,
+                    192.694580078125,
+                    599.7352905273438,
+                    273.8385009765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9787883758544922,
+                "coordinate": [
+                    99.92872619628906,
+                    275.91552734375,
+                    600.1214599609375,
+                    335.586669921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9816499352455139,
+                "coordinate": [
+                    100.46310424804688,
+                    337.3232421875,
+                    600.0538330078125,
+                    418.5780029296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9789336919784546,
+                "coordinate": [
+                    100.77459716796875,
+                    420.3186340332031,
+                    600.3771362304688,
+                    480.9787902832031
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9920375347137451,
+                "coordinate": [
+                    96.84152221679688,
+                    129.1575927734375,
+                    602.2310791015625,
+                    1059.520263671875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809232950210571,
+                "coordinate": [
+                    100.62287902832031,
+                    482.572021484375,
+                    600.3840942382812,
+                    562.7357177734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9801575541496277,
+                "coordinate": [
+                    100.35908508300781,
+                    564.98681640625,
+                    600.1035766601562,
+                    645.8790283203125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981631338596344,
+                "coordinate": [
+                    98.5045166015625,
+                    647.6529541015625,
+                    600.28564453125,
+                    768.9461669921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9760271906852722,
+                "coordinate": [
+                    98.21209716796875,
+                    772.094970703125,
+                    600.3544311523438,
+                    832.8037109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.969477117061615,
+                "coordinate": [
+                    98.37628173828125,
+                    834.0494384765625,
+                    599.4833374023438,
+                    873.6068115234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9802903532981873,
+                "coordinate": [
+                    98.31744384765625,
+                    875.5043334960938,
+                    599.6138305664062,
+                    955.5900268554688
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9804762601852417,
+                "coordinate": [
+                    98.30337524414062,
+                    958.636474609375,
+                    600.1646728515625,
+                    1059.48583984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9748744964599609,
+                "coordinate": [
+                    619.3294677734375,
+                    129.14468383789062,
+                    1127.9844970703125,
+                    245.64462280273438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9422729015350342,
+                "coordinate": [
+                    621.0502319335938,
+                    263.450927734375,
+                    997.5072631835938,
+                    285.11279296875
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9114331007003784,
+                "coordinate": [
+                    1090.2734375,
+                    1485.8001708984375,
+                    1125.58935546875,
+                    1506.1346435546875
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,941 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Xie2019.pdf",
+    "page_index": 6,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1565,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "XIE ET AL.",
+            "block_bbox": [
+                85,
+                45,
+                147,
+                61
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Food Science & Nutrition",
+            "block_bbox": [
+                722,
+                51,
+                876,
+                68
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "WILEY",
+            "block_bbox": [
+                936,
+                54,
+                1034,
+                77
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "number",
+            "block_content": "2853",
+            "block_bbox": [
+                1062,
+                44,
+                1099,
+                61
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "in chicken farms in Tunisia. Journal of Infection and Public Health, 10, 855–860.",
+            "block_bbox": [
+                109,
+                95,
+                576,
+                134
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Boonkhot, P., Tadee, P., & Patchanee, P. (2015). Serodiversity and antimicrobial resistance profiles of detected Salmonella on swine production chain in Chiang Mai and Lamphun, Thailand. Acta Scientiae Veterinariae, 43, 1263.",
+            "block_bbox": [
+                87,
+                137,
+                577,
+                218
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Capuano, F., Mancusi, A., Caparelli, R., Esposito, S., & Proroga, Y. T. (2013). Characterization of drug resistance and virulotypes of Salmonella strains isolated from food and humans. Foodborne Pathogens and Disease, 10, 963–968.",
+            "block_bbox": [
+                87,
+                221,
+                577,
+                302
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Ceyssens, P. J., Mattheus, W., Vanhoof, R., & Bertrand, S. (2015). Trends in serotype distribution and antimicrobial susceptibility in Salmonella enterica isolates from humans in Belgium, 2009 to 2013. Antimicrobial Agents and Chemotherapy, 59, 544–552. https://doi.org/10.1128/AAC.04203-14",
+            "block_bbox": [
+                87,
+                305,
+                578,
+                406
+            ],
+            "block_id": 7,
+            "block_order": 4,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chiou, C. S., Lauderdale, T. L., Phung, D. C., Watanabe, H., Kuo, J. C., Wang, P. J., … Chen, P. C. (2014). Antimicrobial resistance in Salmonella enterica Serovar Typhi isolates from Bangladesh, Indonesia, Taiwan, and Vietnam. Antimicrobial Agents and Chemotherapy, 58, 6501–6507. https://doi.org/10.1128/AAC.03608-14",
+            "block_bbox": [
+                87,
+                410,
+                577,
+                512
+            ],
+            "block_id": 8,
+            "block_order": 5,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Clinical and Laboratory Standards Institute (CLSI) (2018). Available from: https://clsi.org/",
+            "block_bbox": [
+                86,
+                514,
+                577,
+                555
+            ],
+            "block_id": 9,
+            "block_order": 6,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Ejaz, S. K., Poddar, C. K., Singh, M. N., Hasan, A. R., Prasad, J., Kumar, R.,... Sinha, R. N. (2017). Antimicrobial susceptibility of Salmonella enterica serovars in a tertiary care hospital in Koshi region (Northern Bihar), India. Journal of Evolution of Medical and Dental Sciences, 6, 1808–1811. https://doi.org/10.14260/Jemds/2017/397",
+            "block_bbox": [
+                87,
+                557,
+                577,
+                659
+            ],
+            "block_id": 10,
+            "block_order": 7,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "El-Tayeb, M. A., Ibrahim, A. S. S., Al-Salamah, A. A., Almaary, K. S., & Elbadawi, Y. B. (2017). Prevalence, serotyping and antimicrobials resistance mechanism of Salmonella enterica isolated from clinical and environmental samples in Saudi Arabia. Brazilian Journal of Microbiology, 48, 499–508. https://doi.org/10.1016/j.bjm.2016.09.021",
+            "block_bbox": [
+                87,
+                662,
+                577,
+                764
+            ],
+            "block_id": 11,
+            "block_order": 8,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Foley, S. L., Nayak, R., Hanning, I. B., Johnson, T. J., Han, J., & Ricke, S. C. (2011). Population dynamics of Salmonella enterica serotypes in commercial egg and poultry production. Applied and Environmental Microbiology, 77, 4273–4279. https://doi.org/10.1128/AEM.00598-11",
+            "block_bbox": [
+                86,
+                766,
+                577,
+                869
+            ],
+            "block_id": 12,
+            "block_order": 9,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Gillespie, I. A., O'Brien, S. J., Adak, G. K., Ward, L. R., & Smith, H. R. (2005). Foodborne general outbreaks of Salmonella Enteritidis phage type 4 infection, England and Wales, 1992–2002: Where are the risks? Epidemiology & Infection, 133, 795–801.",
+            "block_bbox": [
+                87,
+                871,
+                577,
+                954
+            ],
+            "block_id": 13,
+            "block_order": 10,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Gong, J., Zhang, J., Xu, M., Zhu, C., Yu, Y., Liu, X., … Wang, C. (2014). Prevalence and fimbrial genotype distribution of poultry Salmonella Isolates in China (2006 to 2012). Applied and Environmental Microbiology, 80, 687–693. https://doi.org/10.1128/AEM.03223-13",
+            "block_bbox": [
+                86,
+                956,
+                577,
+                1038
+            ],
+            "block_id": 14,
+            "block_order": 11,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Hardjo Lugito, N. P., & Cucunawangsih (2017). Antimicrobial resistance of Salmonella enterica Serovars Typhi and Paratyphi isolates from a general hospital in Karawaci, Tangerang, Indonesia: A five-year review. International Journal of Microbiology, 2017, 6215136.",
+            "block_bbox": [
+                87,
+                1040,
+                577,
+                1122
+            ],
+            "block_id": 15,
+            "block_order": 12,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Huang, J. Y., Henao, O. L., Griffin, P. M., Vugia, D. J., Cronquist, A. B., Hurd, S.,... Patrick, M. E. (2016). Infection with pathogens transmitted commonly through food and the effect of increasing use of culture-independent diagnostic tests on surveillance – Foodborne Diseases Active Surveillance Network, 10 U.S. Sites, 2012–2015. MMWR: Morbidity and Mortality Weekly Report, 65, 368. https://doi.org/10.15585/mmwr.mm6514a2",
+            "block_bbox": [
+                87,
+                1124,
+                578,
+                1268
+            ],
+            "block_id": 16,
+            "block_order": 13,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "James Rohlf, F. (2000). NTSYS-pc: Numerical taxonomy and multivariate analysis system, version 2.2. Setauket, NY: Exeter Publishing.",
+            "block_bbox": [
+                87,
+                1271,
+                576,
+                1311
+            ],
+            "block_id": 17,
+            "block_order": 14,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Jin, E. K., & Lee, Y. J. (2017). Molecular characterization of antimicrobial resistant non-typhoidal Salmonella from poultry industries in Korea. Irish Veterinary Journal, 70, 20. https://doi.org/10.1186/s13620-017-0095-8",
+            "block_bbox": [
+                87,
+                1313,
+                577,
+                1393
+            ],
+            "block_id": 18,
+            "block_order": 15,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Jolley, K. A., Chan, M.-S., & Maiden, M. C. (2004). MlstdbNet-distributed multi-locus sequence typing (MLST) databases. BMC Bioinformatics, 5, 86.",
+            "block_bbox": [
+                86,
+                1396,
+                577,
+                1455
+            ],
+            "block_id": 19,
+            "block_order": 16,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Kang, C. H., Shin, Y. J., Kim, W. R., Kim, Y. G., Song, K. C., Oh, E. G.,... So, J. S. (2016). Prevalence and antimicrobial susceptibility of Vibrio parahaemolyticus isolated from oysters in Korea. Environmental Science and Pollution Research, 23, 1–9. https://doi.org/10.1007/s11356-015-5650-9",
+            "block_bbox": [
+                608,
+                95,
+                1100,
+                196
+            ],
+            "block_id": 20,
+            "block_order": 17,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Li, K., Ye, S., Alali, W. Q., Wang, Y., Wang, X., Xia, X., & Yang, B. (2017). Antimicrobial susceptibility, virulence gene and pulsed-field gel electrophoresis profiles of Salmonella enterica serovar Typhimurium recovered from retail raw chickens, China. Food Control, 72, 36–42. https://doi.org/10.1016/j.foodcont.2016.07.032",
+            "block_bbox": [
+                608,
+                199,
+                1100,
+                302
+            ],
+            "block_id": 21,
+            "block_order": 18,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Li, R., Lai, J., Wang, Y., Liu, S., Li, Y., Liu, K., … Wu, C. (2013). Prevalence and characterization of Salmonella species isolated from pigs, ducks and chickens in Sichuan Province, China. International Journal of Food Microbiology, 163, 14-18. https://doi.org/10.1016/j.ijfoodmicro.2013.01.020",
+            "block_bbox": [
+                608,
+                304,
+                1100,
+                407
+            ],
+            "block_id": 22,
+            "block_order": 19,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Li, X., Liu, L., Li, Q., Xu, G., & Zheng, J. (2017). Salmonella contamination in layer farms of different scales in China: Detection and ERIC-PCR analysis. Journal of Poultry Science, 55, 1.",
+            "block_bbox": [
+                608,
+                410,
+                1100,
+                470
+            ],
+            "block_id": 23,
+            "block_order": 20,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Luo, Y., Yi, W., Yao, Y., Zhu, N., & Qin, P. (2017). Characteristic diversity and antimicrobial resistance of Salmonella from gastroenteritis. Journal of Infection and Chemotherapy: Official Journal of the Japan Society of Chemotherapy, 24, 1.",
+            "block_bbox": [
+                609,
+                473,
+                1099,
+                555
+            ],
+            "block_id": 24,
+            "block_order": 21,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Tamura, K., Stecher, G., Peterson, D., Filipski, A., & Kumar, S. (2013). MEGA6: Molecular evolutionary genetics analysis version 6.0. Molecular Biology and Evolution, 30, 2725–2729. https://doi.org/10.1093/molbev/mst197",
+            "block_bbox": [
+                610,
+                557,
+                1099,
+                638
+            ],
+            "block_id": 25,
+            "block_order": 22,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Wang, J., Dong, R., Wang, L., Rui, X., Chen, T., Li, C., … Guo, K. (2012). Isolation and identification of Salmonella in commercial eggs and detection of virulence island gene. Food Science, 33, 154–158.",
+            "block_bbox": [
+                608,
+                641,
+                1099,
+                702
+            ],
+            "block_id": 26,
+            "block_order": 23,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Wang, J., Li, Y., Xu, X., Liang, B., Wu, F., Yang, X.,... Liu, H. (2017). Antimicrobial resistance of Salmonella enterica serovar Typhimurium in Shanghai, China. Frontiers in Microbiology, 8, 1.",
+            "block_bbox": [
+                608,
+                704,
+                1099,
+                765
+            ],
+            "block_id": 27,
+            "block_order": 24,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Wang, J., Zheng, Z., & Wang, J. (2007). Risk assessment of Salmonella in animal derived food. Chinese Journal of Animal Quarantine, 24, 23–25.",
+            "block_bbox": [
+                608,
+                767,
+                1100,
+                807
+            ],
+            "block_id": 28,
+            "block_order": 25,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Wu, B., Qin, C., Shi, Z., & Zheng, Q. (2004). Risk assessment of Salmonella in animal products. Journal of Dalian University of Technology, 23, 226–228.",
+            "block_bbox": [
+                609,
+                809,
+                1100,
+                869
+            ],
+            "block_id": 29,
+            "block_order": 26,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Yang, X., Huang, J., Wu, Q., Zhang, J., Liu, S., Guo, W.,... Yu, S. (2015). Prevalence, antimicrobial resistance and genetic diversity of Salmonella isolated from retail ready-to-eat foods in China. Food Control, 60, 50–56. https://doi.org/10.1016/j.foodcont.2015.07.019",
+            "block_bbox": [
+                609,
+                872,
+                1100,
+                954
+            ],
+            "block_id": 30,
+            "block_order": 27,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Yu, T., Jiang, X., Zhou, Q., Wu, J., & Wu, Z. (2014). Antimicrobial resistance, class 1 integrons, and horizontal transfer in Salmonella isolated from retail food in Henan, China. Journal of Infection in Developing Countries, 8, 705–711. https://doi.org/10.3855/jidc.4190",
+            "block_bbox": [
+                609,
+                956,
+                1100,
+                1038
+            ],
+            "block_id": 31,
+            "block_order": 28,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Zheng, H., Hu, Y., Li, Q., Tao, J., Cai, Y., Wang, Y.,... Jiao, X. (2017). Subtyping Salmonella enterica serovar Derby with multilocus sequence typing (MLST) and clustered regularly interspaced short palindromic repeats (CRISPRs). Food Control, 73, 474–484. https://doi.org/10.1016/j.foodcont.2016.08.051",
+            "block_bbox": [
+                609,
+                1040,
+                1099,
+                1143
+            ],
+            "block_id": 32,
+            "block_order": 29,
+            "group_id": 32
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## SUPPORTING INFORMATION",
+            "block_bbox": [
+                607,
+                1186,
+                872,
+                1208
+            ],
+            "block_id": 33,
+            "block_order": 30,
+            "group_id": 33
+        },
+        {
+            "block_label": "text",
+            "block_content": "Additional supporting information may be found online in the Supporting Information section at the end of the article.",
+            "block_bbox": [
+                605,
+                1225,
+                1101,
+                1274
+            ],
+            "block_id": 34,
+            "block_order": 31,
+            "group_id": 34
+        },
+        {
+            "block_label": "text",
+            "block_content": "How to cite this article: Xie T, Wu G, He X, Lai Z, Zhang H, Zhao J. Antimicrobial resistance and genetic diversity of Salmonella enterica from eggs. Food Sci Nutr. 2019;7:2847–2853. https://doi.org/10.1002/fsn3.1126",
+            "block_bbox": [
+                629,
+                1321,
+                1053,
+                1427
+            ],
+            "block_id": 35,
+            "block_order": 32,
+            "group_id": 35
+        },
+        {
+            "block_label": "aside_text",
+            "block_content": "20487177, 2019, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/fsn3.1126 by Schweizerische Akademie Der, Wiley Online Library on [16/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons Licens",
+            "block_bbox": [
+                1153,
+                34,
+                1170,
+                1529
+            ],
+            "block_id": 36,
+            "block_order": null,
+            "group_id": 36
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.915429413318634,
+                "coordinate": [
+                    85.62811279296875,
+                    45.05978775024414,
+                    147.05831909179688,
+                    61.99819564819336
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8389085531234741,
+                "coordinate": [
+                    722.7345581054688,
+                    51.349769592285156,
+                    876.5083618164062,
+                    68.36226654052734
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8649483323097229,
+                "coordinate": [
+                    936.9163818359375,
+                    54.14631652832031,
+                    1034.2611083984375,
+                    77.80702209472656
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.869179368019104,
+                "coordinate": [
+                    1062.78759765625,
+                    44.622047424316406,
+                    1099.72314453125,
+                    61.256675720214844
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9692849516868591,
+                "coordinate": [
+                    109.9097900390625,
+                    95.31497192382812,
+                    576.5470581054688,
+                    134.27561950683594
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9793216586112976,
+                "coordinate": [
+                    87.97894287109375,
+                    137.50369262695312,
+                    577.4285888671875,
+                    218.30337524414062
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9801703691482544,
+                "coordinate": [
+                    87.33599853515625,
+                    221.380615234375,
+                    577.6096801757812,
+                    302.94232177734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9811073541641235,
+                "coordinate": [
+                    87.44215393066406,
+                    305.316650390625,
+                    578.0136108398438,
+                    406.923583984375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9808157086372375,
+                "coordinate": [
+                    87.094482421875,
+                    410.33563232421875,
+                    577.6712036132812,
+                    512.0948486328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9705314636230469,
+                "coordinate": [
+                    86.67857360839844,
+                    514.7431030273438,
+                    577.2440795898438,
+                    555.3457641601562
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9807586073875427,
+                "coordinate": [
+                    87.49946594238281,
+                    557.7345581054688,
+                    577.4320678710938,
+                    659.3515014648438
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981069803237915,
+                "coordinate": [
+                    87.1419677734375,
+                    662.2848510742188,
+                    577.1878662109375,
+                    764.5774536132812
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9926074743270874,
+                "coordinate": [
+                    84.90826416015625,
+                    93.60650634765625,
+                    580.129150390625,
+                    1455.880126953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806570410728455,
+                "coordinate": [
+                    86.78828430175781,
+                    766.7603759765625,
+                    577.91455078125,
+                    869.2528076171875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9798491597175598,
+                "coordinate": [
+                    87.05758666992188,
+                    871.9566650390625,
+                    577.708251953125,
+                    954.3980712890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9794131517410278,
+                "coordinate": [
+                    86.8616943359375,
+                    956.4718017578125,
+                    577.7015380859375,
+                    1038.3680419921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9794415235519409,
+                "coordinate": [
+                    87.32415771484375,
+                    1040.341552734375,
+                    577.8829956054688,
+                    1122.388916015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9816939234733582,
+                "coordinate": [
+                    87.51022338867188,
+                    1124.068115234375,
+                    578.2242431640625,
+                    1268.640380859375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9691521525382996,
+                "coordinate": [
+                    87.30213928222656,
+                    1271.4814453125,
+                    576.9723510742188,
+                    1311.193115234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9801085591316223,
+                "coordinate": [
+                    87.29579162597656,
+                    1313.038818359375,
+                    577.6743774414062,
+                    1393.680908203125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9761670827865601,
+                "coordinate": [
+                    86.64630126953125,
+                    1396.73193359375,
+                    577.305908203125,
+                    1455.93310546875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.980534017086029,
+                "coordinate": [
+                    608.989501953125,
+                    95.14924621582031,
+                    1100.53759765625,
+                    196.47129821777344
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9808369278907776,
+                "coordinate": [
+                    608.7933349609375,
+                    199.44863891601562,
+                    1100.2169189453125,
+                    302.7680969238281
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9810174703598022,
+                "coordinate": [
+                    608.658935546875,
+                    304.8347473144531,
+                    1100.571044921875,
+                    407.2116394042969
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9787428379058838,
+                "coordinate": [
+                    608.5382080078125,
+                    410.2882080078125,
+                    1100.0352783203125,
+                    470.8931884765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9804866909980774,
+                "coordinate": [
+                    609.0782470703125,
+                    473.380615234375,
+                    1099.95361328125,
+                    555.3841552734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.979598343372345,
+                "coordinate": [
+                    610.0113525390625,
+                    557.33740234375,
+                    1099.7882080078125,
+                    638.93896484375
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9916421175003052,
+                "coordinate": [
+                    606.2799072265625,
+                    92.9622802734375,
+                    1102.2982177734375,
+                    1142.7115478515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.977977991104126,
+                "coordinate": [
+                    608.9608154296875,
+                    641.3023681640625,
+                    1099.513427734375,
+                    702.2823486328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9775921702384949,
+                "coordinate": [
+                    608.744140625,
+                    704.1507568359375,
+                    1099.5948486328125,
+                    765.2105712890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9707229137420654,
+                "coordinate": [
+                    608.3798828125,
+                    767.0383911132812,
+                    1100.0858154296875,
+                    807.6264038085938
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9767053723335266,
+                "coordinate": [
+                    609.0411376953125,
+                    809.3553466796875,
+                    1100.1151123046875,
+                    869.2593994140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9791020750999451,
+                "coordinate": [
+                    609.332275390625,
+                    872.2579345703125,
+                    1100.36962890625,
+                    954.3472900390625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9783203601837158,
+                "coordinate": [
+                    609.029296875,
+                    956.7703857421875,
+                    1100.1690673828125,
+                    1038.1236572265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9775082468986511,
+                "coordinate": [
+                    609.4044189453125,
+                    1040.360595703125,
+                    1099.7584228515625,
+                    1143.096923828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9379920363426208,
+                "coordinate": [
+                    607.0643920898438,
+                    1186.9083251953125,
+                    872.1782836914062,
+                    1208.0074462890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.968178927898407,
+                "coordinate": [
+                    605.330322265625,
+                    1225.387939453125,
+                    1101.02001953125,
+                    1274.304443359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9707850813865662,
+                "coordinate": [
+                    629.2496337890625,
+                    1321.18603515625,
+                    1053.5670166015625,
+                    1427.0830078125
+                ]
+            },
+            {
+                "cls_id": 2,
+                "label": "aside_text",
+                "score": 0.9180006384849548,
+                "coordinate": [
+                    1153.0528564453125,
+                    34.55224609375,
+                    1170.9664306640625,
+                    1529.6990966796875
+                ]
+            }
+        ]
+    }
+}

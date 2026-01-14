@@ -1,0 +1,293 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2015.pdf",
+    "page_index": 2,
+    "page_count": 9,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "STAPHYLOCOCCUS IN CHICKEN AND BEEF RAW MEAT IN EGYPT",
+            "block_bbox": [
+                114,
+                66,
+                698,
+                89
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "407",
+            "block_bbox": [
+                1067,
+                68,
+                1102,
+                87
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "samples collected were unprocessed raw and fresh meat. The samples were aseptically collected, and each sample was placed in a separate, sterile plastic bag. The samples were brought under refrigeration to the laboratory and analyzed within the following 2 h. The samples (25 g) were weighed into sterile stomacher bags diluted with 225-mL sterile buffered peptone water and homogenized in a stomacher for about 5 min; 0.1 mL was streaked on Baird-Parker (BP) agar supplemented with egg yolk-tellurite emulsion and incubated at  $ 37^{\\circ} $ C for 24 h. Strains cultured on BP agar medium were identified as S. aureus if growth was observed and the colonies and their surrounding showed the typical morphologic characteristics after aerobic incubation at  $ 37^{\\circ} $ C (black colonies with an opaque precipitation halo); growth of colonies without the media-typical characteristics was considered as NSA. The tube coagulate test was determined and evaluated for coagulation after 3 and 24 h of incubation. All isolates identified as NSA and CNS based on colony morphology, Gram staining (positive), catalase reaction (positive), and coagulase test (positive) were subjected to species identification by using all the conventional biochemical methods described by Thorberg and Brandstrom (2000). For novobiocin-sensitive CNS isolates identified in samples, a simplified identification system, novobiocin-sensitive CNS built on biochemical tests was used (Thorberg and Brandstrom, 2000). To confirm the isolates as Staphylococcus, definitive identification of all strains included in the study was performed targeting the Staphylococcus genus-specific 16S rRNA gene polymerase chain reaction (fragment of 756 bp); F: AAC TCT GTT ATT AGG GAA GAA CA and R: CCA CCT TCC TCC GGT TTG TCA CC as previously described (Zhang et al., 2004). For the positive control, S. aureus (ATCC 43300) reference strain was used as control for the test results.",
+            "block_bbox": [
+                112,
+                116,
+                602,
+                861
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "The resistance pattern of Staphylococcus spp. isolates was determined using the disk-diffusion test (CLSI, 2012). Eleven antibiotics were chosen for the study based on the most used active principles in human medicine, national veterinary therapy, and according to their common use in research. The use of oxacillin/methicillin is not usually used in veterinary practice, and it was included in this study only for epidemiological purposes; the drugs tested are indicated in Table 1. S. aureus American Type Culture Collection (ATCC) 29213 and S. aureus ATCC 43300 were used as methicillin-susceptible and -resistant controls, respectively.",
+            "block_bbox": [
+                112,
+                861,
+                601,
+                1106
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Results and Discussion",
+            "block_bbox": [
+                114,
+                1135,
+                326,
+                1157
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Cairo is the largest city in the Middle East with a population of more than 16 million. Due to overcrowding and in some areas a state of poverty, inadequate sanitary conditions and poor general hygiene are seen. Raw meat is sold and available in open-air local retail shops without appropriate temperature control and is purchased by approximately 75% of households (ElNaggar et al., 2006; Kader and Yahia, 2012).",
+            "block_bbox": [
+                112,
+                1167,
+                601,
+                1322
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Contaminated raw meat is one of the main sources of foodborne illnesses and a risk of the transmission of zoonotic infections. CPS and CNS are well established as clinical and epidemiological pathogens, and their potentially pathogenic role as foodborne pathogens should not be neglected. From the 100 samples inspected, 100 isolates (100/100; 100% isolation rate) belonging to 11 species were obtained (Table 2), from which the most dominant were S. hyicus (26/100), lugdunensis (18/100), aureus (15/100), and epidermidis (14/100). Studies have reported rates of 6% to 100% from Spain (Alvarez-Astorga et al., 2002), Japan (Kitai et al., 2005), Italy (Normanno et al., 2007), The Netherlands (van Loo et al., 2007), Nigeria (Achi and Madubuike, 2007), Jordan (Al-Tarazi et al., 2009), Korea (Lim et al., 2010), United States (Waters et al., 2011), Turkey (Citak and Duman, 2011), India (Arul and Saravanan, 2011), China (Wang et al., 2013), EFSA (2013), Egypt (EI-Jakee et al., 2013), and Thailand (Akbar and Anil, 2013). The isolation rate of the Staphylococcus species recorded in our investigation on local beef meat (3.7%) was much lower than that recorded from the imported beef meat (47.8%), while the S. aureus contamination constituted a significantly higher rate in the local beef meat (33.3%) than in the imported beef meat (13.0%). The isolation rates recorded in beef were higher than those previously reported by Heo et al. (2008), who reported there was no significance difference in the frequency of S. aureus isolation between imported (10.3%) and domestic (8%) raw beef samples.",
+            "block_bbox": [
+                112,
+                1322,
+                602,
+                1478
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                614,
+                116,
+                1105,
+                576
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "The isolation and prevalence data are variable and differ between various countries, and comparison between studies is inadvisable. Nevertheless, comparisons could still be made, noting that there are limiting factors due to inherent differences in methodology (sampling techniques, sample size, type of samples, sampling seasons, and sites [geographical locations, supermarkets, groceries, butcher shops, vendors/hawkers], identification methods), packaging, display at the butcher shop and handling practices, food settings, slaughterhouse and butcher appliances (knives, slicing machines, wiping cloths, towels, and nail brushes), and in grocery store meatburger grinders (EC, 2011). These factors differ greatly between countries and even within the same country, especially in the underdeveloped world. As meat may originally become contaminated during or after processing, the great significance of slaughter hygiene should be emphasized due to the problem of the increased speed of current production lines (Jacob, 1989). The three slaughterhouse tasks most likely to contaminate meat are the removal of an animal's hide, the removal of its digestive system, and the spread of feedlots at slaughterhouses and slaughterhouse workers who are often illiterate and always overworked (EC, 2011). Other contamination sources of S. aureus are soil, water, dust and air, changes in eating habits, and mass catering; also, complex and lengthy food-supply procedures with increased international movement are additional contributing factors (Jacob, 1989).",
+            "block_bbox": [
+                614,
+                576,
+                1105,
+                1169
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "In addition to these factors, the most important underestimated source is the asymptomatic food handlers, who may harbor  $ S.\\ aureus $  and can contaminate food during preparation (Todd et al., 2008). Staphylococcus spp. are widely found as normal flora in the nose and throat (and thus on the hands and fingertips) and on the hair and skin of more than 50% of healthy individuals (FDA, 2009). Food handlers who have skin lesions, or by sneezing or coughing, are a major source of contamination of table foods (FDA, 2009). However, testing of humans (food handlers) who came into contact with the study was not an objective of this study and therefore was never attempted. Any food that requires handling in preparation may therefore easily become contaminated. Infected wounds, lesions, and boils of food handlers",
+            "block_bbox": [
+                613,
+                1169,
+                1105,
+                1478
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9312103390693665,
+                "coordinate": [
+                    114.63070678710938,
+                    66.65669250488281,
+                    698.8023681640625,
+                    89.65010070800781
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.888717770576477,
+                "coordinate": [
+                    1067.204345703125,
+                    68.63125610351562,
+                    1102.089599609375,
+                    87.9171142578125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.577356219291687,
+                "coordinate": [
+                    185.89340209960938,
+                    312.955078125,
+                    229.57049560546875,
+                    334.2677001953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882084727287292,
+                "coordinate": [
+                    112.12689208984375,
+                    116.2509765625,
+                    602.4927978515625,
+                    861.491455078125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5823608040809631,
+                "coordinate": [
+                    499.5013427734375,
+                    379.30255126953125,
+                    543.0128173828125,
+                    400.50128173828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880695939064026,
+                "coordinate": [
+                    112.26643371582031,
+                    861.5953369140625,
+                    601.7710571289062,
+                    1106.314208984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9266170859336853,
+                "coordinate": [
+                    114.25965881347656,
+                    1135.746337890625,
+                    326.82330322265625,
+                    1157.575439453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865469932556152,
+                "coordinate": [
+                    112.46354675292969,
+                    1167.66748046875,
+                    601.4542236328125,
+                    1322.196044921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9861359596252441,
+                "coordinate": [
+                    112.34233093261719,
+                    1322.5994873046875,
+                    602.1422729492188,
+                    1478.4569091796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881901741027832,
+                "coordinate": [
+                    614.3382568359375,
+                    116.33926391601562,
+                    1105.569091796875,
+                    576.5081787109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884448051452637,
+                "coordinate": [
+                    614.3232421875,
+                    576.165283203125,
+                    1105.474853515625,
+                    1169.207275390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883896112442017,
+                "coordinate": [
+                    613.7686767578125,
+                    1169.06884765625,
+                    1105.8021240234375,
+                    1478.254150390625
+                ]
+            }
+        ]
+    }
+}

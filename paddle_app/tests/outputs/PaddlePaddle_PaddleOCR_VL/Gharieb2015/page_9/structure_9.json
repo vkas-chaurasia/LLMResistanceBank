@@ -1,0 +1,494 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Gharieb2015.pdf",
+    "page_index": 8,
+    "page_count": 11,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Gharieb et al. Gut Pathog (2015) 7:34",
+            "block_bbox": [
+                108,
+                65,
+                356,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 9 of 11",
+            "block_bbox": [
+                992,
+                67,
+                1079,
+                89
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Conclusions",
+            "block_bbox": [
+                106,
+                176,
+                228,
+                200
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "The higher resistance rates displayed by Salmonella isolates in this study to the antibiotics and the detection of class 1 integron gene cassettes harboring resistance genes among MDR strains shows the potential of integrons to carry and spread resistance genes to other S. enterica isolates or to other bacteria. Therefore, a more prudent use of antibiotics in both humans and animals is required.",
+            "block_bbox": [
+                104,
+                201,
+                586,
+                372
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Methods",
+            "block_bbox": [
+                107,
+                392,
+                200,
+                416
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Ethical approval",
+            "block_bbox": [
+                106,
+                417,
+                247,
+                441
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "This study was approved by Zagazig University, Egypt ethical board (Protocol No. 10122). Permission to collect stool samples was obtained from the administrators of Al-Ahrar General hospital.",
+            "block_bbox": [
+                105,
+                441,
+                586,
+                539
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Specimen collection",
+            "block_bbox": [
+                106,
+                562,
+                279,
+                584
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "The present work was conducted during the period from March, 2014 to February, 2015. A total of one hundred fresh poultry carcasses comprising broiler chicken and ducks (50, each) were randomly purchased from poultry retail outlets at Zagazig City, Egypt. In addition, fifty-two stock samples were collected from the patients attending the outpatients' clinic of Al-Ahrar General Hospital. The inclusion criteria were restricted to the patients who suffered from diarrhoea, fever and gave informed written consent to participate in the study. Moreover, patients received antibiotic treatments were excluded. A swab was obtained from each freshly passed stool sample, labeled, ice packed and transported to the Bacteriology Laboratory, Faculty of Veterinary Medicine, Zagazig University, Egypt within 24 h for bacteriological analysis.",
+            "block_bbox": [
+                105,
+                585,
+                586,
+                949
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I solation and identification of Salmonella spp",
+            "block_bbox": [
+                106,
+                969,
+                476,
+                993
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonella isolation was carried out according to the standard methods recommended by ISO 6579  $ [33] $ . Twenty-five grams of poultry meat were excised from each sample and minced with 225 ml of buffered peptone water (BPW) enrichment broth. Also, each stool swab was inserted in sterile tube containing 9 ml BPW. All samples were incubated at 37 °C for 24 h. Aliquots (0.1 ml) of the pre-enriched culture was inoculated into 10 ml of Rappaport Vasiliadis (RV) enrichment broth and incubated at 42 °C for 24 h. A loopful of the enriched culture was streaked on Xylose-Lysine-Deoxycholate (XLD) agar plates (Oxoid, Basingstoke, UK) and incubated at 37 °C for 24 h. Suspected colonies with typical Salmonella morphology were confirmed biochemically by indole, citrate utilization, urease, triple sugar iron (TSI) and lysine iron agar (LIA) tests. All biochemically confirmed Salmonella isolates were serologically identified on the basis of somatic (O) and flagellar (H) antigens by slide agglutination using commercial antisera (SISIN, Berlin) following Kauffman-White scheme  $ [34] $  in collaboration with Serology Unit, Animal Health Research Institute, Dokki, Egypt.",
+            "block_bbox": [
+                105,
+                993,
+                586,
+                1454
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                174,
+                1082,
+                249
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial susceptibility testing (antibiogram)",
+            "block_bbox": [
+                602,
+                273,
+                1005,
+                296
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Susceptibility of Salmonella isolates to various routine antimicrobial drugs was tested by the standard disc diffusion technique  $ [35] $  using Mueller–Hinton agar and commercial antibiotic discs (Oxoid, UK). The antibiotics used were ampicillin (10  $ \\mu $ g), erythromycin (15  $ \\mu $ g), streptomycin (10  $ \\mu $ g), ciprofloxacin (5  $ \\mu $ g), tetracycline (30  $ \\mu $ g), ceftriaxone (30  $ \\mu $ g), ampicillin-sulbactam (20  $ \\mu $ g), trimethoprim-sulfamethoxazole (25  $ \\mu $ g), chloramphenicol (30  $ \\mu $ g), nalidixic acid (30  $ \\mu $ g), gentamicin (10  $ \\mu $ g), amoxicillin-clavulanic acid (30  $ \\mu $ g). The inhibition zones in mm were measured and scored as sensitive, intermediate and resistant categories in accordance with the critical breakpoints recommended by the Clinical and Laboratory Standards Institute  $ [36] $ .",
+            "block_bbox": [
+                601,
+                297,
+                1084,
+                634
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Molecular detection of Salmonella virulence genes using uniplex PCR",
+            "block_bbox": [
+                602,
+                656,
+                1061,
+                702
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "A total of twelve Salmonella isolates were screened for the presence of virulence genes using PCR. These genes including; plasmid encoded fimbriae (pefA), hyper invasive locus (hilA), Salmonella outer protein (sopB) and Salmonella enterotoxin gene (stn). Briefly, DNA was extracted from the overnight bacterial culture using ABIO pure Genomic DNA extraction kit with modifications from the manufacturer's recommendation. DNA amplification was carried out using specific primers supplied from Metabion, Germany (Table 4). Primers were utilized in a 25  $ \\mu $ l reaction containing 12.5  $ \\mu $ l of Emerald Amp Max PCR Master Mix (Takara, Japan), one  $ \\mu $ l of each primer (20 pmol concentration), 4.5  $ \\mu $ l of nuclease free water, and 6  $ \\mu $ l of DNA template. The reaction was performed in a T3 Biometra thermal cycler. Positive and negative controls were included in each reaction. Aliquot of each amplicon along with a 100 bp molecular weight DNA ladder (Fermentas, USA) were separated by electrophoresis on 1.5 % agarose gel (Applichem, Germany, GmbH) stained with 0.5  $ \\mu $ g/ml ethidium bromide (Sigma, USA) in 1 × TBE buffer on a mini slab horizontal electrophoresis unit (Bio-Rad, USA) at 100 V for 30 min. The gel was photographed by a gel documentation system (Alpha Innotech, Biometra) and the data was analyzed through computer software.",
+            "block_bbox": [
+                601,
+                703,
+                1084,
+                1307
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Molecular detection and sequencing of class 1 integrons\n\nAll MDR Salmonella isolates  $ (n = 12) $  were tested for the presence of conserved regions  $ (5^{\\prime} $ -CS and 3^{\\prime}-CS) of class I integrons using specific primers with the following sequences: 5^{\\prime} CS-GGC ATC CAA GCA GCA AG and",
+            "block_bbox": [
+                600,
+                1329,
+                1084,
+                1451
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9417579174041748,
+                "coordinate": [
+                    108.41641235351562,
+                    65.30299377441406,
+                    356.9216003417969,
+                    87.74073791503906
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9001941680908203,
+                "coordinate": [
+                    992.0861206054688,
+                    67.0623779296875,
+                    1079.953369140625,
+                    89.04629516601562
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9263481497764587,
+                "coordinate": [
+                    106.96749877929688,
+                    176.81979370117188,
+                    228.82855224609375,
+                    200.29763793945312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867814183235168,
+                "coordinate": [
+                    104.97796630859375,
+                    201.396240234375,
+                    586.7092895507812,
+                    372.4844970703125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9149671196937561,
+                "coordinate": [
+                    107.19036865234375,
+                    392.5152282714844,
+                    200.7869873046875,
+                    416.2558898925781
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9237309694290161,
+                "coordinate": [
+                    106.98792266845703,
+                    417.9205017089844,
+                    247.74627685546875,
+                    441.2753601074219
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9806060194969177,
+                "coordinate": [
+                    105.6041259765625,
+                    441.11773681640625,
+                    586.2815551757812,
+                    539.3805541992188
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.929548978805542,
+                "coordinate": [
+                    106.69649505615234,
+                    562.0997314453125,
+                    279.2318420410156,
+                    584.5965576171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884300231933594,
+                "coordinate": [
+                    105.28057861328125,
+                    585.5557861328125,
+                    586.4573974609375,
+                    949.0765380859375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9402723908424377,
+                "coordinate": [
+                    106.82624816894531,
+                    969.7122192382812,
+                    476.945556640625,
+                    993.3489379882812
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6478382349014282,
+                "coordinate": [
+                    232.2374725341797,
+                    1210.076416015625,
+                    298.82464599609375,
+                    1232.244140625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6120935678482056,
+                "coordinate": [
+                    372.4251708984375,
+                    1137.41943359375,
+                    424.572265625,
+                    1160.3134765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887136220932007,
+                "coordinate": [
+                    105.1556396484375,
+                    993.9358520507812,
+                    586.7468872070312,
+                    1454.164306640625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6677750945091248,
+                "coordinate": [
+                    183.87954711914062,
+                    1282.0302734375,
+                    235.22305297851562,
+                    1304.086669921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9764009118080139,
+                "coordinate": [
+                    601.50732421875,
+                    174.8389434814453,
+                    1082.8577880859375,
+                    249.5464324951172
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9413249492645264,
+                "coordinate": [
+                    602.978759765625,
+                    273.022216796875,
+                    1005.6767578125,
+                    296.8475341796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881190657615662,
+                "coordinate": [
+                    601.0338134765625,
+                    297.0029296875,
+                    1084.5770263671875,
+                    634.9305419921875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9663958549499512,
+                "coordinate": [
+                    602.2056884765625,
+                    656.86767578125,
+                    1061.4293212890625,
+                    702.922119140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988685131072998,
+                "coordinate": [
+                    601.0167236328125,
+                    703.9664306640625,
+                    1084.853759765625,
+                    1307.5086669921875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8359359502792358,
+                "coordinate": [
+                    602.353515625,
+                    1328.8421630859375,
+                    1060.548828125,
+                    1352.4385986328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9633387327194214,
+                "coordinate": [
+                    600.938720703125,
+                    1329.07373046875,
+                    1084.728759765625,
+                    1451.24658203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4684409499168396,
+                "coordinate": [
+                    861.8736572265625,
+                    1354.0037841796875,
+                    940.5982666015625,
+                    1375.5181884765625
+                ]
+            }
+        ]
+    }
+}

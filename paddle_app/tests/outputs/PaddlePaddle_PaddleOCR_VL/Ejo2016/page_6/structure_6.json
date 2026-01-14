@@ -1,0 +1,439 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Ejo2016.pdf",
+    "page_index": 5,
+    "page_count": 8,
+    "width": 1201,
+    "height": 1600,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "6",
+            "block_bbox": [
+                98,
+                87,
+                113,
+                106
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "BioMed Research International",
+            "block_bbox": [
+                845,
+                84,
+                1101,
+                108
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "during postpasteurization processing. In addition, the use of the right temperature for the storage of food items and ingredients used to prepare foods, clean cooking environment and equipment, and the good hygiene of storage and handlers are essential to reduce Salmonella contamination. The amount of Salmonella could have been too low to be detectable by cultural methods in this study.",
+            "block_bbox": [
+                93,
+                144,
+                586,
+                303
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "In the present study, the antimicrobial-resistant Salmonella were found to be 47.6% of the total 21 Salmonella isolates tested, which is lower than those in previous studies conducted elsewhere in Ethiopia [25]. This observed resistance profile was higher than what other studies reported in Ethiopia (23.5%) [26] and in Senegal (17%) [22]. However, our findings were lower than 83% reported in Thailand [24]. Even though it needs a better understanding of antibiotics use in Ethiopia, this resistance variation might be due to indiscriminate use of antimicrobials in animal production without prescription in the animal health sector, which might favor selection pressure that increased the advantage of maintaining resistance genes in bacteria [34]. This is also supported by a high prevalence of Salmonella reported from humans and different food animals, with the strains having high levels of drug resistance [35, 36]. Recently, the meta-analysis of animal Salmonella isolates resistant to drugs used against human salmonellosis in Ethiopia also showed that food animals are human exposure sources of antibiotic-resistant Salmonella [35].",
+            "block_bbox": [
+                93,
+                303,
+                586,
+                758
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "In our study, most of the identified isolates are resistant to two or more antimicrobials, particularly to tetracycline (90%), sulfamethoxazole-trimethoprim (40%), nitrofurantoin (40%), and amoxicillin (30%). Salmonella resistance in this finding was higher than in the previous studies done in Ethiopia [26, 32] and other countries [22, 24]. The remarkable rise in the occurrence of antimicrobial resistance in Salmonella for the mentioned antibiotics was probably an indication of their frequent usage both in livestock and in public health sectors in Ethiopia. Studies conducted elsewhere in Ethiopia [35] have also indicated that the increase in the proportion of drug-resistant Salmonella isolates could be due to the irrational use of antimicrobials and inappropriateness of the prescription and dispensing methods in both the public veterinary and private health setups of the country. Due to the relatively limited access and high price to get the newly developed cephalosporin and quinolone drugs, the reports of prevalence of antimicrobial-resistant Salmonella to relatively low-priced and regularly available antibiotics are alarming for a low-income society living in most developing countries, like Ethiopia. However, it is important to note that these antibiotics are commonly used in veterinary medicine, and infections with these resistant Salmonella isolates could lower the efficiency of antibiotic treatment. The finding of this study shows slightly lower resistance than the study reported in Nigeria (93.1%) [29]. In recent times, the frequency of antimicrobial drug resistance in Salmonella and the number of drugs to which the strains are resistant have increased worldwide, primarily as a consequence of antimicrobial use in food production. Recent reports have also highlighted the emergence of Salmonella with reduced susceptibility to fluoroquinolones and other drugs [9], which is associated with treatment failures and poor outcomes in human infections.",
+            "block_bbox": [
+                93,
+                758,
+                587,
+                1490
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                610,
+                143,
+                1101,
+                189
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "This study has limitations. We did not serotype identified Salmonella isolates for strain identification and characterization due to financial and lab facility constraints. In addition, we did not see the risk factors that might promote contamination and/or associations of Salmonella with foods of animal origin and drug resistance profiles. Therefore, this study's results should be considered as a baseline for bacteriological assessment of Salmonella isolates from foods of animal origin, which will be further serotyped and confirmed as foodborne pathogens by future studies in the same setting including food items of both animal and plant origin.",
+            "block_bbox": [
+                609,
+                188,
+                1103,
+                443
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 5. Conclusion",
+            "block_bbox": [
+                612,
+                460,
+                761,
+                486
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "This study showed that Salmonella isolates were identified among the food items of animal origin, particularly for meat and its minced product, raw eggs, and raw milk. Salmonella drug resistance was also observed for almost all tested antibiotics that are commonly used in both veterinary and human health sectors in this study area and other parts of Ethiopia. This bacteriological assessment of Salmonella isolates from foods of animal origin can be used as a starting point to improve the city's foodborne pathogen surveillance system, as well as support hygiene and sanitation offices to assess and improve their public health and disease control programs. Therefore, our findings provide the prevalence and drug resistance of Salmonella from foods of animal origin and contribute information to scientists as well as public health researchers for the development of guidelines as well as food safety regulations to minimize the prevalent and resistant foodborne Salmonella species.",
+            "block_bbox": [
+                609,
+                501,
+                1104,
+                893
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Disclosure",
+            "block_bbox": [
+                612,
+                911,
+                730,
+                937
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "The authors are veterinary and public health professionals and members of the veterinary public health theme in subgroup of zoonosis and food safety research team at the University of Gondar. They are involved and interested in tuberculosis and foodborne zoonotic and food safety studies.",
+            "block_bbox": [
+                609,
+                951,
+                1103,
+                1069
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Competing Interests",
+            "block_bbox": [
+                612,
+                1088,
+                830,
+                1116
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "The authors declare that they have no competing interests.",
+            "block_bbox": [
+                611,
+                1130,
+                1082,
+                1156
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Authors' Contributions",
+            "block_bbox": [
+                611,
+                1175,
+                861,
+                1201
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Mebrat Ejo and Legesse Garedew conceived and designed the experiments. Zabishwork Alebachew, Walelgn Worku, and Legesse Garedew performed the experiments. Mebrat Ejo, Zabishwork Alebachew, and Legesse Garedew analyzed the data. Legesse Garedew and Walelgn Worku contributed reagents/materials/analysis tools. Mebrat Ejo and Legesse Garedew wrote the paper.",
+            "block_bbox": [
+                609,
+                1215,
+                1103,
+                1380
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Acknowledgments",
+            "block_bbox": [
+                611,
+                1397,
+                809,
+                1425
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "The authors would like to acknowledge the University of Gondar, Ethiopia, for the financial support of this study.",
+            "block_bbox": [
+                610,
+                1438,
+                1104,
+                1488
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8505414724349976,
+                "coordinate": [
+                    98.0120620727539,
+                    87.78266906738281,
+                    113.9741439819336,
+                    106.02388000488281
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9440894722938538,
+                "coordinate": [
+                    845.670654296875,
+                    84.9398193359375,
+                    1101.35546875,
+                    108.82174682617188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872995018959045,
+                "coordinate": [
+                    93.69905090332031,
+                    144.03643798828125,
+                    586.3428955078125,
+                    303.174560546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886055588722229,
+                "coordinate": [
+                    93.61679077148438,
+                    303.29473876953125,
+                    586.58251953125,
+                    758.2656860351562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885530471801758,
+                "coordinate": [
+                    93.17631530761719,
+                    758.223388671875,
+                    587.76025390625,
+                    1490.33251953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9668589234352112,
+                "coordinate": [
+                    610.15087890625,
+                    143.83827209472656,
+                    1101.3538818359375,
+                    189.1984100341797
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878826141357422,
+                "coordinate": [
+                    609.2236328125,
+                    188.7875213623047,
+                    1103.69873046875,
+                    443.56610107421875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9340935945510864,
+                "coordinate": [
+                    612.1292724609375,
+                    460.64190673828125,
+                    761.2308349609375,
+                    486.27789306640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886844754219055,
+                "coordinate": [
+                    609.2374267578125,
+                    501.61376953125,
+                    1104.2603759765625,
+                    893.484375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9317772388458252,
+                "coordinate": [
+                    612.177978515625,
+                    911.5401000976562,
+                    730.1005859375,
+                    937.0093383789062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812058210372925,
+                "coordinate": [
+                    609.7451171875,
+                    951.68994140625,
+                    1103.857177734375,
+                    1069.9808349609375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9441497325897217,
+                "coordinate": [
+                    612.5206298828125,
+                    1088.8172607421875,
+                    830.0946044921875,
+                    1116.7122802734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9429047703742981,
+                "coordinate": [
+                    611.4132080078125,
+                    1130.207275390625,
+                    1082.2279052734375,
+                    1156.913818359375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9413486123085022,
+                "coordinate": [
+                    611.85791015625,
+                    1175.0390625,
+                    861.4189453125,
+                    1201.127685546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9844484329223633,
+                "coordinate": [
+                    609.6934814453125,
+                    1215.734130859375,
+                    1103.5814208984375,
+                    1380.394287109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9390376210212708,
+                "coordinate": [
+                    611.717529296875,
+                    1397.2109375,
+                    809.323974609375,
+                    1425.27587890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9642680287361145,
+                "coordinate": [
+                    610.037353515625,
+                    1438.728271484375,
+                    1104.5615234375,
+                    1488.926025390625
+                ]
+            }
+        ]
+    }
+}

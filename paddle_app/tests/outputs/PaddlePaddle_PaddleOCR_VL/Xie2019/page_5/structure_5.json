@@ -1,0 +1,282 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Xie2019.pdf",
+    "page_index": 4,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1565,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "XIE ET AL.",
+            "block_bbox": [
+                85,
+                44,
+                147,
+                62
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Food Science & Nutrition Open Access—WILEY",
+            "block_bbox": [
+                722,
+                50,
+                1035,
+                79
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "number",
+            "block_content": "2851",
+            "block_bbox": [
+                1062,
+                43,
+                1099,
+                62
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_257_95_928_966.jpg\" alt=\"Image\" width=\"56%\" /></div>\n",
+            "block_bbox": [
+                257,
+                95,
+                928,
+                966
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">FIGURE 3 ERIC-PCR DNA fingerprint analysis of the Salmonella isolates</div>\n",
+            "block_bbox": [
+                83,
+                980,
+                632,
+                1003
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "rate was similar to that seen in Iran and Shaanxi, China (Badouei, Ghalejooghi, & Madadgar, 2012; Wang et al., 2012). However, the data on the prevalence of Salmonella in eggs still show the risk of this organism infection and can be useful for control of egg consumption in China.",
+            "block_bbox": [
+                82,
+                1054,
+                579,
+                1180
+            ],
+            "block_id": 5,
+            "block_order": 1,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Resistance to different antibiotics has increasingly been reported in bacteria isolated from animals and humans and has become an important global issue. In particular, there is widespread dissemination of antimicrobial-resistant strains among S. enterica (Hardjo Lugito & Cucunawangsih, 2017; Yang et al., 2015). Our susceptibility tests revealed the Salmonella isolates obtained from eggs were highly resistant to  $ \\beta $ -lactams antibiotic, especially ampicillin. This resistance ratio coincides with many previous reports, finding that ampicillin resistance was most serious in Salmonella from some Asian countries (Chiou et al., 2014). Resistance to aminoglycosides and tetracyclines may be related to the use of feed containing large amounts of these antibiotics in chicken farms. Resistance to quinolones is also increasing along with prevalence of the resistance genes (Ben et al., 2017). Our isolates also showed resistance to other antibiotics including azithromycin (AZM) and erythromycin (ERY), which is a public health concern as these drugs are often used to treat human infections. In addition, many of the strains were multidrug resistant (MDR) with some even being resistant to more than seven antibiotics. Wang et al also showed that 84.6% of the Salmonella isolates from Shanghai, China, exhibited MDR and proved that resistance genes play an important role in MDR (Wang et al., 2017). Our findings indicate that it is necessary to continue monitoring the antimicrobial resistance of Salmonella isolates to help determine the appropriate antimicrobial therapy for patients infected with this pathogen.",
+            "block_bbox": [
+                82,
+                1184,
+                580,
+                1468
+            ],
+            "block_id": 6,
+            "block_order": 2,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                603,
+                1053,
+                1102,
+                1415
+            ],
+            "block_id": 7,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonella enterica has a wide variety of serotypes, and their distribution has strong regional variation. There are differences in",
+            "block_bbox": [
+                604,
+                1417,
+                1102,
+                1467
+            ],
+            "block_id": 8,
+            "block_order": 4,
+            "group_id": 8
+        },
+        {
+            "block_label": "aside_text",
+            "block_content": "20487177, 2019, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/fsn3.1126 by Schweizerische Akademie Der, Wiley Online Library on [16/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+            "block_bbox": [
+                1152,
+                26,
+                1171,
+                1536
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8696657419204712,
+                "coordinate": [
+                    85.34637451171875,
+                    44.29766082763672,
+                    147.18014526367188,
+                    62.63298797607422
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5156863331794739,
+                "coordinate": [
+                    722.9019775390625,
+                    50.61805725097656,
+                    1035.1644287109375,
+                    79.62132263183594
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5542694926261902,
+                "coordinate": [
+                    937.113037109375,
+                    53.09999084472656,
+                    1034.64306640625,
+                    78.275634765625
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8237948417663574,
+                "coordinate": [
+                    1062.4786376953125,
+                    43.485172271728516,
+                    1099.3555908203125,
+                    62.27822494506836
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9652326107025146,
+                "coordinate": [
+                    257.19989013671875,
+                    95.54904174804688,
+                    928.5803833007812,
+                    966.2835693359375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9340607523918152,
+                "coordinate": [
+                    83.41458129882812,
+                    980.9146728515625,
+                    632.36865234375,
+                    1003.12158203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9839437007904053,
+                "coordinate": [
+                    82.48231506347656,
+                    1054.129150390625,
+                    579.0540161132812,
+                    1180.570068359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880394339561462,
+                "coordinate": [
+                    82.08392333984375,
+                    1184.4375,
+                    580.5112915039062,
+                    1468.80078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887131452560425,
+                "coordinate": [
+                    603.421875,
+                    1053.954345703125,
+                    1102.670654296875,
+                    1415.346923828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9675434827804565,
+                "coordinate": [
+                    604.594970703125,
+                    1417.77978515625,
+                    1102.5604248046875,
+                    1467.673095703125
+                ]
+            },
+            {
+                "cls_id": 2,
+                "label": "aside_text",
+                "score": 0.9213263392448425,
+                "coordinate": [
+                    1152.777587890625,
+                    26.66778564453125,
+                    1171.61083984375,
+                    1536.0185546875
+                ]
+            }
+        ]
+    }
+}

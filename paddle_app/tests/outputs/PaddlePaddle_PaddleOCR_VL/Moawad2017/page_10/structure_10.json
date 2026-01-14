@@ -1,0 +1,584 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Moawad2017.pdf",
+    "page_index": 9,
+    "page_count": 13,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Moawad et al. Gut Pathog (2017) 9:57",
+            "block_bbox": [
+                108,
+                62,
+                361,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 10 of 13",
+            "block_bbox": [
+                984,
+                64,
+                1080,
+                85
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "enterica serovars isolated from animal products in Tunisia carried qnr gene  $ [50] $ . In other studies in China qnrA, qnrB and qnrS genes detected with low percentage in S. enterica serovar Enteritidis isolated from retail raw poultry  $ [51, 52] $ .",
+            "block_bbox": [
+                105,
+                173,
+                583,
+                293
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "The  $ bla_{TEM} $  gene was detected in 52.3% of all isolated E. coli and in 73.3% of ampicillin-resistant isolates. Other studies detected  $ bla_{TEM} $  in 97.1 and 75.0% of E. coli isolates from lambs in Spain and meat products in Cambodia, respectively [32, 45]. In China,  $ bla_{TEM} $  was identified in 7.8% of ESBL-producing E. coli recovered from meat products [53].",
+            "block_bbox": [
+                106,
+                293,
+                584,
+                461
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "The  $ \\beta $ -lactamase encoding gene  $ bla_{CMY} $  was not found in any of the isolated E. coli. In contrast,  $ bla_{CMY-2} $  was detected in 89.0% E. coli isolated from poultry meat in Denmark [54] and in 12.5% of ESBL-producing E. coli isolated from meat products in Cambodia [32].",
+            "block_bbox": [
+                106,
+                461,
+                585,
+                581
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "The  $ bla_{CTX-M} $  detected in 42.9% of E. coli isolated in this study. In Ghana 50.0% of ESBL-producing E. coli isolates from meat harboured  $ bla_{CTX-M} $  [46] while these  $ \\beta $ -lactamase encoding genes  $ bla_{CTX-M-15} $  and  $ bla_{CTX-M-9} $  were detected rarely (1.6%) in E. coli isolates from meat products in China [53].",
+            "block_bbox": [
+                106,
+                581,
+                584,
+                725
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "The  $ bla_{SHV} $  gene was not found in any of the E. coli isolates. Controversially, previous studies detected  $ bla_{SHV} $  in 9.4, 5.3 and 2.0% in meat products in China, broiler chickens and chicken carcasses in Iran, respectively [53, 55, 56].",
+            "block_bbox": [
+                106,
+                725,
+                582,
+                822
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "bla $ _{OXA-1} $  was detected in 14.3% of the E. coli isolates which is in contrast with previous report conducted in retail meat in US where the gene could not be identified [23].",
+            "block_bbox": [
+                106,
+                821,
+                584,
+                917
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "The most common carbapenemase types were blaOXA-23 and blaOXA-48 accounting for 47% of all identified carbapenemase genes  $ [25, 57] $ . In this study, blaOXA-23 was not identified in all isolated strains.",
+            "block_bbox": [
+                106,
+                918,
+                585,
+                1013
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "In isolated E. coli, qnrA and qnrB detected in 33.3% of isolates, all nalidixic acid and/or ciprofloxacin resistant isolates harboured both genes. While qnrB and qnrS were identified in 10.4% of nalidixic acid resistant E. coli isolated from Algerian retail chicken meat  $ [44] $  and in 10.0% of E. coli isolates obtained from bovine carcasses in Mexico  $ [58] $ . In contrast, qnrA, qnrB and qrnS genes could not be identified in enrofloxacin-resistant E. coli strains from poultry in Mexico  $ [59] $ .",
+            "block_bbox": [
+                106,
+                1013,
+                586,
+                1230
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "The presence of genetic elements such as integrons and transposons are often associated with multi-resistant phenotypes among Salmonella isolates  $ [60] $ . In this study, class 1 integron detected in 13.3% of S. enterica serovars. The identified gene cassettes were dfrA15, dfrA17 and aadA2. In previous studies, class 1 integron identified in 90.0% of multi-drug resistant Salmonella isolates from retail chicken meat in Japan and the identified genes cassettes were dfrA1, dfrA7, aadA1, aadB, and catB3  $ [61, 62] $ . The gene cassettes of class 1 integron which detected in Salmonella spp. isolated from poultry meat in Egypt were harbouring aac (3)-Id, aadA2, aadA4, aadA7, sat, dfrA15, lnuF and estX resistance genes  $ [7] $ . In a study conducted in Portugal, 75.0% of S. enterica isolated from different sources including food products had one or two class 1 integrons  $ [63] $ .",
+            "block_bbox": [
+                105,
+                1229,
+                586,
+                1448
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                600,
+                173,
+                1082,
+                341
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "The identified gene cassettes of class 1 integron dfrA1, dfrA15 and dfrA1-orf which confer resistance to trimethoprim were identified in 14.3% of E. coli isolated in this study. This is in agreement with E. coli isolates from retail chickens in Japan  $ [62] $  and in 1.9 and 11.4% of isolates from Thai and Cambodian meat samples obtained from slaughterhouses and fresh markets and the most common gene cassette was dfrA12-aadA2  $ [32] $ .",
+            "block_bbox": [
+                601,
+                341,
+                1083,
+                533
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Class 2 integrons were not detected in all isolates of this study which is in contrast to 5.6% positive samples in Egypt  $ [10] $ .",
+            "block_bbox": [
+                603,
+                533,
+                1083,
+                606
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, mcr-1 gene associated with colistin resistance was neither detected in S. enterica nor E. coli isolates. This result was in agreement with the result reported by Doumith et al. [64] who investigated 24,000 isolates of Enterobacteriaceae from food and humans including S. enterica and E. coli and found only 15 mcr-1 positive isolates. Recently, Quesada et al. identified the gene mcr-1 in nine S. enterica and E. coli isolates from poultry and swine for the first time in Spain [65]. Jayol et al. found the mcr-1 in 13% of E. coli and S. enterica [66]. Considering the frequent use of colistin in animal production and the importance of this antimicrobial for the control of multi-resistant Gram-negative nosocomial infections in humans, monitoring the dissemination of resistance to colistin is mandatory.",
+            "block_bbox": [
+                601,
+                605,
+                1083,
+                966
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "In conclusion, the results of this study showed high prevalence of  $ S.\\ enterica $  and  $ E.\\ coli $  as foodborne pathogens isolated from poultry and beef meat in Egypt. The emergence of antimicrobial resistance of  $ S.\\ enterica $  and  $ E.\\ coli $  isolates is of public concerns in Egypt. Significant resistance was detected to penicillin, cephalosporins, tetracycline and sulphonamides. Dissemination of ESBL and AmpC- $ \\beta $ -lactamase resistance-associated genes in  $ S.\\ enterica $  and  $ E.\\ coli $  was determined. Presence of class 1 integron in  $ S.\\ enterica $  and  $ E.\\ coli $  and genes associated with antibiotic resistance was also confirmed. Class 2 integron was not detected in any isolate. Further work should be performed to characterize  $ S.\\ enterica $  and  $ E.\\ coli $  isolates of animal and human origin from the same region sharing the same resistance markers in order to highlight potential horizontal gene transfer by these zoonotic organisms.",
+            "block_bbox": [
+                601,
+                965,
+                1084,
+                1376
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Authors' contributions",
+            "block_bbox": [
+                603,
+                1388,
+                759,
+                1407
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "AAM participated in the conception and design of the study. AAM performed the farm and laboratory work. AAM, HH, HE, HT, HN and HMH analyzed the",
+            "block_bbox": [
+                601,
+                1405,
+                1076,
+                1446
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9423633813858032,
+                "coordinate": [
+                    108.89753723144531,
+                    62.5760383605957,
+                    361.37127685546875,
+                    84.79866027832031
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.883631706237793,
+                "coordinate": [
+                    984.4370727539062,
+                    64.10850524902344,
+                    1080.947265625,
+                    85.70698547363281
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985689640045166,
+                "coordinate": [
+                    105.61895751953125,
+                    173.99496459960938,
+                    583.825927734375,
+                    293.6334533691406
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9042550921440125,
+                "coordinate": [
+                    163.83169555664062,
+                    296.3167724609375,
+                    224.44021606445312,
+                    318.608642578125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9171828031539917,
+                "coordinate": [
+                    250.949462890625,
+                    342.830078125,
+                    310.8712158203125,
+                    367.103759765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874868392944336,
+                "coordinate": [
+                    106.45318603515625,
+                    293.65740966796875,
+                    584.8395385742188,
+                    461.85382080078125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9134339094161987,
+                "coordinate": [
+                    402.8587646484375,
+                    390.37164306640625,
+                    463.4627685546875,
+                    415.39483642578125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9120495915412903,
+                "coordinate": [
+                    395.3144226074219,
+                    463.74444580078125,
+                    454.0829162597656,
+                    486.43109130859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855844378471375,
+                "coordinate": [
+                    106.6605224609375,
+                    461.7171630859375,
+                    585.1798095703125,
+                    581.8817138671875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9162226319313049,
+                "coordinate": [
+                    471.54217529296875,
+                    487.489501953125,
+                    543.339111328125,
+                    511.3551025390625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9238870739936829,
+                "coordinate": [
+                    168.32838439941406,
+                    583.121826171875,
+                    245.06248474121094,
+                    607.3623046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9842790961265564,
+                "coordinate": [
+                    106.78851318359375,
+                    581.4208984375,
+                    584.4110717773438,
+                    725.644287109375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.916985809803009,
+                "coordinate": [
+                    411.97314453125,
+                    630.8118896484375,
+                    487.80029296875,
+                    654.9388427734375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8863756060600281,
+                "coordinate": [
+                    397.61224365234375,
+                    655.8848266601562,
+                    577.2681884765625,
+                    679.5178833007812
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8758226037025452,
+                "coordinate": [
+                    163.02313232421875,
+                    727.2323608398438,
+                    218.68487548828125,
+                    751.1040649414062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.95888751745224,
+                "coordinate": [
+                    106.74803161621094,
+                    725.5347290039062,
+                    582.7679443359375,
+                    822.1126098632812
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8994992971420288,
+                "coordinate": [
+                    503.4671630859375,
+                    750.81640625,
+                    560.23486328125,
+                    774.646240234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8859313130378723,
+                "coordinate": [
+                    126.40489196777344,
+                    823.3865966796875,
+                    195.3194122314453,
+                    847.14599609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9781875610351562,
+                "coordinate": [
+                    106.5899658203125,
+                    821.896728515625,
+                    584.9063720703125,
+                    917.704833984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9842437505722046,
+                "coordinate": [
+                    106.57986450195312,
+                    918.596435546875,
+                    585.13525390625,
+                    1013.6279296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878135919570923,
+                "coordinate": [
+                    106.18986511230469,
+                    1013.3944091796875,
+                    586.141357421875,
+                    1230.1048583984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873401522636414,
+                "coordinate": [
+                    105.28565979003906,
+                    1229.836181640625,
+                    586.0513916015625,
+                    1448.299560546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865171909332275,
+                "coordinate": [
+                    600.934326171875,
+                    173.1549530029297,
+                    1082.86328125,
+                    341.50762939453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878826141357422,
+                "coordinate": [
+                    601.805419921875,
+                    341.702392578125,
+                    1083.0418701171875,
+                    533.8944091796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978753924369812,
+                "coordinate": [
+                    603.1068115234375,
+                    533.8363037109375,
+                    1083.1361083984375,
+                    606.1654052734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884105920791626,
+                "coordinate": [
+                    601.43408203125,
+                    605.9847412109375,
+                    1083.9141845703125,
+                    966.346923828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878756403923035,
+                "coordinate": [
+                    601.2440185546875,
+                    965.5288696289062,
+                    1084.5067138671875,
+                    1376.5029296875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9156392812728882,
+                "coordinate": [
+                    603.5396728515625,
+                    1388.05859375,
+                    759.6224365234375,
+                    1407.820556640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9541720151901245,
+                "coordinate": [
+                    601.8443603515625,
+                    1405.7801513671875,
+                    1076.073974609375,
+                    1446.3741455078125
+                ]
+            }
+        ]
+    }
+}

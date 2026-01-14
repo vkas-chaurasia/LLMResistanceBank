@@ -1,0 +1,289 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Agabou2016.pdf",
+    "page_index": 4,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Eur J Clin Microbiol Infect Dis (2016) 35:227–234",
+            "block_bbox": [
+                98,
+                63,
+                444,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "231",
+            "block_bbox": [
+                1060,
+                64,
+                1090,
+                83
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 2 Resistance gene characteristics of ciprofloxacin-resistant  $ E.\\ coli $  strains from poultry, their farmers, and patients</div>\n",
+            "block_bbox": [
+                96,
+                111,
+                326,
+                194
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'></td><td colspan=\"3\">Origin of isolates</td><td colspan=\"3\">P</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Poultry (P) (n=36)</td><td style='text-align: center;'>Farmers (F) (n=4)</td><td style='text-align: center;'>Clinical samples (C) (n=70)</td><td style='text-align: center;'>P vs F</td><td style='text-align: center;'>P vs C</td><td style='text-align: center;'>F vs C</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>n (%)</td><td style='text-align: center;'>n (%)</td><td style='text-align: center;'>n (%)</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>ESBL genes</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>bla $ _{\\text{CTX-M-15}} $</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>65 (92.8)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>bla $ _{\\text{TEM-24}} $</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>bla $ _{\\text{TEM-3}} $</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>Carbapenemase genes</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>bla $ _{\\text{OXA-48}} $</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (1.4)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>PMQR genes</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>qnrA</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>qnrB</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>5 (7.1)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>qnrS</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>7 (10)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>qepA</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>oqxAB</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>aac(6&#x27;)-Ib-cr</td><td style='text-align: center;'>8 (22.2)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>51 (72.8)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Phylogenetic group</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>A</td><td style='text-align: center;'>9 (25)</td><td style='text-align: center;'>1 (25)</td><td style='text-align: center;'>17 (24.3)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>B1</td><td style='text-align: center;'>15 (41.6)</td><td style='text-align: center;'>1 (25)</td><td style='text-align: center;'>13 (18.5)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>B2</td><td style='text-align: center;'>1 (2.7)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>12 (17.1)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>D</td><td style='text-align: center;'>11 (15.7)</td><td style='text-align: center;'>2 (50)</td><td style='text-align: center;'>28 (40)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>O25b-ST131 clone</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>12 (17.1)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>0.007</td><td style='text-align: center;'>0.007</td></tr></table>",
+            "block_bbox": [
+                351,
+                113,
+                1091,
+                746
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_98_848_321_1405.jpg\" alt=\"Image\" width=\"18%\" /></div>\n",
+            "block_bbox": [
+                98,
+                848,
+                321,
+                1405
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'></td><td style='text-align: center;'>Origin</td><td style='text-align: center;'>Year of isolation</td><td style='text-align: center;'>Poultry farm/Hospital ward</td><td style='text-align: center;'>Sample nature</td><td style='text-align: center;'>Phylotype</td><td style='text-align: center;'>Sequence type</td><td style='text-align: center;'>Specific resistance</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm K</td><td style='text-align: center;'>Droppings D</td><td style='text-align: center;'>ST48</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Human pathogenic</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>General surgery</td><td style='text-align: center;'>Pus D</td><td style='text-align: center;'>ST48</td><td style='text-align: center;'>QnrB</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm K</td><td style='text-align: center;'>Droppings D</td><td style='text-align: center;'>ST108</td><td style='text-align: center;'>Aac (6&#x27;)-Ib-cr</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken farmer</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm F</td><td style='text-align: center;'>Stools D</td><td style='text-align: center;'>ST108</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken farmer</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm D</td><td style='text-align: center;'>Stools B1</td><td style='text-align: center;'>ST19</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Human pathogenic</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Pediatrics</td><td style='text-align: center;'>Diarrhea B1</td><td style='text-align: center;'>ST19</td><td style='text-align: center;'>bla_{CTX-M-15}</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Human pathogenic</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Internal medicine</td><td style='text-align: center;'>Urine B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Human pathogenic</td><td style='text-align: center;'>2011</td><td style='text-align: center;'>Internal medicine</td><td style='text-align: center;'>Pus B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'>MDR. Aac (6&#x27;)-Ib-cr</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm J</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm J</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm J</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm J</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'>Aac (6&#x27;)-Ib-cr</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm A</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm A</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm C</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm D</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST471</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm D</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST21</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Chicken</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Poultry farm D</td><td style='text-align: center;'>Droppings B1</td><td style='text-align: center;'>ST21</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Human pathogenic</td><td style='text-align: center;'>2012</td><td style='text-align: center;'>Internal medicine</td><td style='text-align: center;'>Urine B1</td><td style='text-align: center;'>ST21</td><td style='text-align: center;'>bla_{CTX-M-15}</td><td style='text-align: center;'></td></tr></table>",
+            "block_bbox": [
+                326,
+                833,
+                1090,
+                1375
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Fig. 1 DiversiLab dendrogram representing the clonal strains with their corresponding characteristics</div>\n",
+            "block_bbox": [
+                96,
+                1411,
+                777,
+                1434
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_1004_1470_1087_1496.jpg\" alt=\"Image\" width=\"6%\" /></div>\n",
+            "block_bbox": [
+                1004,
+                1470,
+                1087,
+                1496
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9474020004272461,
+                "coordinate": [
+                    98.31253051757812,
+                    63.75062561035156,
+                    444.4589538574219,
+                    84.8970947265625
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8902643918991089,
+                "coordinate": [
+                    1060.059326171875,
+                    64.93611145019531,
+                    1090.466064453125,
+                    83.12663269042969
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9641646146774292,
+                "coordinate": [
+                    96.226318359375,
+                    111.95980834960938,
+                    326.622802734375,
+                    194.38275146484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.757553219795227,
+                "coordinate": [
+                    370.9090881347656,
+                    285.5167236328125,
+                    452.9205627441406,
+                    307.9525146484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7978411316871643,
+                "coordinate": [
+                    370.65155029296875,
+                    311.8067626953125,
+                    440.56298828125,
+                    333.64373779296875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8031221628189087,
+                "coordinate": [
+                    370.714111328125,
+                    336.8693542480469,
+                    433.8974609375,
+                    358.3963317871094
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6285015940666199,
+                "coordinate": [
+                    370.07940673828125,
+                    388.17376708984375,
+                    442.448486328125,
+                    409.37139892578125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9879597425460815,
+                "coordinate": [
+                    351.931396484375,
+                    113.24322509765625,
+                    1091.8551025390625,
+                    746.9524536132812
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5566937923431396,
+                "coordinate": [
+                    369.760986328125,
+                    565.3391723632812,
+                    463.0091552734375,
+                    586.6404418945312
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4766048789024353,
+                "coordinate": [
+                    524.8617553710938,
+                    193.13568115234375,
+                    577.9313354492188,
+                    214.31719970703125
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9165953993797302,
+                "coordinate": [
+                    98.71783447265625,
+                    848.21728515625,
+                    321.1605224609375,
+                    1405.72412109375
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8255422711372375,
+                "coordinate": [
+                    326.0710144042969,
+                    833.845458984375,
+                    1090.84375,
+                    1375.0615234375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9489434361457825,
+                "coordinate": [
+                    96.7625732421875,
+                    1411.72265625,
+                    777.2152099609375,
+                    1434.548828125
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.8552759289741516,
+                "coordinate": [
+                    1004.9619140625,
+                    1470.338134765625,
+                    1087.263916015625,
+                    1496.473388671875
+                ]
+            }
+        ]
+    }
+}

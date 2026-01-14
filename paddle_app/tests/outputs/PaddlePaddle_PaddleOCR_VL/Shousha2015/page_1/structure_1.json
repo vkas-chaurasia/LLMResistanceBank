@@ -1,0 +1,487 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Shousha2015.pdf",
+    "page_index": 0,
+    "page_count": 7,
+    "width": 1170,
+    "height": 1566,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_78_47_217_140.jpg\" alt=\"Image\" width=\"11%\" /></div>\n",
+            "block_bbox": [
+                78,
+                47,
+                217,
+                140
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Bacteriophages Isolated from Chicken Meat and the Horizontal Transfer of Antimicrobial Resistance Genes",
+            "block_bbox": [
+                76,
+                157,
+                983,
+                232
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Amira Shousha, $ ^{a} $  Nattakarn Awaiwanont, $ ^{a} $  Dmitrij Sofka, $ ^{a} $  Frans J. M. Smulders, $ ^{a} $  Peter Paulsen, $ ^{a} $  Michael P. Szostak, $ ^{b} $  Tom Humphrey, $ ^{c} $  Friederike Hilbert $ ^{a} $ ",
+            "block_bbox": [
+                74,
+                266,
+                960,
+                309
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Institute of Meat Hygiene, Meat Technology and Food Science, University of Veterinary Medicine, Vienna, Austria $ ^{a} $ ; Institute of Microbiology, University of Veterinary Medicine, Vienna, Austria $ ^{b} $ ; Medical Microbiology and Infectious Diseases Group, College of Medicine, Swansea University, Swansea, Wales, United Kingdom $ ^{c} $ ",
+            "block_bbox": [
+                74,
+                314,
+                1053,
+                355
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Antimicrobial resistance in microbes poses a global and increasing threat to public health. The horizontal transfer of antimicrobial resistance genes was thought to be due largely to conjugative plasmids or transposons, with only a minor part being played by transduction through bacteriophages. However, whole-genome sequencing has recently shown that the latter mechanism could be highly important in the exchange of antimicrobial resistance genes between microorganisms and environments. The transfer of antimicrobial resistance genes by phages could underlie the origin of resistant bacteria found in food. We show that chicken meat carries a number of phages capable of transferring antimicrobial resistance. Of 243 phages randomly isolated from chicken meat, about a quarter (24.7%) were able to transduce resistance to one or more of the five antimicrobials tested into Escherichia coli ATCC 13706 (DSM 12242). Resistance to kanamycin was transduced the most often, followed by that to chloramphenicol, with four phages transducing tetracycline resistance and three transducing ampicillin resistance. Phages able to transduce antimicrobial resistance were isolated from 44% of the samples of chicken meat that we tested. The statistically significant  $ (P = 0.01) $  relationship between the presence of phages transducing kanamycin resistance and E. coli isolates resistant to this antibiotic suggests that transduction may be an important mechanism for transferring kanamycin resistance to E. coli. It appears that the transduction of resistance to certain antimicrobials, e.g., kanamycin, not only is widely distributed in E. coli isolates found on meat but also could represent a major mechanism for resistance transfer. The result is of high importance for animal and human health.",
+            "block_bbox": [
+                74,
+                374,
+                1088,
+                721
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "The use of antimicrobial agents in veterinary medicine and the development of antimicrobial resistance, especially in food-producing animals, are currently giving rise to intense discussion  $ (1) $ . Food of animal origin represents an important and direct link between animals and humans. Despite approved recommendations regarding the prudent use of antimicrobial substances in production animals, the rate of resistance to certain classes of antibiotics (e.g., extended-spectrum cephalosporins) used in human medicine continues to rise  $ (2, 3) $ . Escherichia coli, an important indicator bacterium for antimicrobial resistance, can frequently be found on food surfaces and has been reported to be resistant to many different classes of antimicrobial agents. This microorganism easily acquires and carries different antimicrobial resistance elements (in the last report on antimicrobial resistance in the European Union, at least one  $ E.\\ coli $  isolate was found to be resistant to every single antimicrobial substance tested  $ [4] $ ) and not only transfers these elements within the species but also receives these elements from and transfers them to related microorganisms  $ (5–7) $ . Resistance gene exchange between Salmonella and  $ E.\\ coli $  has also been described  $ (8) $ .",
+            "block_bbox": [
+                74,
+                761,
+                577,
+                1205
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Bacterial resistance to antimicrobial agents develops by a variety of mechanisms: (i) by changes within the existing genome of a bacterial cell (mutations) and changes within the proteome (phase variation)  $ (9, 10) $ , (ii) by the formation of bacterial cell interactions (mixed bacterial biofilms)  $ (11) $ , and (iii) most importantly, by the acquisition of new genes through horizontal transfer  $ (12) $ . Bacteria have evolved numerous mechanisms to take up new genes to help them withstand harsh environmental conditions or settle in a new environmental niche. The same mechanism now also enables them to develop antimicrobial resistance  $ (13, 14) $ . Horizontal transfer of antimicrobial resistance genes was thought to be largely the result of conjugative plasmids, transposons, or the uptake of naked DNA, with only a minor part being played by transduction by bacteriophages  $ (12, 15, 16) $ .",
+            "block_bbox": [
+                74,
+                1205,
+                578,
+                1452
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                590,
+                761,
+                1092,
+                830
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Phages (bacterial viruses) depend on the bacterial cell to produce viral proteins or peptides. They are very common in all environments, outnumbering their bacterial hosts by 10:1 (17, 18). Bacteriophages are highly diverse and can be classified on the basis of their genome, morphology, and host specificity. Most phages are host specific, but some broad-host-range ones are able to invade different bacterial species and even different genera (19, 20). Infection of bacterial cells occurs when the phage attaches itself to the host cell and injects viral and sometimes foreign DNA (RNA) into it in a penetration step. Phages can be lytic or nonlytic, leading in the former case to the death of the host and in the latter case to the production of bacteria with phage DNA incorporated into their genomes. Temperate phages lead to lysogeny, where the bacterial cell becomes infected for an indefinite period of time. While",
+            "block_bbox": [
+                590,
+                830,
+                1093,
+                1153
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "Received 16 March 2015 Accepted 22 April 2015",
+            "block_bbox": [
+                609,
+                1217,
+                895,
+                1238
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "Accepted manuscript posted online 1 May 2015",
+            "block_bbox": [
+                609,
+                1239,
+                894,
+                1260
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "Citation Shousha A, Awaiwanont N, Sofka D, Smulders FJM, Paulsen P, Szostak MP, Humphrey T, Hilbert F. 2015. Bacteriophages isolated from chicken meat and the horizontal transfer of antimicrobial resistance genes. Appl Environ Microbiol 81:4600–4606. doi:10.1128/AEM.00872-15.",
+            "block_bbox": [
+                608,
+                1262,
+                1072,
+                1334
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "Editor: J. Björkroth",
+            "block_bbox": [
+                610,
+                1338,
+                721,
+                1357
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "Address correspondence to Friederike Hilbert, friederike.hilbert@vetmeduni.ac.at. Copyright © 2015, American Society for Microbiology. All Rights Reserved. doi:10.1128/AEM.00872-15",
+            "block_bbox": [
+                608,
+                1359,
+                1067,
+                1423
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "number",
+            "block_content": "4600",
+            "block_bbox": [
+                78,
+                1495,
+                113,
+                1512
+            ],
+            "block_id": 14,
+            "block_order": null,
+            "group_id": 14
+        },
+        {
+            "block_label": "footer",
+            "block_content": "aem.asm.org",
+            "block_bbox": [
+                123,
+                1495,
+                202,
+                1513
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Applied and Environmental Microbiology",
+            "block_bbox": [
+                459,
+                1494,
+                709,
+                1513
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        },
+        {
+            "block_label": "footer",
+            "block_content": "July 2015 Volume 81 Number ___",
+            "block_bbox": [
+                874,
+                1495,
+                1076,
+                1512
+            ],
+            "block_id": 17,
+            "block_order": null,
+            "group_id": 17
+        },
+        {
+            "block_label": "number",
+            "block_content": "14",
+            "block_bbox": [
+                1074,
+                1496,
+                1091,
+                1511
+            ],
+            "block_id": 18,
+            "block_order": null,
+            "group_id": 18
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9215795993804932,
+                "coordinate": [
+                    78.57965087890625,
+                    47.84974670410156,
+                    217.91766357421875,
+                    140.44151306152344
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9757256507873535,
+                "coordinate": [
+                    76.53228759765625,
+                    157.45233154296875,
+                    983.6449584960938,
+                    232.71002197265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9646070599555969,
+                "coordinate": [
+                    74.69357299804688,
+                    266.4956359863281,
+                    960.765869140625,
+                    309.8615417480469
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9604560732841492,
+                "coordinate": [
+                    74.76031494140625,
+                    314.62786865234375,
+                    1053.229736328125,
+                    355.319580078125
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9903072118759155,
+                "coordinate": [
+                    74.84786987304688,
+                    374.3077392578125,
+                    1088.8311767578125,
+                    721.8419189453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887863397598267,
+                "coordinate": [
+                    74.14366149902344,
+                    761.2567138671875,
+                    577.1961669921875,
+                    1205.6773681640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883131384849548,
+                "coordinate": [
+                    74.051513671875,
+                    1205.5648193359375,
+                    578.072998046875,
+                    1452.3128662109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9801651239395142,
+                "coordinate": [
+                    590.9559326171875,
+                    761.08447265625,
+                    1092.7984619140625,
+                    830.3184814453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988366425037384,
+                "coordinate": [
+                    590.1925048828125,
+                    830.636474609375,
+                    1093.8016357421875,
+                    1153.99169921875
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.7263029217720032,
+                "coordinate": [
+                    609.3582763671875,
+                    1217.6044921875,
+                    895.2156982421875,
+                    1238.50390625
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.6582834720611572,
+                "coordinate": [
+                    609.8863525390625,
+                    1239.99658203125,
+                    894.2186279296875,
+                    1260.08154296875
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8266023397445679,
+                "coordinate": [
+                    608.758056640625,
+                    1262.17919921875,
+                    1072.681640625,
+                    1334.73291015625
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.6607741117477417,
+                "coordinate": [
+                    610.7907104492188,
+                    1338.240234375,
+                    721.2382202148438,
+                    1357.7109375
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8020432591438293,
+                "coordinate": [
+                    608.855712890625,
+                    1359.830322265625,
+                    1067.3212890625,
+                    1423.663330078125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8839095234870911,
+                "coordinate": [
+                    78.38865661621094,
+                    1495.4779052734375,
+                    113.41011047363281,
+                    1512.1202392578125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9097331762313843,
+                "coordinate": [
+                    123.53702545166016,
+                    1495.622802734375,
+                    202.93881225585938,
+                    1513.208251953125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9256448149681091,
+                "coordinate": [
+                    459.1339111328125,
+                    1494.505615234375,
+                    709.3741455078125,
+                    1513.38623046875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9085016250610352,
+                "coordinate": [
+                    874.8074951171875,
+                    1495.05908203125,
+                    1076.3582763671875,
+                    1512.8037109375
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.5688481330871582,
+                "coordinate": [
+                    1074.4736328125,
+                    1496.586181640625,
+                    1091.09130859375,
+                    1511.497314453125
+                ]
+            }
+        ]
+    }
+}

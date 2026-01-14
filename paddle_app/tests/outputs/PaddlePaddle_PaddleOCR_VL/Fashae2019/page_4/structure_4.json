@@ -1,0 +1,343 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Fashae2019.pdf",
+    "page_index": 3,
+    "page_count": 11,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Fashae et al. – Salmonella from chickens and humans in Nigeria",
+            "block_bbox": [
+                96,
+                70,
+                515,
+                91
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "J Infect Dev Ctries 2010; 4(8):484-494.",
+            "block_bbox": [
+                863,
+                70,
+                1123,
+                91
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 2. Number of samples investigated and the occurrence of Salmonella serovars by farms</div>\n",
+            "block_bbox": [
+                141,
+                124,
+                903,
+                149
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td colspan=\"11\">Number and percentages of isolates per serovars</td></tr><tr><td style='text-align: center;'>Farm no.</td><td style='text-align: center;'>No. samples per farm</td><td style='text-align: center;'>S. Bredeney</td><td style='text-align: center;'>S. Derby</td><td style='text-align: center;'>S. Haifa</td><td style='text-align: center;'>S. Havana</td><td style='text-align: center;'>S. Muenster</td><td style='text-align: center;'>S. Mbandaka</td><td style='text-align: center;'>S. Onireke</td><td style='text-align: center;'>S. Virchow</td><td style='text-align: center;'>Total no. serovars per farm (%)</td></tr><tr><td style='text-align: center;'>A</td><td style='text-align: center;'>35</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (25)</td><td style='text-align: center;'>1 (25)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>2 (50)</td><td style='text-align: center;'>4 (11)</td></tr><tr><td style='text-align: center;'>B</td><td style='text-align: center;'>38</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (3)</td></tr><tr><td style='text-align: center;'>C</td><td style='text-align: center;'>41</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (2)</td></tr><tr><td style='text-align: center;'>D</td><td style='text-align: center;'>38</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>4 (100)</td><td style='text-align: center;'>4 (11)</td></tr><tr><td style='text-align: center;'>E</td><td style='text-align: center;'>44</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (25)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>3 (75)</td><td style='text-align: center;'>4 (9)</td></tr><tr><td style='text-align: center;'>F</td><td style='text-align: center;'>44</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (17)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (17)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>4 (67)</td><td style='text-align: center;'>6 (14)</td></tr><tr><td style='text-align: center;'>G</td><td style='text-align: center;'>47</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (2)</td></tr><tr><td style='text-align: center;'>H</td><td style='text-align: center;'>42</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (25)</td><td style='text-align: center;'>2 (50)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (25)</td><td style='text-align: center;'>4 (10)</td></tr><tr><td style='text-align: center;'>I</td><td style='text-align: center;'>80</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>2 (33)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (17)</td><td style='text-align: center;'>2 (33)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (17)</td><td style='text-align: center;'>6 (8)</td></tr><tr><td style='text-align: center;'>J</td><td style='text-align: center;'>92</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>2 (8)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>22 (92)</td><td style='text-align: center;'>24 (26)</td></tr><tr><td style='text-align: center;'>K</td><td style='text-align: center;'>80</td><td style='text-align: center;'>1 (8)</td><td style='text-align: center;'>1 (8)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>10 (83)</td><td style='text-align: center;'>12 (15)</td></tr><tr><td style='text-align: center;'>L</td><td style='text-align: center;'>60</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (33)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (33)</td><td style='text-align: center;'>1 (33)</td><td style='text-align: center;'>3 (5)</td></tr><tr><td style='text-align: center;'>Total no. per serovar</td><td style='text-align: center;'>641</td><td style='text-align: center;'>1 (1%)</td><td style='text-align: center;'>4 (6%)</td><td style='text-align: center;'>2 (3%)</td><td style='text-align: center;'>1 (1%)</td><td style='text-align: center;'>5 (7%)</td><td style='text-align: center;'>6 (9%)</td><td style='text-align: center;'>1 (1%)</td><td style='text-align: center;'>50 (71%)</td><td style='text-align: center;'>70 (11%)</td></tr></table>",
+            "block_bbox": [
+                138,
+                158,
+                1081,
+                690
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Hospitals A and B accounted for 21 of the isolates. These two hospitals also accounted for four out of seven (57%) S. Dublin, 10 out of 13 (77%) S. Enteritidis, and six out of seven (86%) S. Typhimurium (Table 3). None of the serovars found in humans were observed among the isolates from chicken (Tables 3 and 4).",
+            "block_bbox": [
+                93,
+                741,
+                582,
+                920
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Serotyping of chicken isolates",
+            "block_bbox": [
+                94,
+                944,
+                369,
+                969
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "The 70 Salmonella isolates revealed eight different serovars with S. Virchow being the most frequent, accounting for 71% (n = 50) of all serovars isolated from chickens. S. Virchow was found in chickens from 11 of the 12 farms, accounting for 92% (n = 22) and 83% (n = 10) of all serovars found on farms J and K. Additionally, it was the only serovar originating from chickens in farms B, C, and D (Table 2). Two uncommon serovars from chickens were isolated: S. Haifa (n = 2; 3%) and S. Onireke (n = 1; 1%) (Table 2).",
+            "block_bbox": [
+                92,
+                969,
+                582,
+                1250
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial susceptibility testing of human isolates",
+            "block_bbox": [
+                94,
+                1273,
+                576,
+                1298
+            ],
+            "block_id": 7,
+            "block_order": 4,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "The Salmonella isolates originating from humans were all susceptible to apramycin, ceftiofuro, colistin, florfenicol, cefotaxime, gentamicin, and neomycin. Low frequency of resistance was observed to nalidixic acid (3%) and ciprofloxacin (3%).\n\nAntimicrobial resistance to spectinomycin, chloramphenicol, tetracycline, and streptomycin ranged from 18% to 44%. A higher frequency of antimicrobial resistance was observed to sulfamethoxazole (54%), trimethoprim (54%), amoxicillin+clavulanic (54%), and ampicillin (59%) (Table 4). Three of the seven S. Dublin were resistant to ampicillin, streptomycin, sulfamethoxazole, tetracycline, and trimethoprim; the remaining four isolates were pansusceptible. Antimicrobial resistance was observed in eleven of the 13 S. Enteritidis isolates. Four S. Enteritidis isolates conferred resistance to ampicillin, chloramphenicol, sulfamethoxazole, and trimethoprim. Two additional isolates also conferred resistance to streptomycin. One of the remaining five S. Enteritidis isolates was resistant to ampicillin, trimethoprim, streptomycin, amoxicillin+clavulanic acid, nalidixic acid, and tetracycline. None of the 13 S. Enteritidis isolates were pansusceptible (data not shown). Six of seven S. Typhi isolates were pansusceptible while the remaining one isolate was resistant only to streptomycin.",
+            "block_bbox": [
+                93,
+                1298,
+                582,
+                1426
+            ],
+            "block_id": 8,
+            "block_order": 5,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                638,
+                741,
+                1129,
+                1326
+            ],
+            "block_id": 9,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial susceptibility testing of chicken isolates",
+            "block_bbox": [
+                639,
+                1349,
+                1127,
+                1398
+            ],
+            "block_id": 10,
+            "block_order": 7,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "All 70 chicken isolates were susceptible to apramycin, ceftiofuro, chloramphenicol, colistin,",
+            "block_bbox": [
+                640,
+                1399,
+                1127,
+                1452
+            ],
+            "block_id": 11,
+            "block_order": 8,
+            "group_id": 11
+        },
+        {
+            "block_label": "number",
+            "block_content": "487",
+            "block_bbox": [
+                1086,
+                1471,
+                1125,
+                1493
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9499261379241943,
+                "coordinate": [
+                    96.08094787597656,
+                    70.42434692382812,
+                    515.989990234375,
+                    91.86099243164062
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9499655365943909,
+                "coordinate": [
+                    863.0098876953125,
+                    70.28966522216797,
+                    1123.658935546875,
+                    91.19441986083984
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9508951902389526,
+                "coordinate": [
+                    141.32827758789062,
+                    124.21046447753906,
+                    903.2811279296875,
+                    149.6370086669922
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.988020122051239,
+                "coordinate": [
+                    138.2564697265625,
+                    158.46746826171875,
+                    1081.95751953125,
+                    690.66064453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876732230186462,
+                "coordinate": [
+                    93.31156921386719,
+                    741.1633911132812,
+                    582.2810668945312,
+                    920.0079956054688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9426727294921875,
+                "coordinate": [
+                    94.93020629882812,
+                    944.330078125,
+                    369.2697448730469,
+                    969.116943359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879986047744751,
+                "coordinate": [
+                    92.98065185546875,
+                    969.6761474609375,
+                    582.6576538085938,
+                    1250.0694580078125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9435999393463135,
+                "coordinate": [
+                    94.05845642089844,
+                    1273.2666015625,
+                    576.0712280273438,
+                    1298.26806640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9826977849006653,
+                "coordinate": [
+                    93.41868591308594,
+                    1298.8297119140625,
+                    582.2399291992188,
+                    1426.9329833984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889919757843018,
+                "coordinate": [
+                    638.473876953125,
+                    741.5929565429688,
+                    1129.269775390625,
+                    1326.816162109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7992149591445923,
+                "coordinate": [
+                    639.40380859375,
+                    1349.001220703125,
+                    1127.197021484375,
+                    1398.011962890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9726123213768005,
+                "coordinate": [
+                    640.370361328125,
+                    1399.1708984375,
+                    1127.75244140625,
+                    1452.494140625
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9139999151229858,
+                "coordinate": [
+                    1086.35888671875,
+                    1471.377685546875,
+                    1125.543701171875,
+                    1493.663330078125
+                ]
+            }
+        ]
+    }
+}

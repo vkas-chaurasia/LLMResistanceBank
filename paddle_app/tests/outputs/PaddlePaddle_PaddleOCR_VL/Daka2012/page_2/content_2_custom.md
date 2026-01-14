@@ -1,0 +1,31 @@
+Daka et al. Annals of Clinical Microbiology and Antimicrobials 2012, 11:26 http://www.ann-clinmicrob.com/content/11/1/26
+
+Page 2 of 6
+
+personnel. It could also result from micro-organisms that enter the udder through the teat opening canal [10].
+
+Antibiotic-resistant S. aureus isolates pose a severe challenge to both veterinary and health professions and dairy cattle producers because they have a negative impact on therapy  $ [11,12] $ . The usage of antibiotics correlates with the emergence and maintenance of antibiotic-resistant traits within pathogenic strains  $ [13] $ . These traits are coded for by particular genes that may be carried on the bacterial chromosome, plasmids, transposons or on gene cassettes that are incorporated into integrons  $ [14] $ , thus are easily transferred among isolates. Multiple antibiotic resistant S. aureus strains have been isolated from milk obtained from cattle, beef and human samples in many parts of the world  $ [13,15-18] $ . The prevalence of antibiotic resistance usually varies between isolates from the different sampled stations and even between isolates from different herds on the same farm  $ [16] $ .
+
+Determination of levels of S. aureus and an evaluation of the antibiotic-resistant phenotypes of the isolates could serve as a tool for determining the hygiene standards implemented during milking. Data on antibiotic resistance could also be used to characterize these opportunistic pathogens, which may further limit the risks associated with the consumption of contaminated milk and its products  $ [19] $ . The aim of this study was to isolate S. aureus from milk obtained from farm level collected milk and further characterization of their susceptibility patterns to nine selected antibiotics.
+
+## Methods and materials
+
+## Area of the study and collection of samples
+
+A cross-sectional study design was used to determine the bacteriological analysis of cow milk in Hawassa town from August 2011–January 2012. A total of 160 milk samples (five samples per family from different HACCP levels) were collected. The study on antibiotic resistance of S. aureus isolation was included 32 families of the farms. All of these farms were Hybrid Holland breed herd with average age of 7 years old. An average herd size of the farm was 10 in number and a milking technique of the study community was manual. These farms are situated in the Southern part of Ethiopia at 250 km far apart from the capital city of the country.
+
+Samples of approximately 10 mL of fresh milk were collected from different critical control points (CCP1-CCP5) using sterile sample collection bottles. The samples were immediately transported on ice to the Medical Microbiology Laboratory of the Hawassa University – Referral Hospital for analysis. Upon arrival in the Laboratory, samples were analyzed immediately.
+
+Isolation of presumptive S. aureus from milk samples
+
+Ten-fold serial dilutions were performed using 2% peptone water and aliquots of  $ 100 \mu L $  from each dilution were spread plated onto mannitol salt agar (MSA) (Supplied by Oxoid Company). The plates were incubated aerobically at  $ 37^{\circ}C $  for 18 h – 24 h. Consequently, the 78 characteristic S. aureus colonies that were yellow in color from each MSA plate were further purified by sub-culturing onto MSA plates and the plates were incubated aerobically at  $ 37^{\circ}C $  for 18 h–24 h. These isolates were retained for further bacterial identification.
+
+
+
+## Bacterial identification
+
+Gram staining was performed [20] and Gram-positive cocci that occurred in clusters under the microscope were subjected to preliminary biochemical tests (the catalase and oxidase tests). The identities of the isolates were confirmed based on positive results for the DNase test, beta-haemolytic patterns on blood agar enriched with 5% (v/v) sheep blood and the coagulase slide test for S. aureus using the (PROLD Diagnostics, Canada). The slide agglutination test was performed according to the manufacturer's instructions. Briefly, cells from a pure colony were placed on the clean area of the slide using a sterile toothpick and a drop of the PROLD reagent was added. These were mixed using the toothpick and the isolates were identified based on the formation of agglutination. An isolates that formed agglutination were recorded as S. aureus and maintained at 4°C in 30% glycerol for further characterization by antibiotic susceptibility testing.
+
+## Antibiotic susceptibility
+
+Antibiotic susceptibility tests were performed on all S. aureus isolates to determine their antibiotic-resistance profiles  $ [21] $ . Fresh overnight cultures were prepared and used for antibiotic sensitivity tests. An aliquot  $ (100\mu\mathrm{L}) $  from each isolate suspension was spread plated on Mueller Hinton agar (supplied by Oxoid Company). Susceptibilities of the isolates to a panel of nine different antibiotic discs (6  $ \mu $ m in diameter, Mast group LTD MERSEY SIDE, UK) were determined. The antibiotics tested in this study were mostly developed resistant by bacteria as documented in South Africa  $ [22,23] $ . Antibiotic discs were gently pressed onto the inoculated Mueller Hinton agar to ensure intimate contact with the surface and the plates were incubated aerobically at  $ 37^{\circ} $ C for 18 h – 24 h  $ [24] $ . Inhibition zone diameters were measured and values obtained from the National Committee on Clinical Laboratory Standards  $ [24] $  were used to interpret the results obtained. S. aureus isolates were then classified as resistant, intermediate resistant or susceptible to a particular antibiotic. Multiple antibiotic resistant

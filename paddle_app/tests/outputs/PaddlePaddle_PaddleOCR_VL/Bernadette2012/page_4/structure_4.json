@@ -1,0 +1,749 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bernadette2012.pdf",
+    "page_index": 3,
+    "page_count": 5,
+    "width": 1201,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "4",
+            "block_bbox": [
+                98,
+                88,
+                113,
+                104
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "International Journal of Microbiology",
+            "block_bbox": [
+                791,
+                85,
+                1100,
+                108
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Resistance to erythromycin and amoxicillin, two antibiotics widely used to treat illness in Côte d'Ivoire, is not negligible. However, rates of that resistance are lower compared to those obtained with the fluoroquinolones.",
+            "block_bbox": [
+                95,
+                144,
+                584,
+                235
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "These results are similar to previous observations  $ [19, 20, 45–48] $ . The relatively high percentages of resistance to most antimicrobial agents tested in our study may be due to high usage of these agents as growth promoters or in animal treatment. In fact, in Cote d'Ivoire, as in most of developing countries  $ [49] $ , the use of antibiotics for humans and animals is relatively unrestricted.",
+            "block_bbox": [
+                95,
+                239,
+                585,
+                398
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Furthermore, no measures of hygiene are observed in both farms and in the process of slaughter which could cause contamination of poultry carcasses. Since campylobacteriosis is transmitted by consumption of contaminated food, preferably poultry, the presence of strains of antibiotic-resistant Campylobacter on chicken meat can be a real public health problem in Côte d'Ivoire. Indeed, the situation could deteriorate more rapidly in the study area, where there is an expansion of poultry farms with widespread and uncontrolled use of antibiotics. Therefore, surveillance of resistance pattern is necessary to guide rational use of antimicrobial agents in poultry farms.",
+            "block_bbox": [
+                94,
+                402,
+                585,
+                676
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "In conclusion, we reported the presence of high contamination in poultry in Côte d'Ivoire by thermophilic Campylobacter and high resistance to antimicrobials of the fluoroquinolone family. These results show the need to strengthen the implementation of specific control procedures to decrease the contamination of poultry meat by Campylobacter and the necessity to reduce using antibiotics in poultry sector. This study also shows the need to establish an efficient system for the control of Campylobacter in chickens.",
+            "block_bbox": [
+                94,
+                679,
+                586,
+                893
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Acknowledgments",
+            "block_bbox": [
+                96,
+                928,
+                290,
+                954
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "The authors acknowledge Mr. Fofana Kouakou and Mr. Tiekoura Kouakou of the “Monitoring of resistance of microorganisms to antibiotics and natural substances” Unit of Pasteur Institute of Côte d'Ivoire for their help on this study, particularly concerning the antibiotics susceptibility testing.",
+            "block_bbox": [
+                94,
+                970,
+                586,
+                1110
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## References",
+            "block_bbox": [
+                98,
+                1129,
+                214,
+                1154
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[1] C. R. Friedman, J. Neimann, H. C. Wegener, and R. V. Tauxe, “Epidemiology of Campylobacter jejuni infections in the United States and other industrialized nations,” in Campylobacter, Nachamkin and M. J. Blaser, Eds., pp. 121–138, ASM press, Washington, DC, USA, 2nd edition, 2000.",
+            "block_bbox": [
+                108,
+                1171,
+                584,
+                1275
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[2] World Health Organization WHO Department of Communicable Disease Surveillance and Response, “The increasing incidence of human campylobacteriosis report and proceeding of a WHO consultation of experts,” 2001, http://whqlibdoc.who.int/hq/.",
+            "block_bbox": [
+                109,
+                1277,
+                583,
+                1378
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[3] C. C. Tam, S. J. O'Brien, G. K. Adak, S. M. Meakins, and J. A. Frost, \"Campylobacter coli—an important foodborne pathogen,\" Journal of Infection, vol. 47, no. 1, pp. 28–32, 2003.",
+            "block_bbox": [
+                109,
+                1381,
+                583,
+                1442
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[4] G. M. Ruiz-Palacios, “The health burden of Campylobacter infection and the impact of antimicrobial resistance: playing",
+            "block_bbox": [
+                108,
+                1444,
+                584,
+                1485
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "chicken,” Clinical Infectious Diseases, vol. 44, no. 5, pp. 701–703, 2007.",
+            "block_bbox": [
+                651,
+                145,
+                1100,
+                186
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[5] R. A. Oberhelman and D. N. Taylor, “Campylobacter infections in developing countries,” in Campylobacter, I. Nachamkin and M. J. Blaser, Eds., pp. 139–153, American Society for Microbiology, Washington, DC, USA, 2nd edition, 2000.",
+            "block_bbox": [
+                624,
+                188,
+                1100,
+                289
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[6] M. R. Rao, A. B. Naficy, S. J. Savarino et al., “Pathogenicity and convalescent excretion of Campylobacter in rural Egyptian children,” American Journal of Epidemiology, vol. 154, no. 2, pp. 166–173, 2001.",
+            "block_bbox": [
+                624,
+                292,
+                1100,
+                374
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[7] M. L. Hänninen, H. Haajanen, T. Pummi et al., “Detection and typing of Campylobacter jejuni and Campylobacter coli and analysis of indicator organisms in three waterborne outbreaks in Finland,” Applied and Environmental Microbiology, vol. 69, no. 3, pp. 1391–1396, 2003.",
+            "block_bbox": [
+                624,
+                376,
+                1101,
+                479
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[8] E. Litrup, M. Torpdahl, and E. M. Nielsen, “Multilocus sequence typing performed on Campylobacter coli isolates from humans, broilers, pigs and cattle originating in Denmark,” Journal of Applied Microbiology, vol. 103, no. 1, pp. 210–218, 2007.",
+            "block_bbox": [
+                624,
+                481,
+                1100,
+                582
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[9] R. V. Tauxe, M. S. Deming, and P. A. Blake, “Campylobacter jejuni infections on college campuses: a national survey,” American Journal of Public Health, vol. 75, no. 6, pp. 659–660, 1985.",
+            "block_bbox": [
+                623,
+                584,
+                1101,
+                665
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[10] N. V. Harris, N. S. Weiss, and C. M. Nolan, “The role of poultry and meats in the etiology of Campylobacter jejuni/coli enteritis,” American Journal of Public Health, vol. 76, no. 4, pp. 407–411, 1986.",
+            "block_bbox": [
+                616,
+                668,
+                1101,
+                750
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[11] G. Kapperud, E. Skjerve, N. H. Bean, S. M. Ostroff, and J. Lassen, “Risk factors for sporadic Campylobacter infections: results of a case-control study in southeastern Norway,” Journal of Clinical Microbiology, vol. 30, no. 12, pp. 3117–3121, 1992.",
+            "block_bbox": [
+                616,
+                753,
+                1100,
+                853
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[12] M. J. Blaser, “Epidemiologic and clinical features of Campylobacter jejuni infections,” Journal of Infectious Diseases, vol. 176, no. 6, pp. S103–S105, 1997.",
+            "block_bbox": [
+                616,
+                856,
+                1100,
+                918
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[13] J. M. Cappelier, C. Magras, J. L. Jouve, and M. Federighi, \"Recovery of viable but non-culturable Campylobacter jejuni cells in two animal models,\" Food Microbiology, vol. 16, no. 4, pp. 375–383, 1999.",
+            "block_bbox": [
+                616,
+                920,
+                1100,
+                1002
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[14] C. Zhao, B. Ge, J. De Villena et al., “Prevalence of Campylobacter spp., Escherichia coli, and Salmonella serovars in retail chicken, Turkey, pork, and beef from the greater Washington, D.C., area,” Applied and Environmental Microbiology, vol. 67, no. 12, pp. 5431–5436, 2001.",
+            "block_bbox": [
+                616,
+                1004,
+                1100,
+                1106
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[15] B. Ge, D. G. White, P. F. McDermott et al., “Antimicrobial-resistant Campylobacter species from retail raw meats,” Applied and Environmental Microbiology, vol. 69, no. 5, pp. 3005–3007, 2003.",
+            "block_bbox": [
+                616,
+                1107,
+                1101,
+                1189
+            ],
+            "block_id": 24,
+            "block_order": 23,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[16] R. J. Meldrum and I. G. Wilson, “Salmonella and Campylobacter in United Kingdom retail raw chicken in 2005,” Journal of Food Protection, vol. 70, no. 8, pp. 1937–1939, 2007.",
+            "block_bbox": [
+                617,
+                1192,
+                1102,
+                1253
+            ],
+            "block_id": 25,
+            "block_order": 24,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[17] B. M. Allos, “Campylobacter jejuni infections: update on emerging issues and trends,” Clinical Infectious Diseases, vol. 32, no. 8, pp. 1201–1206, 2001.",
+            "block_bbox": [
+                617,
+                1255,
+                1100,
+                1316
+            ],
+            "block_id": 26,
+            "block_order": 25,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[18] M. J. Blaser and J. Engberg, “Clinical aspects of Campylobacter jejuni and Campylobacter coli infections,” in Campylobacter, I. Nachamkin, C. M. Szymanski, and M. J. Blaser, Eds., vol. 3, pp. 99–121, ASM Press, Washington, DC, USA, 2008.",
+            "block_bbox": [
+                617,
+                1318,
+                1100,
+                1398
+            ],
+            "block_id": 27,
+            "block_order": 26,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[19] I. Nachamkin, H. Ung, and M. Li, “Increasing fluoroquinolone resistance in Campylobacter jejuni, Pennsylvania, USA, 1982–2001,” Emerging Infectious Diseases, vol. 8, no. 12, pp. 1501–1503, 2002.",
+            "block_bbox": [
+                617,
+                1401,
+                1100,
+                1482
+            ],
+            "block_id": 28,
+            "block_order": 27,
+            "group_id": 28
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8434635996818542,
+                "coordinate": [
+                    98.772705078125,
+                    88.55501556396484,
+                    113.09619140625,
+                    104.87264251708984
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9476539492607117,
+                "coordinate": [
+                    791.6923828125,
+                    85.61869812011719,
+                    1100.784912109375,
+                    108.70912170410156
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9828013777732849,
+                "coordinate": [
+                    95.27285766601562,
+                    144.22879028320312,
+                    584.25732421875,
+                    235.54354858398438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869014620780945,
+                "coordinate": [
+                    95.02978515625,
+                    239.17654418945312,
+                    585.5020751953125,
+                    398.3793640136719
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885557293891907,
+                "coordinate": [
+                    94.66168212890625,
+                    402.12371826171875,
+                    585.76953125,
+                    676.3489379882812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876002073287964,
+                "coordinate": [
+                    94.78379821777344,
+                    679.3160400390625,
+                    586.1040649414062,
+                    893.7132568359375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9422537088394165,
+                "coordinate": [
+                    96.22477722167969,
+                    928.0467529296875,
+                    290.7801513671875,
+                    954.1783447265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9831236600875854,
+                "coordinate": [
+                    94.738037109375,
+                    970.798828125,
+                    586.4613647460938,
+                    1110.700439453125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9318200945854187,
+                "coordinate": [
+                    98.10546875,
+                    1129.5780029296875,
+                    214.00772094726562,
+                    1154.5904541015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9771276712417603,
+                "coordinate": [
+                    108.12794494628906,
+                    1171.8984375,
+                    584.0865478515625,
+                    1275.306884765625
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9888609051704407,
+                "coordinate": [
+                    106.9749755859375,
+                    1170.093505859375,
+                    585.4073486328125,
+                    1486.759033203125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9801936745643616,
+                "coordinate": [
+                    109.30912780761719,
+                    1277.7568359375,
+                    583.83837890625,
+                    1378.54248046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9763941168785095,
+                "coordinate": [
+                    109.2633056640625,
+                    1381.043212890625,
+                    583.6426391601562,
+                    1442.822998046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.967938244342804,
+                "coordinate": [
+                    108.89166259765625,
+                    1444.90625,
+                    584.391845703125,
+                    1485.9072265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9671853184700012,
+                "coordinate": [
+                    651.261962890625,
+                    145.94332885742188,
+                    1100.391845703125,
+                    186.17147827148438
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9800389409065247,
+                "coordinate": [
+                    624.2440185546875,
+                    188.1436767578125,
+                    1100.5135498046875,
+                    289.71588134765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9802447557449341,
+                "coordinate": [
+                    624.7703857421875,
+                    292.04107666015625,
+                    1100.7178955078125,
+                    374.51019287109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9818697571754456,
+                "coordinate": [
+                    624.6468505859375,
+                    376.129150390625,
+                    1101.041259765625,
+                    479.3013916015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9817059636116028,
+                "coordinate": [
+                    624.7889404296875,
+                    481.11846923828125,
+                    1100.892578125,
+                    582.3544311523438
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9797531366348267,
+                "coordinate": [
+                    623.259033203125,
+                    584.855224609375,
+                    1101.30126953125,
+                    665.8201904296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.980861246585846,
+                "coordinate": [
+                    616.8560791015625,
+                    668.8958740234375,
+                    1101.4415283203125,
+                    750.6937255859375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809184074401855,
+                "coordinate": [
+                    616.31494140625,
+                    753.1602172851562,
+                    1100.92431640625,
+                    853.8263549804688
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9913184642791748,
+                "coordinate": [
+                    615.872314453125,
+                    144.9749755859375,
+                    1103.072021484375,
+                    1482.81884765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9785358309745789,
+                "coordinate": [
+                    616.80712890625,
+                    856.8764038085938,
+                    1100.024658203125,
+                    918.5984497070312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806532859802246,
+                "coordinate": [
+                    616.6871337890625,
+                    920.08642578125,
+                    1100.6812744140625,
+                    1002.8017578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9814664125442505,
+                "coordinate": [
+                    616.89306640625,
+                    1004.3978271484375,
+                    1100.862060546875,
+                    1106.1143798828125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.980818510055542,
+                "coordinate": [
+                    616.85888671875,
+                    1107.90869140625,
+                    1101.1988525390625,
+                    1189.5595703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9789835810661316,
+                "coordinate": [
+                    617.1182861328125,
+                    1192.008056640625,
+                    1102.3685302734375,
+                    1253.428955078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9780450463294983,
+                "coordinate": [
+                    617.54296875,
+                    1255.6533203125,
+                    1100.0537109375,
+                    1316.247314453125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9808425903320312,
+                "coordinate": [
+                    617.36376953125,
+                    1318.578857421875,
+                    1100.0843505859375,
+                    1398.739990234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9786796569824219,
+                "coordinate": [
+                    617.333984375,
+                    1401.283935546875,
+                    1100.81201171875,
+                    1482.068115234375
+                ]
+            }
+        ]
+    }
+}

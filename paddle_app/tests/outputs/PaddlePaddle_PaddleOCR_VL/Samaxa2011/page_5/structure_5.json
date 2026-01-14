@@ -1,0 +1,271 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Samaxa2011.pdf",
+    "page_index": 4,
+    "page_count": 6,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "J. Food Prot., Vol. 75, No. 4",
+            "block_bbox": [
+                114,
+                44,
+                310,
+                64
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "SALMONELLA FROM RAW SAUSAGES",
+            "block_bbox": [
+                728,
+                44,
+                1013,
+                63
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "number",
+            "block_content": "641",
+            "block_bbox": [
+                1078,
+                43,
+                1112,
+                62
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 3. Antimicrobial susceptibility test results for 65 Salmonella isolates</div>\n",
+            "block_bbox": [
+                114,
+                105,
+                691,
+                127
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Sausage type</td><td style='text-align: center;'>Total no. of isolates</td><td style='text-align: center;'>Salmonella serotype</td><td style='text-align: center;'>Resistant pattern $ ^{a} $</td><td style='text-align: center;'>No. of isolates</td><td style='text-align: center;'>% resistance</td></tr><tr><td rowspan=\"6\">Beef</td><td rowspan=\"6\">20</td><td style='text-align: center;'>II</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>9</td><td style='text-align: center;'>45.0</td></tr><tr><td style='text-align: center;'>Thompson</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>4</td><td style='text-align: center;'>20.0</td></tr><tr><td style='text-align: center;'>Anatum</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>4</td><td style='text-align: center;'>20.0</td></tr><tr><td style='text-align: center;'>Bovismorbificans</td><td style='text-align: center;'>AN, CXM, GM, TM, FT, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td style='text-align: center;'>Saintpaul</td><td style='text-align: center;'>AN, CXM, GM, TM, AMC (i)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td rowspan=\"11\">Chicken</td><td rowspan=\"11\">20</td><td rowspan=\"7\">Muenchen</td><td style='text-align: center;'>AN, CXM, GM, TM, AMC</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td style='text-align: center;'>AN, CXM, GM, TM, AMC, AM</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td style='text-align: center;'>AN, CXM, GM, TM, FT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td style='text-align: center;'>AN, CXM, GM, TM, FT (i)</td><td style='text-align: center;'>4</td><td style='text-align: center;'>20.0</td></tr><tr><td style='text-align: center;'>AN, CXM, GM, TM, FT, SXT</td><td style='text-align: center;'>4</td><td style='text-align: center;'>20.0</td></tr><tr><td style='text-align: center;'>AN, CXM, GM, TM, FT (i) SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td style='text-align: center;'>AN, CXM, GM, TM, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td style='text-align: center;'>II</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>4</td><td style='text-align: center;'>20.0</td></tr><tr><td style='text-align: center;'>Saintpaul</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td style='text-align: center;'>Lawndale, II</td><td style='text-align: center;'>AN, CXM, GM, TM, FT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td style='text-align: center;'>Enteritidis</td><td style='text-align: center;'>AN, CXM, GM, TM, FT (i), AM, FOX</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5.0</td></tr><tr><td rowspan=\"5\">Mutton</td><td rowspan=\"5\">11</td><td style='text-align: center;'>II</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>5</td><td style='text-align: center;'>45.5</td></tr><tr><td style='text-align: center;'>Muenchen</td><td style='text-align: center;'>AN, CXM, GM, TM, FT (i)</td><td style='text-align: center;'>2</td><td style='text-align: center;'>18.2</td></tr><tr><td style='text-align: center;'>Muenchen</td><td style='text-align: center;'>AN, CXM, GM, TM, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>9.1</td></tr><tr><td style='text-align: center;'>Reading</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>2</td><td style='text-align: center;'>18.2</td></tr><tr><td style='text-align: center;'>Thompson</td><td style='text-align: center;'>AN, CXM, GM, TM, FT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>9.1</td></tr><tr><td rowspan=\"7\">Pork</td><td rowspan=\"7\">14</td><td style='text-align: center;'>II</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>5</td><td style='text-align: center;'>35.7</td></tr><tr><td style='text-align: center;'>Muenchen</td><td style='text-align: center;'>AN, CXM, GM, TM, FT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>7.1</td></tr><tr><td style='text-align: center;'>Muenchen</td><td style='text-align: center;'>AN, CXM, GM, TM, FT (i), SXT</td><td style='text-align: center;'>2</td><td style='text-align: center;'>14.3</td></tr><tr><td style='text-align: center;'>Muenchen</td><td style='text-align: center;'>AN, CXM, GM, TM, AMC (i), FOX</td><td style='text-align: center;'>1</td><td style='text-align: center;'>7.1</td></tr><tr><td style='text-align: center;'>Thompson</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>2</td><td style='text-align: center;'>14.3</td></tr><tr><td style='text-align: center;'>Anatum</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>2</td><td style='text-align: center;'>14.3</td></tr><tr><td style='text-align: center;'>Brenzany</td><td style='text-align: center;'>AN, CXM, GM, TM</td><td style='text-align: center;'>1</td><td style='text-align: center;'>7.1</td></tr></table>",
+            "block_bbox": [
+                113,
+                131,
+                1110,
+                818
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{a} $  AN, amikacin; CXM, cefuroxime; GM, gentamicin; TM, tombramycin; FT, nitrofurantoin; SXT, trimethoprim-sulfamethoxazole; AMC, amoxicillin–clavulanic acid; (i), intermediate resistance; AM, ampicillin; FOX, cefoxitin.",
+            "block_bbox": [
+                115,
+                827,
+                1113,
+                873
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonella serotypes consistently associated with clinical cases is published by the Centers for Disease Control and Prevention (7). S. enterica subsp. salamae II was the most prevalent serotype in all types of sausage in this study. However, this strain appears to be nonpathogenic and is not listed by the Centers for Disease Control and Prevention. Our search of the literature did not reveal any cases in which this strain has been implicated in outbreaks. Salmonella Muenchen was prevalent in only three types of sausages. It was highly prevalent in chicken sausages but was not isolated from beef sausages, a peculiar finding that warrants more research. Salmonella Muenchen has been implicated in some outbreaks associated with unpasteurized orange juice in the United States and Canada (5, 6). Other outbreaks of Salmonella Muenchen infection have been reported by Proctor et al. (22) as associated with consumption of raw alfalfa sprouts. Salmonella Typhimurium and Salmonella Enteritidis are key serotypes that were isolated from beef and chicken sausages, respectively. These serotypes are well-known causes of gastroenteritis in humans (11) and further illustrate the potential risk that sausages could pose to consumers.",
+            "block_bbox": [
+                112,
+                898,
+                603,
+                1423
+            ],
+            "block_id": 6,
+            "block_order": 1,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antimicrobial susceptibility testing revealed that all 65 Salmonella isolates were resistant to a minimum of four antibiotics, and some isolates were resistant to as many as seven antibiotics. All 65 isolates were resistant to amikacin, cefuroxime, gentamicin, and tombramycin, which was unexpected and a significant result of this study. With the exception of cefuroxime, which is a second generation cephalosporin, the other three antibiotics are aminoglycosides and could share the same resistance mechanism. The 16S rRNA methylases confer resistance to aminoglycosides in members of the family Enterobacteriaceae (8). These results may indicate the presence of a 16S rRNA methylase gene cluster located on a highly mobile genetic element or the huge selection pressure exerted by the indiscriminant use of the antibiotics as veterinary drugs or prophylaxis in animal husbandry. Mobile genetic elements bearing signatures of the 16S rRNA methylase gene cluster have not been reported. Because most of the isolates with this predominant resistance pattern were found in the beef sausages, the beef industry could be the source of this genetic element. However, the chicken sausages had the most diverse antibiotic resistance patterns, indicating that the chicken processing industry also could be affected by the abuse of antibiotics. Subtyping of these isolates by pulsed-field gel electrophoresis or more discriminatory molecular typing techniques could yield a better understanding of the genetic relatedness of these isolates and the spread of these strains in the environment.",
+            "block_bbox": [
+                112,
+                1424,
+                602,
+                1520
+            ],
+            "block_id": 7,
+            "block_order": 2,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                625,
+                898,
+                1117,
+                1471
+            ],
+            "block_id": 8,
+            "block_order": 3,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "In previous studies, the Salmonella isolates from beef products were predominantly resistant to tetracycline (33.3%)",
+            "block_bbox": [
+                626,
+                1472,
+                1117,
+                1521
+            ],
+            "block_id": 9,
+            "block_order": 4,
+            "group_id": 9
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9433181881904602,
+                "coordinate": [
+                    114.89021301269531,
+                    44.86632537841797,
+                    310.9320068359375,
+                    64.22980499267578
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9430707693099976,
+                "coordinate": [
+                    728.292236328125,
+                    44.055023193359375,
+                    1013.347900390625,
+                    63.82917785644531
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8963891863822937,
+                "coordinate": [
+                    1078.7523193359375,
+                    43.108768463134766,
+                    1112.0135498046875,
+                    62.840511322021484
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9506309628486633,
+                "coordinate": [
+                    114.09674072265625,
+                    105.82977294921875,
+                    691.07666015625,
+                    127.93814086914062
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896658658981323,
+                "coordinate": [
+                    113.10763549804688,
+                    131.3359375,
+                    1110.6494140625,
+                    818.1322021484375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9420768022537231,
+                "coordinate": [
+                    115.20132446289062,
+                    827.26904296875,
+                    1113.839111328125,
+                    873.71435546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887475967407227,
+                "coordinate": [
+                    112.00315856933594,
+                    898.0267333984375,
+                    603.0787963867188,
+                    1423.0201416015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9828420281410217,
+                "coordinate": [
+                    112.55044555664062,
+                    1424.324951171875,
+                    602.374755859375,
+                    1520.982177734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888468384742737,
+                "coordinate": [
+                    625.22021484375,
+                    898.1109008789062,
+                    1117.6593017578125,
+                    1471.69287109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9720126390457153,
+                "coordinate": [
+                    626.3839111328125,
+                    1472.163818359375,
+                    1117.4552001953125,
+                    1521.703369140625
+                ]
+            }
+        ]
+    }
+}

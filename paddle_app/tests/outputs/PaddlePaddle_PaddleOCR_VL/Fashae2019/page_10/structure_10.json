@@ -1,0 +1,917 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Fashae2019.pdf",
+    "page_index": 9,
+    "page_count": 11,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Fashae et al. – Salmonella from chickens and humans in Nigeria",
+            "block_bbox": [
+                96,
+                71,
+                515,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "J Infect Dev Ctries 2010; 4(8):484-494.",
+            "block_bbox": [
+                863,
+                71,
+                1123,
+                90
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "24. Hoa NT, Diep TS, Wain J, Parry CM, Hien TT, Smith MD, Walsh AL, White NJ (1998) Community-acquired septicaemia in southern Viet Nam: the importance of multidrug-resistant Salmonella Typhi. Trans R Soc Trop Med Hyg 92: 503-508.",
+            "block_bbox": [
+                96,
+                130,
+                579,
+                232
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "25. Cowan ST, Steel KJ (1974) Manual for the Identification of Medical Bacteria. Cambridge. University Press: 28-106.",
+            "block_bbox": [
+                97,
+                233,
+                578,
+                273
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "26. Cruickshank R, Duguid JP, Marmion BP, Swainr HA (1975) The Practice of Medical Microbiology. Edinburgh. Churchill Livingstone: 171-191.",
+            "block_bbox": [
+                98,
+                275,
+                578,
+                335
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "27. Hendriksen RS, Bangtrakulnonth A, Pulsrikarn C, Pornreongwong S, Hasman H, Song SW, Aarestrup FM (2008) Antimicrobial resistance and molecular epidemiology of Salmonella Rissen from animals, food products, and patients in Thailand and Denmark. Foodborne Pathog Dis 5:605-619.",
+            "block_bbox": [
+                101,
+                337,
+                579,
+                458
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "28. Cavaco LM, Hasman H, Xia S, Aarestrup FM (2009) qnrD, a novel gene conferring transferable quinolone resistance in Salmonella enterica serovar Kentucky and Bovismorbificans strains of human origin. Antimicrob Agents Chemother 53:603-608.",
+            "block_bbox": [
+                97,
+                461,
+                579,
+                562
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "29. Wang M, Guo Q, Xu X, Wang X, Ye X, Wu S, Hooper DC, Wang M (2009) New plasmid-mediated quinolone resistance gene, qnrC, found in a clinical isolate of Proteus mirabilis. Antimicrob Agents Chemother 53: 1892-1897.",
+            "block_bbox": [
+                98,
+                564,
+                579,
+                646
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "30. Ghiorghis B, Geyid A, Haile M (1992) Bacteremia in febrile out-patient children. East Afr Med J 69: 74-77.",
+            "block_bbox": [
+                98,
+                647,
+                578,
+                688
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "31. Brent AJ, Oundo JO, Mwangi I, Ochola L, Lowe B, Berkley JA (2006) Salmonella bacteremia in Kenyan children. Pediatr Infect Dis J 25: 230-236.",
+            "block_bbox": [
+                97,
+                689,
+                578,
+                749
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "32. Sigauque B, Roca A, Mandomando I, Morais L, Quinto L, Sacarlal J, Macete E, Nhamposa T, Machevo S, Aide P, Bassat Q, Bardaji A, Nhalungo D, Soriano-Gabarro M, Flannery B, Menendez C, Levine MM, Alonso PL (2009) Community-acquired bacteremia among children admitted to a rural hospital in Mozambique. Pediatr Infect Dis J 28:108-113.",
+            "block_bbox": [
+                97,
+                750,
+                579,
+                893
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "33. Bahwere P, Levy J, Hennart P, Donnen P, Lomoyo W, Dramaix-Wilmet M, Butzler JP, De MP (2001) Community-acquired bacteremia among hospitalized children in rural central Africa. Int J Infect Dis 5: 180-188.",
+            "block_bbox": [
+                98,
+                895,
+                579,
+                977
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "34. Walsh AL, Phiri AJ, Graham SM, Molyneux EM, Molyneux ME (2000) Bacteremia in febrile Malawian children: clinical and microbiologic features. Pediatr Infect Dis J 19: 312-318.",
+            "block_bbox": [
+                101,
+                978,
+                579,
+                1060
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "35. Galanis E, Lo Fo Wong DM, Patrick ME, Binsztein N, Cieslik A, Chalermchikit T, Aidara-Kane A, Ellis A, Angulo FJ, Wegener HC (2006) Web-based surveillance and global Salmonella distribution, 2000-2002. Emerg Infect Dis 12:381-388.",
+            "block_bbox": [
+                97,
+                1061,
+                579,
+                1163
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "36 Brent AJ, Oundo JO, Mwangi I, Ochola L, Lowe B, Berkley JA (2006) Salmonella bacteremia in Kenyan children. Pediatr Infect Dis J 25: 230-236.",
+            "block_bbox": [
+                129,
+                1165,
+                578,
+                1225
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "37. Graham SM, Molyneux EM, Walsh AL, Cheesbrough JS, Molyneux ME, Hart CA (2000) Nontyphoidal Salmonella infections of children in tropical Africa. Pediatr Infect Dis J 19: 1189-1196.",
+            "block_bbox": [
+                97,
+                1227,
+                578,
+                1307
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "38. Kariuki S, Revathi G, Kariuki N, Kiiru J, Mwituria J, Muyodi J, Githinji JW, Kagendo D, Munyalo A, Hart CA (2006) Invasive multidrug-resistant non-typhoidal Salmonella infections in Africa: zoonotic or anthroponic transmission? J Med Microbiol 55: 585-591.",
+            "block_bbox": [
+                97,
+                1310,
+                579,
+                1412
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "39. Ojeniyi AA, Montefiore DG (1986) Food poisoning outbreak in Ibadan, Nigeria, due to a new phage type of Salmonella Typhimurium. Scand J Infect Dis 18: 551-552.",
+            "block_bbox": [
+                645,
+                130,
+                1125,
+                190
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "40. Oboegbulam SI, Oguike JU, Gugnani HC (1995) Microbiological studies on cases diagnosed as typhoid/enteric fever in south-east Nigeria. J Commun Dis 27: 97-100.",
+            "block_bbox": [
+                647,
+                192,
+                1126,
+                272
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "41. Orji MU, Onuigbo HC, Mbata TI (2005) Isolation of Salmonella from poultry droppings and other environmental sources in Awka, Nigeria. Int J Infect Dis 9: 86-89.",
+            "block_bbox": [
+                644,
+                275,
+                1126,
+                335
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "42. Ricosse JH, Saliou P, Albert JP, Menard M, Le MG, Schollhammer G, Trotobas J, Morvan D, Meyran M (1979) Current aspects of human salmonellosis in Upper Volta. Study carried out at Centre Muraz (Bobo-Dioulasso) from 1966 to 1977: isolation of 1,013 Salmonella strains. Med Trop Mars 39: 381-394.",
+            "block_bbox": [
+                644,
+                337,
+                1125,
+                459
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "43. Maguire H, Cowden J, Jacob M, Rowe B, Roberts D, Bruce J, Mitchell E (1992) An outbreak of Salmonella Dublin infection in England and Wales associated with a soft unpasteurized cows' milk cheese. Epidemiol Infect 109: 389-396.",
+            "block_bbox": [
+                644,
+                461,
+                1126,
+                561
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "44. Allerberger F, Liesegang A, Grif K, Prager R, Danzl J, Hock F, Ottl J, Dierich MP, Berghold C, Neckstaller I, Tschape H, Fisher I (2002) Occurrence of Salmonella enterica serovar Dublin in Austria. Euro Surveill 7: 65-70.",
+            "block_bbox": [
+                644,
+                564,
+                1126,
+                646
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "45. Vaillant V, Haeghebaert S, Desenclos JC, Bouvet P, Grimont F, Grimont PA, Burnens AP (1996) Outbreak of Salmonella Dublin infection in France, November - December 1995. Euro Surveill 1: 9-10.",
+            "block_bbox": [
+                644,
+                647,
+                1126,
+                729
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "46. Anonymous (2009) The Community summary report on trends and sources of zoonotic agents in the European Union in 2007. The EFSA Journal 2009, Parma, Italy.",
+            "block_bbox": [
+                644,
+                731,
+                1125,
+                791
+            ],
+            "block_id": 24,
+            "block_order": 23,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "47. Collard P, Sen R (1956) Isolation of Salmonellae from cattle in Ibadan. West Afr Med J 5: 118-120.",
+            "block_bbox": [
+                644,
+                792,
+                1125,
+                832
+            ],
+            "block_id": 25,
+            "block_order": 24,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "48. Collard P, Sen R (1962) Salmonellosis at Ibadan, Nigeria. (5. Strains isolated during 1956-1960). West Afr Med J 11:106-112.",
+            "block_bbox": [
+                644,
+                834,
+                1125,
+                893
+            ],
+            "block_id": 26,
+            "block_order": 25,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "49. Cooke FJ, De PE, Maguire C, Guha S, Pickard DJ, Farrington M, Threlfall EJ (2009) First report of human infection with Salmonella enterica serovar Apapa resulting from exposure to a pet lizard. J Clin Microbiol 47: 2672-2674.",
+            "block_bbox": [
+                643,
+                896,
+                1125,
+                997
+            ],
+            "block_id": 27,
+            "block_order": 26,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "50. Bertrand S, Rimhanen-Finne R, Weill FX, Rabsch W, Thornton L, Perevoscikovs J, van PW, Heck M (2008) Salmonella infections associated with reptiles: the current situation in Europe. Euro Surveill 13: 1-6.",
+            "block_bbox": [
+                644,
+                998,
+                1125,
+                1081
+            ],
+            "block_id": 28,
+            "block_order": 27,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "51. Milstone AM, Agwu AG, Angulo FJ (2006) Alerting pregnant women to the risk of reptile-associated salmonellosis. Obstet Gynecol 107: 516-518.",
+            "block_bbox": [
+                644,
+                1082,
+                1125,
+                1142
+            ],
+            "block_id": 29,
+            "block_order": 28,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "52. Carlquist PR, Coates MS (1947) Salmonella Monschaui-A New Type. J Bacteriol 53: 249.",
+            "block_bbox": [
+                644,
+                1144,
+                1125,
+                1184
+            ],
+            "block_id": 30,
+            "block_order": 29,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "53 Collard P, Sen R (1960) Serotypes of Salmonella at Ibadan, Nigeria, with special note of the new serotypes isolated in Nigeria. J Infect Dis 106: 270-275.",
+            "block_bbox": [
+                644,
+                1186,
+                1125,
+                1246
+            ],
+            "block_id": 31,
+            "block_order": 30,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "54. Sharma VK, Rohde R, Garg DN, Kumar A (1977) Toads as natural reservoir of Salmonella. Zentralbl Bakteriol Orig A 239: 172-177.",
+            "block_bbox": [
+                644,
+                1248,
+                1126,
+                1307
+            ],
+            "block_id": 32,
+            "block_order": 31,
+            "group_id": 32
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "55. Pedersen K, Lassen-Nielsen AM, Nordentoft S, Hammer AS (2009) Serovars of Salmonella from captive reptiles. Zoonoses Public Health 56: 238-242.",
+            "block_bbox": [
+                644,
+                1310,
+                1125,
+                1370
+            ],
+            "block_id": 33,
+            "block_order": 32,
+            "group_id": 33
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "56. Mermin J, Hutwagner L, Vugia D, Shallow S, Daily P, Bender J, Koehler J, Marcus R, Angulo FJ (2004) Reptiles, amphibians, and human Salmonella infection: a population-based, case-control study. Clin Infect Dis 38: 253-261.",
+            "block_bbox": [
+                644,
+                1372,
+                1125,
+                1453
+            ],
+            "block_id": 34,
+            "block_order": 33,
+            "group_id": 34
+        },
+        {
+            "block_label": "number",
+            "block_content": "493",
+            "block_bbox": [
+                1086,
+                1472,
+                1125,
+                1492
+            ],
+            "block_id": 35,
+            "block_order": null,
+            "group_id": 35
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9454421997070312,
+                "coordinate": [
+                    96.29345703125,
+                    71.50662231445312,
+                    515.8162841796875,
+                    90.99734497070312
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9447791576385498,
+                "coordinate": [
+                    863.1082763671875,
+                    71.37165832519531,
+                    1123.294677734375,
+                    90.42707824707031
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9823827147483826,
+                "coordinate": [
+                    96.88751220703125,
+                    130.2332000732422,
+                    579.4517822265625,
+                    232.24488830566406
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9710125923156738,
+                "coordinate": [
+                    97.7821044921875,
+                    233.41455078125,
+                    578.780517578125,
+                    273.86480712890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9789712429046631,
+                "coordinate": [
+                    98.71878051757812,
+                    275.516357421875,
+                    578.4764404296875,
+                    335.6466064453125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9829784035682678,
+                "coordinate": [
+                    101.78890991210938,
+                    337.2330017089844,
+                    579.339111328125,
+                    458.2949523925781
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9825202822685242,
+                "coordinate": [
+                    97.771728515625,
+                    461.42132568359375,
+                    579.14013671875,
+                    562.0391235351562
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9810738563537598,
+                "coordinate": [
+                    98.14192199707031,
+                    564.8076171875,
+                    579.1422119140625,
+                    646.824951171875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9723829627037048,
+                "coordinate": [
+                    98.30081176757812,
+                    647.9906616210938,
+                    578.408203125,
+                    688.0325317382812
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9789792895317078,
+                "coordinate": [
+                    97.80256652832031,
+                    689.5442504882812,
+                    578.40283203125,
+                    749.9589233398438
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9831125140190125,
+                "coordinate": [
+                    97.94961547851562,
+                    750.9956665039062,
+                    579.4012451171875,
+                    893.4805297851562
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9931926131248474,
+                "coordinate": [
+                    95.63838195800781,
+                    130.0445556640625,
+                    582.0243530273438,
+                    1413.9610595703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.980160117149353,
+                "coordinate": [
+                    98.14154052734375,
+                    895.9873046875,
+                    579.3452758789062,
+                    977.73828125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806873202323914,
+                "coordinate": [
+                    101.66259765625,
+                    978.799072265625,
+                    579.2339477539062,
+                    1060.14306640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806273579597473,
+                "coordinate": [
+                    97.9840087890625,
+                    1061.145751953125,
+                    579.0819702148438,
+                    1163.27392578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9420378804206848,
+                "coordinate": [
+                    129.44137573242188,
+                    1165.045166015625,
+                    578.7698974609375,
+                    1225.495849609375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9813308119773865,
+                "coordinate": [
+                    97.77496337890625,
+                    1227.5263671875,
+                    578.8902587890625,
+                    1307.54296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9816598296165466,
+                "coordinate": [
+                    97.81466674804688,
+                    1310.187744140625,
+                    579.1602783203125,
+                    1412.939697265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9783650040626526,
+                "coordinate": [
+                    645.1396484375,
+                    130.38079833984375,
+                    1125.9853515625,
+                    190.60845947265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.980846107006073,
+                "coordinate": [
+                    647.7923583984375,
+                    192.49038696289062,
+                    1126.1884765625,
+                    272.4581604003906
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9798797965049744,
+                "coordinate": [
+                    644.200927734375,
+                    275.34893798828125,
+                    1126.389892578125,
+                    335.73541259765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.983244776725769,
+                "coordinate": [
+                    644.21728515625,
+                    337.0606994628906,
+                    1125.9166259765625,
+                    459.0110778808594
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9824365377426147,
+                "coordinate": [
+                    644.219970703125,
+                    461.5865478515625,
+                    1126.18505859375,
+                    561.8162841796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981479823589325,
+                "coordinate": [
+                    644.3560791015625,
+                    564.93408203125,
+                    1126.116943359375,
+                    646.5057373046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9816393852233887,
+                "coordinate": [
+                    644.46435546875,
+                    647.948974609375,
+                    1126.5255126953125,
+                    729.4716796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9791409373283386,
+                "coordinate": [
+                    644.7193603515625,
+                    731.7869873046875,
+                    1125.8585205078125,
+                    791.447021484375
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9931060671806335,
+                "coordinate": [
+                    641.85791015625,
+                    129.4329833984375,
+                    1128.271484375,
+                    1455.406005859375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9714604020118713,
+                "coordinate": [
+                    644.2091064453125,
+                    792.535400390625,
+                    1125.0750732421875,
+                    832.896240234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9779135584831238,
+                "coordinate": [
+                    644.220458984375,
+                    834.2371826171875,
+                    1125.6668701171875,
+                    893.9271240234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9814580082893372,
+                "coordinate": [
+                    643.891845703125,
+                    896.0609741210938,
+                    1125.96142578125,
+                    997.3999633789062
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9810475707054138,
+                "coordinate": [
+                    644.4051513671875,
+                    998.767822265625,
+                    1125.7999267578125,
+                    1081.028076171875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9791896343231201,
+                "coordinate": [
+                    644.3431396484375,
+                    1082.296630859375,
+                    1125.6744384765625,
+                    1142.720947265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.971928596496582,
+                "coordinate": [
+                    644.2626953125,
+                    1144.677978515625,
+                    1125.574462890625,
+                    1184.852294921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9781107902526855,
+                "coordinate": [
+                    644.3519287109375,
+                    1186.30419921875,
+                    1125.5865478515625,
+                    1246.89501953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9786616563796997,
+                "coordinate": [
+                    644.2989501953125,
+                    1248.21435546875,
+                    1126.1890869140625,
+                    1307.64306640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9790343642234802,
+                "coordinate": [
+                    644.2352294921875,
+                    1310.37451171875,
+                    1125.7054443359375,
+                    1370.4326171875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9807517528533936,
+                "coordinate": [
+                    644.6025390625,
+                    1372.614501953125,
+                    1125.640380859375,
+                    1453.676025390625
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9232224822044373,
+                "coordinate": [
+                    1086.87841796875,
+                    1472.4368896484375,
+                    1125.45458984375,
+                    1492.4049072265625
+                ]
+            }
+        ]
+    }
+}

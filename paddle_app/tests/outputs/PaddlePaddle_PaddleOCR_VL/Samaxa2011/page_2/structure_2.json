@@ -1,0 +1,659 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Samaxa2011.pdf",
+    "page_index": 1,
+    "page_count": 6,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "638",
+            "block_bbox": [
+                107,
+                42,
+                144,
+                62
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "SAMAXA ET AL.",
+            "block_bbox": [
+                209,
+                44,
+                338,
+                63
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "J. Food Prot., Vol. 75, No. 4",
+            "block_bbox": [
+                911,
+                44,
+                1107,
+                64
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "consumption. Sausages usually are only lightly cooked by frying when served for breakfast or by grilling when served at popular social gatherings such as barbecues. Although Salmonella is known to be heat labile, when deeply embedded in sausages the pathogen may be insulated from heat treatment and thus remain viable for causing disease.",
+            "block_bbox": [
+                103,
+                105,
+                594,
+                249
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "The International Commission on Microbiological Specifications for Foods and the European Union have a zero tolerance limit for Salmonella in food (9). Thus, detection of Salmonella contamination in food is an essential quality control practice of food manufacturers and processors. Rapid identification methods for the detection of foodborne bacterial pathogens have become an important aspect of the food industry. However, these new methods must be rigorously examined for their applicability in diverse and unique food matrices before they can be routinely accepted. In line with global trends, modern animal husbandry in Botswana has increased the use of antimicrobials for both disease therapy and as prophylactics to prevent the onset of infectious diseases and enhance growth. This increased use has resulted in a rise in the number of antimicrobial resistant pathogens (1), which poses a major public health problem because these resistant strains can spread from their animal reservoirs to humans, hence decreasing the number of antimicrobials that are effective for treating human infections.",
+            "block_bbox": [
+                103,
+                249,
+                594,
+                728
+            ],
+            "block_id": 4,
+            "block_order": 2,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "The aim of this study was to provide data on the prevalence of Salmonella in different types of raw meat sausages directly accessible to consumers in Botswana. The reliability of a rapid PCR method designed for detection of Salmonella in foods (4) also was evaluated. The Salmonella isolates were subjected to antibiotic susceptibility testing using a wider array of antibiotics than has been used previously in studies in Botswana.",
+            "block_bbox": [
+                103,
+                729,
+                595,
+                922
+            ],
+            "block_id": 5,
+            "block_order": 3,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## MATERIALS AND METHODS",
+            "block_bbox": [
+                205,
+                939,
+                493,
+                963
+            ],
+            "block_id": 6,
+            "block_order": 4,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Sample collection. A total of 300 raw meat sausages were collected from various retail outlets (supermarkets and butcheries) in Gaborone, Botswana, from January 2008 to March 2009. The samples were transported to the laboratory in a cooler box with ice packs. Sausages were collected at 3-day interval to avoid sampling from the same consignment. Four types of raw meat sausages were analyzed: beef (79 sausages), pork (78), chicken (72), and mutton (71). Analysis of the samples was carried out immediately (2 to 3 h) after collection.",
+            "block_bbox": [
+                103,
+                973,
+                594,
+                1173
+            ],
+            "block_id": 7,
+            "block_order": 5,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Sample dilution. For each sample, a representative subsample (approximately 25 g) was aseptically removed with a pair of scissors and forceps. This subsample was homogenized with 225 ml of buffered peptone water (C 134, Merck, Darmstadt, Germany) in a Stomacher 400 lab blender (Seward, London, UK) for 60 s to make a  $ 10^{-1} $  dilution. Further 10-fold dilutions were made as necessary.",
+            "block_bbox": [
+                103,
+                1191,
+                594,
+                1347
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Enumeration of aerobic mesophilic bacteria in samples. To determine the microbiological quality of the meat types, 1 ml of sample was removed from the  $ 10^{-1} $  dilution of and further diluted up to  $ 10^{-6} $ . One milliliter from the  $ 10^{-4} $  to  $ 10^{-6} $  dilutions was put into separate duplicate sterile 9-cm-diameter petri dishes. Plate count agar (CM 325, Oxoid, Basingstoke, UK) was cooled to  $ 45 \\pm 1^{\\circ}C $ , and 10 to 15 ml was added and swirled to thoroughly and uniformly mix the sample and medium. When the medium had solidified, the plates were inverted and incubated for  $ 48 \\pm 2 $  h at  $ 35 \\pm 1^{\\circ}C $ .",
+            "block_bbox": [
+                103,
+                1365,
+                594,
+                1521
+            ],
+            "block_id": 9,
+            "block_order": 7,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                617,
+                104,
+                1109,
+                174
+            ],
+            "block_id": 10,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Enrichment of salmonellae from sausages by conventional culture method. The  $ 10^{-1} $  dilution was incubated at  $ 37 \\pm 1^{\\circ}C $  for 16 to 20 h as a preenrichment step. A 0.1-ml aliquot of overnight preenrichment broth culture was inoculated into 10 ml of Rappaport Vassiliadis (RV) broth (CM 699, Oxoid), and 1 ml was transferred to 10 ml of mannitol selenite cystine (MSC) broth (CM 399, Oxoid). Inoculated RV broth tubes were incubated at  $ 42 \\pm 1^{\\circ}C $  for 18 to 24 h, and inoculated MSC broths were incubated at  $ 37 \\pm 1^{\\circ}C $  for 18 to 24 h.",
+            "block_bbox": [
+                616,
+                191,
+                1110,
+                394
+            ],
+            "block_id": 11,
+            "block_order": 9,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Culturing of salmonellae on selective agar plates. After  $ 24 \\pm 3 $  h of incubation, all samples from the MSC and RV cultures were inoculated onto three plates of xylose lysine desoxycholate agar (XLD; CM 469, Oxoid) and three plates of brilliant green agar (BGA; CM 263, Oxoid) for growth of Salmonella colonies. From XLD plates, suspect Salmonella colonies, which were red with a black center, were picked and further purified on fresh XLD plates. Suspect Salmonella colonies (small gray to reddish pink) on BGA plates were purified on fresh BGA plates, which were incubated at  $ 37 \\pm 1^{\\circ} $ C for 22 to 26 h. Purified colonies with morphological characteristics similar to those of Salmonella were then subcultured onto nutrient agar plates (CM 003, Oxoid). Genus identity was confirmed with biochemical and serological tests.",
+            "block_bbox": [
+                618,
+                412,
+                1110,
+                705
+            ],
+            "block_id": 12,
+            "block_order": 10,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Biochemical identification. The presumptive identification of Salmonella colonies was carried out by stabbing the butt of triple sugar iron (TSI) slants and then streaking the slope. The inoculated TSI slants were incubated at  $ 37^{\\circ} $ C and examined after 18 to 24 h for carbohydrate fermentation, gas production, and hydrogen sulfide production. Five individual colonies of the presumptive Salmonella isolates from the 24-h nutrient agar plates were subjected to the urease test by inoculation into urea broth and incubation at  $ 37^{\\circ} $ C for 18 to 24 h. The presumptive Salmonella isolates were also identified with the VITEK 2 (bioMérieux, Hazelwood, MO) automated system. The bioMérieux VITEK 2 GN ID card (ref. 21341) was used for identification. This system is based on analysis of 64 biochemical and enzymatic tests conducted in microwell plates.",
+            "block_bbox": [
+                616,
+                721,
+                1110,
+                1014
+            ],
+            "block_id": 13,
+            "block_order": 11,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Serological identification with the slide agglutination test. Commercially prepared Salmonella antisera (Mast Assure, Davies Diagnostics Pty. Ltd., Randburg, South Africa) was used for serological identification. The antisera had Poly O (A through S) and H phase 1 + 2 (a through  $ z_{29} $ ) and their various monovalent factors. The isolates were grouped by the polyvalent factors and then further typed by the monovalent factors until the isolate was fully identified. The serotyping of the Salmonella isolates was performed according to the Kauffmann-White classification scheme (13).",
+            "block_bbox": [
+                617,
+                1031,
+                1109,
+                1235
+            ],
+            "block_id": 14,
+            "block_order": 12,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "Detection of Salmonella in sausages by PCR assay. The salmonellae were recovered from either 1 ml of RV or MSC selective enrichment broths by centrifuging at 5,000 rpm (Biofuge Stratos, Heraeus Instruments, Hanau, Germany) for 2 min. The salmonellae were washed in 1 ml of  $ 1 \\times $  phosphate-buffered saline. The pellet was then resuspended in 200  $ \\mu $ l of sterile distilled water, and DNA was released by heating at 96°C for 12 to 15 min in a water bath. The cellular debris was removed by centrifuging at 12,000 rpm for 10 min, and 5  $ \\mu $ l of the clear supernatant containing nucleic acids was used for subsequent PCR assays.",
+            "block_bbox": [
+                617,
+                1251,
+                1110,
+                1474
+            ],
+            "block_id": 15,
+            "block_order": 13,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "The oligonucleotides ST 11 (5'-AGCCAACCATTGCTAAA-TTGGCGCA-3') and ST 15 (5'-GGTAGAATTCCCAGCGGG-",
+            "block_bbox": [
+                617,
+                1474,
+                1108,
+                1520
+            ],
+            "block_id": 16,
+            "block_order": 14,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8858633041381836,
+                "coordinate": [
+                    107.95132446289062,
+                    42.86958694458008,
+                    144.01132202148438,
+                    62.63216781616211
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9297890663146973,
+                "coordinate": [
+                    209.52227783203125,
+                    44.24195861816406,
+                    338.34698486328125,
+                    63.974029541015625
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9423447847366333,
+                "coordinate": [
+                    911.6400146484375,
+                    44.50847625732422,
+                    1107.5399169921875,
+                    64.69255828857422
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9868751764297485,
+                "coordinate": [
+                    103.53501892089844,
+                    105.81455993652344,
+                    594.6278686523438,
+                    249.32383728027344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885489344596863,
+                "coordinate": [
+                    103.00527954101562,
+                    249.6370391845703,
+                    594.7039794921875,
+                    728.5003051757812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871363639831543,
+                "coordinate": [
+                    103.10183715820312,
+                    729.18701171875,
+                    595.132568359375,
+                    922.52587890625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9341179728507996,
+                "coordinate": [
+                    205.82952880859375,
+                    939.7625732421875,
+                    493.53778076171875,
+                    963.1497802734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869118928909302,
+                "coordinate": [
+                    103.3883056640625,
+                    973.8832397460938,
+                    594.8600463867188,
+                    1173.3349609375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8267057538032532,
+                "coordinate": [
+                    257.42327880859375,
+                    1299.974609375,
+                    293.79486083984375,
+                    1321.998046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846053123474121,
+                "coordinate": [
+                    103.3363037109375,
+                    1191.943115234375,
+                    594.5111083984375,
+                    1347.76416015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.601824939250946,
+                "coordinate": [
+                    151.39462280273438,
+                    1430.8599853515625,
+                    191.08993530273438,
+                    1452.7203369140625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7940260171890259,
+                "coordinate": [
+                    332.83526611328125,
+                    1408.237548828125,
+                    369.86248779296875,
+                    1429.545166015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9863389730453491,
+                "coordinate": [
+                    103.4727783203125,
+                    1365.452392578125,
+                    594.0485229492188,
+                    1521.64306640625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4600531756877899,
+                "coordinate": [
+                    364.6465759277344,
+                    1430.6353759765625,
+                    403.4232482910156,
+                    1452.2379150390625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4059298634529114,
+                "coordinate": [
+                    424.56195068359375,
+                    1430.7119140625,
+                    462.79632568359375,
+                    1452.501708984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.45924440026283264,
+                "coordinate": [
+                    109.10655212402344,
+                    1497.34375,
+                    142.31640625,
+                    1518.31689453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.46026143431663513,
+                "coordinate": [
+                    531.8974609375,
+                    1475.6197509765625,
+                    588.252685546875,
+                    1495.8997802734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9708676338195801,
+                "coordinate": [
+                    617.6668701171875,
+                    104.63897705078125,
+                    1109.3099365234375,
+                    174.2584228515625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.898780107498169,
+                "coordinate": [
+                    622.563720703125,
+                    149.5187225341797,
+                    703.3944091796875,
+                    171.61485290527344
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.775097131729126,
+                "coordinate": [
+                    1012.0443725585938,
+                    127.84197998046875,
+                    1072.04150390625,
+                    148.81845092773438
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7378720641136169,
+                "coordinate": [
+                    781.7677001953125,
+                    212.29904174804688,
+                    819.5040283203125,
+                    234.46755981445312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9866501092910767,
+                "coordinate": [
+                    616.8719482421875,
+                    191.67166137695312,
+                    1110.057861328125,
+                    394.8988342285156
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8138887286186218,
+                "coordinate": [
+                    1004.2796020507812,
+                    214.4436492919922,
+                    1080.128173828125,
+                    235.86952209472656
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.45906877517700195,
+                "coordinate": [
+                    621.73046875,
+                    348.39739990234375,
+                    667.84716796875,
+                    368.83782958984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8031923174858093,
+                "coordinate": [
+                    622.5394287109375,
+                    369.56036376953125,
+                    702.5596923828125,
+                    391.91448974609375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5535811185836792,
+                "coordinate": [
+                    623.717529296875,
+                    435.9558410644531,
+                    659.99072265625,
+                    456.1637878417969
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880267381668091,
+                "coordinate": [
+                    618.02783203125,
+                    412.47027587890625,
+                    1110.005859375,
+                    705.0861206054688
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8267332911491394,
+                "coordinate": [
+                    721.808837890625,
+                    612.9649658203125,
+                    807.42578125,
+                    633.8828125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5674413442611694,
+                "coordinate": [
+                    827.101806640625,
+                    789.0841674804688,
+                    866.17236328125,
+                    809.9288940429688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882621169090271,
+                "coordinate": [
+                    616.993408203125,
+                    721.3980712890625,
+                    1110.666015625,
+                    1014.4713134765625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6255306005477905,
+                "coordinate": [
+                    1039.746826171875,
+                    878.1456909179688,
+                    1080.517822265625,
+                    898.8876342773438
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4660782516002655,
+                "coordinate": [
+                    720.906494140625,
+                    1121.797119140625,
+                    773.5908203125,
+                    1142.463623046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6412220597267151,
+                "coordinate": [
+                    857.0719604492188,
+                    1123.63330078125,
+                    885.9902954101562,
+                    1142.54345703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874106049537659,
+                "coordinate": [
+                    617.0360107421875,
+                    1031.7845458984375,
+                    1109.7904052734375,
+                    1235.6734619140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879502058029175,
+                "coordinate": [
+                    617.3927001953125,
+                    1251.790771484375,
+                    1110.1331787109375,
+                    1474.412841796875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.42613303661346436,
+                "coordinate": [
+                    900.615478515625,
+                    1386.84326171875,
+                    941.728515625,
+                    1407.42724609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9606736302375793,
+                "coordinate": [
+                    617.78125,
+                    1474.185546875,
+                    1108.692138671875,
+                    1520.324951171875
+                ]
+            }
+        ]
+    }
+}

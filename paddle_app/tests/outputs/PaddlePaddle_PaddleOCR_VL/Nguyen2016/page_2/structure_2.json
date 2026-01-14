@@ -1,0 +1,400 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Nguyen2016.pdf",
+    "page_index": 1,
+    "page_count": 9,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Nguyen et al. Gut Pathog (2016) 8:39",
+            "block_bbox": [
+                108,
+                62,
+                356,
+                85
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 2 of 9",
+            "block_bbox": [
+                1000,
+                64,
+                1081,
+                85
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "A study from western Kenya showed that 20 % of patients with diarrhoea were infected by Campylobacter but in the group of children below 5 years Campylobacter was represented with 42 %  $ [5] $ .",
+            "block_bbox": [
+                106,
+                173,
+                586,
+                269
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Commercial poultry and free-living birds are natural reservoirs of thermophilic campylobacteres. The organism has been isolated from numerous bird species, including Columbiformes and domestic and free-living Galliformes and Anseriformes. C. jejuni has been found in all areas of commercial poultry production  $ [6, 7] $ . Prevalence rates in poultry, especially in slaughter-age broiler flocks, could reach 100 % on some farms. Although, Campylobacter is insignificant for poultry health, it is a predominant cause of foodborne gastroenteritis in humans worldwide, and contaminated poultry meat is recognized as the main source of human infections  $ [7, 8] $ . In general, the knowledge about Campylobacter in Kenya is limited. Most of the published reports describe prevalence and antibiotic resistance in Campylobacter of human origin  $ [4, 9–11] $ . Other reports gave information about Campylobacter as cause of foodborne diseases  $ [12] $  and contamination of raw chicken and beef from butcheries and markets in Nairobi  $ [13] $ . Information on thermophilic Campylobacter of animal origin from Kenya is lacking.",
+            "block_bbox": [
+                105,
+                269,
+                586,
+                750
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Resistance against antibiotics in bacteria is of public health concern. Most commonly used drugs in treatment of campylobacteriosis in humans are erythromycin, fluoroquinolones or tetracycline  $ [14] $ . Although, this antimicrobial treatment is usually not necessary, however the misuse of antibiotics is widespread in Kenya  $ [5] $ . Attention on resistance of Campylobacter is raising and warning has been launched not to misuse antibiotics such as macrolides, fluoroquinolones or alternative drugs  $ [15] $ . Kenyan Campylobacter isolates from humans showed a high resistance rate against erythromycin (52%), but only low resistance to ciprofloxacin, tetracycline and nalidixic acid with 6, 18 and 26 % in the past, respectively  $ [5] $ .",
+            "block_bbox": [
+                105,
+                749,
+                586,
+                1062
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Clinical breakpoints of Campylobacter susceptibility based on epidemiological cut-off (ECOFF) values were recommended. EUCAST MIC distributions incorporate human and veterinary clinical data from several sources worldwide  $ [16] $ . The method of choice for testing antibiotic susceptibility and determination of minimum inhibitory concentration (MIC) values of Campylobacter isolates is the broth microdilution assay  $ [17, 18] $ .",
+            "block_bbox": [
+                105,
+                1061,
+                586,
+                1253
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "In addition to phenotypical determination of antibiotic resistance, genetic analysis of resistance determinants in Campylobacter can be carried out. A replacement of threonine by isoleucine at amino acid 86 in the gyrA gene  $ [19, 20] $  and a mutation at position 2074 and 2075 on the 23S rRNA gene are the main mechanisms for fluoroquinolone and erythromycin resistance, respectively  $ [21] $ . Presence of  $ \\text{tet(O)} $  and/or  $ \\text{tet(A)} $  genes is responsible for tetracycline resistance  $ [22] $ . A mismatch amplification mutation assay (MAMA–PCR) can be used for detection of the mutations in gyrA and 23S rRNA genes in C. coli and C. jejuni responsible for ciprofloxacin and erythromycin resistance, respectively  $ [21, 23] $ . PCR-restriction fragment length polymorphism (PCR–RFLP) technique  $ [24] $  is available for detection of erythromycin resistance as well as specific PCR assays for  $ \\text{tet(O)} $  and  $ \\text{tet(A)} $  genes. These methods allow the investigation of antibiotic resistance of Campylobacter even in samples from which no Campylobacter could be isolated.",
+            "block_bbox": [
+                105,
+                1253,
+                586,
+                1448
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                173,
+                1083,
+                437
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "To the best of our knowledge there is no report available about antibiotic resistance of thermophilic Campylobacter species isolated from chicken in Kenya. MICs and results of molecular assays on the resistance of recent Kenyan C. coli and C. jejuni are presented.",
+            "block_bbox": [
+                601,
+                437,
+                1083,
+                560
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Methods",
+            "block_bbox": [
+                603,
+                580,
+                697,
+                604
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Sample collection and Campylobacter isolation",
+            "block_bbox": [
+                602,
+                605,
+                985,
+                629
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "In total, 35 geographically different native breed layer flocks were sampled. The chickens were housed in backyards and homesteads of small scale farmers from the outskirts of Thika, a town 40 km northeastern of Nairobi, Kenya. Farmers kept between 10 and 1000 layers. The birds were fed on commercially formulated ration from different sources and sometimes supplied with the leftover and residual food. All the manufactures used antibiotics as part of the ingredients in the feed. During the rearing of these chickens, antibiotics were used for prevention and treatment of diseases without any instructions. Ten to 30 cloacal swabs and faecal samples were collected from each flock according to flock size. Campylobacter were isolated in Kenya Medical Research Institute, Nairobi according to the guidelines of ISO 10272-1 [25]. The isolates were preserved in 1.5 ml Eppendorf tubes filled with skimmed milk medium for 1-week transportation from Kenya to Friedrich–Loeffler-Institut, Jena, Germany for further laboratory analysis. Campylobacter strains were re-cultivated on both Mueller–Hinton agar and CCDA (Oxoid GmbH, Wesel, Germany) under microaerophilic conditions (5 % O₂, 10 % CO₂, and 85 % N₂) at 37 °C for 48–72 h.",
+            "block_bbox": [
+                600,
+                628,
+                1084,
+                1184
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## DNA extraction",
+            "block_bbox": [
+                602,
+                1205,
+                737,
+                1228
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "DNA from viable bacteria was extracted using the High Pure PCR Template Preparation Kit™ (Roche Diagnostics, Mannheim, Germany) according to the manufacturer's instructions. Skimmed milk samples of Campylobacter that could not be re-cultivated were treated with phenol–chloroform to extract DNA. Briefly, 500  $ \\mu $ l of skimmed milk medium was boiled for 5 min. After cooling the liquid was mixed with 500  $ \\mu $ l buffer-saturated phenol (Carl Roth GmbH, Karlsruhe, Germany)",
+            "block_bbox": [
+                601,
+                1228,
+                1084,
+                1448
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.939621090888977,
+                "coordinate": [
+                    108.40362548828125,
+                    62.42137145996094,
+                    356.08612060546875,
+                    85.3536376953125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8940333724021912,
+                "coordinate": [
+                    1000.5538330078125,
+                    64.05924987792969,
+                    1081.5252685546875,
+                    85.97941589355469
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9829834699630737,
+                "coordinate": [
+                    106.16748046875,
+                    173.25631713867188,
+                    586.6747436523438,
+                    269.7643127441406
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885711073875427,
+                "coordinate": [
+                    105.49925231933594,
+                    269.6810302734375,
+                    586.675048828125,
+                    750.1298217773438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884474873542786,
+                "coordinate": [
+                    105.14714050292969,
+                    749.8236083984375,
+                    586.2241821289062,
+                    1062.0382080078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876599907875061,
+                "coordinate": [
+                    105.50798034667969,
+                    1061.894287109375,
+                    586.254150390625,
+                    1253.854736328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867608547210693,
+                "coordinate": [
+                    105.42813110351562,
+                    1253.8284912109375,
+                    586.4486083984375,
+                    1448.0843505859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884794354438782,
+                "coordinate": [
+                    601.0975341796875,
+                    173.9214630126953,
+                    1083.4927978515625,
+                    437.36993408203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9818469882011414,
+                "coordinate": [
+                    601.9622802734375,
+                    437.86553955078125,
+                    1083.2225341796875,
+                    560.0200805664062
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9155994653701782,
+                "coordinate": [
+                    603.0117797851562,
+                    580.3001708984375,
+                    697.3864135742188,
+                    604.1221923828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9298923015594482,
+                "coordinate": [
+                    602.4705810546875,
+                    605.6808471679688,
+                    985.7757568359375,
+                    629.2872924804688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876672029495239,
+                "coordinate": [
+                    600.980712890625,
+                    628.9583740234375,
+                    1084.462158203125,
+                    1184.244873046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.42438313364982605,
+                "coordinate": [
+                    702.7388916015625,
+                    1157.497314453125,
+                    750.2535400390625,
+                    1180.604248046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4337462782859802,
+                "coordinate": [
+                    887.740478515625,
+                    1134.177001953125,
+                    1042.63037109375,
+                    1158.610107421875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9237345457077026,
+                "coordinate": [
+                    602.8019409179688,
+                    1205.82958984375,
+                    737.7911987304688,
+                    1228.3134765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9861664772033691,
+                "coordinate": [
+                    601.1949462890625,
+                    1228.9544677734375,
+                    1084.6339111328125,
+                    1448.7659912109375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4387757480144501,
+                "coordinate": [
+                    906.3267822265625,
+                    1251.154296875,
+                    951.9913330078125,
+                    1275.502685546875
+                ]
+            }
+        ]
+    }
+}

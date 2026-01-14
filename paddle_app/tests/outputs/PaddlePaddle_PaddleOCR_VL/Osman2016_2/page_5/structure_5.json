@@ -1,0 +1,535 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_2.pdf",
+    "page_index": 4,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                56,
+                168,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Meat MSSA, MRSA, MS-NSA, MR-NSA",
+            "block_bbox": [
+                855,
+                54,
+                1104,
+                74
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 2 | Virulence factors assay of the Staphylococcus spp. Isolates.</div>\n",
+            "block_bbox": [
+                85,
+                122,
+                558,
+                143
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"3\">Staphylococcus spp.</td><td rowspan=\"3\">n = isolates</td><td colspan=\"3\">Hemolysis, Number of isolates showing</td><td colspan=\"3\">Cytotoxic assay $ ^{a} $ , Number of isolates showing</td><td colspan=\"3\">Assessment of Biofilm formation results</td><td rowspan=\"3\"></td></tr><tr><td rowspan=\"2\">$ \\beta $</td><td rowspan=\"2\">$ \\alpha $</td><td rowspan=\"2\">$ \\gamma $</td><td rowspan=\"2\">Cell lysis</td><td rowspan=\"2\">Cell rounding</td><td colspan=\"2\">CR, Number of isolates showing</td><td colspan=\"2\">CTM, Number of isolates showing</td></tr><tr><td style='text-align: center;'>Slime +</td><td style='text-align: center;'>Slime -</td><td style='text-align: center;'>Positive for biofilm production</td><td style='text-align: center;'>Negative for biofilm production</td></tr><tr><td style='text-align: center;'>S. aureus</td><td style='text-align: center;'>9</td><td style='text-align: center;'>6</td><td style='text-align: center;'>2</td><td style='text-align: center;'>1</td><td style='text-align: center;'>9</td><td style='text-align: center;'>0</td><td style='text-align: center;'>4</td><td style='text-align: center;'>5</td><td style='text-align: center;'>9</td><td style='text-align: center;'>0</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>S. hyicus</td><td style='text-align: center;'>10</td><td style='text-align: center;'>9</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>10</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3</td><td style='text-align: center;'>7</td><td style='text-align: center;'>10</td><td style='text-align: center;'>0</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>S. intermedius</td><td style='text-align: center;'>3</td><td style='text-align: center;'>2</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>3</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>3</td><td style='text-align: center;'>0</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>S. schleiferi subsp. coagulans</td><td style='text-align: center;'>4</td><td style='text-align: center;'>3</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>4</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>S. lentus</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td></tr></table>",
+            "block_bbox": [
+                83,
+                152,
+                1102,
+                490
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{a} $ Bacteria were grown in brain heart infusion broth overnight and loaded onto Vero cell monolayers. After 2 days of incubation at  $ 35^{\\circ} $ C in 95% air and 5% CO $ _{2} $ , the cells were examined microscopically for morphological changes. Cell lysis was indicated by Vero cell destruction. Cell rounding indicated Vero cells detached from the plastic cultural surface and floating in the cell culture medium.",
+            "block_bbox": [
+                82,
+                499,
+                1105,
+                553
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "CRA, Congo red agar. Slime production of the 27 staphylococcal strains of beef meat origin.",
+            "block_bbox": [
+                83,
+                552,
+                604,
+                571
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "CTM. Christensen's tube method.",
+            "block_bbox": [
+                85,
+                571,
+                281,
+                589
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "biofilm producer (77.8%). Generally, the 20 vancomycin resistant S. aureus and non-S. aureus species were also biofilm producers. The affinity of the 27 Staphylococcus species to form a biofilm was found to be in favor of the glass surface by 88.9% (24/27).",
+            "block_bbox": [
+                82,
+                629,
+                584,
+                723
+            ],
+            "block_id": 7,
+            "block_order": 1,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Tube Method",
+            "block_bbox": [
+                84,
+                737,
+                242,
+                762
+            ],
+            "block_id": 8,
+            "block_order": 2,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "The qualitative tube adherence test depends on the visual assessment of the degree of adherence of Staphylococcus isolates to the sides of borosilicate test tubes. The 27 Staphylococcus isolates were screened for biofilm formation by tube method. Results of the screening for biofilm by the tube method is shown in Table 2. Out of the 27 Staphylococcus isolates, 24 (88.9%) were strongly positive to the ability of biofilm formation, while 3 (11.1%) were negative to biofilm formation. Biofilm formation affinity was observed in the nine S. aureus isolates (100%) and 15/18 in the non-S. aureus isolates (83.3%).",
+            "block_bbox": [
+                82,
+                764,
+                584,
+                995
+            ],
+            "block_id": 9,
+            "block_order": 3,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Congo Red Agar Method",
+            "block_bbox": [
+                84,
+                1009,
+                376,
+                1035
+            ],
+            "block_id": 10,
+            "block_order": 4,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Among the 27 Staphylococcus isolates, 11 (40.7 %) showed black colonies with dry crystalline consistency which is indicative of slime production whereas 16 (59.3 %) isolates showed pink colored colonies with mucoid appearance on the CRA plates which were taken as negative for slime production (Table 2). Ability to produce slime was evident in 4/9 (44.4%) of the S. aureus and 7/18 (38.9%) of the non-S. aureus isolates. The studies on slime formation by the non-S. aureus species of medical importance revealed that S. hyicus, S. schleiferi subsp. Coagulans, and S. intermedius showed that up to 30% (3/10), 75% (3/4) and 33.3% (1/3), respectively, of these species produced slime, while S. lentus (1/1) was unable to produce slime.",
+            "block_bbox": [
+                81,
+                1036,
+                585,
+                1314
+            ],
+            "block_id": 11,
+            "block_order": 5,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antibiotic Resistance Phenotypes for All Staphylococci",
+            "block_bbox": [
+                82,
+                1327,
+                551,
+                1381
+            ],
+            "block_id": 12,
+            "block_order": 6,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The phenotypic resistance pattern, prevalence and diversity of the 27 Staphylococcus species isolated from the beef meat are recorded in Table 3. The 27 Staphylococcus species were resistant to the 12 antibiotics with variable degrees as to each of the antibiotics used as indicated in Table 3 to reveal in ascending order: ampicillin-sulbactam 14.8% (4/27), chloramphenicol 29.6% (8/27), erythromycin 48.1% (13/27), ciprofloxacin 59.3% (16/27), methicillin 63% (17/27), tetracycline 66.7% (18/27), vancomycin 74.1% (20/27), oxacillin 77.8% (21/27), penicillin 92.6% (25/27), clindamycin 96.3% (26/27), gentamycin 96.3% (26/27), and sulphamethoxazole/trimethoprim 100% (27/27). The different Staphylococcus species also reflect a difference in their antibiotic resistance to the 12 antibiotics each species with a different capacity to resistance: S. lentus 91.7% (11/12), S. aureus 77.8% (84/108), S. intermedius 72.2% (26/36), S. schleiferi subsp. coagulans 70.8% (34/48), and S. hyicus 55% (66/120).",
+            "block_bbox": [
+                82,
+                1383,
+                585,
+                1431
+            ],
+            "block_id": 13,
+            "block_order": 7,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                602,
+                629,
+                1106,
+                972
+            ],
+            "block_id": 14,
+            "block_order": 8,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "The several MDR combination patterns are recorded in Table 4. The Table reveals, that there were 21 different combination patterns ranging from four to twelve antibiotics in each combination. Out of the 27 Staphylococcus isolates only one isolate was resistant to the 12 antibiotics representing nine classes. This isolate was one of the nine S. aureus isolates (Table 5). The Table also reveals the wide dispersity in the number of antibiotic combinations in each isolate and species of the staphylococci isolates (S. aureus, five combinations; S. hyicus, five combinations; S. intermedius, three combinations; S. schleiferi subsp. coagulans two combinations; and S. lentus, one combination).",
+            "block_bbox": [
+                602,
+                973,
+                1107,
+                1250
+            ],
+            "block_id": 15,
+            "block_order": 9,
+            "group_id": 15
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Widespread Distribution of Antibiotic Resistance Genes among Staphylococcal Isolates",
+            "block_bbox": [
+                603,
+                1276,
+                1088,
+                1358
+            ],
+            "block_id": 16,
+            "block_order": 10,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "We screened the meat Staphylococcus isolates for the presence of the multiple resistance genes mecA, cfr, gyrA, gyrB, and grlA genes among Staphylococci isolated from beef meat in Egypt.",
+            "block_bbox": [
+                602,
+                1360,
+                1106,
+                1433
+            ],
+            "block_id": 17,
+            "block_order": 11,
+            "group_id": 17
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1481,
+                364,
+                1501
+            ],
+            "block_id": 18,
+            "block_order": null,
+            "group_id": 18
+        },
+        {
+            "block_label": "number",
+            "block_content": "5",
+            "block_bbox": [
+                587,
+                1482,
+                602,
+                1499
+            ],
+            "block_id": 19,
+            "block_order": null,
+            "group_id": 19
+        },
+        {
+            "block_label": "footer",
+            "block_content": "February 2016 | Volume 7 | Article 222",
+            "block_bbox": [
+                868,
+                1480,
+                1103,
+                1501
+            ],
+            "block_id": 20,
+            "block_order": null,
+            "group_id": 20
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9150521755218506,
+                "coordinate": [
+                    85.72544860839844,
+                    56.01629638671875,
+                    168.72055053710938,
+                    74.24122619628906
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9395591616630554,
+                "coordinate": [
+                    855.9873046875,
+                    54.71857452392578,
+                    1104.2156982421875,
+                    74.66284942626953
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9338106513023376,
+                "coordinate": [
+                    85.00904846191406,
+                    122.81036376953125,
+                    558.6199951171875,
+                    143.4599609375
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9873446822166443,
+                "coordinate": [
+                    83.599365234375,
+                    152.03009033203125,
+                    1102.8436279296875,
+                    490.67047119140625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9531583189964294,
+                "coordinate": [
+                    82.99398803710938,
+                    499.2475891113281,
+                    1105.7791748046875,
+                    553.2138671875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7381265759468079,
+                "coordinate": [
+                    83.79620361328125,
+                    552.8539428710938,
+                    604.2108154296875,
+                    571.1115112304688
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7400463819503784,
+                "coordinate": [
+                    85.03236389160156,
+                    571.577392578125,
+                    281.673828125,
+                    589.09912109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.984032928943634,
+                "coordinate": [
+                    82.92355346679688,
+                    629.2181396484375,
+                    584.23779296875,
+                    723.576416015625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9449484348297119,
+                "coordinate": [
+                    84.43916320800781,
+                    737.5145263671875,
+                    242.59947204589844,
+                    762.3101806640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881097078323364,
+                "coordinate": [
+                    82.4217529296875,
+                    764.4903564453125,
+                    584.85595703125,
+                    995.094970703125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.950791597366333,
+                "coordinate": [
+                    84.03562927246094,
+                    1009.564697265625,
+                    376.69122314453125,
+                    1035.828369140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886943697929382,
+                "coordinate": [
+                    81.87689208984375,
+                    1036.0654296875,
+                    585.5767211914062,
+                    1314.9814453125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9742395877838135,
+                "coordinate": [
+                    82.938720703125,
+                    1327.602783203125,
+                    551.7218627929688,
+                    1381.83251953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9692733287811279,
+                "coordinate": [
+                    82.6925048828125,
+                    1383.19873046875,
+                    585.4546508789062,
+                    1431.5458984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9891340136528015,
+                "coordinate": [
+                    602.62744140625,
+                    629.3443603515625,
+                    1106.5555419921875,
+                    972.9466552734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9890782237052917,
+                "coordinate": [
+                    602.3802490234375,
+                    973.2130126953125,
+                    1107.6995849609375,
+                    1250.5621337890625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9752684831619263,
+                "coordinate": [
+                    603.0574951171875,
+                    1276.0955810546875,
+                    1088.1732177734375,
+                    1358.6373291015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9798754453659058,
+                "coordinate": [
+                    602.96484375,
+                    1360.0478515625,
+                    1106.16748046875,
+                    1433.01123046875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9352259039878845,
+                "coordinate": [
+                    85.14540100097656,
+                    1481.0015869140625,
+                    364.83331298828125,
+                    1501.2337646484375
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8501715064048767,
+                "coordinate": [
+                    587.8189697265625,
+                    1482.0496826171875,
+                    602.3875732421875,
+                    1499.1407470703125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9340807199478149,
+                "coordinate": [
+                    868.0897216796875,
+                    1480.478271484375,
+                    1103.396728515625,
+                    1501.068603515625
+                ]
+            }
+        ]
+    }
+}

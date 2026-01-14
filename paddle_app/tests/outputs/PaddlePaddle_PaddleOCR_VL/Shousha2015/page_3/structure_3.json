@@ -1,0 +1,653 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Shousha2015.pdf",
+    "page_index": 2,
+    "page_count": 7,
+    "width": 1170,
+    "height": 1566,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Shousha et al.",
+            "block_bbox": [
+                77,
+                64,
+                167,
+                83
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 1 Primers and conditions for PCR of resistance genes</div>\n",
+            "block_bbox": [
+                76,
+                130,
+                500,
+                152
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Target gene</td><td style='text-align: center;'>Primer name</td><td style='text-align: center;'>Sequence</td><td style='text-align: center;'>Annealing temp (°C)</td><td style='text-align: center;'>PCR amplification product size (bp)</td><td style='text-align: center;'>Reference</td></tr><tr><td rowspan=\"2\">tet(A)</td><td style='text-align: center;'>tet(A)-f</td><td style='text-align: center;'>5&#x27;-GCTACATCCTGCTTGCCTTC-3&#x27;</td><td style='text-align: center;'>57</td><td style='text-align: center;'>210</td><td style='text-align: center;'>44</td></tr><tr><td style='text-align: center;'>tet(A)-r</td><td style='text-align: center;'>5&#x27;-CATAGATCGCCGTGAAGAGG-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">tet(B)</td><td style='text-align: center;'>tet(B)-f</td><td style='text-align: center;'>5&#x27;-TTGGTTAGGGGCAAGTTTTG-3&#x27;</td><td style='text-align: center;'>57</td><td style='text-align: center;'>659</td><td style='text-align: center;'>44</td></tr><tr><td style='text-align: center;'>tet(B)-r</td><td style='text-align: center;'>5&#x27;-GTAATGGGCCAATAACACCG-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">tet(C)</td><td style='text-align: center;'>tet(C)-f</td><td style='text-align: center;'>5&#x27;-CTTGAGAGCCTTCAACCCAG-3&#x27;</td><td style='text-align: center;'>55</td><td style='text-align: center;'>418</td><td style='text-align: center;'>44</td></tr><tr><td style='text-align: center;'>tet(C)-r</td><td style='text-align: center;'>5&#x27;-ATGTCGTCATCTACCTGCC-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">aphA1</td><td style='text-align: center;'>aphA-1a-f</td><td style='text-align: center;'>5&#x27;-AACGTCTTGCTCGAGGCCGCG-3&#x27;</td><td style='text-align: center;'>65</td><td style='text-align: center;'>670</td><td style='text-align: center;'>45</td></tr><tr><td style='text-align: center;'>aphA-1a-r</td><td style='text-align: center;'>5&#x27;-GGCAAGATCCTGGTATCGGTCTGC-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">bla $ _{\\text{CMY}} $</td><td style='text-align: center;'>bla $ _{\\text{CMY}} $ -f</td><td style='text-align: center;'>5&#x27;-TGGCCGTTGCCGTTATCTAC-3&#x27;</td><td style='text-align: center;'>55</td><td style='text-align: center;'>870</td><td style='text-align: center;'>46</td></tr><tr><td style='text-align: center;'>bla $ _{\\text{CMY}} $ -r</td><td style='text-align: center;'>5&#x27;-CCCGTTTTATGCACCCATGA-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">bla $ _{\\text{IMP}} $</td><td style='text-align: center;'>bla $ _{\\text{IMP}} $ -f</td><td style='text-align: center;'>5&#x27;-GAATAGAGTGGATTAATTCTC-3&#x27;</td><td style='text-align: center;'>55</td><td style='text-align: center;'>232</td><td style='text-align: center;'>47</td></tr><tr><td style='text-align: center;'>bla $ _{\\text{IMP}} $ -r</td><td style='text-align: center;'>5&#x27;-GGTTTAAYAAAAACACCACC-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">bla $ _{\\text{OXA}} $</td><td style='text-align: center;'>bla $ _{\\text{OXA}} $ -2-f</td><td style='text-align: center;'>5&#x27;-CAAGCCAAAGGCACGATAGTTG-3&#x27;</td><td style='text-align: center;'>56</td><td style='text-align: center;'>561</td><td style='text-align: center;'>47</td></tr><tr><td style='text-align: center;'>bla $ _{\\text{OXA}} $ -2-r</td><td style='text-align: center;'>5&#x27;-CTCAACCCATCCTACCCACC-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">bla $ _{\\text{PSE}} $</td><td style='text-align: center;'>bla $ _{\\text{PSE}} $ -f</td><td style='text-align: center;'>5&#x27;-TGCTTCGCAACTATGACTAC-3&#x27;</td><td style='text-align: center;'>55</td><td style='text-align: center;'>438</td><td style='text-align: center;'>46</td></tr><tr><td style='text-align: center;'>bla $ _{\\text{PSE}} $ -r</td><td style='text-align: center;'>5&#x27;-AGCCTGTGTTTGAGCTAGAT-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">bla $ _{\\text{TEM-1}} $</td><td style='text-align: center;'>bla $ _{\\text{TEM-1}} $ -f</td><td style='text-align: center;'>5&#x27;-CAGCGGTAAGATCCTTGAGA-3&#x27;</td><td style='text-align: center;'>55</td><td style='text-align: center;'>643</td><td style='text-align: center;'>46</td></tr><tr><td style='text-align: center;'>bla $ _{\\text{TEM-1}} $ -r</td><td style='text-align: center;'>5&#x27;-ACTCCCCCGTCGTAGATAA-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">catI</td><td style='text-align: center;'>catI-f</td><td style='text-align: center;'>5&#x27;-AGTTGCTCAATGTACCTATAACC-3&#x27;</td><td style='text-align: center;'>50</td><td style='text-align: center;'>547</td><td style='text-align: center;'>48</td></tr><tr><td style='text-align: center;'>catI-r</td><td style='text-align: center;'>5&#x27;-TTGTAATTCATTAAGCATTCTGCC-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">floR</td><td style='text-align: center;'>floR-f</td><td style='text-align: center;'>5&#x27;-CGCCGTCATTCCTCACCTTC-3&#x27;</td><td style='text-align: center;'>50</td><td style='text-align: center;'>215</td><td style='text-align: center;'>48</td></tr><tr><td style='text-align: center;'>floR-r</td><td style='text-align: center;'>5&#x27;-GATCACGGGCCACGCTGTGTC-3&#x27;</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>",
+            "block_bbox": [
+                74,
+                153,
+                1089,
+                648
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Statistical analysis. The relation of the presence of transferable elements encoding antimicrobial resistance in coliphages isolated from chicken meat samples to the recovery of phenotypically antimicrobial-resistant E. coli isolates from the same samples was studied for four different antimicrobial substances. For this purpose, information on resistance transfer from all phages (typically, five) per sample was combined; i.e., a sample was considered to carry transferable resistance against an antimicrobial substance if at least one of the phages isolated from this sample was able to transfer the respective resistance. The relation of the presence/absence of resistant E. coli to the presence/absence of phages able to transduce the respective antimicrobial resistance was then assessed by Fisher's exact test. The significance level was established at a P value of <0.05.",
+            "block_bbox": [
+                74,
+                694,
+                577,
+                938
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 2 Numbers of chicken meat samples by type of resistant E. coli isolate</div>\n",
+            "block_bbox": [
+                75,
+                975,
+                563,
+                1015
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Antimicrobial resistance $ ^{a} $</td><td style='text-align: center;'>No. of samples</td></tr><tr><td style='text-align: center;'>Amp $ ^{r} $</td><td style='text-align: center;'>6</td></tr><tr><td style='text-align: center;'>Amp $ ^{r} $  Cm $ ^{r} $</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Amp $ ^{r} $  Km $ ^{r} $</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Amp $ ^{r} $  Tet $ ^{r} $</td><td style='text-align: center;'>12</td></tr><tr><td style='text-align: center;'>Amp $ ^{r} $  Cm $ ^{r} $  Km $ ^{r} $</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>Amp $ ^{r} $  Cm $ ^{r} $  Tet $ ^{r} $</td><td style='text-align: center;'>5</td></tr><tr><td style='text-align: center;'>Amp $ ^{r} $  Km $ ^{r} $  Tet $ ^{r} $</td><td style='text-align: center;'>10</td></tr><tr><td style='text-align: center;'>Amp $ ^{r} $  Cm $ ^{r} $  Km $ ^{r} $  Tet $ ^{r} $</td><td style='text-align: center;'>10</td></tr><tr><td style='text-align: center;'>Cm $ ^{r} $</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Cm $ ^{r} $  Km $ ^{r} $</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Cm $ ^{r} $  Tet $ ^{r} $</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>Cm $ ^{r} $  Km $ ^{r} $  Tet $ ^{r} $</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>Km $ ^{r} $</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Km $ ^{r} $  Tet $ ^{r} $</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Tet $ ^{r} $</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>Sensitive</td><td style='text-align: center;'>3</td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'>50</td></tr></table>",
+            "block_bbox": [
+                76,
+                1018,
+                573,
+                1409
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{a} $  Amp $ ^{r} $ , Cm $ ^{r} $ , Km $ ^{r} $ , and Tet $ ^{r} $ , ampicillin, chloramphenicol, kanamycin, and tetracycline resistant, respectively.",
+            "block_bbox": [
+                75,
+                1412,
+                570,
+                1449
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## RESULTS",
+            "block_bbox": [
+                592,
+                692,
+                671,
+                714
+            ],
+            "block_id": 7,
+            "block_order": 2,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Detection of antimicrobial-resistant E. coli isolates in chicken meat. One or more resistant E. coli isolates whose resistance was determined using antimicrobial susceptibility testing by broth microdilution could be isolated from 47 out of 50 chicken meat samples using selective plating. Most E. coli isolates were resistant to ampicillin (44 of 50 samples), followed by tetracycline (40 of 50 samples). Kanamycin-resistant isolates were found in 22 chicken meat samples, and chloramphenicol-resistant isolates were found in 18. Table 2 shows the numbers of samples with the different types of resistant E. coli isolates. Ampicillin-resistant as well as tetracycline-resistant E. coli strains were found in the most often in the chicken meat samples (n = 12, 24%); this was followed by E. coli isolates resistant to all different antimicrobial tests tested and E. coli isolates resistant to ampicillin, kanamycin, and tetracycline (n = 10 [20%] for each group). Six samples harbored ampicillin-resistant E. coli isolates only. Five samples carried E. coli isolates with resistance to ampicillin, chloramphenicol, as well as tetracycline. Three samples did not harbor any E. coli isolates resistant to the tested antimicrobial substances. One sample each held E. coli strains resistant to tetracycline only; chloramphenicol and tetracycline; chloramphenicol, kanamycin, and tetracycline; and ampicillin, chloramphenicol, and kanamycin.",
+            "block_bbox": [
+                589,
+                717,
+                1094,
+                1228
+            ],
+            "block_id": 8,
+            "block_order": 3,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Resistance-transducing phage isolated from chicken meat. Coliphages were detected in all but one chicken meat sample. The sample with no coliphage did not hold any resistant  $ E.\\ coli $  isolates. About 90% of the phages isolated revealed a clear plaque morphology, and 10% produced a cloudy center. Of all phages randomly isolated from chicken meat  $ (n = 243) $ , about a quarter  $ (n = 60) $  were able to transduce one or more of the tested antimicrobial resistances into  $ E.\\ coli $  ATCC 13706. Phages able to transduce antimicrobial resistance were isolated from 22 out of a total of 50 chicken meat samples. Phages which transduced kanamycin",
+            "block_bbox": [
+                590,
+                1228,
+                1094,
+                1452
+            ],
+            "block_id": 9,
+            "block_order": 4,
+            "group_id": 9
+        },
+        {
+            "block_label": "number",
+            "block_content": "4602",
+            "block_bbox": [
+                78,
+                1495,
+                113,
+                1512
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "footer",
+            "block_content": "aem.asm.org",
+            "block_bbox": [
+                123,
+                1495,
+                203,
+                1513
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Applied and Environmental Microbiology",
+            "block_bbox": [
+                459,
+                1493,
+                709,
+                1513
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "footer",
+            "block_content": "July 2015 Volume 81 Number 14",
+            "block_bbox": [
+                874,
+                1494,
+                1092,
+                1513
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9345645904541016,
+                "coordinate": [
+                    77.46923828125,
+                    64.37908935546875,
+                    167.29660034179688,
+                    83.2762451171875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9518719911575317,
+                "coordinate": [
+                    76.10476684570312,
+                    130.3197021484375,
+                    500.5693664550781,
+                    152.25347900390625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875655770301819,
+                "coordinate": [
+                    74.1334228515625,
+                    153.20318603515625,
+                    1089.5701904296875,
+                    648.9948120117188
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.42518630623817444,
+                "coordinate": [
+                    214.145263671875,
+                    225.40476989746094,
+                    270.4754333496094,
+                    244.58323669433594
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.43527573347091675,
+                "coordinate": [
+                    214.021728515625,
+                    284.83990478515625,
+                    270.82708740234375,
+                    304.11138916015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5776368379592896,
+                "coordinate": [
+                    214.28460693359375,
+                    305.2095947265625,
+                    270.9095764160156,
+                    323.6944580078125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6514422297477722,
+                "coordinate": [
+                    214.50436401367188,
+                    325.7589111328125,
+                    286.3562316894531,
+                    344.9110107421875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6816028356552124,
+                "coordinate": [
+                    78.8392105102539,
+                    366.93096923828125,
+                    126.8199234008789,
+                    386.70343017578125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7414528727531433,
+                "coordinate": [
+                    214.4267578125,
+                    347.306640625,
+                    285.3818054199219,
+                    364.9932861328125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6640536785125732,
+                "coordinate": [
+                    79.13758850097656,
+                    406.1544189453125,
+                    124.07386779785156,
+                    427.07025146484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.883832573890686,
+                "coordinate": [
+                    214.66326904296875,
+                    366.03009033203125,
+                    278.18975830078125,
+                    385.31060791015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6653816103935242,
+                "coordinate": [
+                    79.03782653808594,
+                    445.5652770996094,
+                    125.87464904785156,
+                    466.4670104980469
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8649400472640991,
+                "coordinate": [
+                    214.870361328125,
+                    387.04046630859375,
+                    276.44921875,
+                    405.85528564453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.869785487651825,
+                "coordinate": [
+                    214.72708129882812,
+                    407.31292724609375,
+                    273.29803466796875,
+                    425.98468017578125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8755929470062256,
+                "coordinate": [
+                    214.79476928710938,
+                    426.7789306640625,
+                    272.2456970214844,
+                    445.83392333984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8765403032302856,
+                "coordinate": [
+                    214.95614624023438,
+                    447.3388366699219,
+                    284.7672424316406,
+                    465.5868835449219
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6761677265167236,
+                "coordinate": [
+                    79.02702331542969,
+                    486.185791015625,
+                    121.46852111816406,
+                    507.142822265625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8552179336547852,
+                "coordinate": [
+                    214.83761596679688,
+                    467.73504638671875,
+                    284.629150390625,
+                    485.98992919921875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8618786334991455,
+                "coordinate": [
+                    214.53179931640625,
+                    486.6693420410156,
+                    270.19329833984375,
+                    505.7311096191406
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6216508150100708,
+                "coordinate": [
+                    78.64128112792969,
+                    525.9932861328125,
+                    135.9840545654297,
+                    547.0977783203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8468780517578125,
+                "coordinate": [
+                    214.65936279296875,
+                    507.615966796875,
+                    269.5677490234375,
+                    525.6473388671875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8944756388664246,
+                "coordinate": [
+                    214.81674194335938,
+                    526.2190551757812,
+                    284.59210205078125,
+                    546.4435424804688
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8689997792243958,
+                "coordinate": [
+                    214.40945434570312,
+                    547.6109619140625,
+                    285.187255859375,
+                    566.7786865234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.609158992767334,
+                "coordinate": [
+                    214.46701049804688,
+                    566.544921875,
+                    256.2858581542969,
+                    584.283935546875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6214426159858704,
+                "coordinate": [
+                    214.3453369140625,
+                    585.9985961914062,
+                    257.71978759765625,
+                    603.5973510742188
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4320926070213318,
+                "coordinate": [
+                    214.60269165039062,
+                    605.114013671875,
+                    259.2557678222656,
+                    624.4326171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878316521644592,
+                "coordinate": [
+                    74.46882629394531,
+                    694.1278076171875,
+                    577.2805786132812,
+                    938.2894287109375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9641860723495483,
+                "coordinate": [
+                    75.98681640625,
+                    975.2476806640625,
+                    563.36083984375,
+                    1015.629150390625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.41114524006843567,
+                "coordinate": [
+                    79.5301513671875,
+                    1109.568603515625,
+                    148.054931640625,
+                    1129.631103515625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887824654579163,
+                "coordinate": [
+                    76.09410095214844,
+                    1018.0913696289062,
+                    573.7506103515625,
+                    1409.22265625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9569500684738159,
+                "coordinate": [
+                    75.89752197265625,
+                    1412.573974609375,
+                    570.3087768554688,
+                    1449.9072265625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9353377223014832,
+                "coordinate": [
+                    592.6436767578125,
+                    692.7909545898438,
+                    671.9871826171875,
+                    714.0737915039062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889094233512878,
+                "coordinate": [
+                    589.77099609375,
+                    717.8919677734375,
+                    1094.087646484375,
+                    1228.690673828125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.46621301770210266,
+                "coordinate": [
+                    938.0062255859375,
+                    963.8692626953125,
+                    1055.2825927734375,
+                    984.4320068359375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4391988217830658,
+                "coordinate": [
+                    596.5985107421875,
+                    1363.01416015625,
+                    660.0322265625,
+                    1383.111328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884933829307556,
+                "coordinate": [
+                    590.1094970703125,
+                    1228.790771484375,
+                    1094.4332275390625,
+                    1452.489501953125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8871347904205322,
+                "coordinate": [
+                    78.24880981445312,
+                    1495.484619140625,
+                    113.44952392578125,
+                    1512.302001953125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9192761182785034,
+                "coordinate": [
+                    123.78201293945312,
+                    1495.7392578125,
+                    203.0269775390625,
+                    1513.31591796875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9442170858383179,
+                "coordinate": [
+                    459.1654052734375,
+                    1493.93896484375,
+                    709.8487548828125,
+                    1513.86474609375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.937807559967041,
+                "coordinate": [
+                    874.1048583984375,
+                    1494.0853271484375,
+                    1092.1885986328125,
+                    1513.8646240234375
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,748 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Queslati2016.pdf",
+    "page_index": 2,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "156",
+            "block_bbox": [
+                65,
+                72,
+                91,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "W. Oueslati et al. / Meat Science 119 (2016) 154–159",
+            "block_bbox": [
+                437,
+                71,
+                736,
+                90
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "disease (chronic gastroenteritis, traumatic peritonitis, intestinal obstruction, chronic feet diseases, chronic mastitis...) (Table 1).",
+            "block_bbox": [
+                61,
+                110,
+                573,
+                152
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Disposable sterile bags were used to collect approximately 100 g of meat from the inner parts of iliopsoas muscle. The meat surface was sterilized and the sample was transferred to a sterile stomacher bag.",
+            "block_bbox": [
+                60,
+                152,
+                573,
+                215
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "As recommended by Codex Alimentarius (1987), samples were stored at  $ -18^{\\circ} $ C until used in the Laboratory of Food Microbiology National School Veterinary of Medicine, Sidi Thabet (Tunisia).",
+            "block_bbox": [
+                61,
+                216,
+                573,
+                280
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "##### 2.2. Salmonella spp. VIDAS detection",
+            "block_bbox": [
+                62,
+                299,
+                317,
+                321
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "The detection of Salmonella spp. by alternative VIDAS Easy Salmonella (bioMérieux, SA Marcy l'Étoile, France) technique was performed in four steps: primary enrichment, selective enrichment, VIDAS and confirmation (Cheung & Kam, 2012). Twenty five grams of meat sample were homogenized in 225 ml of Buffered Peptone Water (Biokar Diagnostics, Beauvais, France). The mixture was incubated at 37 °C for 22 h. A volume of 100  $ \\mu $ l of media was transferred to 10 ml Salmonella Xpress broth 2 (SX2) (bioMérieux SA, Marcy l'Étoile, France) and incubated at 41.5 °C for 24 h. One milliliter of the culture was heated for 15 min at 100 °C then cooled at room temperature. A volume of 0.5 ml SX2 broth was transferred into a SLM array and deposited in the VIDAS (bioMérieux SA, Marcy l'Étoile, France). Confirmation of positive samples was performed by isolation of Salmonella from unheated SX2 broth on selective agar (XLD and SS) (Biokar Diagnostics, Beauvais, France) and identification by urease test followed by API 20E system test (bioMérieux SA, Marcy l'Étoile, France) according to ISO 6579, 2002 reference technique.",
+            "block_bbox": [
+                60,
+                340,
+                574,
+                698
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.3. Serotypes of Salmonella strains",
+            "block_bbox": [
+                62,
+                718,
+                309,
+                740
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Serotypes of Salmonella isolates were determined by slide agglutination tests with specific immune sera against O, H and Vi Salmonella antigens (BioRad, Marne-La-Coquette, France) at the National Centre for Salmonella, Shigella and Vibrio, Pasteur Institute of Tunis (Tunisia). The interpretation of the results was performed according to the White–Kauffmann–Le Minor scheme (Popoff, Bockemühl, & Gheesling, 2001).",
+            "block_bbox": [
+                60,
+                759,
+                573,
+                889
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.4. Molecular study",
+            "block_bbox": [
+                62,
+                907,
+                209,
+                929
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "InnuPREP DNA Mini Kit (Biometra, Les Ulis, France) was used for the extraction of Salmonella genomic DNA from the selective enrichment SX2 broth (bioMérieux SA, Marcy l'Étoile, France): one milliliter of SX2 broth was centrifuged for 10 min at 7500 rpm, the pellet was mixed with a washing solution and proteinase K (20 mg/ml). The mixture was heated at 50 °C for 10 min then centrifuged at 12,000 rpm for 2 min. The pellet was washed twice and DNA was eluted by a centrifugation at 8000 rpm for 1 min then stored at -20 °C until used. The molecular confirmation of Salmonella was carried out by performing a PCR detecting a 1 kb DNA fragment (Karraouan, Fassouane, El Ossmani, Cohen, & Bouchrif, 2010), using specific primers: F-5'ACCACGCTCTTTCGTCTGG3' and R-5GAACTGACTACGTAGACGCTC3' (Abouzeed, Hariharana, Poppe, & Kibengea, 2000). The invasion gene invA and virulence genes spvC and h-li respectively have sizes of 275, 669 and 173 bp (Karraouan et al., 2010). All Salmonella isolated strains were tested for three invasion and virulence genes (invA, h-li and spvC) using three specific primer sets: F-5'TATCGCCACGTTCGGGCAA3' and R-5'TCGCACCGTCCAAAGGAACC3', F-5'AGCCTCGGCTACTGGTCTTG3' and R-5'CCGCAGCAAGAGTCACCTCA3', F-5'CGGAAATACCATCAAA TA3' and R-5'CCCAAACCCATACTTACTCTG3' respectively (Abouzeed et al., 2000).",
+            "block_bbox": [
+                60,
+                948,
+                574,
+                1098
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                596,
+                109,
+                1110,
+                402
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "The PCR mixture consisted of 2.5  $ \\mu $ l of 10× PCR buffer (20 mM Tris–HCl; pH 8.5; 50 mM KCl), 3 mM MgCl $ _{2} $ , 0.4 mM of each dNTP, 25  $ \\mu $ M of each primer, 1.25 U Taq Polymerase (Vivantis, Oceanside, USA), sterile distilled water and 2.5  $ \\mu $ l of DNA template.",
+            "block_bbox": [
+                596,
+                403,
+                1109,
+                487
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The DNA amplification was performed using the following program: 1 min denaturation at  $ 95\\ ^{\\circ}C $ , followed by 35 cycles ( $ 95\\ ^{\\circ}C $  for 20 s,  $ 55\\ ^{\\circ}C $  for 20 s and  $ 72\\ ^{\\circ}C $  for 2 min) and a final extension at  $ 72\\ ^{\\circ}C $  for 4 min (Nayak, Stewart, & Wang, 2004). Amplification was performed in a thermocycler (Esco Swift Max Pro, Horsham PA, USA).",
+            "block_bbox": [
+                597,
+                488,
+                1110,
+                592
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "PCR products were electrophorized in 1.5% agarose gel and visualized with ultraviolet transillumination after ethidium bromide staining. Negative and positive controls were added for each PCR run.",
+            "block_bbox": [
+                596,
+                592,
+                1110,
+                657
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.5. Antibiotic resistance",
+            "block_bbox": [
+                598,
+                676,
+                773,
+                697
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Resistance test to 12 antibiotics was screened by the diffusion method on Mueller-Hinton agar antibiotic discs (BioRad, Marne-La-Coquette, France). Interpretation of the results was done according to the Clinical and Laboratory of Standards Institute criteria (CLSI, 2008).",
+            "block_bbox": [
+                596,
+                718,
+                1110,
+                805
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.6. Statistical analyses",
+            "block_bbox": [
+                598,
+                823,
+                763,
+                845
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "The infection prevalence percentages were compared using Epi Info 6 (Dean et al., 2011) with Mantel Haenszel Chi-square test. Observed differences were considered significant when the p value was lower than 0.05 (Schwartz, 1993).",
+            "block_bbox": [
+                596,
+                865,
+                1110,
+                950
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.7. Ethics statement",
+            "block_bbox": [
+                598,
+                969,
+                748,
+                992
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "The study was performed in accordance with the Memorandum of the French General Directorate of Food No 2012-8056 March 13, 2012 on the authorization of slaughterhouses to derogate from the requirement to stun animals.",
+            "block_bbox": [
+                596,
+                1011,
+                1111,
+                1097
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "chart",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_chart_box_261_1134_907_1455.jpg\" alt=\"Image\" width=\"54%\" /></div>\n",
+            "block_bbox": [
+                261,
+                1134,
+                907,
+                1455
+            ],
+            "block_id": 21,
+            "block_order": null,
+            "group_id": 21
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Fig. 1. Seasonal distribution of Salmonella spp. serotypes.</div>\n",
+            "block_bbox": [
+                421,
+                1473,
+                749,
+                1493
+            ],
+            "block_id": 22,
+            "block_order": null,
+            "group_id": 22
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8937450647354126,
+                "coordinate": [
+                    65.12531280517578,
+                    72.66627502441406,
+                    91.7465591430664,
+                    88.60548400878906
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9377127885818481,
+                "coordinate": [
+                    437.2633056640625,
+                    71.20660400390625,
+                    736.1226806640625,
+                    90.43267822265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9736161828041077,
+                "coordinate": [
+                    61.011474609375,
+                    110.34323120117188,
+                    573.1829833984375,
+                    152.79217529296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805005788803101,
+                "coordinate": [
+                    60.9189453125,
+                    152.97738647460938,
+                    573.8389892578125,
+                    215.77108764648438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9718234539031982,
+                "coordinate": [
+                    61.095062255859375,
+                    216.48779296875,
+                    573.59765625,
+                    280.2260437011719
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8594282865524292,
+                "coordinate": [
+                    112.89620971679688,
+                    236.15106201171875,
+                    188.18466186523438,
+                    256.1405029296875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.945253312587738,
+                "coordinate": [
+                    62.06292724609375,
+                    299.4112548828125,
+                    317.0830078125,
+                    321.0118408203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.715618908405304,
+                "coordinate": [
+                    129.2366943359375,
+                    508.32574462890625,
+                    184.45733642578125,
+                    528.6074829101562
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5246391892433167,
+                "coordinate": [
+                    137.79409790039062,
+                    530.0264892578125,
+                    187.91122436523438,
+                    549.5550537109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888084530830383,
+                "coordinate": [
+                    60.34075927734375,
+                    340.82989501953125,
+                    574.607666015625,
+                    698.9453735351562
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7467443346977234,
+                "coordinate": [
+                    499.0837707519531,
+                    445.9355163574219,
+                    543.860595703125,
+                    465.9757385253906
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9425559043884277,
+                "coordinate": [
+                    62.193206787109375,
+                    718.3892211914062,
+                    309.696044921875,
+                    740.6596069335938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853782653808594,
+                "coordinate": [
+                    60.48004150390625,
+                    759.7517700195312,
+                    573.7491455078125,
+                    889.1314086914062
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9356109499931335,
+                "coordinate": [
+                    62.22950744628906,
+                    907.2437744140625,
+                    209.2341766357422,
+                    929.5572509765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9861530065536499,
+                "coordinate": [
+                    60.211700439453125,
+                    948.5511474609375,
+                    574.862060546875,
+                    1098.3907470703125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6751366853713989,
+                "coordinate": [
+                    201.3831787109375,
+                    1053.195068359375,
+                    241.6414794921875,
+                    1073.219970703125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8324111104011536,
+                "coordinate": [
+                    984.2607421875,
+                    110.85313415527344,
+                    1066.34228515625,
+                    130.04563903808594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888765215873718,
+                "coordinate": [
+                    596.0535888671875,
+                    109.79716491699219,
+                    1110.4539794921875,
+                    402.94970703125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.42283156514167786,
+                "coordinate": [
+                    1071.51318359375,
+                    237.3575439453125,
+                    1105.5576171875,
+                    257.34771728515625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6792266964912415,
+                "coordinate": [
+                    831.975830078125,
+                    425.31201171875,
+                    906.0123291015625,
+                    444.9599609375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5724184513092041,
+                "coordinate": [
+                    896.9025268554688,
+                    404.8751220703125,
+                    960.6528930664062,
+                    423.6700439453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9827142357826233,
+                "coordinate": [
+                    596.3709716796875,
+                    403.25933837890625,
+                    1109.9105224609375,
+                    487.39617919921875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6479830145835876,
+                "coordinate": [
+                    738.830810546875,
+                    466.9107666015625,
+                    779.6669921875,
+                    486.644775390625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7260744571685791,
+                "coordinate": [
+                    760.0172119140625,
+                    508.13409423828125,
+                    801.177734375,
+                    528.5294799804688
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7330272793769836,
+                "coordinate": [
+                    692.9811401367188,
+                    529.3134765625,
+                    735.7897338867188,
+                    549.0701904296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857041239738464,
+                "coordinate": [
+                    597.0869140625,
+                    488.2057800292969,
+                    1110.1663818359375,
+                    592.84375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5239498615264893,
+                "coordinate": [
+                    960.55419921875,
+                    507.892822265625,
+                    1005.9658203125,
+                    528.470458984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.576431155204773,
+                "coordinate": [
+                    1052.3553466796875,
+                    508.289306640625,
+                    1106.5418701171875,
+                    528.2869873046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.82234787940979,
+                "coordinate": [
+                    992.60009765625,
+                    529.2930908203125,
+                    1034.7672119140625,
+                    549.0965576171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978727400302887,
+                "coordinate": [
+                    596.8121337890625,
+                    592.6265258789062,
+                    1110.1768798828125,
+                    657.5328979492188
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9326215386390686,
+                "coordinate": [
+                    598.2401123046875,
+                    676.2015991210938,
+                    773.3702392578125,
+                    697.7723999023438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812161326408386,
+                "coordinate": [
+                    596.5079345703125,
+                    718.0790405273438,
+                    1110.1697998046875,
+                    805.0382690429688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9324219822883606,
+                "coordinate": [
+                    598.256103515625,
+                    823.2446899414062,
+                    763.2926025390625,
+                    845.5540161132812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809399247169495,
+                "coordinate": [
+                    596.26708984375,
+                    865.2122192382812,
+                    1110.46826171875,
+                    950.4887084960938
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9322419762611389,
+                "coordinate": [
+                    598.0838623046875,
+                    969.7550048828125,
+                    748.1788330078125,
+                    992.13134765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9803794622421265,
+                "coordinate": [
+                    596.2586669921875,
+                    1011.0587158203125,
+                    1111.0115966796875,
+                    1097.3739013671875
+                ]
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9824790954589844,
+                "coordinate": [
+                    261.0694580078125,
+                    1134.19482421875,
+                    907.643310546875,
+                    1455.8271484375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9399799704551697,
+                "coordinate": [
+                    421.07525634765625,
+                    1473.8521728515625,
+                    749.9192504882812,
+                    1493.7496337890625
+                ]
+            }
+        ]
+    }
+}

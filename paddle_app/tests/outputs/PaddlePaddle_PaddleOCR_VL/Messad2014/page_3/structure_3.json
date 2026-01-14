@@ -1,0 +1,636 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Messad2014.pdf",
+    "page_index": 2,
+    "page_count": 5,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "326",
+            "block_bbox": [
+                62,
+                92,
+                90,
+                108
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "S. Messad et al. / Food Control 40 (2014) 324–328",
+            "block_bbox": [
+                438,
+                91,
+                732,
+                110
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Campylobacter were isolated in 85% (n = 85) of droppings samples, 98% (n = 98) of ceacal contents and 80% (n = 80) of neck skins; indeed no statistically difference was identified between rates (p > 0.05). All samples issued from five farms were positive to thermotolerant Campylobacter, whereas no strain has been isolated from the sixth one. Campylobacter was isolated from both types of samples in all slaughterhouses (Table 1).",
+            "block_bbox": [
+                59,
+                128,
+                572,
+                278
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 3.2. Antibiotic susceptibility of isolated strains",
+            "block_bbox": [
+                60,
+                299,
+                410,
+                321
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "All isolated strains were resistant to nalidixic acid, and susceptible to gentamycin and to chloramphenicol. 83.7% (n = 220) were resistant to tetracycline and ciprofloxacin, 75.3% (n = 198) to ampicillin, 46.8% (n = 123) to amoxicillin/clavulanic acid, and 21.7% (n = 57) to erythromycin (Table 2). Resistance rates among antibiotics used for the same type of sample showed a significant difference  $ (P < 0.05) $  but there was no significant difference between the strains isolated from feces, cecal contents and those isolated from neck skins to the same antibiotic.",
+            "block_bbox": [
+                59,
+                341,
+                571,
+                530
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Moreover, all isolates showed a multidrug resistance to antibiotics (resistance to two antibiotics or more), 5.7% (n = 15) resistant to two antibiotics, 27.4% (n = 72) to three antibiotics, 24.7% (n = 65) to four antibiotics, 36.9% (n = 97) to five antibiotics and 5.3% (n = 14) to six antibiotics. Indeed, nineteen different resistance profiles were noted, with \"ampicillin, amoxicillin/clavulanic acid, nalidixic acid, ciprofloxacin, tetracycline\" combination as the most common profile identified for 27% (n = 74) of isolated strains, 15% (n = 38) of isolates were resistant to both ciprofloxacin and erythromycin (Table 3).",
+            "block_bbox": [
+                59,
+                529,
+                572,
+                742
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 4. Discussion",
+            "block_bbox": [
+                60,
+                763,
+                177,
+                784
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 4.1. Thermotolerant Campylobacter prevalence",
+            "block_bbox": [
+                60,
+                805,
+                411,
+                827
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Bacteriological analysis of samples showed in a part, high intestinal carriage of Campylobacter in broiler (98%) with a high rate of contaminated carcasses (80%). The intestinal carriage is due to the fact that these enteric bacteria are adapted to live in digestive tract mucus (Megraud & Bultel, 2004). The prevalence of positive broiler flocks in the European Community was estimated to 75% (EFSA, 2010a, 2011, 2012). According to the Swiss report of zoonoses, Campylobacter were recovered from all tested chicken flocks in Switzerland (Luginbühl, Marthaler, Geiser, Lutz, & Danuser, 2010).",
+            "block_bbox": [
+                58,
+                846,
+                572,
+                1038
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Prevalence of thermotolerants Campylobacter in investigated farms and slaughterhouses.</div>\n",
+            "block_bbox": [
+                60,
+                1088,
+                570,
+                1124
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td colspan=\"2\">Farms</td><td colspan=\"3\">Slaughterhouses</td></tr><tr><td style='text-align: center;'>Designation</td><td style='text-align: center;'>Droppings no. positive/ total of samples (%)</td><td style='text-align: center;'>Designation</td><td style='text-align: center;'>Caecal contents no. positive/total of samples (%)</td><td style='text-align: center;'>Neck skins no. Positive/total of samples (%)</td></tr><tr><td style='text-align: center;'>1</td><td style='text-align: center;'>0/15 (0)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>18/20 (90)</td><td style='text-align: center;'>13/20 (65)</td></tr><tr><td style='text-align: center;'>2</td><td style='text-align: center;'>20/20 (100)</td><td style='text-align: center;'>2</td><td style='text-align: center;'>20/20 (100)</td><td style='text-align: center;'>18/20 (90)</td></tr><tr><td style='text-align: center;'>3</td><td style='text-align: center;'>15/15 (100)</td><td style='text-align: center;'>3</td><td style='text-align: center;'>20/20 (100)</td><td style='text-align: center;'>15/20 (75)</td></tr><tr><td style='text-align: center;'>4</td><td style='text-align: center;'>20/20 (100)</td><td style='text-align: center;'>4</td><td style='text-align: center;'>20/20 (100)</td><td style='text-align: center;'>16/20 (80)</td></tr><tr><td style='text-align: center;'>5</td><td style='text-align: center;'>15/15 (100)</td><td style='text-align: center;'>5</td><td style='text-align: center;'>20/20 (100)</td><td style='text-align: center;'>18/20 (90)</td></tr><tr><td style='text-align: center;'>6</td><td style='text-align: center;'>15/15 (100)</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'>85/100 (85)</td><td style='text-align: center;'>Total</td><td style='text-align: center;'>98/100 (98)</td><td style='text-align: center;'>80/100 (80)</td></tr><tr><td style='text-align: center;'>P1-Value</td><td style='text-align: center;'>P &lt; 0.05</td><td style='text-align: center;'>P2-Value</td><td style='text-align: center;'>P &gt; 0.05</td><td style='text-align: center;'>P &gt; 0.05</td></tr></table>",
+            "block_bbox": [
+                63,
+                1128,
+                568,
+                1379
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "Abbreviations: No, Number; AM, ampicillin; AMC, amoxicillin/clavulanic acid; GM, gentamicin; E, erythromycin; C, chloramphenicol; TE, tetracycline; NA, nalidixic acid; CIP, ciprofloxacin.",
+            "block_bbox": [
+                60,
+                1384,
+                570,
+                1436
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "P-Value: Value for the antimicrobial resistance difference between the strains isolated from feces, caecal content and those isolated from neck skin samples to the same antibiotic.",
+            "block_bbox": [
+                60,
+                1435,
+                571,
+                1489
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The prevalence of Campylobacter was in agreement with previous studies in Iran (Ansari Lari et al., 2011). However it remains fairly high compared to that reported by Chena et al. in 2010 in China.",
+            "block_bbox": [
+                596,
+                128,
+                1109,
+                191
+            ],
+            "block_id": 13,
+            "block_order": 8,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this survey, of the five farms, all samples were contaminated, this suggests a horizontal transmission. It has been reported that all chickens are infected one week after introduction of bacteria in poultry building (Shreeve, Toszeghy, Pattison, & Newell, 2000). Chickens are coprophagous and fecal excretion is probably an important factor in spread of microbes in poultry flocks (Usha et al., 2010). This result can also be related to high animal density, which promotes contact between animals especially those carrying Campylobacter (Megraud & Bultel, 2004). In addition to sources such as soiled litter, untreated water, other farm animals, wild birds, insects, as well as the human flow, Viable Non-Cultivable forms were associated with Campylobacter transmission in broilers, which would in turn be responsible for transmission of these microorganisms to the environment (Humphrey, O'Brien, & Madsen, 2007).",
+            "block_bbox": [
+                595,
+                192,
+                1111,
+                505
+            ],
+            "block_id": 14,
+            "block_order": 9,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "Although, horizontal transmission of Campylobacter in the environment of breeding seems to be the main track, vertical transmission of Campylobacter from parent to their chicks is not ruled out (Pearson et al., 1996).",
+            "block_bbox": [
+                596,
+                505,
+                1110,
+                589
+            ],
+            "block_id": 15,
+            "block_order": 10,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "One of the studied farms that received a food supplemented with organic acids was free from Campylobacter which suggests that supplementation with organic acids could be indirectly involved in protection as demonstrated by Chaveerach, Keuzenkamp, Urlings, Lipman, and Knapen, in 2002 and Solis de los Santos et al. in 2009. These molecules have been recommended by an expert report of the FAO/WHO (Food and agriculture organization/World Health Organization) as a means of hazard control of Campylobacter in chicken meat (Anonymous, 2001, 53 p.).",
+            "block_bbox": [
+                596,
+                589,
+                1110,
+                778
+            ],
+            "block_id": 16,
+            "block_order": 11,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "In slaughterhouses, contamination of neck skin could be related directly to gut contents of the same animal and/or to cross contamination throughout slaughtering equipment. This contamination may occur in the scalding tanks, in feather removal machine or during evisceration (Ghafir & Daube, 2007; Posch et al., 2006). The nature of slaughter processing makes it impossible to prevent cross-contamination of negative batches by positive batches (Frediani & Stephan, 2003; Ono & Yamamoto, 1999). In a previous study in Algeria, 66% of chicken neck skins were contaminated (Mouffok & Lebres, 1992). Our results are similar to those reported in Brazil by Franchin, Ogliari, and Batista, in 2007 with a contamination rate of 84.7%.",
+            "block_bbox": [
+                595,
+                778,
+                1111,
+                1029
+            ],
+            "block_id": 17,
+            "block_order": 12,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 4.2. Antimicrobial resistance of isolated strains",
+            "block_bbox": [
+                598,
+                1049,
+                953,
+                1071
+            ],
+            "block_id": 18,
+            "block_order": 13,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "High susceptibility to gentamicin and chloramphenicol could be explained by none or moderate use of these antibiotics due to due to the no registration in Algeria since 2006 (WHO, 2008a, 100 p.).",
+            "block_bbox": [
+                596,
+                1091,
+                1109,
+                1155
+            ],
+            "block_id": 19,
+            "block_order": 14,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "High levels of resistance were observed towards different antibiotics including nalidixic acid, ciprofloxacin, tetracycline and ampicillin (antibiotics widely used in tested farms) which shows similarity of our results compared to those reported by EFSA (2010b). By contrast, no antibiotic resistance against ampicillin, erythromycin, tetracycline and nalidixic acid have previously been observed with strains isolated from droppings and neck skins of broiler in the region of Algiers in 1992 (Mouffok & Lebres, 1992).",
+            "block_bbox": [
+                596,
+                1155,
+                1110,
+                1321
+            ],
+            "block_id": 20,
+            "block_order": 15,
+            "group_id": 20
+        },
+        {
+            "block_label": "text",
+            "block_content": "Several authors agree that the use of antibiotics in animals as prophylactic, therapeutic agents or for growth promotion can select for resistance and reduce the effectiveness of these products in veterinary and human medicine, because of emergence of resistant strains, which may occur during or after antimicrobial treatment (Avrain et al., 2003; Rahimi, Momtaz, Ameri, Ghasemian-Safaei, & Ali-Kasemi, 2010; Usha et al., 2010; WHO, 2008c, 5 p.). However, the use of disinfectants or other biocides (Russell, 2002; EFSA,",
+            "block_bbox": [
+                595,
+                1322,
+                1111,
+                1491
+            ],
+            "block_id": 21,
+            "block_order": 16,
+            "group_id": 21
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8943232297897339,
+                "coordinate": [
+                    62.71792984008789,
+                    92.38632202148438,
+                    90.7867431640625,
+                    108.83940124511719
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9394657611846924,
+                "coordinate": [
+                    438.0498352050781,
+                    91.3785400390625,
+                    732.874755859375,
+                    110.61549377441406
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5636888742446899,
+                "coordinate": [
+                    63.63493347167969,
+                    192.5831298828125,
+                    145.7233428955078,
+                    212.40859985351562
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4784306585788727,
+                "coordinate": [
+                    386.47430419921875,
+                    150.57135009765625,
+                    452.73638916015625,
+                    169.591552734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858850240707397,
+                "coordinate": [
+                    59.122955322265625,
+                    128.725341796875,
+                    572.12890625,
+                    278.362060546875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9461379647254944,
+                "coordinate": [
+                    60.70527648925781,
+                    299.3551940917969,
+                    410.1304931640625,
+                    321.1236877441406
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5233421921730042,
+                "coordinate": [
+                    63.634944915771484,
+                    426.60980224609375,
+                    130.39166259765625,
+                    445.7271728515625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4509729743003845,
+                "coordinate": [
+                    459.80780029296875,
+                    384.60211181640625,
+                    542.9218139648438,
+                    403.88372802734375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.527099609375,
+                "coordinate": [
+                    124.02153778076172,
+                    468.3330383300781,
+                    200.21466064453125,
+                    488.2315979003906
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887980818748474,
+                "coordinate": [
+                    59.2464599609375,
+                    341.48382568359375,
+                    571.5586547851562,
+                    530.0886840820312
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4886649250984192,
+                "coordinate": [
+                    63.689308166503906,
+                    614.4996337890625,
+                    132.52294921875,
+                    633.5152587890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883313775062561,
+                "coordinate": [
+                    59.083984375,
+                    529.8980712890625,
+                    572.5775146484375,
+                    742.0570068359375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4793459475040436,
+                "coordinate": [
+                    63.367340087890625,
+                    698.2796630859375,
+                    139.12966918945312,
+                    718.1180419921875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9295166730880737,
+                "coordinate": [
+                    60.537593841552734,
+                    763.70556640625,
+                    177.29483032226562,
+                    784.4532470703125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9434877634048462,
+                "coordinate": [
+                    60.27348327636719,
+                    805.57666015625,
+                    411.8006591796875,
+                    827.487548828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878649115562439,
+                "coordinate": [
+                    58.808837890625,
+                    846.73046875,
+                    572.6527709960938,
+                    1038.4443359375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9416522979736328,
+                "coordinate": [
+                    60.29682922363281,
+                    1088.6524658203125,
+                    570.5057373046875,
+                    1124.8929443359375
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9840143322944641,
+                "coordinate": [
+                    63.9915771484375,
+                    1128.70703125,
+                    568.0478515625,
+                    1379.5791015625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9449993371963501,
+                "coordinate": [
+                    60.413818359375,
+                    1384.337646484375,
+                    570.5192260742188,
+                    1436.400146484375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9417569637298584,
+                "coordinate": [
+                    60.166534423828125,
+                    1435.9195556640625,
+                    571.15966796875,
+                    1489.1876220703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9825472235679626,
+                "coordinate": [
+                    596.00537109375,
+                    128.5913543701172,
+                    1109.714111328125,
+                    191.92848205566406
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889877438545227,
+                "coordinate": [
+                    595.8045654296875,
+                    192.15753173828125,
+                    1111.0108642578125,
+                    505.05511474609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9843301177024841,
+                "coordinate": [
+                    596.517822265625,
+                    505.149658203125,
+                    1110.423095703125,
+                    589.550048828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885480403900146,
+                "coordinate": [
+                    596.24169921875,
+                    589.3515625,
+                    1110.7843017578125,
+                    778.36474609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882319569587708,
+                "coordinate": [
+                    595.7222900390625,
+                    778.3157958984375,
+                    1111.4715576171875,
+                    1029.9534912109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9468883275985718,
+                "coordinate": [
+                    598.1995849609375,
+                    1049.613037109375,
+                    953.025390625,
+                    1071.272705078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9777636528015137,
+                "coordinate": [
+                    596.451904296875,
+                    1091.0908203125,
+                    1109.48486328125,
+                    1155.13916015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882429242134094,
+                "coordinate": [
+                    596.1585693359375,
+                    1155.026123046875,
+                    1110.8468017578125,
+                    1321.962646484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881594181060791,
+                "coordinate": [
+                    595.8072509765625,
+                    1322.266357421875,
+                    1111.7867431640625,
+                    1491.531494140625
+                ]
+            }
+        ]
+    }
+}

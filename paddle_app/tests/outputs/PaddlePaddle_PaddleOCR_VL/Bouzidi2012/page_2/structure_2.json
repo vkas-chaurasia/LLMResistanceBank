@@ -1,0 +1,511 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bouzidi2012.pdf",
+    "page_index": 1,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "898",
+            "block_bbox": [
+                64,
+                72,
+                92,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "N. Bouzidi et al. / Food Research International 45 (2012) 897–904",
+            "block_bbox": [
+                394,
+                71,
+                777,
+                90
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonella Enteritidis for humans (De Jong & Ekdahl, 2006; Gillepsie et al., 2005).",
+            "block_bbox": [
+                60,
+                110,
+                572,
+                152
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "The combination of stringent hygiene measures and vaccination has considerably reduced vertical transmission of Salmonella infection from parent flocks (Van Immerseel et al., 2004) Horizontal transmission remains the major source of Salmonella contamination in broiler hen and egg productions (Chadfield, Permin, Nansen, & Bisgaard, 2001; Shirota, Katoh, Murase, & Otsuki, 2001). Only a few epidemiological studies have been carried out to investigate Salmonella infection risk factors in laying-hen farms. Various risk factors were identified in these studies, including (1) large flocks (Mollenhorst, Van Woudenbergh, Bokkers, & de Boer, 2005; Namata et al., 2008) (2) the age of the sampled hens, older hens being more likely to be contaminated by Salmonella (Castellan et al., 2004; Namata et al., 2008), and (3) inefficient cleaning and disinfection after depopulation for flock renewal (Davies & Breslin, 2003).",
+            "block_bbox": [
+                61,
+                152,
+                573,
+                445
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "It is a common practice in modern food animal husbandry to use antimicrobials for both therapeutic and prophylactic purposes (Aarestrup, 2004; Berge, Atwill, & Sischo, 2003; EFSA, 2008). The subsequent emergence of antimicrobial resistance compromises animal health by causing therapeutic failure. Furthermore, there may be adverse consequences for public health because of the spread of antimicrobial resistance from animals to humans, leading to treatment failure in human infectious diseases (EFSA, 2009; Jordan et al., 2009).",
+            "block_bbox": [
+                60,
+                446,
+                574,
+                634
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "In Algeria, poultry and egg productions have increased substantially since the mid-1980s, supported by an incentive policy. Poultry production has increased from 162,000 t in 1985 to 270,000 t in 1995, largely due to state subsidies. It currently provides 10 kg of poultry meat annually per capita, and fresh egg production is self-sufficient. According to Algerian agricultural ministry data, egg production increased from an average 32,000 t in 1982 to 120,000 t in 1995 (Anonymous, 2003). Egg consumption has also increased from 96 eggs annually per capita to 120 in 1989 (Anonymous, 2003).",
+            "block_bbox": [
+                61,
+                634,
+                573,
+                823
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Concomitantly, several outbreaks of salmonellosis have been observed in Algeria during recent years in both humans and food animal production, particularly poultry (Aboun et al., 2003; Ayachi, Alloui, Bennoune, & Kassah-Laouar, 2010). However, the public health consequences and economic impact of Salmonella in the Algerian poultry breeding sector are unknown because there are no epidemiological surveillance systems or monitoring programs for Salmonella infections in this country.",
+            "block_bbox": [
+                60,
+                823,
+                573,
+                990
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "The main aims of this study were therefore (i) to determine the prevalence of Salmonella in laying-hen flocks in 2 regions of Algeria, (ii) identify the serotypes present in these regions and their antimicrobial resistance, and finally (iii) to evaluate the risk factors that might influence the Salmonella contamination of laying-hen flocks.",
+            "block_bbox": [
+                61,
+                990,
+                573,
+                1116
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 2. Material and methods",
+            "block_bbox": [
+                62,
+                1136,
+                259,
+                1157
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.1. Study design",
+            "block_bbox": [
+                62,
+                1178,
+                189,
+                1200
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "The study was conducted in two regions in the eastmost part of Algeria from March 2008 to November 2009. The list and location of farms were obtained from official veterinary authorities for these regions and through our epidemiological investigation. During these two years, 22 operational layer houses were studied in both regions. All henhouse owners were invited to participate in the study, with absolute anonymity guaranteed for the farmer. A positive result would not have any adverse consequences. In all, 18 out of 22 layer houses with only one laying flock participated in the study for both years. Two farm owners (representing four layer houses) did not wish to participate. Flock sizes ranged from 2400 to 7200 hens. Pullets were loaded when 18 weeks old. Thirteen flocks comprised Isa Brown hens and five comprised Hy-Line hens. No sign of disease or pathology was found on the farms. Started pullets were typically vaccinated against Newcastle, Marek and Gumboro diseases. None of the sampled flocks was vaccinated against Salmonella. In most cases, owners are not just farmers and consider poultry farming a secondary occupation. The exact number of farmers may therefore fluctuate each year depending on the egg market and feed price.",
+            "block_bbox": [
+                60,
+                1220,
+                574,
+                1495
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                596,
+                110,
+                1110,
+                236
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "All the henhouses in these regions are fitted out with conventional battery cages. Most of the buildings (16/18) have natural ventilation. Six out of 18 buildings had mixed structures: solid brick and cement walls, with a roof of zinc sheets. Fourteen layer houses were connected to the public electricity network and only four had an electric generator. One farmer raises his own pullets, but all the other farmers in these regions buy started pullets from rearing farms either in the same regions (7/18) or in neighboring regions (10/18). Most farmers obtained feed from a single public company or from five private organizations in these regions. The productive lifespan of laying hens is around 15 months.",
+            "block_bbox": [
+                595,
+                236,
+                1111,
+                468
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.2. Time of sampling",
+            "block_bbox": [
+                598,
+                487,
+                758,
+                510
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Samples were taken in two successive years, from May to October 2008 and March to November 2009. Thirteen hen flocks were sampled three times, but layer house access difficulties resulted in two flocks being sampled twice and three only once. The first visit was scheduled at the beginning of the laying period (pullets aged 22–31 weeks) for 15 hen flocks, the second about halfway through laying (47–60 weeks) for 14 flocks, and the third visit was late in the laying period, prior to depopulation (maximum 9 weeks before) for 17 flocks. The age of hens in the last henhouse sampled ranged from 70 to 86 weeks. Four henhouses were sampled at the end of laying (74–82 weeks) for an initial flock and at the beginning and middle of the laying period in the subsequent flocks living in the same henhouses. A flock was considered Salmonella-positive when the bacterium was isolated from at least one sample in the flocks.",
+            "block_bbox": [
+                596,
+                529,
+                1111,
+                824
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.3. Questionnaire design",
+            "block_bbox": [
+                598,
+                843,
+                784,
+                865
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "A questionnaire was filled in during an onsite interview while collecting samples. It was used to gather information on the general characteristics of laying-hen flocks, dead-bird management, control of rodents and other domestic animals, biosecurity measures, farm staff and visitors, vaccination and administration of antibiotics. Of the questionnaire's 95 questions, 75% were closed-ended. The visit was completed by filling in a questionnaire based both on personal observations and on information obtained from the employees in charge of looking after the laying-hen flocks. A supplemental Table includes the questionnaire's 95 questions.",
+            "block_bbox": [
+                595,
+                885,
+                1111,
+                1096
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.4. Sample collection",
+            "block_bbox": [
+                598,
+                1115,
+                759,
+                1137
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "A total of 2754 samples were collected over two periods. The following seven pooled samples were collected from each flock at each visit: two pools of 15 fresh feces samples from under the cages, one pool of five fecal samples from the cages themselves, one pool of seven surface swabs, one pool of seven dust swabs from inside and outside the cages, and two pools of feed and water samples. On each sampling visit, 61 samples were collected from henhouses containing 4800 to 7200 hens, and 57 samples from henhouses containing 2400 to 3100 hens.",
+            "block_bbox": [
+                596,
+                1156,
+                1111,
+                1345
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "Pools of 15 fresh feces samples were collected randomly throughout the henhouse from the ground under the cages. To ensure that the samples were representative, the building was divided into five sectors and three fresh feces were collected from each sector. Each pooled feces sample weighed approximately 150 g. Fecal samples were scraped off the floor under the cages. These samples weighed approximately 50 g.",
+            "block_bbox": [
+                596,
+                1345,
+                1111,
+                1495
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8897266387939453,
+                "coordinate": [
+                    64.08514404296875,
+                    72.7352294921875,
+                    92.10324096679688,
+                    88.52340698242188
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9428290128707886,
+                "coordinate": [
+                    394.5846252441406,
+                    71.40569305419922,
+                    777.9224853515625,
+                    90.3335189819336
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.970755398273468,
+                "coordinate": [
+                    60.965911865234375,
+                    110.21272277832031,
+                    572.280517578125,
+                    152.35667419433594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988368570804596,
+                "coordinate": [
+                    61.090972900390625,
+                    152.81373596191406,
+                    573.876220703125,
+                    445.1729736328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987907350063324,
+                "coordinate": [
+                    60.865325927734375,
+                    446.09881591796875,
+                    574.064453125,
+                    634.2827758789062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880748391151428,
+                "coordinate": [
+                    61.188934326171875,
+                    634.9729614257812,
+                    573.6142578125,
+                    823.5308227539062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878717660903931,
+                "coordinate": [
+                    60.8343505859375,
+                    823.2203369140625,
+                    573.9862060546875,
+                    990.4759521484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9847615957260132,
+                "coordinate": [
+                    61.006011962890625,
+                    990.40771484375,
+                    573.9915771484375,
+                    1116.56884765625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9339298009872437,
+                "coordinate": [
+                    62.11578369140625,
+                    1136.78369140625,
+                    259.4305725097656,
+                    1157.9775390625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9317491054534912,
+                "coordinate": [
+                    62.30923080444336,
+                    1178.893798828125,
+                    189.9366455078125,
+                    1200.88623046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881680607795715,
+                "coordinate": [
+                    60.237518310546875,
+                    1220.31982421875,
+                    574.8935546875,
+                    1495.633056640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872774481773376,
+                "coordinate": [
+                    596.1298828125,
+                    110.23249816894531,
+                    1110.2744140625,
+                    236.45176696777344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879487752914429,
+                "coordinate": [
+                    595.9815673828125,
+                    236.55299377441406,
+                    1111.5302734375,
+                    468.8087158203125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9333599209785461,
+                "coordinate": [
+                    598.000732421875,
+                    487.3433837890625,
+                    758.722900390625,
+                    510.51678466796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883400201797485,
+                "coordinate": [
+                    596.021484375,
+                    529.537109375,
+                    1111.53466796875,
+                    824.540283203125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9371741414070129,
+                "coordinate": [
+                    598.570068359375,
+                    843.4761962890625,
+                    784.647216796875,
+                    865.6812744140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987762987613678,
+                "coordinate": [
+                    595.81396484375,
+                    885.1053466796875,
+                    1111.501220703125,
+                    1096.5496826171875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9352748394012451,
+                "coordinate": [
+                    598.6844482421875,
+                    1115.4881591796875,
+                    759.4727783203125,
+                    1137.3785400390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875461459159851,
+                "coordinate": [
+                    596.2152099609375,
+                    1156.9271240234375,
+                    1111.0604248046875,
+                    1345.2357177734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9866290092468262,
+                "coordinate": [
+                    596.2860107421875,
+                    1345.4342041015625,
+                    1111.1785888671875,
+                    1495.4083251953125
+                ]
+            }
+        ]
+    }
+}

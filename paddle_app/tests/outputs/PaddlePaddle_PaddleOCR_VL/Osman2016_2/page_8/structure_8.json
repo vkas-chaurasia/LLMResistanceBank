@@ -1,0 +1,319 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_2.pdf",
+    "page_index": 7,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                56,
+                168,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Meat MSSA, MRSA, MS-NSA, MR-NSA",
+            "block_bbox": [
+                855,
+                54,
+                1104,
+                74
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 5 | Antibiotic resistance phenotype and genotype patterns.</div>\n",
+            "block_bbox": [
+                85,
+                123,
+                528,
+                143
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Staphylococcus spp.</td><td rowspan=\"2\">Resistance pattern</td><td rowspan=\"2\">Number of antibiotics</td><td colspan=\"5\">Resistance Genes</td></tr><tr><td style='text-align: center;'>mecA</td><td style='text-align: center;'>gyrA</td><td style='text-align: center;'>grlA</td><td style='text-align: center;'>gyrB</td><td style='text-align: center;'>cfr</td></tr><tr><td rowspan=\"9\">S. aureus (n = 9)</td><td style='text-align: center;'>P, CN, E, DA, VA, SXT</td><td style='text-align: center;'>6</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, CN, DA, TE, DA, SXT, CIP</td><td style='text-align: center;'>8</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, MET, CN, E, DA, TE, SXT, CIP</td><td style='text-align: center;'>8</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>8</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, TE, SXT, CIP</td><td style='text-align: center;'>9</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, C, TE, VA, SXT, CIP</td><td style='text-align: center;'>11</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, C, TE, VA, SXT, CIP</td><td style='text-align: center;'>11</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, SAM, CN, E, DA, C, VA, SXT, CIP</td><td style='text-align: center;'>11</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td></tr><tr><td style='text-align: center;'>P, OX, MET, SAM, CN, E, DA, C, TE, VA, SXT, CIP</td><td style='text-align: center;'>12</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td></tr><tr><td rowspan=\"10\">S. hyicus (n = 10)</td><td style='text-align: center;'>P, VA, SXT, CIP</td><td style='text-align: center;'>4</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>CN, E, DA, C, TE, SXT</td><td style='text-align: center;'>6</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, DA, SXT</td><td style='text-align: center;'>6</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, DA, SXT</td><td style='text-align: center;'>6</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>6</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>7</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, CN, DA, VA, SXT, CIP</td><td style='text-align: center;'>7</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, DA, TE, VA, SXT</td><td style='text-align: center;'>8</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>9</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>9</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td></tr><tr><td rowspan=\"3\">S. intermedius (n = 3)</td><td style='text-align: center;'>P, OX, CN, DA, VA, SXT</td><td style='text-align: center;'>6</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, CN, E, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>9</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, VA, SXT, C, TE, CIP</td><td style='text-align: center;'>11</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"4\">S. schleiferi subsp. Coagulans (n = 4)</td><td style='text-align: center;'>P, OX, MET, CN, DA, SXT, CIP</td><td style='text-align: center;'>7</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, SAM, CN, DA, SXT</td><td style='text-align: center;'>7</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, C, TE, VA, SXT</td><td style='text-align: center;'>10</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, C, TE, VA, SXT</td><td style='text-align: center;'>10</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>S. lentus (n = 1)</td><td style='text-align: center;'>P, OX, MET, SAM, CN, E, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>11</td><td style='text-align: center;'></td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Total (n = 27)</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>11/27</td><td style='text-align: center;'>17/27</td><td style='text-align: center;'>19/27</td><td style='text-align: center;'>7/27</td><td style='text-align: center;'>2/27</td></tr></table>",
+            "block_bbox": [
+                83,
+                150,
+                1103,
+                1003
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "C, Chloramphenicol; CIP, Ciprofloxacin; CN, Gentamycin; DA, Clindamycin; E, Erythromycin; MET, Methicillin; OX, Oxacillin; P, Penicillin; SAM, Ampicillin-sulbactam; SXT, Sulfamethoxazole/Trimethoprim; TE, Tetracycline; VA, Vancomycin.",
+            "block_bbox": [
+                83,
+                1013,
+                999,
+                1052
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "(2010; Doyle et al., 2013) due to sample collection schemes, sample types, their minimum capability to implement AMR surveillance, rock-bottom financial and technical resources and differences in the implemented methodologies in the form of credibility, duplicability, enequitable significance, price, duration and simplicity (Strommenger et al., 2006; Cookson et al., 2007; Faria et al., 2008; Vindel et al., 2009; David et al., 2013) which makes any comparative effort to be unadvisable.",
+            "block_bbox": [
+                82,
+                1092,
+                584,
+                1275
+            ],
+            "block_id": 5,
+            "block_order": 1,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "A wide dispersion of two categories of resistance has been revealed in the present investigation: 100% of our isolates carried the QRDRs responsible for quinolone resistance genes (gyrA and grlA) (17/27, 63% and 19/27, 70.4%) and the mecA resistance determinant (11/27, 40.7%), responsible for the methicillin and oxacillin resistance (Table 5). The mecA determinant has caused severe complications during the treatment MRSA in humans (Lee, 2003) and for S. epidermidis infections too (Kitao, 2003) when the hypothesis that, mecA is transferred from non-S. aureus staphylococci to S. aureus (Grundmann et al., 2006; Bhargava and Zhang, 2014) is taken into consideration.",
+            "block_bbox": [
+                82,
+                1275,
+                585,
+                1415
+            ],
+            "block_id": 6,
+            "block_order": 2,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                603,
+                1092,
+                1105,
+                1206
+            ],
+            "block_id": 7,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "The French National Monitoring Program (RESABO) established evidence that S. aureus is more susceptible to antimicrobial drugs than non-S. aureus species (Werckenthin et al., 2001). Conversely, our results had a commensurate regular and sequence discernible in the antibiotic resistance genes between S. aureus and non-S. aureus isolates. The results showed a congruity between phenotypic resistance and molecular genotyping for oxacillin, QRDRs, and PhLOPSA phenotypes. Generally, our results are in assonance with",
+            "block_bbox": [
+                602,
+                1206,
+                1106,
+                1417
+            ],
+            "block_id": 8,
+            "block_order": 4,
+            "group_id": 8
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1480,
+                364,
+                1501
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "number",
+            "block_content": "8",
+            "block_bbox": [
+                587,
+                1482,
+                602,
+                1499
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "footer",
+            "block_content": "February 2016 | Volume 7 | Article 222",
+            "block_bbox": [
+                868,
+                1480,
+                1103,
+                1501
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9181836843490601,
+                "coordinate": [
+                    85.75048828125,
+                    56.0699462890625,
+                    168.77137756347656,
+                    74.24102783203125
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9428196549415588,
+                "coordinate": [
+                    855.998291015625,
+                    54.91111755371094,
+                    1104.4300537109375,
+                    74.64352416992188
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9283129572868347,
+                "coordinate": [
+                    85.35313415527344,
+                    123.0456771850586,
+                    528.52685546875,
+                    143.52902221679688
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895250797271729,
+                "coordinate": [
+                    83.43148803710938,
+                    150.06683349609375,
+                    1103.6058349609375,
+                    1003.6723022460938
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9231911897659302,
+                "coordinate": [
+                    83.47702026367188,
+                    1013.9513549804688,
+                    999.424072265625,
+                    1052.169677734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987987220287323,
+                "coordinate": [
+                    82.75457763671875,
+                    1092.4285888671875,
+                    584.4420166015625,
+                    1275.1856689453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852541089057922,
+                "coordinate": [
+                    82.73191833496094,
+                    1275.7171630859375,
+                    585.1602783203125,
+                    1415.0523681640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9850894212722778,
+                "coordinate": [
+                    603.239501953125,
+                    1092.786376953125,
+                    1105.44580078125,
+                    1206.023681640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878801703453064,
+                "coordinate": [
+                    602.33154296875,
+                    1206.2188720703125,
+                    1106.90380859375,
+                    1417.0989990234375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9324622750282288,
+                "coordinate": [
+                    85.43525695800781,
+                    1480.96826171875,
+                    364.63812255859375,
+                    1501.26611328125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8500933647155762,
+                "coordinate": [
+                    587.54833984375,
+                    1482.0601806640625,
+                    602.376953125,
+                    1499.3267822265625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9362751841545105,
+                "coordinate": [
+                    868.1273193359375,
+                    1480.50830078125,
+                    1103.3369140625,
+                    1501.13232421875
+                ]
+            }
+        ]
+    }
+}

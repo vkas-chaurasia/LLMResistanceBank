@@ -1,0 +1,223 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bawa2015.pdf",
+    "page_index": 3,
+    "page_count": 7,
+    "width": 1190,
+    "height": 1684,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Bawa et al. J. Appl. Biosci. 2015 Antimicrobial susceptibility of Salmonella enterica strains isolated from raw beef, mutton and intestines sold in Ouagadougou, Burkina Faso.</div>\n",
+            "block_bbox": [
+                133,
+                138,
+                1053,
+                192
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 2: Antimicrobial resistance of Salmonella enterica spp</div>\n",
+            "block_bbox": [
+                135,
+                210,
+                613,
+                235
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Antibiotics</td><td colspan=\"5\">Number of isolates resistant in different samples of meat</td></tr><tr><td style='text-align: center;'>Beef (n=47)</td><td style='text-align: center;'>Beef intestine (n=9)</td><td style='text-align: center;'>Mutton (n=19)</td><td style='text-align: center;'>Sheep intestine</td><td style='text-align: center;'>(n=11)</td></tr><tr><td style='text-align: center;'>Amoxicillin/clavulanate</td><td style='text-align: center;'>10(21%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>8 (42%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Aztreonam</td><td style='text-align: center;'>4(9%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Cefalotin</td><td style='text-align: center;'>28(60%)</td><td style='text-align: center;'>5(56%)</td><td style='text-align: center;'>14(74%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Cefamandol</td><td style='text-align: center;'>7(15%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>5 (26%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Cefepim</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Ceftriaxone</td><td style='text-align: center;'>3 (6%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Cefalexin</td><td style='text-align: center;'>7(14%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>8(42%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Chloramphenicol</td><td style='text-align: center;'>1(2%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>1(5%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Ciprofloxacin</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Gentamicin</td><td style='text-align: center;'>14(30%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>7 (37%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Imipenem</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Nalidixic acid</td><td style='text-align: center;'>11(23%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>6 (32%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Tetracycline</td><td style='text-align: center;'>43(91%)</td><td style='text-align: center;'>7 (78%)</td><td style='text-align: center;'>18 (95%)</td><td style='text-align: center;'>8 (73%)</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Ticarcillin</td><td style='text-align: center;'>1(2%)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Number of Multiresistant</td><td style='text-align: center;'>17(36%)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>9(47%)</td><td style='text-align: center;'>0</td><td style='text-align: center;'></td></tr></table>",
+            "block_bbox": [
+                128,
+                232,
+                1058,
+                680
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "= no resistance,%= percentage",
+            "block_bbox": [
+                204,
+                680,
+                460,
+                704
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## DISCUSSION",
+            "block_bbox": [
+                135,
+                726,
+                253,
+                750
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "The present study evaluated the microbial quality of raw meat sold in different markets of Ouagadougou. This finding detected the prevalence of (19%) for Salmonella spp. in beef, mutton and intestines raw meats slaughtered for human consumption in Burkina Faso. Previous study in Nigeria, Burkina Faso, Brazil and Iran were found that raw meat of beef and chicken sold in open market were contaminated respectively by 9%, 29%, 29% and 19% of Salmonella (Iroha et al., 2011; Kagambèga et al., 2011; Carvalho et al., 2013; Sodagari et al., 2015). Rate of Salmonella reported in beef (27%) are higher than mutton (11%) (p = 0.0150). As far as intestines are concerned, the proportions of Salmonella are lower in beef intestine (18%) than sheep intestine (22%) (p = 0.635). The incidence of Salmonella in meats products obtained by other authors varied between 0 and 100% in Russia, Burkina Faso, China and Iran (Alali et al., 2012; Kagambèga et al., 2013; Li et al., 2013; Zhu et al., 2014; Sodagari et al., 2015). The presence of these organisms in food animals and in raw meat products has relevant public health implications (Tassew et al., 2010). In Burkina Faso, in 2011, study conducted by Kagambèga et al., (2011); showed a high level of Salmonella 29%; where as in this study, Salmonella was found at 19%. As observed in this study, the reasons for the higher incidence of Salmonella contamination can be due to the widespread habit of raw meat treatment, the common factors such as overcrowding, poverty, inadequate sanitary conditions, and poor general hygiene.",
+            "block_bbox": [
+                132,
+                751,
+                580,
+                1469
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "(Kagambëga et al., 2011; Abd el-Aziz, 2013). Also, it was observed that Salmonella was most prevalent in beef. All previous studies showed that Salmonella was widely distributed in retail meat globally, which increased salmonellosis following consumption of contaminated meat or cross-contamination. In Burkina Faso, sheep and others animals were mostly roam freely at pasture in the bush (Kagambëga et al., 2013). The risk of contamination may be higher if beef meat or mutton is consumed undercooked (Sodagari et al., 2015). The prevalence may be based by diversity in sampling methods, sampling seasons and techniques (Li et al., 2013). However, some variations may be due to several factors, sanitation within the slaughterhouse, and the cross-contamination of carcasses by contact with intestinal tracts during slaughter or processing and differences among isolation methods applied to detect Salmonella (Rahimi, 2012; Kagambëga et al., 2013). The high level of contamination of meat and intestine with Salmonella observed in this study indicates the need for an improvement in the microbiological quality of meat. There is also a need for a comprehensive epidemiological study and control of Salmonella contamination at various levels of meat production in Burkina Faso. Resistance rates of Salmonella are varied from animals' sample. The Salmonella resistance rates to ticarcillin, tetracycline and cefalotin found in this study was higher than resistance rates to others antimicrobials because of the overuse of these antimicrobials for treatment and growth promotion.",
+            "block_bbox": [
+                609,
+                750,
+                1057,
+                1468
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "number",
+            "block_content": "8969",
+            "block_bbox": [
+                570,
+                1494,
+                620,
+                1515
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5665926933288574,
+                "coordinate": [
+                    133.899169921875,
+                    138.473388671875,
+                    1053.2813720703125,
+                    192.01898193359375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9086343050003052,
+                "coordinate": [
+                    135.76051330566406,
+                    210.15792846679688,
+                    613.1243896484375,
+                    235.70889282226562
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9811371564865112,
+                "coordinate": [
+                    128.0716552734375,
+                    232.69061279296875,
+                    1058.689208984375,
+                    680.809814453125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7155067324638367,
+                "coordinate": [
+                    204.01406860351562,
+                    680.0548095703125,
+                    460.2294616699219,
+                    704.2794189453125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9281625747680664,
+                "coordinate": [
+                    135.0709228515625,
+                    726.3255615234375,
+                    253.37823486328125,
+                    750.567138671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889171123504639,
+                "coordinate": [
+                    132.75682067871094,
+                    751.8218383789062,
+                    580.0858154296875,
+                    1469.4296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889539480209351,
+                "coordinate": [
+                    609.707275390625,
+                    750.7498779296875,
+                    1057.398681640625,
+                    1468.4676513671875
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9078495502471924,
+                "coordinate": [
+                    570.8048095703125,
+                    1494.1337890625,
+                    620.0982666015625,
+                    1515.1328125
+                ]
+            }
+        ]
+    }
+}

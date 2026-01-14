@@ -1,0 +1,750 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Xie2019.pdf",
+    "page_index": 1,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1565,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "2848",
+            "block_bbox": [
+                90,
+                44,
+                127,
+                61
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "WILEY",
+            "block_bbox": [
+                155,
+                53,
+                250,
+                77
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "Food Science & Nutrition",
+            "block_bbox": [
+                262,
+                51,
+                416,
+                68
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "header",
+            "block_content": "XIE ET AL.",
+            "block_bbox": [
+                1041,
+                44,
+                1102,
+                62
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "the United States. Furthermore, some serovars are also more dangerous. For example, S. enterica serotype Typhimurium, which can cause various symptoms include diarrheal disease (Andrews & Ryan, 2015; El-Tayeb, Ibrahim, Al-Salamah, Almaary, & Elbadawi, 2017). Molecular subtyping of Salmonella is effective for epidemiological investigations of infections and outbreaks. Multilocus sequence typing (MLST) is a good method based on sequence analysis of some housekeeping genes. Given its high repeatability in globally dispersed laboratories, MLST is becoming an important method in the investigation of various pathogens including Salmonella (Yang et al., 2015). Researchers have found that many bacteria contain conserved repetitive intergenic consensus sequences, which have proven to be useful for subtyping pathogens. As a PCR-based fingerprinting technique, ERIC-PCR is easy, fast, and relatively cheap (Li, Liu, Li, Xu, & Zheng, 2017).",
+            "block_bbox": [
+                86,
+                95,
+                583,
+                480
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "As eggs are a popular food and Guangdong is an economic center in south China with more than 110 million people, it is essential for us to understand the prevalence of S. enterica in this region. So far, little is known of the distribution of strains among eggs. The aim of our study was to determine the antimicrobial resistance, serotype, and genetic diversity of S. enterica in eggs from Guangdong, China. The information generated in this study will aid in evaluating the prevalence and population of S. enterica to ensure egg safety.",
+            "block_bbox": [
+                86,
+                485,
+                583,
+                690
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## 2 | MATERIALS AND METHODS",
+            "block_bbox": [
+                87,
+                728,
+                456,
+                752
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 2.1 | Sample collection, culture of Salmonella",
+            "block_bbox": [
+                87,
+                781,
+                513,
+                805
+            ],
+            "block_id": 7,
+            "block_order": 4,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "From June 2017 to June 2018, we collected 1,000 egg samples from farms and markets in Guangdong, China.",
+            "block_bbox": [
+                86,
+                822,
+                581,
+                870
+            ],
+            "block_id": 8,
+            "block_order": 5,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Isolation and identification of strains were carried out according to previous reports (Yang et al., 2015). Briefly, each egg was disinfected with 75% alcohol, the shell was carefully removed, and the egg yolks and whites were mixed. Then, 25 g of the sample was added to 225 ml of buffered peptone broth, and 1 ml of the solution was incubated in 10 ml of selenite cystine broth (SC) at 37°C and 10 ml of tetrathionate brilliant green broth (TTB) at 42°C for 24 hr. The SC and TTB cultures were streaked onto xylose-lysine-tergitol 4 (XLT4) selective agar plates and chromogenic Salmonella agar plates (37°C, 24 hr). Presumptive colonies were stabbed into a triple sugar iron slant and incubated at 37°C for 24 hr. Typical Salmonella phenotypes were further confirmed with API 20E test strips (BioMerieux French).",
+            "block_bbox": [
+                86,
+                874,
+                583,
+                1210
+            ],
+            "block_id": 9,
+            "block_order": 6,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 2.2 | Antimicrobial susceptibility",
+            "block_bbox": [
+                88,
+                1249,
+                405,
+                1273
+            ],
+            "block_id": 10,
+            "block_order": 7,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "As per the guidelines of the Clinical and Laboratory Standards Institute (CLSI, 2018), the susceptibility of the Salmonella isolates to antibiotic was examined by disk diffusion. Briefly, Mueller-Hinton agar and a panel of 14 antibiotic disks were selected for the resistance tests. These antibiotics are commonly used in agriculture and life. Them can cover among five classes: macrolides (azithromycin, AZM, 15  $ \\mu $ g; erythromycin, ERY, 15  $ \\mu $ g), aminoglycosides (gentamicin, GEN, 10  $ \\mu $ g; kanamycin, KAN, 30  $ \\mu $ g; streptomycin, SM, 10  $ \\mu $ g), quinolones (ciprofloxacin, CIP, 5  $ \\mu $ g; nalidixic acid, NA, 30  $ \\mu $ g),  $ \\beta $ -lactams (amoxicillin, AMC, 10  $ \\mu $ g; ampicillin, AMP, 10  $ \\mu $ g; cephazolin, CEP, 30  $ \\mu $ g; penicillin, PEN, 10  $ \\mu $ g; piperacillin, PIP, 10  $ \\mu $ g), and tetracyclines (minocycline, MIN, 30  $ \\mu $ g; tetracycline, TET, 30  $ \\mu $ g). The results were expressed as sensitive (S), intermediate (I), and resistant (R), following the methodology of the CLSI.",
+            "block_bbox": [
+                86,
+                1290,
+                583,
+                1470
+            ],
+            "block_id": 11,
+            "block_order": 8,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                608,
+                94,
+                1105,
+                273
+            ],
+            "block_id": 12,
+            "block_order": 9,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 2.3 | Serotyping of Salmonella isolates",
+            "block_bbox": [
+                609,
+                313,
+                975,
+                337
+            ],
+            "block_id": 13,
+            "block_order": 10,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "All the Salmonella isolates were serotyped by agglutination tests on the basis of somatic-O and H antisera in accordance with the Kauffmanne-White scheme (Boonkhot et al., 2015).",
+            "block_bbox": [
+                608,
+                354,
+                1104,
+                428
+            ],
+            "block_id": 14,
+            "block_order": 11,
+            "group_id": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 2.4 | Molecular subtyping",
+            "block_bbox": [
+                610,
+                469,
+                867,
+                494
+            ],
+            "block_id": 15,
+            "block_order": 12,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "The strains were analyzed by MLST using seven housekeeping genes: aroC, dnaN, hemD, hisD, purE, sucA, and thrA. The PCR conditions were taken from the Salmonella MLST website and database (http://mlst.warwick.ac.uk/mlst/dbs/Senterica/; Jolley, Chan, & Maiden, 2004). Each reaction mixture included the following (total volume, 25 ml): 2 *PCR Mix (Qiagen), 12.5  $ \\mu $ l; 1  $ \\mu $ l each primer, dd H $ _{2} $ O, 9.5 ml; and DNA template, 1  $ \\mu $ l. The PCR conditions were as follows: 96°C for 5 min; 35 cycles for 96°C for 1 min; 55°C for 1 min; 72°C for 1 min; and final extension at 72°C for 10 min. The products were sequenced on BGI instrument. The seven gene sequences were uploaded to the MLST database for comparison to get allele numbers and define STs. The MLST evolution tree was built using the Kimura-2-parameter in Mega 6.0 (Tamura, Stecher, Peterson, Filipski, & Kumar, 2013).",
+            "block_bbox": [
+                607,
+                510,
+                1105,
+                845
+            ],
+            "block_id": 16,
+            "block_order": 13,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "We used the ERIC-PCR universal primers (ERIC1: 5-ATGTAAGCT CCTGGGGATTCAC-3 and ERIC2: 5-AAGTAAGTGACTGGGGTGA GCG-3). The PCR reaction consisted of 12.5  $ \\mu $ l 2* TaKaRa Taq Mix; 1  $ \\mu $ M primers; and 100 ng template DNA. The PCR program was as follows: denaturation at 95°C, 5 min; 35 cycles of 94°C for 45 s, 52°C for 1 min, and 72°C for 3 min; and then 72°C for 10 min. The products were separated by electrophoresis (2.0% agarose gels) for 40 min at 90 V. Cluster result analysis used a numerical taxonomy and multivariate analysis software package, based on Dice's similarity coefficient (SD) (James Rohlf, 2000).",
+            "block_bbox": [
+                607,
+                847,
+                1105,
+                1106
+            ],
+            "block_id": 17,
+            "block_order": 14,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## 3 | RESULTS",
+            "block_bbox": [
+                610,
+                1144,
+                767,
+                1168
+            ],
+            "block_id": 18,
+            "block_order": 15,
+            "group_id": 18
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 3.1 | Salmonella in eggs",
+            "block_bbox": [
+                610,
+                1196,
+                842,
+                1222
+            ],
+            "block_id": 19,
+            "block_order": 16,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "We isolated Salmonella from 54 (5.40%) out of 1,000 eggs. Of these, 38 strains were from farms and 16 were from markets. The strains were stored at  $ -80^{\\circ} $ C in trypticase soy broth (20% glycerol). All positive samples and strains information are shown in Table S1.",
+            "block_bbox": [
+                607,
+                1238,
+                1104,
+                1339
+            ],
+            "block_id": 20,
+            "block_order": 17,
+            "group_id": 20
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 3.2 | Antibiotic susceptibilities",
+            "block_bbox": [
+                610,
+                1378,
+                908,
+                1403
+            ],
+            "block_id": 21,
+            "block_order": 18,
+            "group_id": 21
+        },
+        {
+            "block_label": "text",
+            "block_content": "The Salmonella isolates were classified as sensitive, intermediate, or resistant based on the diameter of inhibition zones around",
+            "block_bbox": [
+                608,
+                1420,
+                1104,
+                1469
+            ],
+            "block_id": 22,
+            "block_order": 19,
+            "group_id": 22
+        },
+        {
+            "block_label": "aside_text",
+            "block_content": "20487177, 2019, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/fsn3.1126 by Schweizerische Akademie Der, Wiley Online Library on [16/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License.",
+            "block_bbox": [
+                1153,
+                28,
+                1171,
+                1539
+            ],
+            "block_id": 23,
+            "block_order": null,
+            "group_id": 23
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8702400922775269,
+                "coordinate": [
+                    90.59498596191406,
+                    44.646636962890625,
+                    127.17628479003906,
+                    61.04731750488281
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8258817195892334,
+                "coordinate": [
+                    155.78756713867188,
+                    53.47003173828125,
+                    250.85342407226562,
+                    77.85292053222656
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7533041834831238,
+                "coordinate": [
+                    262.61309814453125,
+                    51.37006378173828,
+                    416.01580810546875,
+                    68.1588134765625
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8899278044700623,
+                "coordinate": [
+                    1041.172119140625,
+                    44.886131286621094,
+                    1102.496337890625,
+                    62.58929443359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888301491737366,
+                "coordinate": [
+                    86.404296875,
+                    95.62738037109375,
+                    583.525390625,
+                    480.69915771484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879335761070251,
+                "coordinate": [
+                    86.37322998046875,
+                    485.42657470703125,
+                    583.9663696289062,
+                    690.4865112304688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9418281316757202,
+                "coordinate": [
+                    87.95408630371094,
+                    728.61083984375,
+                    456.47015380859375,
+                    752.409912109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9481592774391174,
+                "coordinate": [
+                    87.86021423339844,
+                    781.2279052734375,
+                    513.3853759765625,
+                    805.6248779296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.967293381690979,
+                "coordinate": [
+                    86.68792724609375,
+                    822.9796142578125,
+                    581.8458251953125,
+                    870.7723388671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883216023445129,
+                "coordinate": [
+                    86.56040954589844,
+                    874.7301025390625,
+                    583.9641723632812,
+                    1210.3253173828125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5753121376037598,
+                "coordinate": [
+                    176.3145294189453,
+                    1108.87939453125,
+                    220.77049255371094,
+                    1128.62109375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.514304518699646,
+                "coordinate": [
+                    540.823486328125,
+                    1005.1226806640625,
+                    579.2138671875,
+                    1024.4609375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5738095045089722,
+                "coordinate": [
+                    512.67236328125,
+                    1030.858154296875,
+                    551.954833984375,
+                    1050.118896484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6733896732330322,
+                "coordinate": [
+                    404.8759765625,
+                    1134.800048828125,
+                    444.938720703125,
+                    1154.356689453125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9427756071090698,
+                "coordinate": [
+                    88.03089904785156,
+                    1249.0670166015625,
+                    405.35650634765625,
+                    1273.5386962890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869791269302368,
+                "coordinate": [
+                    86.30223083496094,
+                    1290.9791259765625,
+                    583.435302734375,
+                    1470.2696533203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9862832427024841,
+                "coordinate": [
+                    608.1077880859375,
+                    94.0643081665039,
+                    1105.393798828125,
+                    273.8296203613281
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.948562741279602,
+                "coordinate": [
+                    609.8736572265625,
+                    313.1363220214844,
+                    975.7437744140625,
+                    337.9104309082031
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9772590398788452,
+                "coordinate": [
+                    608.28369140625,
+                    354.7456970214844,
+                    1104.240478515625,
+                    428.6555480957031
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9461929798126221,
+                "coordinate": [
+                    610.1143798828125,
+                    469.3583984375,
+                    867.0035400390625,
+                    494.0072021484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884356260299683,
+                "coordinate": [
+                    607.93798828125,
+                    510.5740661621094,
+                    1105.501708984375,
+                    845.0706787109375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5651438236236572,
+                "coordinate": [
+                    613.638671875,
+                    979.4964599609375,
+                    652.4803466796875,
+                    998.5281982421875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.492654412984848,
+                "coordinate": [
+                    818.2014770507812,
+                    693.034423828125,
+                    854.6889038085938,
+                    712.40869140625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40255266427993774,
+                "coordinate": [
+                    946.5603637695312,
+                    641.9044189453125,
+                    1008.1890258789062,
+                    662.2869873046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5780039429664612,
+                "coordinate": [
+                    705.2705688476562,
+                    719.153076171875,
+                    743.4746704101562,
+                    738.6171875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5837609767913818,
+                "coordinate": [
+                    928.0440673828125,
+                    693.435302734375,
+                    966.396484375,
+                    712.404296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880942702293396,
+                "coordinate": [
+                    607.583251953125,
+                    847.9124755859375,
+                    1105.913330078125,
+                    1106.3782958984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.590874195098877,
+                "coordinate": [
+                    760.8091430664062,
+                    979.4205932617188,
+                    799.8386840820312,
+                    998.9900512695312
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.46082693338394165,
+                "coordinate": [
+                    955.3226318359375,
+                    901.1253051757812,
+                    975.7528076171875,
+                    920.0565795898438
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6032593846321106,
+                "coordinate": [
+                    946.173095703125,
+                    979.358642578125,
+                    985.5811767578125,
+                    998.759765625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9249004125595093,
+                "coordinate": [
+                    610.404541015625,
+                    1144.314453125,
+                    767.896484375,
+                    1168.6025390625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9425808787345886,
+                "coordinate": [
+                    610.5662841796875,
+                    1196.9769287109375,
+                    842.6263427734375,
+                    1222.0987548828125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5819908976554871,
+                "coordinate": [
+                    703.0294189453125,
+                    1291.3165283203125,
+                    767.9945068359375,
+                    1310.2095947265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9802777171134949,
+                "coordinate": [
+                    607.981689453125,
+                    1238.12890625,
+                    1104.732177734375,
+                    1339.537353515625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9481232762336731,
+                "coordinate": [
+                    610.3489990234375,
+                    1378.9208984375,
+                    908.5555419921875,
+                    1403.61767578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9675368070602417,
+                "coordinate": [
+                    608.4263916015625,
+                    1420.4052734375,
+                    1104.8424072265625,
+                    1469.23095703125
+                ]
+            },
+            {
+                "cls_id": 2,
+                "label": "aside_text",
+                "score": 0.9106643199920654,
+                "coordinate": [
+                    1153.3388671875,
+                    28.508544921875,
+                    1171.1884765625,
+                    1539.291259765625
+                ]
+            }
+        ]
+    }
+}

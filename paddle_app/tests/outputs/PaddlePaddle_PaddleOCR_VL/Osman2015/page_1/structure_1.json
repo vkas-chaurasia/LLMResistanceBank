@@ -1,0 +1,590 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2015.pdf",
+    "page_index": 0,
+    "page_count": 9,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "ResearchGate",
+            "block_bbox": [
+                1015,
+                64,
+                1165,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/273781307",
+            "block_bbox": [
+                76,
+                142,
+                674,
+                158
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Prevalence and Antimicrobial Resistance Profile of Staphylococcus Species in Chicken and Beef Raw Meat in Egypt",
+            "block_bbox": [
+                76,
+                183,
+                1095,
+                253
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Article in Foodborne Pathogens and Disease · March 2015",
+            "block_bbox": [
+                75,
+                289,
+                404,
+                306
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "DOI: 10.1089/fpd.2014.1882 · Source: PubMed",
+            "block_bbox": [
+                75,
+                312,
+                259,
+                326
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "CITATIONS 39",
+            "block_bbox": [
+                75,
+                349,
+                130,
+                386
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "4 authors, including:",
+            "block_bbox": [
+                76,
+                407,
+                196,
+                424
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_77_441_120_484.jpg\" alt=\"Image\" width=\"3%\" /></div>\n",
+            "block_bbox": [
+                77,
+                441,
+                120,
+                484
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Kamelia Osman\n\nCairo University\n\n75 PUBLICATIONS 1,735 CITATIONS",
+            "block_bbox": [
+                129,
+                443,
+                303,
+                504
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "SEE PROFILE",
+            "block_bbox": [
+                143,
+                521,
+                206,
+                535
+            ],
+            "block_id": 9,
+            "block_order": 7,
+            "group_id": 9
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_76_568_120_610.jpg\" alt=\"Image\" width=\"3%\" /></div>\n",
+            "block_bbox": [
+                76,
+                568,
+                120,
+                610
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Aalaa Samir Saad",
+            "block_bbox": [
+                130,
+                569,
+                232,
+                584
+            ],
+            "block_id": 11,
+            "block_order": 8,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "39 PUBLICATIONS 427 CITATIONS",
+            "block_bbox": [
+                129,
+                597,
+                293,
+                612
+            ],
+            "block_id": 12,
+            "block_order": 9,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "SEE PROFILE",
+            "block_bbox": [
+                143,
+                630,
+                207,
+                644
+            ],
+            "block_id": 13,
+            "block_order": 10,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "READS 613",
+            "block_bbox": [
+                607,
+                349,
+                644,
+                386
+            ],
+            "block_id": 14,
+            "block_order": 11,
+            "group_id": 14
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_610_441_653_484.jpg\" alt=\"Image\" width=\"3%\" /></div>\n",
+            "block_bbox": [
+                610,
+                441,
+                653,
+                484
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Jihan Badr\n\nAnimal Health Research Institute",
+            "block_bbox": [
+                662,
+                443,
+                849,
+                484
+            ],
+            "block_id": 16,
+            "block_order": 12,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "18 PUBLICATIONS 360 CITATIONS",
+            "block_bbox": [
+                662,
+                488,
+                828,
+                504
+            ],
+            "block_id": 17,
+            "block_order": 13,
+            "group_id": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "SEE PROFILE",
+            "block_bbox": [
+                676,
+                521,
+                740,
+                536
+            ],
+            "block_id": 18,
+            "block_order": 14,
+            "group_id": 18
+        },
+        {
+            "block_label": "footer",
+            "block_content": "All content following this page was uploaded by Aalaa Samir Saad on 11 September 2015.",
+            "block_bbox": [
+                83,
+                1515,
+                433,
+                1530
+            ],
+            "block_id": 19,
+            "block_order": null,
+            "group_id": 19
+        },
+        {
+            "block_label": "footer",
+            "block_content": "The user has requested enhancement of the downloaded file.",
+            "block_bbox": [
+                83,
+                1540,
+                358,
+                1555
+            ],
+            "block_id": 20,
+            "block_order": null,
+            "group_id": 20
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9094062447547913,
+                "coordinate": [
+                    1015.5003662109375,
+                    64.781005859375,
+                    1165.9788818359375,
+                    88.73342895507812
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8943367600440979,
+                "coordinate": [
+                    76.01690673828125,
+                    142.2484130859375,
+                    674.3031005859375,
+                    158.7198486328125
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9751989841461182,
+                "coordinate": [
+                    76.014892578125,
+                    183.42889404296875,
+                    1095.3184814453125,
+                    253.97909545898438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7244159579277039,
+                "coordinate": [
+                    75.23318481445312,
+                    289.87640380859375,
+                    404.1664733886719,
+                    306.90972900390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7648192644119263,
+                "coordinate": [
+                    75.61187744140625,
+                    312.20379638671875,
+                    259.22906494140625,
+                    326.3150634765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7641993165016174,
+                "coordinate": [
+                    75.93492126464844,
+                    349.41998291015625,
+                    130.5290069580078,
+                    386.03082275390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8075861930847168,
+                "coordinate": [
+                    76.28988647460938,
+                    407.2198486328125,
+                    196.94924926757812,
+                    424.7061767578125
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9221159815788269,
+                "coordinate": [
+                    77.12627410888672,
+                    441.83087158203125,
+                    120.62163543701172,
+                    484.20111083984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4541262984275818,
+                "coordinate": [
+                    129.8102264404297,
+                    444.03607177734375,
+                    222.73619079589844,
+                    459.12579345703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4265800416469574,
+                "coordinate": [
+                    129.894775390625,
+                    464.510009765625,
+                    223.94378662109375,
+                    480.75958251953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.531518816947937,
+                "coordinate": [
+                    129.23721313476562,
+                    443.98980712890625,
+                    303.26031494140625,
+                    504.818603515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5494110584259033,
+                "coordinate": [
+                    130.1661376953125,
+                    489.422119140625,
+                    302.96575927734375,
+                    504.19439697265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7748017311096191,
+                "coordinate": [
+                    143.98072814941406,
+                    521.5618286132812,
+                    206.8268585205078,
+                    535.5994262695312
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9045782089233398,
+                "coordinate": [
+                    76.73164367675781,
+                    568.6454467773438,
+                    120.54652404785156,
+                    610.6725463867188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7457242012023926,
+                "coordinate": [
+                    130.00198364257812,
+                    569.6263427734375,
+                    232.69406127929688,
+                    584.5914306640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7137036919593811,
+                "coordinate": [
+                    129.87893676757812,
+                    597.9913330078125,
+                    293.8763122558594,
+                    612.84912109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7459563612937927,
+                "coordinate": [
+                    143.7541046142578,
+                    630.8597412109375,
+                    207.12440490722656,
+                    644.5167236328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.655547559261322,
+                "coordinate": [
+                    607.2523193359375,
+                    349.7852783203125,
+                    644.139404296875,
+                    386.82080078125
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8162082433700562,
+                "coordinate": [
+                    610.4537353515625,
+                    441.4627685546875,
+                    653.0323486328125,
+                    484.95166015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4548204243183136,
+                "coordinate": [
+                    663.0311279296875,
+                    443.3058166503906,
+                    729.0098876953125,
+                    459.3772277832031
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.49437636137008667,
+                "coordinate": [
+                    661.965087890625,
+                    464.32781982421875,
+                    849.6680908203125,
+                    481.16668701171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4298446774482727,
+                "coordinate": [
+                    662.228515625,
+                    443.1807861328125,
+                    849.98291015625,
+                    484.3402099609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5566849708557129,
+                "coordinate": [
+                    662.8670654296875,
+                    488.672119140625,
+                    828.3157958984375,
+                    504.341552734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7235993146896362,
+                "coordinate": [
+                    676.3131103515625,
+                    521.2078247070312,
+                    740.3948974609375,
+                    536.4804077148438
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.916944682598114,
+                "coordinate": [
+                    83.41429138183594,
+                    1515.65283203125,
+                    433.2984619140625,
+                    1530.142578125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8828175067901611,
+                "coordinate": [
+                    83.45033264160156,
+                    1540.800537109375,
+                    358.66448974609375,
+                    1555.900634765625
+                ]
+            }
+        ]
+    }
+}

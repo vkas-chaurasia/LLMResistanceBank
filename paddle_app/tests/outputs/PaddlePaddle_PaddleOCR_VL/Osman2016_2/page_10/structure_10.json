@@ -1,0 +1,989 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_2.pdf",
+    "page_index": 9,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                56,
+                168,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Meat MSSA, MRSA, MS-NSA, MR-NSA",
+            "block_bbox": [
+                856,
+                55,
+                1104,
+                74
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "areas involving both municipal and agricultural sectors. In some of our strains, we found that although resistance was recorded, yet the responsible gene was not expressed which could be due to, the small number of resistance genes tested or/and the gene responsible for resistance was not included in our protocol. There are no existing programs for surveillance which allows us to recommend a large scale of research to be conducted to cover the whole country with specific zone system, specifying a large number of sample size to be included covering most types of meat consumed in Egypt.",
+            "block_bbox": [
+                83,
+                122,
+                585,
+                353
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## REFERENCES",
+            "block_bbox": [
+                85,
+                426,
+                254,
+                452
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Alexandra, F., Britta, K., Gladys, K., Beatriz, G. R., Katja, A., André, H. J., et al. (2011). Methicillin Susceptible and Resistant Staphylococcus aureus from Farm to Fork Impact on Food Safety. Beograd: Tehnologija Mesa Osnivač i izdavač: Institut za higijenu i teknologiju mesa.",
+            "block_bbox": [
+                87,
+                473,
+                582,
+                546
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Benderitter, T. (2003). Cows, Oxen and Bulls in the Ancient Egypt. English translation by Jon J. Hirst. The Osirisnet Project",
+            "block_bbox": [
+                87,
+                548,
+                581,
+                585
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Bhargava, K., Wang, X., Donabedian, S., Zervos, M., de Rocha, L., and Zhang, Y. (2011). Methicillin-resistant Staphylococcus aureus in retail meat, Detroit, Michigan, USA Emerg. Infect. Dis. 17, 1135–1137. doi: 10.3201/eid1706.101905",
+            "block_bbox": [
+                88,
+                586,
+                582,
+                641
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Bhargava, K., and Zhang, Y. (2014). Characterization of methicillin-resistant coagulase-negative staphylococci (MRCoNS) in retail meat. Food Microbiol. 42:56e60. doi: 10.1016/j.fm.2014.02.019",
+            "block_bbox": [
+                87,
+                644,
+                582,
+                698
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Buyukcangaz, E., Velasco, V., Sherwood, J. S., Stepan, R. M., Koslofsky, R. J., and Logue, C. M. (2013). Molecular typing of Staphylococcus aureus and methicillin-resistant S. aureus (MRSA) isolated from animals and retail meat in North Dakota, United States. Foodborne Pathog. Dis. 10, 608–617. doi:10.1089/fpd.2012.1427",
+            "block_bbox": [
+                88,
+                700,
+                582,
+                792
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Casanova, C., Iselin, L., von Steiger, N., Droz, S., and Sendi, P. (2011). Staphylococcus hyicus bacteremia in a farmer. J. Clin. Microbiol. 49, 4377–4378. doi: 10.1128/JCM.05645-11",
+            "block_bbox": [
+                87,
+                795,
+                581,
+                849
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "CDC (2013). Get Smart: Know When Antibiotics Work. Atlanta, GA: Centers for Disease Control and Prevention.",
+            "block_bbox": [
+                87,
+                851,
+                582,
+                887
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chajęcka-Wierzchowska, W., Zadernowska, A., Nalepa, B., Sierpińska, M., and Łsaniewska-Trokenheim, Ł. (2015). Coagulase-negative staphylococci (CoNS) isolated from ready-to-eat food of animal origin-phenotypic and genotypic antibiotic resistance. Food Microbiol. 46, 222–226. doi:10.1016/j.fm.2014.08.001",
+            "block_bbox": [
+                87,
+                889,
+                582,
+                981
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chan, P. A., Wakeman, S. E., Angelone, A., and Mermel, L. A. (2008). Investigation of multi-drug resistant microbes in retail meats. J. Food Agric. Environ. 6, 71–75.",
+            "block_bbox": [
+                87,
+                984,
+                582,
+                1038
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chen, H., Wu, W., Ni, M., Liu, Y., Zhang, J., Xia, F., et al. (2013). Linezolid-resistant clinical isolates of enterococci and Staphylococcus cohnii from a multicentre study in China: molecular epidemiology and resistance mechanisms. Int. J. Antimicrob. Agents 42, 317–321. doi: 10.1016/j.ijantimicag.2013.06.008",
+            "block_bbox": [
+                87,
+                1041,
+                582,
+                1115
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chua, K., Laurent, F., Coombs, G., Grayson, M. L., and Howden, B. P. (2011). Not community-associated methicillin-resistant Staphylococcus aureus (CAMRSA)! A clinician's guide to community MRSA - its evolving antimicrobial resistance and implications for therapy. Clin. Infect. Dis. 52, 99–114. doi:10.1093/cid/ciq067",
+            "block_bbox": [
+                87,
+                1117,
+                582,
+                1209
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "CLSI (2012). Clinical and Laboratory Standards Institute: Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Third Informational Supplement. Wayne, PA: CLSI.",
+            "block_bbox": [
+                87,
+                1211,
+                583,
+                1266
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "CLSI (2014). The Clinical and Laboratory Standards Institute. Wayne, PA.",
+            "block_bbox": [
+                87,
+                1268,
+                531,
+                1286
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Conférence publique de Mlle M-Christine Lavier Toulon (2000). Vandier, J: Manuel d'Archéologie Égyptienne T IV, Picard.",
+            "block_bbox": [
+                87,
+                1287,
+                582,
+                1323
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Conniff, R. (2015). Antibiotic Resistance Threatens to Become an “Apocalyptic Scenario.” Available online at: http://www.takepart.com/feature/2014/06/06/antibiotic-resistance-from-meat",
+            "block_bbox": [
+                88,
+                1325,
+                582,
+                1380
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Cookson, B. D., Robinson, D. A., Monk, A. B., Murchan, S., Deplano, A., de Ryck, R., et al. (2007). Evaluation of molecular typing methods in characterizing",
+            "block_bbox": [
+                87,
+                1382,
+                582,
+                1420
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## AUTHOR CONTRIBUTIONS",
+            "block_bbox": [
+                605,
+                117,
+                923,
+                144
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "text",
+            "block_content": "KO developed the concept, designed experiments, collected, and analyzed data and prepared the manuscript; AA provided reagents and mice; JB and NH performed PCR assays; RE gave technical support and conceptual advice; AO performed PCR assays; MB gave technical support and conceptual advice; AS performed the experiments. All authors discussed the results and implications and commented on the manuscript at all stages.",
+            "block_bbox": [
+                603,
+                163,
+                1105,
+                351
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "a european collection of epidemic methicillin-resistant Staphylococcus aureus strains: the HARMONY collection. J. Clin. Microbiol. 45, 1830–1837. doi:10.1128/JCM.02402-06",
+            "block_bbox": [
+                622,
+                435,
+                1103,
+                490
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Cui, L., Wang, Y., Li, Y., He, T., Schwarz, S., Ding, Y., et al. (2013). Cfr-mediated linezolid-resistance among methicillin-resistant coagulase-negative staphylococci from infections of humans. PLoS ONE 8:e57096. doi:10.1371/journal.pone.0057096",
+            "block_bbox": [
+                608,
+                491,
+                1103,
+                564
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Dalhoff, A. (2012). Global fluoroquinolone resistance epidemiology and implications for clinical use. Interdiscipl. Perspect. Infect. Dis. 2012, 37.",
+            "block_bbox": [
+                608,
+                567,
+                1103,
+                604
+            ],
+            "block_id": 24,
+            "block_order": 23,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "David, M. Z., Taylor, A., Lynfield, R., Boxrud, D. J., Short, G., Zychowski, D., et al. (2013). Comparing pulsed-field gel electrophoresis with multilocus sequence typing, spa typing, staphylococcal cassette chromosome mec (SCCmec) typing, and pcr for panton-valentine leukocidin, arcA, and opp3 in methicillin-resistant Staphylococcus aureus isolates at a U.S. Medical Center. J. Clin. Microbiol. 51, 814–819. doi: 10.1128/JCM.02429-12",
+            "block_bbox": [
+                608,
+                605,
+                1104,
+                716
+            ],
+            "block_id": 25,
+            "block_order": 24,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Davis, M. F., Cain, C. L., Brazil, A. M., and Rankin, S. C. (2013). Two coagulase-negative staphylococci emerging as potential zoonotic pathogens: wolves in sheep's clothing? Front. Microbiol. Antimicrob. Resis. Chemoth. 4:123. doi:10.3389/fmicb.2013.00123",
+            "block_bbox": [
+                608,
+                719,
+                1103,
+                792
+            ],
+            "block_id": 26,
+            "block_order": 25,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "de Boer, E., Zwartkruis-Nahuis, J. T., Wit, B., Huijsdens, X. W., de Neeling, A. J., Bosch, T., et al. (2009). Prevalence of methicillin-resistant Staphylococcus aureus in meat. Int. J. Food Microbiol. 134, 52–56. doi:10.1016/j.ijfoodmicro.2008.12.007",
+            "block_bbox": [
+                608,
+                795,
+                1104,
+                868
+            ],
+            "block_id": 27,
+            "block_order": 26,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "de Jong, A., Bywater, R., Butty, P., Deroover, E., Godinho, K., Klein, U., et al. (2009). A pan-European survey of antimicrobial susceptibility towards human-use antimicrobial drugs among zoonotic and commensal enteric bacteria isolated from healthy food-producing animals. J. Antimicrob. Chemother. 63, 733–744. doi: 10.1093/jac/dkp012",
+            "block_bbox": [
+                608,
+                870,
+                1103,
+                963
+            ],
+            "block_id": 28,
+            "block_order": 27,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Doyle, M. P., Loneragan, G. H., Scott, H. M., and Singer, R. S. (2013). Antimicrobial resistance: challenges and perspectives. Compr. Rev. Food Sci. Food Saf. 12, 234–248. doi: 10.1111/1541-4337.12008",
+            "block_bbox": [
+                609,
+                965,
+                1103,
+                1020
+            ],
+            "block_id": 29,
+            "block_order": 28,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Dubin, D. T., Fitzgibbon, J. E., Nahvi, M. D., and John, J. F. (1999). Topoisomerase sequences of coagulase-negative staphylococcal isolates resistant to ciprofloxacin or trovafloxacin. Antimicrob. Agents Chemother. 43, 1631–1637.",
+            "block_bbox": [
+                608,
+                1022,
+                1103,
+                1096
+            ],
+            "block_id": 30,
+            "block_order": 29,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Emele, F. E., Pasculle, W., Glew, R. H., and Mbrey, N. (1995). Incidence and prevalence of Aeromonas hydrophila in meat sold in Enugu Main Market. Nigerian J. Microbiol. 10, 77–80.",
+            "block_bbox": [
+                608,
+                1098,
+                1103,
+                1152
+            ],
+            "block_id": 31,
+            "block_order": 30,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Ewers, C., Antão, E. M., Diehl, I., Philipp, H. C., and Wieler, L. H. (2009). Intestine and environment of the chicken as reservoirs for extraintestinal pathogenic Escherichia coli strains with zoonotic potential. Appl. Environ. Microbiol. 75, 184–192. doi: 10.1128/AEM.01324-08",
+            "block_bbox": [
+                609,
+                1154,
+                1103,
+                1227
+            ],
+            "block_id": 32,
+            "block_order": 31,
+            "group_id": 32
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "FAO (2015). “Status report on antimicrobial resistance,” in Conference 39th Session (Rome), 6–13.",
+            "block_bbox": [
+                608,
+                1230,
+                1103,
+                1266
+            ],
+            "block_id": 33,
+            "block_order": 32,
+            "group_id": 33
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "FAO/WHO/OIE (2008). “Joint FAO/WHO/OIE expert meeting on critically important antimicrobials,” in Report of a Meeting Held in FAO (Rome; Geneva: WHO).",
+            "block_bbox": [
+                608,
+                1268,
+                1103,
+                1323
+            ],
+            "block_id": 34,
+            "block_order": 33,
+            "group_id": 34
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Faria, N. A., Carrico, J. A., Oliveira, D. C., Ramirez, M., and de Lencastre, H. (2008). Analysis of typing methods for epidemiological surveillance of both methicillin-resistant and methicillin-susceptible Staphylococcus aureus strains. J. Clin. Microbiol. 46, 136–144. doi: 10.1128/JCM.01684-07",
+            "block_bbox": [
+                608,
+                1325,
+                1104,
+                1417
+            ],
+            "block_id": 35,
+            "block_order": 34,
+            "group_id": 35
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1483,
+                364,
+                1502
+            ],
+            "block_id": 36,
+            "block_order": null,
+            "group_id": 36
+        },
+        {
+            "block_label": "number",
+            "block_content": "10",
+            "block_bbox": [
+                585,
+                1484,
+                605,
+                1500
+            ],
+            "block_id": 37,
+            "block_order": null,
+            "group_id": 37
+        },
+        {
+            "block_label": "footer",
+            "block_content": "February 2016 | Volume 7 | Article 222",
+            "block_bbox": [
+                868,
+                1483,
+                1102,
+                1502
+            ],
+            "block_id": 38,
+            "block_order": null,
+            "group_id": 38
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9269704818725586,
+                "coordinate": [
+                    85.74052429199219,
+                    56.278106689453125,
+                    168.55393981933594,
+                    74.03111267089844
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9454870820045471,
+                "coordinate": [
+                    856.1939697265625,
+                    55.255653381347656,
+                    1104.1519775390625,
+                    74.00782012939453
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874361753463745,
+                "coordinate": [
+                    83.25228881835938,
+                    122.8917236328125,
+                    585.0177001953125,
+                    353.0478515625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9399744272232056,
+                "coordinate": [
+                    85.98625183105469,
+                    426.5111083984375,
+                    254.25746154785156,
+                    452.6383056640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.97788405418396,
+                "coordinate": [
+                    87.2843017578125,
+                    473.45330810546875,
+                    582.401611328125,
+                    546.7976684570312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.963517427444458,
+                "coordinate": [
+                    87.49613952636719,
+                    548.820556640625,
+                    581.6121215820312,
+                    585.023681640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9730044603347778,
+                "coordinate": [
+                    88.27239990234375,
+                    586.7623291015625,
+                    582.5553588867188,
+                    641.5023193359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9749130606651306,
+                "coordinate": [
+                    87.82545471191406,
+                    644.036376953125,
+                    582.2297973632812,
+                    698.259765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9803597331047058,
+                "coordinate": [
+                    88.17265319824219,
+                    700.6053466796875,
+                    582.9010620117188,
+                    792.5560302734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9750899076461792,
+                "coordinate": [
+                    87.96148681640625,
+                    795.6129760742188,
+                    581.9793090820312,
+                    849.1122436523438
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9674112796783447,
+                "coordinate": [
+                    87.60542297363281,
+                    851.7467041015625,
+                    582.0738525390625,
+                    887.8773193359375
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9908512234687805,
+                "coordinate": [
+                    85.2542724609375,
+                    471.09283447265625,
+                    584.76220703125,
+                    1421.22265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9803797006607056,
+                "coordinate": [
+                    87.8499755859375,
+                    889.761962890625,
+                    582.8836059570312,
+                    981.7103271484375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9754624962806702,
+                "coordinate": [
+                    87.88363647460938,
+                    984.7694091796875,
+                    582.2381591796875,
+                    1038.9114990234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9794107675552368,
+                "coordinate": [
+                    87.4547119140625,
+                    1041.532958984375,
+                    582.6858520507812,
+                    1115.656494140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981316089630127,
+                "coordinate": [
+                    87.77058410644531,
+                    1117.641845703125,
+                    582.5474853515625,
+                    1209.480224609375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.976565420627594,
+                "coordinate": [
+                    87.6690673828125,
+                    1211.3863525390625,
+                    583.0276489257812,
+                    1266.6109619140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9370526671409607,
+                "coordinate": [
+                    87.81968688964844,
+                    1268.2689208984375,
+                    531.0208740234375,
+                    1286.3863525390625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9644804000854492,
+                "coordinate": [
+                    87.96000671386719,
+                    1287.868896484375,
+                    582.3963012695312,
+                    1323.510498046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9760352373123169,
+                "coordinate": [
+                    88.10707092285156,
+                    1325.67041015625,
+                    582.9541625976562,
+                    1380.06689453125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9647312164306641,
+                "coordinate": [
+                    87.64402770996094,
+                    1382.6761474609375,
+                    582.98681640625,
+                    1420.0589599609375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.949770450592041,
+                "coordinate": [
+                    605.0362548828125,
+                    117.5630111694336,
+                    923.22802734375,
+                    144.34078979492188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858608245849609,
+                "coordinate": [
+                    603.275146484375,
+                    163.35023498535156,
+                    1105.88525390625,
+                    351.80078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9727005958557129,
+                "coordinate": [
+                    622.4703369140625,
+                    435.798583984375,
+                    1103.508056640625,
+                    490.193359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9774647951126099,
+                "coordinate": [
+                    608.0523681640625,
+                    491.94659423828125,
+                    1103.8253173828125,
+                    564.8971557617188
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9680082201957703,
+                "coordinate": [
+                    608.2371826171875,
+                    567.5350952148438,
+                    1103.4139404296875,
+                    604.5724487304688
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981074869632721,
+                "coordinate": [
+                    608.8306884765625,
+                    605.9229736328125,
+                    1104.1673583984375,
+                    716.7921142578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9794183969497681,
+                "coordinate": [
+                    608.6636962890625,
+                    719.6771240234375,
+                    1103.6182861328125,
+                    792.6099853515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9790701866149902,
+                "coordinate": [
+                    608.148681640625,
+                    795.8116455078125,
+                    1104.0260009765625,
+                    868.3836669921875
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9903355836868286,
+                "coordinate": [
+                    606.3887939453125,
+                    433.8607177734375,
+                    1105.89111328125,
+                    1416.845947265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9802687764167786,
+                "coordinate": [
+                    608.1539306640625,
+                    870.7391357421875,
+                    1103.60595703125,
+                    963.0631103515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9767792820930481,
+                "coordinate": [
+                    609.0325927734375,
+                    965.6102905273438,
+                    1103.1951904296875,
+                    1020.6917114257812
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.97981858253479,
+                "coordinate": [
+                    608.8326416015625,
+                    1022.417724609375,
+                    1103.3135986328125,
+                    1096.080322265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9768582582473755,
+                "coordinate": [
+                    608.482421875,
+                    1098.204833984375,
+                    1103.352294921875,
+                    1152.7529296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9790412187576294,
+                "coordinate": [
+                    609.0177001953125,
+                    1154.72802734375,
+                    1103.7491455078125,
+                    1227.88232421875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9682305455207825,
+                "coordinate": [
+                    608.083984375,
+                    1230.47802734375,
+                    1103.5194091796875,
+                    1266.611328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.975686252117157,
+                "coordinate": [
+                    608.5782470703125,
+                    1268.54443359375,
+                    1103.4818115234375,
+                    1323.0244140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9789742231369019,
+                "coordinate": [
+                    608.843505859375,
+                    1325.6640625,
+                    1104.060791015625,
+                    1417.66162109375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9273919463157654,
+                "coordinate": [
+                    85.77964782714844,
+                    1483.6585693359375,
+                    364.44696044921875,
+                    1502.4598388671875
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8846455216407776,
+                "coordinate": [
+                    585.101318359375,
+                    1484.6614990234375,
+                    605.813720703125,
+                    1500.6434326171875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9272323250770569,
+                "coordinate": [
+                    868.375244140625,
+                    1483.094970703125,
+                    1102.70458984375,
+                    1502.367919921875
+                ]
+            }
+        ]
+    }
+}

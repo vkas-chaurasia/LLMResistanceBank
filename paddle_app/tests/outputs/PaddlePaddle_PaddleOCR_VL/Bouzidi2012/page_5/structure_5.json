@@ -1,0 +1,343 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bouzidi2012.pdf",
+    "page_index": 4,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "N. Bouzidi et al. / Food Research International 45 (2012) 897–904",
+            "block_bbox": [
+                411,
+                71,
+                796,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "901",
+            "block_bbox": [
+                1098,
+                73,
+                1124,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 4. Discussion",
+            "block_bbox": [
+                79,
+                110,
+                188,
+                131
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 4.1. Prevalence",
+            "block_bbox": [
+                80,
+                152,
+                192,
+                172
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "To our knowledge, this is the first epidemiological study of Salmonella contamination in laying-hen flocks ever carried out in the Annaba and Eltarf regions of Algeria. Prior to this research, very little information was available on Salmonella prevalence in Algerian poultry farms. Although the study by Elgroud et al. (2009) and the present study are not strictly comparable in terms of breeding type, housing system and methodology of sampling, it might be worth pointing out that the prevalence estimated by Elgroud et al. (2009) emphasizes quite a high level of Salmonella contamination in Algerian poultry farms. The results of our own study show that eight flocks (44.4%) tested positive for Salmonella during the laying period. Within the European Union, a baseline study conducted by EFSA between October 2004 and September 2005 on laying-hen flocks at the end of the rearing period showed an average prevalence of Salmonella-positive flocks of 30.8% (EFSA, 2007b). The Salmonella prevalence in this kind of flock varied widely between member states: 17.9% in France (Huneau-Salaün et al., 2009), 31.08% in Belgium (Namata et al., 2008), 79% in Portugal (Hald, 2008) and 0% in Sweden and Luxembourg (Van Hoorebeke et al., 2010).",
+            "block_bbox": [
+                78,
+                194,
+                592,
+                592
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Our results should be interpreted with caution because of the relatively small number of sampled flocks, and because the sample was not randomized from the Algerian laying-hen population, which restricts comparability with research in developed countries on Salmonella prevalence in egg-laying flocks. It should nevertheless be emphasized that our study is practically exhaustive with respect to these two regions, and that poultry breeding in these regions is similar to poultry breeding nationwide. We consequently consider that our study may be representative enough for a preliminary estimation of the prevalence of Salmonella contamination in Algerian laying-hen flocks. It should also be noted that the same person was responsible for visiting all the farms and collecting all the data, which should make data collection and interpretation more uniform.",
+            "block_bbox": [
+                78,
+                592,
+                591,
+                864
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Our results show that Salmonella prevalence was higher at the end of the laying period than at the beginning or middle. It is well known that the chance of detecting Salmonella in a flock increases as the hens get older (Namata et al., 2008). It can be attributed to the fact that the layers are physiologically stressed when reared in close confinement in caged systems and particularly during egg production. Several authors have reported that the stress factors such as the onset of lay, high temperatures, induced molting, final stages of the production period or transportation to the slaughterhouse can cause recurrences of Salmonella excretion (Golden et al., 2008; Humphrey, 2006; Van de Giessen et al., 2006). Furthermore, in this work, two out of three henhouses that tested positive at the beginning of laying had been declared positive at the end of the previous flocks' laying period. Four Salmonella isolates were recovered from dust samples when subsequent flocks were housed in the same henhouses. It was previously thought that dust samples can give more accurate information on the layer house's past Salmonella status (Arnalod, Carrique-Mas, & Davies, 2009). The result of the current study clearly corroborates this finding.",
+            "block_bbox": [
+                78,
+                864,
+                591,
+                1242
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "The proportion of positive samples in our study is quite low—only 19, or 0.68%. Despite the relatively short transportation time and the larger number of samples taken in our study, Salmonella was only found in a few sampled environments. However, several studies have shown that the intensive sampling of laying-hen environments is regarded as an effective method for detecting Salmonella in laying-hen flocks with a low contamination level (Aho, 1992; Carrique-Mas et al., 2009; Musgrove & Jones, 2005). The low proportion of Salmonella in seven pooled samples in this study may be explained by the low degree of shedding at the time of sampling and/or the intermittent excretion of Salmonella by infected birds (Van Immerseel et al., 2004). Furthermore, this finding indicates that this sampling protocol (limited to pooled feces, dust and environmental samples) used in our study is not sufficiently sensitive in flocks where the bacterium is only shed in very small amounts, or not shed at all. We might suppose that in layer houses which are apparently Salmonella-negative, on the basis of the results from the bacteriological analysis of all pooled samples, a proportion of the hens may still carry the pathogen without shedding it, leading to an underestimation of the actual prevalence of Salmonella in the studied flocks. This is suggested by the data reported by Van Hoorebeke et al. (2009), which indicate that the post-mortem examination of hens (cecal and/or ovary/oviduct samples) is the most accurate test to determine the infection status of laying-hen flocks with a low Salmonella contamination level.",
+            "block_bbox": [
+                78,
+                1242,
+                591,
+                1495
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                613,
+                110,
+                1128,
+                364
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 4.2. Serovars and antibiotic resistance",
+            "block_bbox": [
+                615,
+                383,
+                891,
+                405
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "The distribution of Salmonella serovars identified in the present study was particularly heterogeneous. Salmonella Enteritidis was the most commonly isolated serovar in terms of number of isolates  $ (n=4) $ , but it was recovered in only one henhouse. A single isolate of Salmonella Typhimurium was recovered during our investigation. Nationally, S. Enteritidis and S. Typhimurium serotypes are the most frequently isolated from poultry samples. In a study conducted between 1998 and 2002 by the Pasteur Institute in Algiers on 51,826 samples from all types of poultry farms including hens, eggs and turkeys, 112 out of positive strains belonged to the serovar S. Enteritidis (Aboun et al., 2003). In 2006, 26 confirmed outbreaks involving Salmonella Enteritidis and Typhimurium were reported in northern regions of the country in different poultry farms, including laying-hen flocks (Anonymous, 2006), and 25 confirmed outbreaks in 2008 involved Salmonella Enteritidis (Anonymous, 2009). During this study (March 2008 to November 2009), 50 strains of S. Typhimurium and eight strains of S. Enteritidis were recovered in human patients from both Annaba and Eltarf regions. Unfortunately, no information is available about the possible link between these clinical cases and egg consumption. It is also worth mentioning that many cases may not be reported because the ill person either does not visit a doctor or no sample is obtained for laboratory tests. Voetsch et al. (2004) estimated that for each laboratory-confirmed case of Salmonella, there are 38 cases that are missed through a lack of surveillance. In the European Union, S. Enteritidis was the most commonly reported serovar in 2008 (58.0% of all confirmed cases), followed by Salmonella Typhimurium (21.9%) (EFSA, 2010). The number of S. Enteritidis cases is tending to decrease in EU member states, increasing the relative proportion of S. Typhimurium cases.",
+            "block_bbox": [
+                614,
+                423,
+                1128,
+                1032
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "In our research project, Salmonella Kentucky was recovered from three different laying-hen flocks, two isolates of S. Manhattan and one isolate of S. Albany were found in a single flock respectively. The serotypes S. Kentucky, S. Manhattan, and S. Albany are not usually isolated from poultry samples in Algeria. These isolates may have been acquired from the environment or animals' sources indicating the diversity of the potential reservoirs of nontyphoidal Salmonella. Unfortunately, no investigations have been conducted to identify the origin of contamination. A single strain of Salmonella Dublin was isolated once in a water sample in our study. This serotype is rarely encountered in poultry, and more frequently associated with bovine production. Its presence may be the consequence of the presence of other animals on the farm and the absence of precautionary measures by farm staff. Serovar diversity could suggest a plethora of sources: the environment, feed, water, easy access to other animal species, carried by farm workers and more.",
+            "block_bbox": [
+                613,
+                1032,
+                1128,
+                1367
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, the number of isolates resistant to at least three antimicrobials is relatively small and could indicate that the use of antibiotics in laying-hen flocks remains moderate. None of the flocks was treated with antimicrobials according to farmers' statements. The overall limited antimicrobial usage in egg-producing laying hens in our study is in accordance with previous studies on laying hens.",
+            "block_bbox": [
+                613,
+                1366,
+                1128,
+                1494
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9411699175834656,
+                "coordinate": [
+                    411.9934997558594,
+                    71.33253479003906,
+                    796.0003662109375,
+                    90.44718933105469
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8759353160858154,
+                "coordinate": [
+                    1098.19970703125,
+                    73.06494140625,
+                    1124.5126953125,
+                    88.51431274414062
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9290717244148254,
+                "coordinate": [
+                    79.98973083496094,
+                    110.93040466308594,
+                    188.0385284423828,
+                    131.06263732910156
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9204890131950378,
+                "coordinate": [
+                    80.3543701171875,
+                    152.94476318359375,
+                    192.57171630859375,
+                    172.96337890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880768060684204,
+                "coordinate": [
+                    78.42471313476562,
+                    194.22337341308594,
+                    592.144287109375,
+                    592.8880615234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882335662841797,
+                "coordinate": [
+                    78.45574951171875,
+                    592.8798828125,
+                    591.5855102539062,
+                    864.686767578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881852865219116,
+                "coordinate": [
+                    78.32046508789062,
+                    864.7249755859375,
+                    591.85693359375,
+                    1242.1324462890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882744550704956,
+                "coordinate": [
+                    78.61337280273438,
+                    1242.3565673828125,
+                    591.84912109375,
+                    1495.5106201171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880814552307129,
+                "coordinate": [
+                    613.2613525390625,
+                    110.251220703125,
+                    1128.848876953125,
+                    364.44427490234375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9383630156517029,
+                "coordinate": [
+                    615.7603759765625,
+                    383.722412109375,
+                    891.50390625,
+                    405.09185791015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882226586341858,
+                "coordinate": [
+                    614.16796875,
+                    423.7973327636719,
+                    1128.980712890625,
+                    1032.420166015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988257110118866,
+                "coordinate": [
+                    613.5992431640625,
+                    1032.0087890625,
+                    1128.517822265625,
+                    1367.0146484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852310419082642,
+                "coordinate": [
+                    613.0533447265625,
+                    1366.8353271484375,
+                    1128.896728515625,
+                    1494.9996337890625
+                ]
+            }
+        ]
+    }
+}

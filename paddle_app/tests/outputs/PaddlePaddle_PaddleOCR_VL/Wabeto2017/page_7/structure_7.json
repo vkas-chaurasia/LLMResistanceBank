@@ -1,0 +1,618 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Wabeto2017.pdf",
+    "page_index": 6,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Wabeto et al. Journal of Health, Population and Nutrition (2017) 36:52",
+            "block_bbox": [
+                109,
+                62,
+                581,
+                83
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 7 of 7",
+            "block_bbox": [
+                996,
+                62,
+                1080,
+                83
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "46. Al-Bahry SN, Elshafie AE, Al-Busaidy S, Al-Hinai J, Al-Shidi I. Antibiotic resistant Salmonella species from human and non-human sources in Oman. East Mediterranean Health J. 2007;3:49–55.",
+            "block_bbox": [
+                110,
+                177,
+                580,
+                230
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "47. Elgroud R, Zerdoumi F, Benazzouz M, Bouzitouna-Bentchouala C, Granier SA, Frémy S, Brisabois A, Dufour B, Millemann Y. Characteristics of Salmonella contamination of broilers and slaughterhouses in the region of Constantine (Algeria). Zoonoses Public Hlth. 2009;56:84–93.",
+            "block_bbox": [
+                110,
+                231,
+                581,
+                301
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "48. Fadlalla IMT, Hamid ME, Rahim AGA, Ibrahim MT. Antimicrobial susceptibility of Salmonella serotypes isolated from human and animals in Sudan. J Public Health Epidemiol. 2012;4:19–23.",
+            "block_bbox": [
+                110,
+                302,
+                582,
+                356
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "49. Molla W, Molla B, Alemayehu D, Muckle A, Cole L, Wilkie E. Occurrence and antimicrobial resistance of Salmonella serovars in apparently healthy slaughtered sheep and goats of central Ethiopia. Trop Anim Health Prod. 2006;38:455–62.",
+            "block_bbox": [
+                110,
+                357,
+                577,
+                427
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "50. Zewdu E, Cornelius P. Antimicrobial resistance pattern of Salmonella serotypes isolated from food items and workers in Addis Ababa, Ethiopia. Trop Anim Health Pro. 2009;41:241–9.",
+            "block_bbox": [
+                110,
+                429,
+                566,
+                481
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "51. Zelalem A, Nigatu K, Zufan W, Haile G, Alehegne Y, Tesfu K. Prevalence and antimicrobial resistance of Salmonella isolated from lactating cows and in contact humans in dairy farms of Addis Ababa: a cross sectional study. BMC Inf Dis. 2011;11:222.",
+            "block_bbox": [
+                111,
+                483,
+                579,
+                553
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "52. Suresh T, Hatha AAM, Sreenivasan D, Sangeetha N, Lashamanaperumalsamy P. Prevalence and antimicrobial resistance of Salmonella enteritidis and other Salmonellas in the eggs and egg-storing trays from retail markets of Coimbatore, South India. Food Microbiol. 2006;23:294–9.",
+            "block_bbox": [
+                110,
+                555,
+                578,
+                626
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "53. Akinyemia KO, Smithb SI, Oyefolua BAO, Cokerc AO. Multidrug resistance in Salmonella enteric serovar typhi isolated from patients with typhoid fever complications in Lagos, Nigeria. Public Health. 2005;119:321–7.",
+            "block_bbox": [
+                111,
+                627,
+                576,
+                680
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "54. Akoachere TKJ, Tanih FN, Ndip ML, Ndip NR. Phenotypic characterization of Salmonella typhimurium isolates from food-animals and abattoir drains in Buea, Cameroon. J Health Popul Nutr. 2009;27:1–7.",
+            "block_bbox": [
+                110,
+                681,
+                575,
+                734
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "55. McGeer AJ. Agricultural antibiotics and resistance in human pathogens: villain or scapegoat? CMAJ. 1998;159:1190–20.",
+            "block_bbox": [
+                110,
+                735,
+                554,
+                770
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "56. Mathew AG, Cissell R, Liamthong S. Antibiotic resistance in bacteria associated with food animals: a United States perspective of livestock production. Food Borne Path Dis. 2007;4:115–33.",
+            "block_bbox": [
+                110,
+                772,
+                544,
+                823
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "57. Garcia I. Microscopic examination of natural sepsis bacterial populations from alpine streams. Can J Microbiol. 2007;3(3):170–84.",
+            "block_bbox": [
+                110,
+                825,
+                556,
+                860
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Submit your next manuscript to BioMed Central and we will help you at every step:",
+            "block_bbox": [
+                631,
+                1203,
+                1060,
+                1257
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "• We accept pre-submission inquiries",
+            "block_bbox": [
+                642,
+                1264,
+                888,
+                1284
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Our selector tool helps you to find the most relevant journal",
+            "block_bbox": [
+                642,
+                1288,
+                1040,
+                1309
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "• We provide round the clock customer support",
+            "block_bbox": [
+                642,
+                1313,
+                955,
+                1333
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Convenient online submission",
+            "block_bbox": [
+                642,
+                1337,
+                854,
+                1356
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Thorough peer review",
+            "block_bbox": [
+                642,
+                1361,
+                803,
+                1380
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Inclusion in PubMed and all major indexing services",
+            "block_bbox": [
+                642,
+                1385,
+                987,
+                1404
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Maximum visibility for your research",
+            "block_bbox": [
+                642,
+                1409,
+                890,
+                1428
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Submit your manuscript at www.biomedcentral.com/submit",
+            "block_bbox": [
+                642,
+                1443,
+                854,
+                1477
+            ],
+            "block_id": 22,
+            "block_order": null,
+            "group_id": 22
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_904_1448_1052_1478.jpg\" alt=\"Image\" width=\"12%\" /></div>\n",
+            "block_bbox": [
+                904,
+                1448,
+                1052,
+                1478
+            ],
+            "block_id": 23,
+            "block_order": null,
+            "group_id": 23
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9518987536430359,
+                "coordinate": [
+                    109.20330810546875,
+                    62.82530212402344,
+                    581.9241943359375,
+                    83.14299011230469
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9321917295455933,
+                "coordinate": [
+                    996.6666259765625,
+                    62.65971755981445,
+                    1080.4776611328125,
+                    83.10667419433594
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9762876629829407,
+                "coordinate": [
+                    110.15142822265625,
+                    177.48526000976562,
+                    580.4865112304688,
+                    230.6639404296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9800304770469666,
+                "coordinate": [
+                    110.5963134765625,
+                    231.82522583007812,
+                    581.5621948242188,
+                    301.6831359863281
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9787557125091553,
+                "coordinate": [
+                    110.7908935546875,
+                    302.9866943359375,
+                    582.0178833007812,
+                    356.03289794921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981178343296051,
+                "coordinate": [
+                    110.87959289550781,
+                    357.61431884765625,
+                    577.1716918945312,
+                    427.7041015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9776785373687744,
+                "coordinate": [
+                    110.46925354003906,
+                    429.85760498046875,
+                    566.095703125,
+                    481.97686767578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9810630679130554,
+                "coordinate": [
+                    111.00013732910156,
+                    483.247314453125,
+                    579.018310546875,
+                    553.9820556640625
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9906712770462036,
+                "coordinate": [
+                    108.5235595703125,
+                    175.5400390625,
+                    581.7244873046875,
+                    862.33349609375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.980441689491272,
+                "coordinate": [
+                    110.71287536621094,
+                    555.6431884765625,
+                    578.5003662109375,
+                    626.1783447265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9795678853988647,
+                "coordinate": [
+                    111.1810302734375,
+                    627.4041748046875,
+                    576.5217895507812,
+                    680.3636474609375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.978455126285553,
+                "coordinate": [
+                    110.73252868652344,
+                    681.3988037109375,
+                    575.904541015625,
+                    734.6002197265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9718680381774902,
+                "coordinate": [
+                    110.51945495605469,
+                    735.87939453125,
+                    554.8434448242188,
+                    770.7042236328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9772936701774597,
+                "coordinate": [
+                    110.60890197753906,
+                    772.2108764648438,
+                    544.5680541992188,
+                    823.9591674804688
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9707099199295044,
+                "coordinate": [
+                    110.92610168457031,
+                    825.0499267578125,
+                    556.8330078125,
+                    860.97900390625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9725094437599182,
+                "coordinate": [
+                    631.1240234375,
+                    1203.4591064453125,
+                    1060.0198974609375,
+                    1257.2362060546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9496756196022034,
+                "coordinate": [
+                    642.3045654296875,
+                    1264.924072265625,
+                    888.7056884765625,
+                    1284.385009765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9519604444503784,
+                "coordinate": [
+                    642.5284423828125,
+                    1288.874755859375,
+                    1040.1243896484375,
+                    1309.071044921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9498124718666077,
+                "coordinate": [
+                    642.4658203125,
+                    1313.6533203125,
+                    955.466552734375,
+                    1333.3408203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9474660754203796,
+                "coordinate": [
+                    642.9385375976562,
+                    1337.6962890625,
+                    854.0551147460938,
+                    1356.3974609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9434660077095032,
+                "coordinate": [
+                    642.8790283203125,
+                    1361.671875,
+                    803.63134765625,
+                    1380.506103515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9447029829025269,
+                "coordinate": [
+                    642.6444702148438,
+                    1385.1748046875,
+                    987.7477416992188,
+                    1404.98828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9395161271095276,
+                "coordinate": [
+                    642.672119140625,
+                    1409.203369140625,
+                    890.9990234375,
+                    1428.597900390625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9529296159744263,
+                "coordinate": [
+                    642.7857666015625,
+                    1443.4708251953125,
+                    854.9405517578125,
+                    1477.8153076171875
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.9387779235839844,
+                "coordinate": [
+                    904.831298828125,
+                    1448.3404541015625,
+                    1052.4100341796875,
+                    1478.8104248046875
+                ]
+            }
+        ]
+    }
+}

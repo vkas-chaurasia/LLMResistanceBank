@@ -1,0 +1,426 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bawa2015.pdf",
+    "page_index": 0,
+    "page_count": 7,
+    "width": 1190,
+    "height": 1684,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Bawa et al. J. Appl. Biosci. 2015 Antimicrobial susceptibility of Salmonella enterica strains isolated from raw beef, mutton and intestines sold in Ouagadougou, Burkina Faso.",
+            "block_bbox": [
+                134,
+                138,
+                1051,
+                191
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_137_211_247_313.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                137,
+                211,
+                247,
+                313
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Journal of Applied Biosciences 95:8966 – 8972",
+            "block_bbox": [
+                383,
+                232,
+                887,
+                266
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "ISSN 1997-5902",
+            "block_bbox": [
+                565,
+                286,
+                706,
+                315
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Antimicrobial susceptibility of Salmonella enterica strains isolated from raw beef, mutton and intestines sold in Ouagadougou, Burkina Faso.",
+            "block_bbox": [
+                149,
+                341,
+                1038,
+                489
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Bawa I. H $ ^{1} $ , Bsadjo Tchamba G $ ^{1} $ , Bagré T. S $ ^{1} $ , Bouda S. C $ ^{1} $ , Konaté A $ ^{1} $ , Bako E $ ^{1} $ , Kagambèga A $ ^{1,2} $ , Zongo C $ ^{1} $ , Somda M $ ^{1} $ , Savadogo A $ ^{1} $ , Traoré A. S $ ^{1} $ , Barro N $ ^{1} $ .\n\n $ ^{1} $  Laboratoire de Biologie Moléculaire d'Epidémiologie et de Surveillance des agents Transmissibles par les Aliments (LaBESTA). Centre de Recherche en Sciences Biologiques, Alimentaires et Nutritionnelles (CRSBAN). Université de Ouagadougou, 03 B.P 7021 Ouagadougou 03, Burkina Faso.\n\n $ ^{2} $  Institut des Sciences, 01 BP 1757 Ouagadougou 01, Burkina Faso.\n\nCorresponding author: Email: hadizabawa@yahoo.fr, Phone (+226) 78 45 78 16\n\nOriginal submitted in on 8 $ ^{th} $  October 2015. Published online at www.m.elewa.org on 30 $ ^{th} $  November 2015 http://dx.doi.org/10.4314/jab.v95i1.6",
+            "block_bbox": [
+                133,
+                513,
+                1010,
+                568
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                133,
+                567,
+                1054,
+                642
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                134,
+                641,
+                673,
+                666
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                134,
+                665,
+                772,
+                693
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                133,
+                713,
+                953,
+                767
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## ABSTRACT",
+            "block_bbox": [
+                135,
+                794,
+                249,
+                821
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Objectives: The aim of this study was to determine the prevalence and antibiotic resistance profile of Salmonella enterica isolated from raw beef, mutton and intestines sold in Ouagadougou; Burkina Faso.\n\nMethodology and Results: A total of 450 samples from raw meat of beef (n=175), mutton (n=175), beef intestine (n=50) and sheep intestine (n=50) were analyzed using standards microbiological method for the detection of Salmonella. The isolates were tested for antibacterial resistance using the agar diffusion method with fourteen commonly used antibiotics. In this study, Salmonella contaminated 19% (86/450) of the samples with 27% (47/175) of beef, 18% (9/50) of beef intestine, 11% (19/175) of mutton and 22% (11/50) of sheep intestine. Salmonella strains isolates were most resistant to tetracycline and cefalotin than other tested antibiotics.\n\nConclusion and main findings: The high rate of Salmonella strains in animals can pose a major public health risk in Burkina Faso. In addition, the susceptibility test confirms the circulation of antibiotic resistant pathogens in raw meat. Interestingly, these findings indicate a presence of multiresistant strains. The regulation of antibiotics use in animal husbandry is recommended to prevent antibiotic resistance in humans.\n\nKey words: Beef, Mutton, Raw Intestine, Salmonella, Antimicrobial Susceptibility, Burkina Faso.",
+            "block_bbox": [
+                134,
+                822,
+                1056,
+                1172
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I NTRODUCTION",
+            "block_bbox": [
+                135,
+                1196,
+                290,
+                1223
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Microbial food safety is an increasing worldwide public health problem (OMS, 2015). Problem of food Safety in the industrialized world differ considerably from those of developing countries where traditional methods of processing and packaging, improper holding temperature, poor personal hygiene of food handlers are still observed during food marketing (Oladipo et al., 2010). The risk of the transmission of zoonotic infections is also associated with the consumption of contaminated meat. Salmonella enterica infections are the second leading cause of bacterial foodborne illness and approximately 95% of cases of human salmonellosis are associated with the consumption of contaminated products such as meat, poultry, eggs, milk, seafood, and fresh produce (OMS, 2013). These infections may cause significant morbidity and mortality both in humans and production animals as well as considerable",
+            "block_bbox": [
+                133,
+                1225,
+                578,
+                1468
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                610,
+                1224,
+                1056,
+                1468
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 13
+        },
+        {
+            "block_label": "number",
+            "block_content": "8966",
+            "block_bbox": [
+                570,
+                1494,
+                620,
+                1515
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9619795680046082,
+                "coordinate": [
+                    134.082275390625,
+                    138.42218017578125,
+                    1051.283447265625,
+                    191.87646484375
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.707764744758606,
+                "coordinate": [
+                    137.79212951660156,
+                    211.1818389892578,
+                    247.8829803466797,
+                    313.46173095703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8909993171691895,
+                "coordinate": [
+                    383.5042724609375,
+                    232.33389282226562,
+                    887.9124755859375,
+                    266.0852966308594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.905398428440094,
+                "coordinate": [
+                    565.0362548828125,
+                    286.2618408203125,
+                    706.6478271484375,
+                    315.7239990234375
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9802854061126709,
+                "coordinate": [
+                    149.93167114257812,
+                    341.85076904296875,
+                    1038.0037841796875,
+                    489.21502685546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.942345380783081,
+                "coordinate": [
+                    133.5081787109375,
+                    513.06689453125,
+                    1010.7401123046875,
+                    568.0430908203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9198988080024719,
+                "coordinate": [
+                    133.588134765625,
+                    567.9429931640625,
+                    1054.6942138671875,
+                    642.4541015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7128258347511292,
+                "coordinate": [
+                    134.79318237304688,
+                    641.0517578125,
+                    673.4864501953125,
+                    666.80029296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7524794936180115,
+                "coordinate": [
+                    134.81417846679688,
+                    665.1062622070312,
+                    772.8214111328125,
+                    693.4292602539062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9532291293144226,
+                "coordinate": [
+                    133.41561889648438,
+                    713.1802978515625,
+                    953.1968994140625,
+                    767.1444091796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9191218018531799,
+                "coordinate": [
+                    135.57730102539062,
+                    794.1564331054688,
+                    249.01004028320312,
+                    821.0100708007812
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.873814046382904,
+                "coordinate": [
+                    134.41119384765625,
+                    822.8328857421875,
+                    1056.33984375,
+                    1172.2801513671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5097491145133972,
+                "coordinate": [
+                    134.67236328125,
+                    1144.5565185546875,
+                    958.562744140625,
+                    1173.2420654296875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9370328783988953,
+                "coordinate": [
+                    135.27536010742188,
+                    1196.3211669921875,
+                    290.5205993652344,
+                    1223.3135986328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869651794433594,
+                "coordinate": [
+                    133.66741943359375,
+                    1225.0302734375,
+                    578.5192260742188,
+                    1468.671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875178933143616,
+                "coordinate": [
+                    610.373779296875,
+                    1224.659912109375,
+                    1056.335693359375,
+                    1468.858154296875
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9223253130912781,
+                "coordinate": [
+                    570.9962158203125,
+                    1494.0601806640625,
+                    620.0479736328125,
+                    1515.7054443359375
+                ]
+            }
+        ]
+    }
+}

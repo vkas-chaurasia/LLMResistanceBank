@@ -1,0 +1,221 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bawa2015.pdf",
+    "page_index": 6,
+    "page_count": 7,
+    "width": 1190,
+    "height": 1684,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Bawa et al. J. Appl. Biosci. 2015 Antimicrobial susceptibility of Salmonella enterica strains isolated from raw beef, mutton and intestines sold in Ouagadougou, Burkina Faso.",
+            "block_bbox": [
+                135,
+                140,
+                1049,
+                190
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "isolated from diarrhoea in Senegal. Journal of Global Antimicrobial Research 1: 231-232.",
+            "block_bbox": [
+                204,
+                211,
+                576,
+                259
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Sodagari HR, Mashak Z, Ghadimianazar A, 2015. Prevalence and antimicrobial resistance of Salmonella serotypes isolated from retail chicken meat and giblets in Iran. Journal of Infection in Developing Countries 9: 463-469.",
+            "block_bbox": [
+                138,
+                261,
+                575,
+                381
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Tassew H, Abdissa A, Beyene G, Gebre-Selassie S, 2010. Microbial flora and food borne pathogens on minced meat and their susceptibility to antimicrobial agents. Ethiopian Journal of Health Sciences 20: 137-143.",
+            "block_bbox": [
+                138,
+                383,
+                575,
+                503
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Timbiné LG, Sambe-BA B, Wane AA, Fall NK, Abdou M, Barro N, Sangaré L, Bougoudogo F, Gassama-Sow A, 2013. Sensibilité aux antibiotiques des souches de bactéries entéropathogènes isolées en Afrique de l'Ouest (Burkina Faso, Mali, Sénégal). Dakar Medical Journal. 58: 80-88.",
+            "block_bbox": [
+                615,
+                210,
+                1052,
+                356
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Zhu J, Wang Y, Song X, Cui S, Xu H, Yang B, Huang J, Liu G, Chen Q, Zhou G, Chen Q, Li F, 2014. Prevalence and quantification of Salmonella contamination in raw chicken carcasses at the retail in China. Journal of Food Control 44: 198-202.",
+            "block_bbox": [
+                614,
+                358,
+                1052,
+                501
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "number",
+            "block_content": "8972",
+            "block_bbox": [
+                571,
+                1494,
+                618,
+                1514
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.933804452419281,
+                "coordinate": [
+                    135.87521362304688,
+                    140.19534301757812,
+                    1049.7857666015625,
+                    190.24954223632812
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9494995474815369,
+                "coordinate": [
+                    204.2374725341797,
+                    211.13558959960938,
+                    576.2230834960938,
+                    259.8357238769531
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9727156162261963,
+                "coordinate": [
+                    138.48028564453125,
+                    261.11944580078125,
+                    575.3998413085938,
+                    381.54925537109375
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.944471001625061,
+                "coordinate": [
+                    137.19036865234375,
+                    210.56710815429688,
+                    577.2660522460938,
+                    504.0220031738281
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9708681702613831,
+                "coordinate": [
+                    138.83717346191406,
+                    383.832275390625,
+                    575.96240234375,
+                    503.439208984375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.978387713432312,
+                "coordinate": [
+                    615.534912109375,
+                    210.6405029296875,
+                    1052.39599609375,
+                    356.28692626953125
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9696727395057678,
+                "coordinate": [
+                    614.0513916015625,
+                    209.40628051757812,
+                    1053.5760498046875,
+                    502.9577331542969
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9764795899391174,
+                "coordinate": [
+                    614.9705810546875,
+                    358.4453430175781,
+                    1052.8099365234375,
+                    501.8280334472656
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8857182264328003,
+                "coordinate": [
+                    571.3900146484375,
+                    1494.327880859375,
+                    618.9808349609375,
+                    1514.588134765625
+                ]
+            }
+        ]
+    }
+}

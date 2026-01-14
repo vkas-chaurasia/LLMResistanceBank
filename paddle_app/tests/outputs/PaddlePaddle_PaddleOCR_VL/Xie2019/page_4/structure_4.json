@@ -1,0 +1,343 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Xie2019.pdf",
+    "page_index": 3,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1565,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "2850",
+            "block_bbox": [
+                90,
+                44,
+                127,
+                61
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Food Science & Nutrition",
+            "block_bbox": [
+                262,
+                51,
+                416,
+                69
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "XIE ET AL.",
+            "block_bbox": [
+                1040,
+                44,
+                1102,
+                62
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 3.4 | Molecular diversity patterns",
+            "block_bbox": [
+                87,
+                105,
+                413,
+                129
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "After the seven housekeeping gene sequences were uploaded, the alleles were numbered and the isolates were assigned to 37 sequence types (STs) according to the Salmonella database. The numbers of each MLST locus were aroC: 29, dnaN: 27, hemD: 22, hisD: 28, purE: 24, sucA: 25, and thrA: 29. A minimum evolution tree was constructed using the concatenated sequences of each allele, as shown in Figure 2. The MLST results grouped the Salmonella isolates into three clusters. ST3315 (SalE28) formed its own cluster, which was widely separated from the others on the evolutionary tree.",
+            "block_bbox": [
+                86,
+                146,
+                583,
+                401
+            ],
+            "block_id": 4,
+            "block_order": 2,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "The results of ERIC-PCR analysis of the Salmonella isolates are shown in Figure 3. We found bands ranging in size from 100 bp to about 5,000 bp. The ERIC-PCR patterns revealed that our isolates could be divided into five clusters (A, B, C, D, and E) with a relative similarity coefficient of 0.65. Analysis of the ERIC-PCR found the isolates to be very diverse genetically. Meanwhile, the isolates belonging to clusters A and B were similar to the cluster in MLST typing, including SalE7, 9, 29, and 37. However, there was no evidence showing a relationship between source, serotype, and antibiotic resistance.",
+            "block_bbox": [
+                86,
+                406,
+                584,
+                612
+            ],
+            "block_id": 5,
+            "block_order": 3,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                607,
+                94,
+                1104,
+                141
+            ],
+            "block_id": 6,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## 4 | DISCUSSION",
+            "block_bbox": [
+                609,
+                195,
+                811,
+                219
+            ],
+            "block_id": 7,
+            "block_order": 5,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Eggs were an important host of S. enterica. In the United States alone, eggs were responsible for 80% of the 371 known Salmonella food poisoning cases from 1985 to 1999. In 2010, more than 2,000 people in the United States contracted food poisoning from consuming eggs contaminated with Salmonella. This led to the recall of more than 550 million eggs and resulted in heavy economic losses (AI, 2004). In China, about 70% of bacterial food poisoning is caused by Salmonella, with eggs and egg products accounting for 90% of these (Wu, Qin, Shi, & Zheng, 2004). Our data found that 7.6% and 3.2% of farm and market egg samples were contaminated with Salmonella, respectively. The market eggs may have a lower positive rate due to stricter access rules. The results were also much lower than contamination pork (41.8%) and other meats (Capuano, Mancusi, Caparelli, Esposito, & Proroga, 2013). For the egg samples, the contamination",
+            "block_bbox": [
+                606,
+                250,
+                1106,
+                612
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_95_649_429_1426.jpg\" alt=\"Image\" width=\"28%\" /></div>\n",
+            "block_bbox": [
+                95,
+                649,
+                429,
+                1426
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'></td><td style='text-align: center;'>ST</td><td style='text-align: center;'>aroC</td><td style='text-align: center;'>dnaN</td><td style='text-align: center;'>hemD</td><td style='text-align: center;'>hisD</td><td style='text-align: center;'>purE</td><td style='text-align: center;'>sucA</td><td style='text-align: center;'>thrA</td></tr><tr><td style='text-align: center;'>SalE2,23</td><td style='text-align: center;'>3,218</td><td style='text-align: center;'>11</td><td style='text-align: center;'>10</td><td style='text-align: center;'>25</td><td style='text-align: center;'>790</td><td style='text-align: center;'>10</td><td style='text-align: center;'>58</td><td style='text-align: center;'>4</td></tr><tr><td style='text-align: center;'>SalE4</td><td style='text-align: center;'>419</td><td style='text-align: center;'>13</td><td style='text-align: center;'>11</td><td style='text-align: center;'>25</td><td style='text-align: center;'>72</td><td style='text-align: center;'>10</td><td style='text-align: center;'>23</td><td style='text-align: center;'>23</td></tr><tr><td style='text-align: center;'>SalE50</td><td style='text-align: center;'>1,581</td><td style='text-align: center;'>72</td><td style='text-align: center;'>32</td><td style='text-align: center;'>36</td><td style='text-align: center;'>33</td><td style='text-align: center;'>429</td><td style='text-align: center;'>79</td><td style='text-align: center;'>209</td></tr><tr><td style='text-align: center;'>SalE54</td><td style='text-align: center;'>906</td><td style='text-align: center;'>84</td><td style='text-align: center;'>161</td><td style='text-align: center;'>25</td><td style='text-align: center;'>356</td><td style='text-align: center;'>41</td><td style='text-align: center;'>23</td><td style='text-align: center;'>283</td></tr><tr><td style='text-align: center;'>SalE6,27,53</td><td style='text-align: center;'>852</td><td style='text-align: center;'>42</td><td style='text-align: center;'>11</td><td style='text-align: center;'>17</td><td style='text-align: center;'>42</td><td style='text-align: center;'>40</td><td style='text-align: center;'>71</td><td style='text-align: center;'>102</td></tr><tr><td style='text-align: center;'>SalE34,35,41</td><td style='text-align: center;'>654</td><td style='text-align: center;'>111</td><td style='text-align: center;'>47</td><td style='text-align: center;'>49</td><td style='text-align: center;'>42</td><td style='text-align: center;'>12</td><td style='text-align: center;'>58</td><td style='text-align: center;'>3</td></tr><tr><td style='text-align: center;'>SalE3</td><td style='text-align: center;'>463</td><td style='text-align: center;'>92</td><td style='text-align: center;'>125</td><td style='text-align: center;'>78</td><td style='text-align: center;'>128</td><td style='text-align: center;'>138</td><td style='text-align: center;'>9</td><td style='text-align: center;'>141</td></tr><tr><td style='text-align: center;'>SalE20</td><td style='text-align: center;'>469</td><td style='text-align: center;'>92</td><td style='text-align: center;'>107</td><td style='text-align: center;'>79</td><td style='text-align: center;'>156</td><td style='text-align: center;'>64</td><td style='text-align: center;'>151</td><td style='text-align: center;'>87</td></tr><tr><td style='text-align: center;'>SalE38,49</td><td style='text-align: center;'>14</td><td style='text-align: center;'>7</td><td style='text-align: center;'>6</td><td style='text-align: center;'>8</td><td style='text-align: center;'>8</td><td style='text-align: center;'>7</td><td style='text-align: center;'>8</td><td style='text-align: center;'>13</td></tr><tr><td style='text-align: center;'>SalE12,52</td><td style='text-align: center;'>3,385</td><td style='text-align: center;'>4</td><td style='text-align: center;'>64</td><td style='text-align: center;'>8</td><td style='text-align: center;'>278</td><td style='text-align: center;'>2</td><td style='text-align: center;'>146</td><td style='text-align: center;'>672</td></tr><tr><td style='text-align: center;'>SalE48</td><td style='text-align: center;'>185</td><td style='text-align: center;'>71</td><td style='text-align: center;'>65</td><td style='text-align: center;'>67</td><td style='text-align: center;'>75</td><td style='text-align: center;'>61</td><td style='text-align: center;'>9</td><td style='text-align: center;'>64</td></tr><tr><td style='text-align: center;'>SalE11,30,31</td><td style='text-align: center;'>365</td><td style='text-align: center;'>130</td><td style='text-align: center;'>97</td><td style='text-align: center;'>25</td><td style='text-align: center;'>125</td><td style='text-align: center;'>84</td><td style='text-align: center;'>9</td><td style='text-align: center;'>101</td></tr><tr><td style='text-align: center;'>SalE47</td><td style='text-align: center;'>111</td><td style='text-align: center;'>41</td><td style='text-align: center;'>42</td><td style='text-align: center;'>43</td><td style='text-align: center;'>12</td><td style='text-align: center;'>9</td><td style='text-align: center;'>12</td><td style='text-align: center;'>53</td></tr><tr><td style='text-align: center;'>SalE29,43</td><td style='text-align: center;'>3,015</td><td style='text-align: center;'>10</td><td style='text-align: center;'>7</td><td style='text-align: center;'>12</td><td style='text-align: center;'>9</td><td style='text-align: center;'>621</td><td style='text-align: center;'>9</td><td style='text-align: center;'>2</td></tr><tr><td style='text-align: center;'>SalE15</td><td style='text-align: center;'>3,013</td><td style='text-align: center;'>10</td><td style='text-align: center;'>7</td><td style='text-align: center;'>12</td><td style='text-align: center;'>9</td><td style='text-align: center;'>5</td><td style='text-align: center;'>9</td><td style='text-align: center;'>639</td></tr><tr><td style='text-align: center;'>SalE5,17,39</td><td style='text-align: center;'>1,647</td><td style='text-align: center;'>10</td><td style='text-align: center;'>7</td><td style='text-align: center;'>12</td><td style='text-align: center;'>517</td><td style='text-align: center;'>112</td><td style='text-align: center;'>9</td><td style='text-align: center;'>2</td></tr><tr><td style='text-align: center;'>SalE1,8</td><td style='text-align: center;'>533</td><td style='text-align: center;'>14</td><td style='text-align: center;'>7</td><td style='text-align: center;'>3</td><td style='text-align: center;'>191</td><td style='text-align: center;'>6</td><td style='text-align: center;'>19</td><td style='text-align: center;'>12</td></tr><tr><td style='text-align: center;'>SalE25</td><td style='text-align: center;'>15</td><td style='text-align: center;'>2</td><td style='text-align: center;'>7</td><td style='text-align: center;'>9</td><td style='text-align: center;'>9</td><td style='text-align: center;'>5</td><td style='text-align: center;'>9</td><td style='text-align: center;'>12</td></tr><tr><td style='text-align: center;'>SalE42</td><td style='text-align: center;'>29</td><td style='text-align: center;'>16</td><td style='text-align: center;'>16</td><td style='text-align: center;'>20</td><td style='text-align: center;'>18</td><td style='text-align: center;'>8</td><td style='text-align: center;'>12</td><td style='text-align: center;'>18</td></tr><tr><td style='text-align: center;'>SalE16</td><td style='text-align: center;'>3,154</td><td style='text-align: center;'>16</td><td style='text-align: center;'>2</td><td style='text-align: center;'>513</td><td style='text-align: center;'>43</td><td style='text-align: center;'>36</td><td style='text-align: center;'>39</td><td style='text-align: center;'>42</td></tr><tr><td style='text-align: center;'>SalE46</td><td style='text-align: center;'>2,367</td><td style='text-align: center;'>534</td><td style='text-align: center;'>2</td><td style='text-align: center;'>45</td><td style='text-align: center;'>43</td><td style='text-align: center;'>36</td><td style='text-align: center;'>39</td><td style='text-align: center;'>42</td></tr><tr><td style='text-align: center;'>SalE19</td><td style='text-align: center;'>770</td><td style='text-align: center;'>188</td><td style='text-align: center;'>37</td><td style='text-align: center;'>18</td><td style='text-align: center;'>46</td><td style='text-align: center;'>5</td><td style='text-align: center;'>2</td><td style='text-align: center;'>34</td></tr><tr><td style='text-align: center;'>SalE40</td><td style='text-align: center;'>155</td><td style='text-align: center;'>10</td><td style='text-align: center;'>60</td><td style='text-align: center;'>58</td><td style='text-align: center;'>66</td><td style='text-align: center;'>6</td><td style='text-align: center;'>65</td><td style='text-align: center;'>16</td></tr><tr><td style='text-align: center;'>SalE26</td><td style='text-align: center;'>826</td><td style='text-align: center;'>19</td><td style='text-align: center;'>81</td><td style='text-align: center;'>8</td><td style='text-align: center;'>20</td><td style='text-align: center;'>5</td><td style='text-align: center;'>9</td><td style='text-align: center;'>185</td></tr><tr><td style='text-align: center;'>SalE21</td><td style='text-align: center;'>40</td><td style='text-align: center;'>19</td><td style='text-align: center;'>20</td><td style='text-align: center;'>3</td><td style='text-align: center;'>20</td><td style='text-align: center;'>5</td><td style='text-align: center;'>22</td><td style='text-align: center;'>22</td></tr><tr><td style='text-align: center;'>SalE13,14,24</td><td style='text-align: center;'>813</td><td style='text-align: center;'>39</td><td style='text-align: center;'>107</td><td style='text-align: center;'>79</td><td style='text-align: center;'>20</td><td style='text-align: center;'>8</td><td style='text-align: center;'>35</td><td style='text-align: center;'>2</td></tr><tr><td style='text-align: center;'>SalE10,30,36</td><td style='text-align: center;'>3,817</td><td style='text-align: center;'>5</td><td style='text-align: center;'>2</td><td style='text-align: center;'>3</td><td style='text-align: center;'>7</td><td style='text-align: center;'>6</td><td style='text-align: center;'>681</td><td style='text-align: center;'>11</td></tr><tr><td style='text-align: center;'>SalE18</td><td style='text-align: center;'>640</td><td style='text-align: center;'>5</td><td style='text-align: center;'>2</td><td style='text-align: center;'>3</td><td style='text-align: center;'>7</td><td style='text-align: center;'>6</td><td style='text-align: center;'>11</td><td style='text-align: center;'>11</td></tr><tr><td style='text-align: center;'>SalE45</td><td style='text-align: center;'>1,494</td><td style='text-align: center;'>5</td><td style='text-align: center;'>2</td><td style='text-align: center;'>3</td><td style='text-align: center;'>491</td><td style='text-align: center;'>5</td><td style='text-align: center;'>5</td><td style='text-align: center;'>10</td></tr><tr><td style='text-align: center;'>SalE33</td><td style='text-align: center;'>141</td><td style='text-align: center;'>59</td><td style='text-align: center;'>58</td><td style='text-align: center;'>56</td><td style='text-align: center;'>62</td><td style='text-align: center;'>51</td><td style='text-align: center;'>59</td><td style='text-align: center;'>16</td></tr><tr><td style='text-align: center;'>SalE51</td><td style='text-align: center;'>288</td><td style='text-align: center;'>102</td><td style='text-align: center;'>15</td><td style='text-align: center;'>8</td><td style='text-align: center;'>105</td><td style='text-align: center;'>8</td><td style='text-align: center;'>18</td><td style='text-align: center;'>103</td></tr><tr><td style='text-align: center;'>SalE72822</td><td style='text-align: center;'>2,822</td><td style='text-align: center;'>30</td><td style='text-align: center;'>28</td><td style='text-align: center;'>31</td><td style='text-align: center;'>151</td><td style='text-align: center;'>57</td><td style='text-align: center;'>29</td><td style='text-align: center;'>30</td></tr><tr><td style='text-align: center;'>SalE37</td><td style='text-align: center;'>4,345</td><td style='text-align: center;'>33</td><td style='text-align: center;'>26</td><td style='text-align: center;'>30</td><td style='text-align: center;'>282</td><td style='text-align: center;'>21</td><td style='text-align: center;'>87</td><td style='text-align: center;'>805</td></tr><tr><td style='text-align: center;'>SalE44</td><td style='text-align: center;'>2,863</td><td style='text-align: center;'>191</td><td style='text-align: center;'>23</td><td style='text-align: center;'>27</td><td style='text-align: center;'>22</td><td style='text-align: center;'>589</td><td style='text-align: center;'>24</td><td style='text-align: center;'>174</td></tr><tr><td style='text-align: center;'>SalE9</td><td style='text-align: center;'>4,063</td><td style='text-align: center;'>738</td><td style='text-align: center;'>22</td><td style='text-align: center;'>27</td><td style='text-align: center;'>22</td><td style='text-align: center;'>18</td><td style='text-align: center;'>131</td><td style='text-align: center;'>24</td></tr><tr><td style='text-align: center;'>SalE22</td><td style='text-align: center;'>1,551</td><td style='text-align: center;'>25</td><td style='text-align: center;'>77</td><td style='text-align: center;'>27</td><td style='text-align: center;'>22</td><td style='text-align: center;'>18</td><td style='text-align: center;'>131</td><td style='text-align: center;'>24</td></tr><tr><td style='text-align: center;'>SalE28</td><td style='text-align: center;'>3,315</td><td style='text-align: center;'>65</td><td style='text-align: center;'>451</td><td style='text-align: center;'>29</td><td style='text-align: center;'>312</td><td style='text-align: center;'>20</td><td style='text-align: center;'>617</td><td style='text-align: center;'>60</td></tr></table>",
+            "block_bbox": [
+                444,
+                629,
+                1101,
+                1393
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">FIGURE 2 Multilocus sequence typing minimum evolution tree of the Salmonella isolates</div>\n",
+            "block_bbox": [
+                86,
+                1447,
+                760,
+                1469
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "aside_text",
+            "block_content": "20487177, 2019, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/lsn3.1126 by Schweizerische Akademie Der, Wiley Online Library on [16/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+            "block_bbox": [
+                1152,
+                23,
+                1171,
+                1541
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8688684105873108,
+                "coordinate": [
+                    90.05319213867188,
+                    44.50492477416992,
+                    127.548828125,
+                    61.46328353881836
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6924833655357361,
+                "coordinate": [
+                    262.330810546875,
+                    51.13673400878906,
+                    416.6263427734375,
+                    69.0433578491211
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8812524676322937,
+                "coordinate": [
+                    1040.998291015625,
+                    44.860992431640625,
+                    1102.564208984375,
+                    62.59275817871094
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9451686143875122,
+                "coordinate": [
+                    87.67431640625,
+                    105.10418701171875,
+                    413.94207763671875,
+                    129.41934204101562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880216121673584,
+                "coordinate": [
+                    86.3388671875,
+                    146.91012573242188,
+                    583.45166015625,
+                    401.8642883300781
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878339767456055,
+                "coordinate": [
+                    86.04339599609375,
+                    406.28460693359375,
+                    584.1268310546875,
+                    612.0905151367188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9668553471565247,
+                "coordinate": [
+                    607.6339111328125,
+                    94.36671447753906,
+                    1104.8148193359375,
+                    141.76658630371094
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9343465566635132,
+                "coordinate": [
+                    609.2525634765625,
+                    195.295166015625,
+                    811.4715576171875,
+                    219.69033813476562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884540438652039,
+                "coordinate": [
+                    606.63671875,
+                    250.4725341796875,
+                    1106.347900390625,
+                    612.4869384765625
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.6390857696533203,
+                "coordinate": [
+                    95.61172485351562,
+                    649.1495361328125,
+                    429.3099670410156,
+                    1426.9991455078125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9180542826652527,
+                "coordinate": [
+                    444.20489501953125,
+                    629.3775634765625,
+                    1101.38134765625,
+                    1393.5262451171875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9403069615364075,
+                "coordinate": [
+                    86.85443115234375,
+                    1447.076416015625,
+                    760.701171875,
+                    1469.521240234375
+                ]
+            },
+            {
+                "cls_id": 2,
+                "label": "aside_text",
+                "score": 0.9227535724639893,
+                "coordinate": [
+                    1152.806396484375,
+                    23.85357666015625,
+                    1171.603759765625,
+                    1541.148681640625
+                ]
+            }
+        ]
+    }
+}

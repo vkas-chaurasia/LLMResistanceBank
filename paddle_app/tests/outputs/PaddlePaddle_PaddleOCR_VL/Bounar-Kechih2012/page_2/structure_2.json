@@ -1,0 +1,383 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bounar-Kechih2012.pdf",
+    "page_index": 1,
+    "page_count": 7,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "1180",
+            "block_bbox": [
+                87,
+                53,
+                135,
+                75
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "BOUNAR-KECHIH ET AL.",
+            "block_bbox": [
+                488,
+                53,
+                732,
+                77
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "at the medical bacteriology department of the Regional Veterinary Laboratory of Draa-Ben-Khedda.",
+            "block_bbox": [
+                83,
+                91,
+                598,
+                142
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I solation and Identification of Salmonella Strains",
+            "block_bbox": [
+                83,
+                166,
+                398,
+                223
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "The NF U 47–100/2007 (Afnor, 2007) standard method was adopted for the isolation and the biochemical and serological identification of Salmonella. The serotyping was carried out at the enterobacteria service of the Institut Pasteur of Algeria, using Salmonella antiserums anti-O and anti-H (BioMérieux, Marcy l'Etoile, France).",
+            "block_bbox": [
+                82,
+                236,
+                599,
+                409
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial Sensitivity Testing",
+            "block_bbox": [
+                83,
+                434,
+                465,
+                463
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "The phenotypic study of the antimicrobial resistance was performed at the Bacteriology and Antibiotherapy Department of the Institut Pasteur of Algeria. Thirty-four antimicrobial agents of 9 different chemical classes were used: ampicillin (10  $ \\mu $ g), amoxicillin/clavulanic acid (20  $ \\mu $ g/10  $ \\mu $ g), mecillinam (10  $ \\mu $ g), ticarillin (75  $ \\mu $ g), piperacillin (100  $ \\mu $ g), latamoxef (30  $ \\mu $ g), imepenem (10  $ \\mu $ g), aztreonam (30  $ \\mu $ g), cefazolin (30  $ \\mu $ g), cefalexin (30  $ \\mu $ g), cefoxitin (30  $ \\mu $ g), ceftazidim (30  $ \\mu $ g), cefepim (30  $ \\mu $ g), cefuroxim (30  $ \\mu $ g), cefotaxim (30  $ \\mu $ g), to ceftiofur (30  $ \\mu $ g), cephalotin (30  $ \\mu $ g), gentamicin (10  $ \\mu $ g), amikacin (30  $ \\mu $ g), netilmicin (30  $ \\mu $ g), kanamycin (30  $ \\mu $ g), isepamicin (30  $ \\mu $ g), nitrofurantoin (300  $ \\mu $ g), nalidixic acid (30  $ \\mu $ g), ciprofloxacin (5  $ \\mu $ g), enrofloxacin (5  $ \\mu $ g), levofloxacin (5  $ \\mu $ g), tetracyclines (30  $ \\mu $ g), chloramphenicol (30  $ \\mu $ g), sulphonamides (300  $ \\mu $ g), trimethoprim (5  $ \\mu $ g), trimethoprim/sulfamethoxazole (1.25  $ \\mu $ g/23.75  $ \\mu $ g), colistin (10  $ \\mu $ g), and fosfomycin (200  $ \\mu $ g; Bio-Rad, Hercules, CA). Micrograms indicate the antibiotic load in one disk; the unit of this load (expressed in micrograms) for each antibiotic used for each bacterial species is specified by the supplier (Bio-Rad). The minimum inhibitory concentration was established using the E-test (AB-Biodisk). Escherichia coli ATCC 25922 (Institut Pasteur Paris, Paris, France) was used for the control antibiograms. The method adopted for the study of the antimicrobial resistance is based on the diffusion in Mueller-Hinton agar media as described by Kirby-Bauer and interpreted according to the Clinical Laboratory Standards Institute (CLSI, 2001) guidelines, which are recommended by the World Health Organization (WHO, 1999). In our study, the multiresistant strains are the ones that confer a resistance to 2 or more antimicrobials. The study of genetic support required the use of antimicrobial powders: tetracycline (Sigma, Woodstock, VA), nalidixic acid (Serva, Heidelberg, Germany), rifampicin (Life-pharmacy, Tuen Mun, Hong Kong, China), nitrofurantoin (Saidal, Annaba, Algeria), kanamycin (Bristol-Meyers Squibb, New York, NY), trimethoprim (Roche, Basel, Switzerland), injectable sodic ampicillin (Biopharm, Bothell, WA), chloramphenicol sodic ampicillin (Serva Peinbiochemica). Also, several reference strains and plasmids",
+            "block_bbox": [
+                82,
+                477,
+                600,
+                1513
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "were used (Institut Pasteur Paris): Escherichia coli K12Nal (nalidixic acid resistance) and Escherichia coli C600Rif (rifampicin resistance) for the plasmid transfer by conjugation and Com1 (K) Rif, Com1 PPED 178 (ACTp) Rif, F1me PPED 181/4(T) Nal, and F1me PPED 181/3(CTp) Rif for the compatibility test, as well as the DNA of the  $ \\lambda $  phage digested by the Hind III enzyme as a reference to determine the size of the plasmids. The genetic transfer by conjugation that was used for the detection of plasmids carrying the resistance characters was described by Courvalin et al. (1985). After streaking on agar bromocresol purple and 18 to 24 h of incubation at 35°C, a colony of the studied donor strain and that of the recipient reference strain were individually inoculated in buffered glucose broth. After shaking for 4 h in a water bath at 35°C, 1 mL of each culture was mixed with a rake on Mueller-Hinton agar and incubated for 18 h at 35°C. One milliliter of buffered glucose broth was added, and then the supernatant was recovered after mixing. Moreover, 1 mL of an antibiotic for the suspected plasmidic character for the donor strain and 1 mL of another antibiotic for the suspected chromosomal character for the receiving strain were added to 18 mL of Mueller-Hinton agar. The final concentrations of the antibiotics used are Furans, 300  $ \\mu $ g/mL; TCY, 33  $ \\mu $ g/mL; ampicillin, 200  $ \\mu $ g/mL; kanamycin, 25  $ \\mu $ g/mL; Nal, 100  $ \\mu $ g/mL; TMP, 20  $ \\mu $ g/mL; CCC, 25  $ \\mu $ g/mL. A quarter of a Petri dish was seeded in lines by the 2 strains and the 3/4 remaining were streaked by the supernatant (mixture of these 2 strains). After 18 h of incubation at 35°C, the appearance of colonies on the part inoculated with the supernatant indicates the presence of the transconjugants.",
+            "block_bbox": [
+                621,
+                90,
+                1140,
+                884
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "The resulting transconjugants were tested to determine their resistance profiles and therefore their transferable characteristics. To determine the major incompatibility groups of plasmids the used test was the same as for the genetic transfer; it required a cross between a transconjugant and E. coli carrying a plasmid reference. The plasmids were extracted from the transferred strains and their transconjugants, using the alkaline lyse technique (Kado and Liu, 1981), and the plasmid profiles were determined by separating the plasmids extracted on agarose gel.",
+            "block_bbox": [
+                621,
+                884,
+                1139,
+                1151
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## RESULTS",
+            "block_bbox": [
+                821,
+                1176,
+                941,
+                1203
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Nineteen percent of the total samples were positive for Salmonella. The distribution of Salmonella per wilaya showed 48% of cases from Bouira, 21% from Bejaïa, 16% from Boumerdes, and 15% from Tizi-Ouzou. Thirteen different serotypes were identified, among which Salmonella Heidelberg was the most prevalent (24%). Salmonella Heidelberg, Salmonella Enteritidis, Salmonella Albany, Salmonella Infantis, Salmonella Blockley, and Salmonella Livingstone were present in all the wilayas. Besides, Salmonella Enteritidis prevailed in Bouira, Salmonella Albany in Bejaïa and Tizi-Ouzou, and Salmonella Heidelberg in Boumerdes (Table 1).",
+            "block_bbox": [
+                621,
+                1218,
+                1140,
+                1512
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8997418284416199,
+                "coordinate": [
+                    87.61738586425781,
+                    53.25609588623047,
+                    135.6559600830078,
+                    75.1884536743164
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9273577928543091,
+                "coordinate": [
+                    488.378662109375,
+                    53.97336196899414,
+                    732.3270263671875,
+                    77.20236206054688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.966482400894165,
+                "coordinate": [
+                    83.2969970703125,
+                    91.06466674804688,
+                    598.1410522460938,
+                    142.6072540283203
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9623107314109802,
+                "coordinate": [
+                    83.53175354003906,
+                    166.37289428710938,
+                    398.53717041015625,
+                    223.32485961914062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9843892455101013,
+                "coordinate": [
+                    82.54055786132812,
+                    236.22164916992188,
+                    599.2606201171875,
+                    409.0057678222656
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9475444555282593,
+                "coordinate": [
+                    83.78286743164062,
+                    434.685791015625,
+                    465.5682678222656,
+                    463.8619384765625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40042224526405334,
+                "coordinate": [
+                    277.91436767578125,
+                    766.821533203125,
+                    346.19476318359375,
+                    791.1083984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988532304763794,
+                "coordinate": [
+                    82.13580322265625,
+                    477.5191650390625,
+                    600.044921875,
+                    1513.5906982421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880083799362183,
+                "coordinate": [
+                    621.6434326171875,
+                    90.9091796875,
+                    1140.5364990234375,
+                    884.279052734375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5223670601844788,
+                "coordinate": [
+                    872.4268188476562,
+                    379.7803955078125,
+                    920.7922973632812,
+                    403.7020263671875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5442091226577759,
+                "coordinate": [
+                    1002.5299072265625,
+                    451.87225341796875,
+                    1052.5374755859375,
+                    475.96270751953125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.49772292375564575,
+                "coordinate": [
+                    627.69677734375,
+                    740.9166870117188,
+                    695.048583984375,
+                    765.0349731445312
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4977463483810425,
+                "coordinate": [
+                    880.5868530273438,
+                    692.0720825195312,
+                    950.5663452148438,
+                    716.7702026367188
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.48736703395843506,
+                "coordinate": [
+                    789.8021240234375,
+                    741.6453857421875,
+                    855.3297119140625,
+                    765.9388427734375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4868534207344055,
+                "coordinate": [
+                    1000.7491455078125,
+                    763.8463745117188,
+                    1036.75146484375,
+                    788.6773071289062
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40314042568206787,
+                "coordinate": [
+                    968.7166748046875,
+                    812.010498046875,
+                    1017.1690673828125,
+                    835.646484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876022934913635,
+                "coordinate": [
+                    621.9168701171875,
+                    884.266845703125,
+                    1139.9869384765625,
+                    1151.218994140625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9212179780006409,
+                "coordinate": [
+                    821.820068359375,
+                    1176.0010986328125,
+                    941.31201171875,
+                    1203.3636474609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875943660736084,
+                "coordinate": [
+                    621.39111328125,
+                    1218.71826171875,
+                    1140.09521484375,
+                    1512.0009765625
+                ]
+            }
+        ]
+    }
+}

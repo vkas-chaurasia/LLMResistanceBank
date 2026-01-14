@@ -1,0 +1,319 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_1.pdf",
+    "page_index": 1,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                56,
+                168,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "ARGs with Staphylococci Chicken Meat",
+            "block_bbox": [
+                857,
+                55,
+                1104,
+                74
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "of the quinolone-resistance-determining-regions, the identification of MRSA and MR-CNS from retail chicken meat in Egypt. In addition, these isolates might indicate the promulgation of methicillin, oxacillin and vancomycin resistance in the community and imply food safety hazards.",
+            "block_bbox": [
+                349,
+                120,
+                1105,
+                229
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Keywords: antimicrobial resistance phenotype, resistance in the quinolone-resistance-determining-regions, biofilm, chicken meat, mecA gene",
+            "block_bbox": [
+                349,
+                237,
+                1104,
+                278
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I NTRODUCTION",
+            "block_bbox": [
+                84,
+                320,
+                278,
+                345
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Globally, health-conscious consumers have declined from consuming beef red meat which has been linked to heart disease, to choose leaner and easy digestible meats perceiving chicken, a white meat, to be a healthier option (Hathwar et al., 2012). Numerous potential vehicles of transmission of foodborne pathogens exist and commercial chicken meat has been identified as one of the most important food vehicles for these organisms, antimicrobial-resistant bacteria and antimicrobial resistance genes (Phillips et al., 2004; Aarestrup and Schwarz, 2006; Verraes et al., 2013). However, the bearing of foodborne pathogens in poultry meat and its by-products is a disturbing issue in the poultry industry due to its impact on public health and a challenge to the medical and veterinary officials worldwide (APUA, 2010a; Ruban and Fairoze, 2011). Epidemiologically, poultry meat is of paramount importance and still inculpated as a prime source of human food poisoning (Kadariya et al., 2014). Although specific data on the burden of foodborne disease associated with Staphylococcus in poultry meat has been previously limited (Capita et al., 2002; Pesavento et al., 2007; Persoons et al., 2009), yet it has gained importance in the last couple of years (Bhargava et al., 2011; Hanson et al., 2011; Boost et al., 2013; He et al., 2013; Martins et al., 2013; Momtaz et al., 2013; Yurdakul et al., 2013; Islam et al., 2014; Khallaf et al., 2014; Xin et al., 2014; Abdalrahman et al., 2015; Owuna et al., 2015; Pinto et al., 2015; Bortolaia et al., 2016; Teramoto et al., 2016), it is considered to be significant to be a disturbing issue in the poultry industry due to its impact on public health and a challenge to the medical and veterinary officials worldwide (APUA, 2010a; Ruban and Fairoze, 2011).",
+            "block_bbox": [
+                82,
+                365,
+                585,
+                1030
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "The Genus Staphylococcus is very well-characterized consisting of 51 species and 27 sub-species (www.bacterio.net/staphylococcus.html). S. aureus is the most significant species within this genus, termed as coagulase-positive-Staphylococcus (CPS) by virtue of its versatility as a pathogen in humans and animals in addition to its being one of the causes of food intoxication (Jørgensen et al., 2005; Cunha, 2009). Other Staphylococcus species, collectively termed coagulase-negative-staphylococci (CNS), have gained importance as they have been implicated to be responsible for a variety of opportunistic infections in humans and animals (Vuong and Otto, 2002), their association with nosocomial infections in neonatal intensive care units and food poisoning in spite of the fact that, they are also not classical food poisoning bacteria (Cortes et al., 2013; Becker et al., 2014; Tong et al., 2015) as they are less pathogenic than S. aureus possessing a smaller array of virulence factors (Becker et al., 2014). Due to the ubiquity of many of the species within this group, their clinical significance has traditionally been dismissed, and when isolated from clinical specimens, the bacteria have merely been regarded as contaminants (Becker et al., 2014). This perception is, however, changing as many species have emerged as important causes of nosocomial infections, particularly in relation to foreign device-related infections and infections in immunocompromised patients (Ibrahem et al., 2009; Mathema et al., 2009). Almost half of all the CNS species that have been identified to date have been implicated in human infections (Lowy, 2013) and a PubMed search on CNS results in more than 15,000 references, reflecting the increasing medical impact of these bacteria (Becker et al., 2014).",
+            "block_bbox": [
+                82,
+                1030,
+                585,
+                1423
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                603,
+                324,
+                1106,
+                599
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "The propensity for staphylococci to develop antimicrobial resistance is a cause for great concern in both human and veterinary medicine (Vanderhaeghen et al., 2010). Globally, antimicrobial resistance was highlighted as a priority issue (Davies and Davies, 2010; Acar and Moulin, 2012; WHO, 2012; World Economic Forum, 2013; One Health Commission, 2014) due to the increase in the public disquietness about the rampant promulgation of antimicrobial resistant bacteria (AMRB) causing a drop in the food supply as a result of treatment failure of the infected livestock, in addition to curtailment on international animal trade and human traveling. The connection between antibiotic use and antibiotic resistance profiles in chicken and human health has been reviewed by Marshall and Levy (2011) which also included methicillin-resistant S. aureus (MRSA) and which has been found in 12% of animal products—beef, veal, lamb, pork, and a variety of fowl—in Denmark (Normanno et al., 2007; de Boer et al., 2009). The European Food Safety Authority, the European Commission, and the European Centre for Disease Prevention, Control (ECDC), the U.S. National Antimicrobial Resistance Monitoring System (NARMS), a collaboration of the Food and Drug Administration (FDA), the Centers for Disease Control and Prevention (CDC), and the U.S. Department of Agriculture, routinely compile surveillance reports on antibiotic resistance in chicken from member countries which includes in some cases methicillin-susceptible S. aureus (MRSA). Significant levels of resistance are reported but the patterns vary considerably (CDDEP, 2015). The MRSA associated with animals and its relevance to human health has been highlighted by Pantosti (2012). Although, CNS is recognized as technologically/hygienically very important bacteria in food production and preservation (Hadziosmanović et al., 2005; Šušković et al., 2010), yet its presence in food is beyond any doubt of public health significance due to the possible promulgation of AMRB and antimicrobial resistant genes (AMRG) (Zdolec et al., 2012a,b, 2013a,b; Dobranić et al., 2013; Chajecka-Wierzchowska et al., 2015). In previous",
+            "block_bbox": [
+                602,
+                600,
+                1107,
+                1423
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1483,
+                364,
+                1503
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "number",
+            "block_content": "2",
+            "block_bbox": [
+                587,
+                1484,
+                602,
+                1500
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "footer",
+            "block_content": "November 2016 | Volume 7 | Article 1846",
+            "block_bbox": [
+                850,
+                1482,
+                1104,
+                1502
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9240843653678894,
+                "coordinate": [
+                    85.55889892578125,
+                    56.261146545410156,
+                    168.79656982421875,
+                    74.28678131103516
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9428584575653076,
+                "coordinate": [
+                    857.6259765625,
+                    55.413089752197266,
+                    1104.26318359375,
+                    74.94497680664062
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9820026159286499,
+                "coordinate": [
+                    349.1229248046875,
+                    120.19645690917969,
+                    1105.9232177734375,
+                    229.88841247558594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9584744572639465,
+                "coordinate": [
+                    349.0930480957031,
+                    237.5587158203125,
+                    1104.3232421875,
+                    278.8466796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9446153044700623,
+                "coordinate": [
+                    84.63172912597656,
+                    320.01934814453125,
+                    278.807373046875,
+                    345.85626220703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884725213050842,
+                "coordinate": [
+                    82.64923095703125,
+                    365.49346923828125,
+                    585.0947265625,
+                    1030.115966796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886531233787537,
+                "coordinate": [
+                    82.71562194824219,
+                    1030.8994140625,
+                    585.5593872070312,
+                    1423.23828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882544279098511,
+                "coordinate": [
+                    603.04443359375,
+                    324.379638671875,
+                    1106.595458984375,
+                    599.3712158203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887062311172485,
+                "coordinate": [
+                    602.38525390625,
+                    600.5614013671875,
+                    1107.5888671875,
+                    1423.5457763671875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9250260591506958,
+                "coordinate": [
+                    85.33685302734375,
+                    1483.0806884765625,
+                    364.6311340332031,
+                    1503.1243896484375
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8486805558204651,
+                "coordinate": [
+                    587.6182250976562,
+                    1484.1932373046875,
+                    602.3510131835938,
+                    1500.6260986328125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9271717667579651,
+                "coordinate": [
+                    850.5943603515625,
+                    1482.5728759765625,
+                    1104.0260009765625,
+                    1502.6458740234375
+                ]
+            }
+        ]
+    }
+}

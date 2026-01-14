@@ -1,0 +1,485 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Nguyen2016.pdf",
+    "page_index": 8,
+    "page_count": 9,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Nguyen et al. Gut Pathog (2016) 8:39",
+            "block_bbox": [
+                109,
+                63,
+                354,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 9 of 9",
+            "block_bbox": [
+                1001,
+                65,
+                1080,
+                84
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "46. Ventola CL. The antibiotic resistance crisis: part 1: causes and threats. Pharm Ther. 2015;40:277–83.",
+            "block_bbox": [
+                112,
+                174,
+                550,
+                208
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "47. Levy SB. Factors impacting on the problem of antibiotic resistance. J Antimicrob Chemother. 2002;49:25–30.",
+            "block_bbox": [
+                112,
+                210,
+                550,
+                244
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "48. Zhang Q, Plummer P. Mechanisms of antibiotic resistance in Campylobacter. In: Nachamkin I, Szymanski C, Blaser M, editors. Campylobacter. 3rd ed. Washington DC: ASM Press; 2008. p. 263–76.",
+            "block_bbox": [
+                113,
+                246,
+                580,
+                299
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "49. Iovine NM. Resistance mechanisms in Campylobacter jejuni. Virulence. 2013;4:230–40.",
+            "block_bbox": [
+                113,
+                300,
+                556,
+                334
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "50. Chopra I, Roberts M. Tetracycline antibiotics: mode of action, applications, molecular biology, and epidemiology of bacterial resistance. Microbiol Mol Rev. 2001;62:232–60.",
+            "block_bbox": [
+                609,
+                173,
+                1072,
+                226
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "51. Kariuki S, Revathi G, Kariuki N, Kiiru J, Mwiruria J, Hart CA. Characterisation of community acquired non-typhoidal Salmonella from bacteraemia and diarrhoeal infection in children admitted to hospital in Nairobi Kenya. BMC Microbiol. 2006;6:101.",
+            "block_bbox": [
+                609,
+                228,
+                1075,
+                298
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "• We accept pre-submission inquiries",
+            "block_bbox": [
+                642,
+                1224,
+                888,
+                1242
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Submit your next manuscript to BioMed Central and we will help you at every step:",
+            "block_bbox": [
+                631,
+                1161,
+                1059,
+                1215
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Our selector tool helps you to find the most relevant journal",
+            "block_bbox": [
+                642,
+                1247,
+                1039,
+                1266
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "• We provide round the clock customer support",
+            "block_bbox": [
+                642,
+                1271,
+                954,
+                1290
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Convenient online submission",
+            "block_bbox": [
+                642,
+                1295,
+                853,
+                1314
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Thorough peer review",
+            "block_bbox": [
+                643,
+                1319,
+                802,
+                1338
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Inclusion in PubMed and all major indexing services",
+            "block_bbox": [
+                642,
+                1343,
+                987,
+                1362
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Maximum visibility for your research",
+            "block_bbox": [
+                643,
+                1367,
+                890,
+                1386
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Submit your manuscript at www.biomedcentral.com/submit",
+            "block_bbox": [
+                642,
+                1402,
+                854,
+                1435
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_905_1406_1052_1437.jpg\" alt=\"Image\" width=\"12%\" /></div>\n",
+            "block_bbox": [
+                905,
+                1406,
+                1052,
+                1437
+            ],
+            "block_id": 17,
+            "block_order": null,
+            "group_id": 17
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9472030997276306,
+                "coordinate": [
+                    109.5146484375,
+                    63.887351989746094,
+                    354.95599365234375,
+                    84.35852813720703
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9109723567962646,
+                "coordinate": [
+                    1001.2628173828125,
+                    65.2139663696289,
+                    1080.7332763671875,
+                    84.8724136352539
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9702379107475281,
+                "coordinate": [
+                    112.38357543945312,
+                    174.33706665039062,
+                    550.28125,
+                    208.60458374023438
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9811465740203857,
+                "coordinate": [
+                    109.86639404296875,
+                    173.60256958007812,
+                    584.0699462890625,
+                    335.5330505371094
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9678033590316772,
+                "coordinate": [
+                    112.605712890625,
+                    210.6314697265625,
+                    550.247314453125,
+                    244.53546142578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9763616323471069,
+                "coordinate": [
+                    113.2940673828125,
+                    246.7806396484375,
+                    580.8291625976562,
+                    299.06561279296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9657179713249207,
+                "coordinate": [
+                    113.8333740234375,
+                    300.8624267578125,
+                    556.1237182617188,
+                    334.2056884765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9770997166633606,
+                "coordinate": [
+                    609.6917724609375,
+                    173.65658569335938,
+                    1072.2589111328125,
+                    226.27651977539062
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.983127236366272,
+                "coordinate": [
+                    608.5565185546875,
+                    172.30136108398438,
+                    1075.4881591796875,
+                    299.69708251953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9780483245849609,
+                "coordinate": [
+                    609.4090576171875,
+                    228.05076599121094,
+                    1075.124267578125,
+                    298.6885986328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9364871382713318,
+                "coordinate": [
+                    642.3049926757812,
+                    1224.0750732421875,
+                    888.4302368164062,
+                    1242.6993408203125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9708569645881653,
+                "coordinate": [
+                    631.3975830078125,
+                    1161.6470947265625,
+                    1059.4322509765625,
+                    1215.6793212890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9454984664916992,
+                "coordinate": [
+                    642.1781005859375,
+                    1247.341796875,
+                    1039.679931640625,
+                    1266.55517578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9450355172157288,
+                "coordinate": [
+                    642.5122680664062,
+                    1271.8233642578125,
+                    954.5012817382812,
+                    1290.8431396484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9447934031486511,
+                "coordinate": [
+                    642.860107421875,
+                    1295.614501953125,
+                    853.3385009765625,
+                    1314.058349609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.939969539642334,
+                "coordinate": [
+                    643.165283203125,
+                    1319.8983154296875,
+                    802.991455078125,
+                    1338.3453369140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9430812001228333,
+                "coordinate": [
+                    642.9781494140625,
+                    1343.763427734375,
+                    987.2454833984375,
+                    1362.866455078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9434251189231873,
+                "coordinate": [
+                    643.03466796875,
+                    1367.7047119140625,
+                    890.673095703125,
+                    1386.7642822265625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8366249799728394,
+                "coordinate": [
+                    642.9699096679688,
+                    1402.66845703125,
+                    854.7600708007812,
+                    1435.4462890625
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.8441091179847717,
+                "coordinate": [
+                    905.1767578125,
+                    1406.0316162109375,
+                    1052.9080810546875,
+                    1437.0196533203125
+                ]
+            }
+        ]
+    }
+}

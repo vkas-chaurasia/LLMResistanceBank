@@ -1,0 +1,819 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Gharieb2015.pdf",
+    "page_index": 9,
+    "page_count": 11,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Gharieb et al. Gut Pathog (2015) 7:34",
+            "block_bbox": [
+                109,
+                66,
+                356,
+                86
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 10 of 11",
+            "block_bbox": [
+                984,
+                67,
+                1079,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 4 Primers' sequences and amplification's conditions used for detection of Salmonella virulence genes</div>\n",
+            "block_bbox": [
+                107,
+                176,
+                969,
+                199
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Target gene</td><td rowspan=\"2\">Primers’ sequences 5′-3′</td><td rowspan=\"2\">Amplified segment (bp)</td><td rowspan=\"2\">Primary denaturation</td><td colspan=\"3\">Amplification (35 cycles)</td><td rowspan=\"2\">Final extension</td><td rowspan=\"2\">References</td></tr><tr><td style='text-align: center;'>Secondary denaturation</td><td style='text-align: center;'>Annealing</td><td style='text-align: center;'>Extension</td></tr><tr><td style='text-align: center;'>pefA</td><td style='text-align: center;'>TGTTTCCGGGGCTTGTGCT</td><td style='text-align: center;'>700</td><td style='text-align: center;'>94 °C 10 min</td><td style='text-align: center;'>94 °C 45 s</td><td style='text-align: center;'>55 °C 45 s</td><td style='text-align: center;'>72 °C 45 s</td><td style='text-align: center;'>72 °C 10 min</td><td style='text-align: center;'>[4]</td></tr><tr><td style='text-align: center;'>hilA</td><td style='text-align: center;'>CGGAAGCTTATTTGCGCCATGCT GAGGTAG</td><td style='text-align: center;'>854</td><td style='text-align: center;'>94 °C 10 min</td><td style='text-align: center;'>94 °C 45 s</td><td style='text-align: center;'>60 °C 45 s</td><td style='text-align: center;'>72 °C 45 s</td><td style='text-align: center;'>72 °C 10 min</td><td style='text-align: center;'>[37]</td></tr><tr><td style='text-align: center;'>sopB</td><td style='text-align: center;'>TCAGAAGRCGTCTAACCACTC</td><td style='text-align: center;'>517</td><td style='text-align: center;'>94 °C 5 min</td><td style='text-align: center;'>94 °C 30 s</td><td style='text-align: center;'>58 °C 30 s</td><td style='text-align: center;'>72 °C 30 s</td><td style='text-align: center;'>72 °C 7 min</td><td style='text-align: center;'>[38]</td></tr><tr><td style='text-align: center;'>stn</td><td style='text-align: center;'>TTGTGTCGCTATCACTGGCAACC</td><td style='text-align: center;'>617</td><td style='text-align: center;'>94 °C 10 min</td><td style='text-align: center;'>94 °C 45 s</td><td style='text-align: center;'>59 °C 45 s</td><td style='text-align: center;'>72 °C 45 s</td><td style='text-align: center;'>72 °C 10 min</td><td style='text-align: center;'>[4]</td></tr><tr><td style='text-align: center;'>ATTCGTAACCCGCTCTCGTCC</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>",
+            "block_bbox": [
+                107,
+                204,
+                1078,
+                491
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3'CS- AAG CAG ACT TGA CCT GA [30]. Chromosomal DNA extraction, amplification and gel analysis were performed as mentioned before except to amplify the DNA in the thermal cycler we used a three-step profile (cycling conditions): 1 min of denaturation at 94 °C, 1 min of annealing at 55 °C, and 5 min of extension at 72 °C for a total of 35 cycles. Five seconds were added to the extension time at each cycle. Amplified products with variable sizes were purified using QIA quick PCR Product extraction kit (Qiagen, Valencia). Each purified amplicon was sequenced in both forward and reverse directions using the amplification primers. DNA sequences were obtained by Applied Biosystems 3130 genetic analyzer (HITACHI, Japan). Nucleotide sequence analysis was compared with published GenBank DNA sequences using NCBI BLAST program (http://www.ncbi.nlm.nih.gov/BLAST/) and alignment was performed using MEGA6 program.",
+            "block_bbox": [
+                106,
+                552,
+                586,
+                963
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Nucleotide sequence accession numbers",
+            "block_bbox": [
+                108,
+                986,
+                439,
+                1006
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Nucleotide sequences from this study were deposited into the GenBank under accession numbers [KT427378, KT449569, KT449570, KT449571, KT581253, KT581254, KT581255, KT581256, KT581257 and KT598359].",
+            "block_bbox": [
+                107,
+                1009,
+                584,
+                1105
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Authors' contributions",
+            "block_bbox": [
+                109,
+                1120,
+                261,
+                1138
+            ],
+            "block_id": 7,
+            "block_order": 4,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "RMG, YHT and MHE participated in the design of the study, collected and analyzed the samples. YHT participated in the sequence alignment. RMG and YHT drafted the manuscript. All authors read and approved the final manuscript.",
+            "block_bbox": [
+                107,
+                1137,
+                579,
+                1194
+            ],
+            "block_id": 8,
+            "block_order": 5,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Author details",
+            "block_bbox": [
+                109,
+                1210,
+                208,
+                1227
+            ],
+            "block_id": 9,
+            "block_order": 6,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{1} $  Department of Zoonoses, Faculty of Veterinary Medicine, Zagazig University, 44511 Zagazig, Egypt.  $ ^{2} $  Department of Bacteriology, Mycology and Immunology, Faculty of Veterinary Medicine, Zagazig University, 44511 Zagazig, Egypt.  $ ^{3} $  Department of Veterinary Public Health, Faculty of Veterinary Medicine, Zagazig University, 44511 Zagazig, Egypt.",
+            "block_bbox": [
+                108,
+                1227,
+                576,
+                1320
+            ],
+            "block_id": 10,
+            "block_order": 7,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Acknowledgements",
+            "block_bbox": [
+                109,
+                1336,
+                238,
+                1354
+            ],
+            "block_id": 11,
+            "block_order": 8,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "We are grateful to thank all administrators and clinicians in Al-Ahrar General Hospital, Zagazig, Egypt for their assistance in collecting stool samples.",
+            "block_bbox": [
+                107,
+                1354,
+                565,
+                1392
+            ],
+            "block_id": 12,
+            "block_order": 9,
+            "group_id": 12
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Competing interests",
+            "block_bbox": [
+                109,
+                1409,
+                248,
+                1426
+            ],
+            "block_id": 13,
+            "block_order": 10,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "The authors declare that they have no competing interests.",
+            "block_bbox": [
+                109,
+                1426,
+                468,
+                1446
+            ],
+            "block_id": 14,
+            "block_order": 11,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "Received: 17 September 2015  Accepted: 10 December 2015  \n\nPublished online: 23 December 2015",
+            "block_bbox": [
+                604,
+                551,
+                990,
+                592
+            ],
+            "block_id": 15,
+            "block_order": 12,
+            "group_id": 15
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## References",
+            "block_bbox": [
+                606,
+                655,
+                684,
+                674
+            ],
+            "block_id": 16,
+            "block_order": 13,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "1. Majowicz SE, Musto J, Scallan E, Angulo FJ, Kirk M, O'Brien SJ, et al. The global burden of non-typhoidal Salmonella gastroenteritis. Clin Infect Dis. 2010;50:882–9.",
+            "block_bbox": [
+                608,
+                675,
+                1075,
+                726
+            ],
+            "block_id": 17,
+            "block_order": 14,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "2. EFSA (European Food Safety Authority). The community summary report on trends and sources of zoonoses and zoonotic agents in the European Union in 2007. EFSA J. 2009;223:312. doi:10.2903/j.efsa.2009.223r.",
+            "block_bbox": [
+                608,
+                729,
+                1074,
+                781
+            ],
+            "block_id": 18,
+            "block_order": 15,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "3. Lostroh CP, Bajaj V, Lee CA. The cis requirements for transcriptional activation by HilA, a virulence determinant encoded on SPI-1. Mol Microbiol. 2000;37:300–15.",
+            "block_bbox": [
+                608,
+                783,
+                1074,
+                835
+            ],
+            "block_id": 19,
+            "block_order": 16,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "4. Murugkar HV, Rahman H, Dutta PK. Distribution of virulence genes in Salmonella serovars isolated from man and animals. Indian J Med Res. 2003;117:66–70.",
+            "block_bbox": [
+                608,
+                837,
+                1055,
+                888
+            ],
+            "block_id": 20,
+            "block_order": 17,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "5. Van Asten AJ, van Dijk JE. Distribution of classic virulence factors among Salmonella spp. FEMS Immunol Med Microbiol. 2005;44:251–9.",
+            "block_bbox": [
+                608,
+                891,
+                1068,
+                926
+            ],
+            "block_id": 21,
+            "block_order": 18,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "6. Threlfall EJ. Antimicrobial drug resistance in Salmonella: problems and perspectives in food- and water-borne infections. FEMS Microbiol Rev. 2002;26:141–8.",
+            "block_bbox": [
+                608,
+                927,
+                1058,
+                978
+            ],
+            "block_id": 22,
+            "block_order": 19,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "7. Chu C, Chiu CH. Evolution of the virulence plasmids of non-typhoidal Salmonella and its association with antimicrobial resistance. Microbes Infect. 2006;8(7):1931–6.",
+            "block_bbox": [
+                609,
+                981,
+                1055,
+                1033
+            ],
+            "block_id": 23,
+            "block_order": 20,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "8. Rowe-Magnus DA, Mazel D. The role of integrons in antibiotic resistance gene capture. Int J Med Microbiol. 2002;292(2):115–25.",
+            "block_bbox": [
+                608,
+                1035,
+                1068,
+                1070
+            ],
+            "block_id": 24,
+            "block_order": 21,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "9. Maharjan M, Joshi V, Joshi DD, Manandhar P. Prevalence of Salmonella species in various raw meat samples of a local market in Kathmandu. Trends in the study of disease agents. Ann NY Acad Sci. 2006;1081:249–56.",
+            "block_bbox": [
+                609,
+                1072,
+                1040,
+                1141
+            ],
+            "block_id": 25,
+            "block_order": 22,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "10. Arsenault J, Letellier A, Quessy S, Boulianne M. Prevalence and risk factors for Salmonella and Campylobacter spp. carcass contamination in broiler chickens slaughtered in Quebec, Canada. J Food Prot. 2007;70(8):1820–8.",
+            "block_bbox": [
+                610,
+                1143,
+                1074,
+                1196
+            ],
+            "block_id": 26,
+            "block_order": 23,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "11. Kaushik P, Anjay Kumari S, Bharti SK, Dayal S. Isolation and prevalence of Salmonella from chicken meat and cattle milk collected from local markets of Patna, India. Vet World. 2014;7(2):62–5.",
+            "block_bbox": [
+                610,
+                1198,
+                1051,
+                1249
+            ],
+            "block_id": 27,
+            "block_order": 24,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "12. Murugkar HV, Rahman H, Kumar A, Bhattacharyya D. Isolation, phage typing & antibiogram of Salmonella from man and animals in northeastern India. Indian J Med Res. 2005;122:237–42.",
+            "block_bbox": [
+                611,
+                1251,
+                1076,
+                1303
+            ],
+            "block_id": 28,
+            "block_order": 25,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "13. Vo ATT, Duijkeren EV, Fluit AC, Wannet WJB, Verbruggen AJ, Maas HME, et al. Antibiotic resistance, integrons and Salmonella genomic island 1 among non-typhoidal Salmonella serovars in the Netherlands. Int J Antimicrob Agents. 2006;28(3):172–9.",
+            "block_bbox": [
+                610,
+                1305,
+                1057,
+                1375
+            ],
+            "block_id": 29,
+            "block_order": 26,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "14. Dione MM, Ikumapayi U, Saha D, Mohammed NI, Adegbola RA, Geerts S, et al. Antimicrobial resistance and virulence genes of non-typhoidal Salmonella isolates in the Gambia and Senegal. J Infect Dev Ctries. 2011;5(11):765–75.",
+            "block_bbox": [
+                610,
+                1377,
+                1056,
+                1447
+            ],
+            "block_id": 30,
+            "block_order": 27,
+            "group_id": 30
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9451072812080383,
+                "coordinate": [
+                    109.180419921875,
+                    66.13954162597656,
+                    356.26544189453125,
+                    86.95204162597656
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8785352110862732,
+                "coordinate": [
+                    984.3040771484375,
+                    67.49942779541016,
+                    1079.4683837890625,
+                    88.16907501220703
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9506818056106567,
+                "coordinate": [
+                    107.98013305664062,
+                    176.54293823242188,
+                    969.750244140625,
+                    199.80194091796875
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9879939556121826,
+                "coordinate": [
+                    107.89694213867188,
+                    204.31661987304688,
+                    1078.253662109375,
+                    491.3974304199219
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5004585981369019,
+                "coordinate": [
+                    439.36212158203125,
+                    649.4014892578125,
+                    495.08746337890625,
+                    670.2298583984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6464557647705078,
+                "coordinate": [
+                    216.742919921875,
+                    673.1124267578125,
+                    268.1465759277344,
+                    694.8179931640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889717698097229,
+                "coordinate": [
+                    106.49798583984375,
+                    552.0261840820312,
+                    586.1463012695312,
+                    963.5949096679688
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40718528628349304,
+                "coordinate": [
+                    489.49371337890625,
+                    673.7025146484375,
+                    538.8198852539062,
+                    694.2239990234375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9471769332885742,
+                "coordinate": [
+                    108.84542846679688,
+                    986.5250854492188,
+                    439.2532043457031,
+                    1006.7649536132812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9831746220588684,
+                "coordinate": [
+                    107.41847229003906,
+                    1009.1716918945312,
+                    584.465576171875,
+                    1105.147216796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9368049502372742,
+                "coordinate": [
+                    109.00981140136719,
+                    1120.537353515625,
+                    261.66796875,
+                    1138.37646484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9737376570701599,
+                "coordinate": [
+                    107.43463134765625,
+                    1137.8338623046875,
+                    579.7628173828125,
+                    1194.5408935546875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.930982768535614,
+                "coordinate": [
+                    109.38995361328125,
+                    1210.4561767578125,
+                    208.92697143554688,
+                    1227.6954345703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9767032265663147,
+                "coordinate": [
+                    108.15353393554688,
+                    1227.689208984375,
+                    576.3748779296875,
+                    1320.833984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9360877275466919,
+                "coordinate": [
+                    109.48155212402344,
+                    1336.89990234375,
+                    238.77476501464844,
+                    1354.35986328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.964356005191803,
+                "coordinate": [
+                    107.98139953613281,
+                    1354.163818359375,
+                    565.9464721679688,
+                    1392.381591796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9261910915374756,
+                "coordinate": [
+                    109.48731231689453,
+                    1409.27392578125,
+                    248.06512451171875,
+                    1426.097900390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.942712128162384,
+                "coordinate": [
+                    109.03982543945312,
+                    1426.544921875,
+                    468.3147277832031,
+                    1446.1943359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.965578019618988,
+                "coordinate": [
+                    604.0294189453125,
+                    551.5328979492188,
+                    990.2569580078125,
+                    592.5298461914062
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9121326208114624,
+                "coordinate": [
+                    606.1213989257812,
+                    655.4896240234375,
+                    684.1107788085938,
+                    674.1920166015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9674183130264282,
+                "coordinate": [
+                    608.1954345703125,
+                    675.4425048828125,
+                    1075.7579345703125,
+                    726.9052734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.970604658126831,
+                "coordinate": [
+                    608.3187255859375,
+                    729.6690063476562,
+                    1074.6888427734375,
+                    781.5908813476562
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.973050594329834,
+                "coordinate": [
+                    608.71533203125,
+                    783.548583984375,
+                    1074.886962890625,
+                    835.234130859375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9744777083396912,
+                "coordinate": [
+                    608.7152099609375,
+                    837.9847412109375,
+                    1055.3541259765625,
+                    888.8682861328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9669808149337769,
+                "coordinate": [
+                    608.6767578125,
+                    891.889404296875,
+                    1068.068359375,
+                    926.16455078125
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9891252517700195,
+                "coordinate": [
+                    606.3272705078125,
+                    672.601318359375,
+                    1074.9605712890625,
+                    1447.152099609375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9735882878303528,
+                "coordinate": [
+                    608.9779052734375,
+                    927.9346923828125,
+                    1058.21533203125,
+                    978.3428955078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9758388996124268,
+                "coordinate": [
+                    609.0252685546875,
+                    981.3377685546875,
+                    1055.0223388671875,
+                    1033.0947265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9657633900642395,
+                "coordinate": [
+                    608.71435546875,
+                    1035.51806640625,
+                    1068.95068359375,
+                    1070.68310546875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9763215184211731,
+                "coordinate": [
+                    609.212890625,
+                    1072.266845703125,
+                    1040.194091796875,
+                    1141.008056640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9744991064071655,
+                "coordinate": [
+                    610.698974609375,
+                    1143.5538330078125,
+                    1074.730224609375,
+                    1196.1505126953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9724069833755493,
+                "coordinate": [
+                    610.6094970703125,
+                    1198.0499267578125,
+                    1051.8199462890625,
+                    1249.7618408203125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9754452705383301,
+                "coordinate": [
+                    611.0927734375,
+                    1251.61083984375,
+                    1076.2154541015625,
+                    1303.19482421875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9772113561630249,
+                "coordinate": [
+                    610.97412109375,
+                    1305.191650390625,
+                    1057.77685546875,
+                    1375.458251953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9758283495903015,
+                "coordinate": [
+                    610.63525390625,
+                    1377.57373046875,
+                    1056.869140625,
+                    1447.15869140625
+                ]
+            }
+        ]
+    }
+}

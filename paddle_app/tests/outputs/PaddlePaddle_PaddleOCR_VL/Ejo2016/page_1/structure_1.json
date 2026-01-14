@@ -1,0 +1,415 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Ejo2016.pdf",
+    "page_index": 0,
+    "page_count": 8,
+    "width": 1201,
+    "height": 1600,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Hindawi Publishing Corporation\nBioMed Research International\nVolume 2016, Article ID 4290506, 8 pages\nhttp://dx.doi.org/10.1155/2016/4290506",
+            "block_bbox": [
+                95,
+                95,
+                369,
+                174
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "text",
+            "block_content": "Research Article",
+            "block_bbox": [
+                96,
+                270,
+                329,
+                305
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Prevalence and Antimicrobial Resistance of Salmonella Isolated from Animal-Origin Food Items in Gondar, Ethiopia",
+            "block_bbox": [
+                95,
+                315,
+                1085,
+                397
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Mebrat Ejo, $ ^{1} $  Legesse Garedew, $ ^{2} $  Zabishwork Alebachew, $ ^{3,4} $  and Walelgn Worku $ ^{4} $ \n\n $ ^{1} $  Department of Biomedical Sciences, Faculty of Veterinary Medicine, University of Gondar, Gondar, Ethiopia  \n\n $ ^{2} $  Department of Microbiology, St. Paul's Hospital Millennium Medical College, Addis Ababa, Ethiopia  \n\n $ ^{3} $  Department of Veterinary Epidemiology and Public Health, Faculty of Veterinary Medicine, University of Gondar, Gondar, Ethiopia  \n\n $ ^{4} $  Institute of Public Health, College of Medicine and Health Sciences, University of Gondar, Gondar, Ethiopia  \n\nCorrespondence should be addressed to Mebrat Ejo; drmebrat@yahoo.com",
+            "block_bbox": [
+                167,
+                460,
+                980,
+                492
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                167,
+                506,
+                936,
+                530
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                168,
+                530,
+                882,
+                552
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                167,
+                552,
+                1099,
+                598
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                167,
+                612,
+                715,
+                636
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Received 12 July 2016; Revised 18 November 2016; Accepted 23 November 2016",
+            "block_bbox": [
+                167,
+                652,
+                737,
+                675
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Academic Editor: Ernesto S. Nakayasu",
+            "block_bbox": [
+                168,
+                691,
+                452,
+                714
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Copyright  $ \\copyright $  2016 Mebrat Ejo et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+            "block_bbox": [
+                166,
+                730,
+                1101,
+                776
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Salmonella has been found to be the major cause of foodborne diseases and a serious public health problem in the world, with an increasing concern for the emergence and spread of antimicrobial-resistant strains. A cross-sectional study was conducted between February 2014 and December 2015 on food items of animal origin to assess the prevalence and antimicrobial resistance profiles of Salmonella isolates using standard bacteriological methods. The overall prevalence rate of 5.5% was recorded from the total analyzed food items of animal origin. Salmonella isolates were detected from 12% of raw meat, 8% of minced meat, 2.9% of burger samples, 18% of raw eggs, and 6% of raw milk. Furthermore, antimicrobial susceptibility test identified 47.6% resistant Salmonella isolates, 28.6% intermediately sensitive isolates, and 23.8% susceptible isolates. Among Salmonella isolates tested, 42.6%, 28.6%, and 14.3% were found to be relatively resistant to tetracycline, sulfamethoxazole-trimethoprim, and ampicillin, respectively, while 9.5%–19% were intermediately resistant to tetracycline, amoxicillin, ampicillin, cephalothin, and nitrofurantoin. Therefore, our findings provide the prevalence and drug resistance of Salmonella from foods of animal origin and contribute information to scientists as well as public health researchers to minimize the prevalent and resistant foodborne Salmonella species in Ethiopia.",
+            "block_bbox": [
+                166,
+                792,
+                1103,
+                1026
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 1. Background",
+            "block_bbox": [
+                97,
+                1072,
+                252,
+                1099
+            ],
+            "block_id": 12,
+            "block_order": 12,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Foodborne diseases are among the most widespread global public health problems of recent times, and their implication for health and economy is increasingly recognized  $ [1, 2] $ . According to reports, every year, a huge number of people suffer from foodborne diseases worldwide due to contaminated food and water consumption  $ [2, 3] $ . A wide range of pathogens play a role in foodborne disease, most of which have a zoonotic origin and have carriers in healthy food animals from which they spread to an increasing variety of foods of animal origin and are considered as major vehicles of foodborne infections  $ [4] $ . Among the pathogens, Salmonella is considered the most prevalent foodborne pathogen worldwide  $ [4, 5] $  and has long been recognized as an important zoonotic microorganism of economic significance in animals and humans  $ [5] $ , predominantly in the developing countries. Consumption of raw or unsafe food, cross-contamination, improper food storage, poor personal hygiene practices, inadequate cooling and reheating of food items, and a prolonged time lapse between preparing and consuming food items were mentioned as contributing factors to an outbreak of salmonellosis in humans  $ [3, 5] $ . The ubiquity of Salmonella isolates creates a persistent contamination hazard in all raw foods  $ [5] $  and also in animal-origin food products, which are often implicated in sporadic cases and outbreaks of human salmonellosis  $ [2, 6] $ . Foodborne transmission is recognized as the major cause of Salmonella infections, with many food sources and supplies implicated in these infections  $ [2] $ .",
+            "block_bbox": [
+                93,
+                1114,
+                586,
+                1487
+            ],
+            "block_id": 13,
+            "block_order": 13,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                610,
+                1075,
+                1102,
+                1326
+            ],
+            "block_id": 14,
+            "block_order": 14,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antibiotic-resistant Salmonella infections of both human and animal are universal concerns, particularly in developing countries where the risk of infection is high because of unhygienic living conditions, close contact and sharing of houses between animals and humans  $ [7] $ , and the traditions of consumption of raw or undercooked animal-origin food items. There is an increasing concern with this pathogen due to the",
+            "block_bbox": [
+                610,
+                1326,
+                1103,
+                1487
+            ],
+            "block_id": 15,
+            "block_order": 15,
+            "group_id": 15
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9608876705169678,
+                "coordinate": [
+                    95.72853088378906,
+                    95.74063110351562,
+                    369.3543701171875,
+                    174.13775634765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9516171813011169,
+                "coordinate": [
+                    96.88442993164062,
+                    270.661376953125,
+                    329.6369934082031,
+                    305.5037841796875
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9760389924049377,
+                "coordinate": [
+                    95.0906982421875,
+                    315.64788818359375,
+                    1085.99072265625,
+                    397.3218994140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9397085309028625,
+                "coordinate": [
+                    167.221923828125,
+                    460.7191162109375,
+                    980.9984130859375,
+                    492.03125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.714469850063324,
+                "coordinate": [
+                    167.612060546875,
+                    506.04754638671875,
+                    936.6624755859375,
+                    530.9152221679688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6197887659072876,
+                "coordinate": [
+                    168.37527465820312,
+                    530.35986328125,
+                    882.6429443359375,
+                    552.8017578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8439254760742188,
+                "coordinate": [
+                    167.173828125,
+                    552.5956420898438,
+                    1099.1351318359375,
+                    598.9562377929688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9270245432853699,
+                "coordinate": [
+                    167.74728393554688,
+                    612.6578369140625,
+                    715.4794921875,
+                    636.1700439453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9356087446212769,
+                "coordinate": [
+                    167.92266845703125,
+                    652.1719970703125,
+                    737.203369140625,
+                    675.4566650390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9391579031944275,
+                "coordinate": [
+                    168.462890625,
+                    691.5806884765625,
+                    452.01214599609375,
+                    714.874755859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9625483751296997,
+                "coordinate": [
+                    166.60601806640625,
+                    730.5147705078125,
+                    1101.48291015625,
+                    776.2635498046875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9859675765037537,
+                "coordinate": [
+                    166.4547119140625,
+                    792.1971435546875,
+                    1103.3773193359375,
+                    1026.8922119140625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9474313259124756,
+                "coordinate": [
+                    97.521240234375,
+                    1072.29931640625,
+                    252.25546264648438,
+                    1099.202880859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882903099060059,
+                "coordinate": [
+                    93.90109252929688,
+                    1114.271240234375,
+                    586.8759765625,
+                    1487.026611328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879777431488037,
+                "coordinate": [
+                    610.5748291015625,
+                    1075.9661865234375,
+                    1102.7978515625,
+                    1326.4637451171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9860201478004456,
+                "coordinate": [
+                    610.39990234375,
+                    1326.4840087890625,
+                    1103.391845703125,
+                    1487.9969482421875
+                ]
+            }
+        ]
+    }
+}

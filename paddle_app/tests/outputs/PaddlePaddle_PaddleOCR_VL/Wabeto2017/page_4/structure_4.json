@@ -1,0 +1,319 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Wabeto2017.pdf",
+    "page_index": 3,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Wabeto et al. Journal of Health, Population and Nutrition (2017) 36:52",
+            "block_bbox": [
+                107,
+                61,
+                582,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 4 of 7",
+            "block_bbox": [
+                996,
+                62,
+                1080,
+                83
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "gentamicin-susceptible isolates were detected in 33 and 31 samples, which were 58.91 and 55.4% respectively (Table 1) (Fig. 1) (Additional file 1).",
+            "block_bbox": [
+                106,
+                172,
+                584,
+                247
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Discussion",
+            "block_bbox": [
+                107,
+                267,
+                215,
+                290
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, the contamination frequency of Salmonella species in raw beef was high (12.5%). The finding of this study was moderately higher than that of studies conducted in Modjo (8.3%) and Bishoftu (7.5%) [25, 26]. This difference could be due to the differences in the hygienic and sanitary practices in the abattoirs, the environment upon which the meat was slaughtered, and the water used in the processing of the meat. Wolaita Sodo municipal abattoir provides service for people residing in the town. Therefore, less emphasis was given to overcome the spread of potential pathogenic microorganisms when we compared with the referenced area. The abattoirs found in Modjo and Bishoftu town were export abattoirs. However, this study was in line with the studies conducted in Tigray region of Ethiopia; the Salmonella spp. prevalence was 16.4% [27] and at Dire Dawa abattoir 17.7% [20].",
+            "block_bbox": [
+                105,
+                291,
+                585,
+                677
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Studies conducted in different parts of Ethiopia showed that the prevalence of raw beef with Salmonella spp. varies from 5.3 to 17.7%, for instance, studies conducted in Addis Ababa, Bahir Dar, and Harar  $ [28–31] $ . Though this study finding falls in the abovementioned range, there was a visible variation of Salmonella spp. prevalence. This might be because of the diversity in sampling methods, sampling seasons, and sampling as well as culturing techniques  $ [32] $ . In addition, sanitation within the slaughterhouse and the cross-contamination of carcasses by contact with intestinal",
+            "block_bbox": [
+                105,
+                676,
+                586,
+                920
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 1 Antimicrobial resistance of Salmonella spp. isolated from raw beef samples at Wolaita Sodo municipal abattoir, 2016</div>\n",
+            "block_bbox": [
+                106,
+                948,
+                581,
+                993
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Antimicrobial drugs</td><td colspan=\"3\">Salmonella spp. isolates</td></tr><tr><td style='text-align: center;'>S (%)</td><td style='text-align: center;'>I (%)</td><td style='text-align: center;'>R (%)</td></tr><tr><td style='text-align: center;'>GEN</td><td style='text-align: center;'>31 (55.4%)</td><td style='text-align: center;'>18 (32.1%)</td><td style='text-align: center;'>7 (12.5%)</td></tr><tr><td style='text-align: center;'>TE</td><td style='text-align: center;'>6 (10.7%)</td><td style='text-align: center;'>3 (5.4%)</td><td style='text-align: center;'>47 (83.9%)</td></tr><tr><td style='text-align: center;'>AMP</td><td style='text-align: center;'>21 (37.5%)</td><td style='text-align: center;'>9 (2.6%)</td><td style='text-align: center;'>26 (46.4%)</td></tr><tr><td style='text-align: center;'>AMC</td><td style='text-align: center;'>18 (32.1%)</td><td style='text-align: center;'>14 (25%)</td><td style='text-align: center;'>24 (42.9%)</td></tr><tr><td style='text-align: center;'>CIP</td><td style='text-align: center;'>49 (87.5%)</td><td style='text-align: center;'>3 (5.4%)</td><td style='text-align: center;'>4 (7.1%)</td></tr><tr><td style='text-align: center;'>CHL</td><td style='text-align: center;'>8 (14.3%)</td><td style='text-align: center;'>19 (33.9%)</td><td style='text-align: center;'>29 (51.8%)</td></tr><tr><td style='text-align: center;'>F</td><td style='text-align: center;'>3 (5.4%)</td><td style='text-align: center;'>12 (21.4%)</td><td style='text-align: center;'>41 (73.2%)</td></tr><tr><td style='text-align: center;'>S</td><td style='text-align: center;'>10 (17.9%)</td><td style='text-align: center;'>9 (2.6%)</td><td style='text-align: center;'>37 (66.1%)</td></tr><tr><td style='text-align: center;'>K</td><td style='text-align: center;'>10 (17.9%)</td><td style='text-align: center;'>17 (30.4%)</td><td style='text-align: center;'>29 (51.8%)</td></tr><tr><td style='text-align: center;'>CRO</td><td style='text-align: center;'>33 (58.91%)</td><td style='text-align: center;'>10 (17.9%)</td><td style='text-align: center;'>13 (23.2%)</td></tr><tr><td style='text-align: center;'>NA</td><td style='text-align: center;'>18 (32.1%)</td><td style='text-align: center;'>16 (28.6%)</td><td style='text-align: center;'>22 (39.3%)</td></tr><tr><td style='text-align: center;'>DA</td><td style='text-align: center;'>17 (30.4%)</td><td style='text-align: center;'>18 (32.1%)</td><td style='text-align: center;'>21 (37.5%)</td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'>224 (33.3%)</td><td style='text-align: center;'>148 (22.0%)</td><td style='text-align: center;'>300 (44.6%)</td></tr></table>",
+            "block_bbox": [
+                107,
+                993,
+                583,
+                1410
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "GEN gentamicin, TE tetracycline, AMP ampicillin, AMC amoxicillin-clavulanic acid, CIP ciprofloxacin, CHL chloramphenicol, F nitrofurantoin, S streptomycin, K kanamycin, CRO ceftriaxone, NA nalidixic acid, DA clindamycin",
+            "block_bbox": [
+                106,
+                1414,
+                576,
+                1469
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "tracts during slaughter or processing were also important factors [33, 34].",
+            "block_bbox": [
+                601,
+                172,
+                1082,
+                220
+            ],
+            "block_id": 9,
+            "block_order": 5,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "With regard to the emerging of multidrug-resistant Salmonella, the following studies had been witnessing antimicrobial resistance of Salmonella to commonly used antimicrobials in both public health and veterinary sectors where increasing from time to time  $ [35–42] $ . According to the present study, all 56 (100%) isolates were multidrug-resistant. This was similar with other studies conducted in Ethiopia, for instance, studies conducted in Jimma  $ [35, 43] $  and Gondar  $ [39, 41] $  and a study conducted among Ethiopian children. These studies had shown that Salmonella exhibited 100% resistance to multidrug. Furthermore, studies carried out around the globe  $ [44–48] $  supported that Salmonella isolated from food of animal sources exhibited resistance to multidrug. The following studies reported the magnitude of multidrug-resistance of Salmonella isolates respectively as follows: 16%, 50% (from raw meats), 52%, 74.1 and 63.7% (from different types of samples), and 71.7 and 87.82%. This difference could be antimicrobial-resistant Salmonella were increasing due to the use of antimicrobial agents in food animals at the sub-therapeutic level or prophylactic doses, which might promote on-farm selection of antimicrobial-resistant strains and markedly increase the human health risks associated with consumption of contaminated meat products  $ [36, 49, 50] $ .",
+            "block_bbox": [
+                601,
+                220,
+                1084,
+                797
+            ],
+            "block_id": 10,
+            "block_order": 6,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonella isolates identified from food items and workers from Addis Ababa were resistant to the commonly used antibiotics including streptomycin, ampicillin, and tetracycline [50]. Furthermore, resistance of Salmonella isolates to the commonly used antimicrobials including ampicillin, streptomycin, nitrofurantoin, kanamycin and tetracycline were 100, 66.7, 58.3, and 33.3% respectively [51]. This was in line with the previous studies conducted to assess ampicillin-resistant Salmonella in South India 100% [52], Nigeria over 90% [53], and Cameroon 100% [54]. This study also indicated resistance of Salmonella isolates to commonly used antimicrobials including tetracycline, nitrofurantoin, streptomycin, kanamycin and ampicillin were 83.9, 73.2, 66, 50, and 46.43% respectively. A higher resistance rate was observed in this study when compared with the previous reports with the exception of ampicillin. In addition to this, resistance to amoxicillin-clavulanic acid and nalidixic acid were 42.9 and 39.3% respectively. This difference could be due to the increasing rate of inappropriate utilization of antibiotics, which favors selection pressure that increase the advantage of maintaining resistant genes in bacteria [55, 56]. Resistance to amoxicillin-clavulanic acid was observed, but it was introduced in the market in the last few years. The continuing development of antibiotic resistance could pose pressure to both animals and human being. Once the amoxicillin-clavulanic acid-resistant strains spread to human being, it might be difficult to treat with drug currently available in",
+            "block_bbox": [
+                600,
+                796,
+                1085,
+                1472
+            ],
+            "block_id": 11,
+            "block_order": 7,
+            "group_id": 11
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9454680681228638,
+                "coordinate": [
+                    107.93994140625,
+                    61.04591751098633,
+                    582.6870727539062,
+                    84.54478454589844
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9106076955795288,
+                "coordinate": [
+                    996.6646728515625,
+                    62.02185821533203,
+                    1080.9410400390625,
+                    83.66698455810547
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9772652983665466,
+                "coordinate": [
+                    106.1859130859375,
+                    172.05235290527344,
+                    584.0565795898438,
+                    247.0614471435547
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9258408546447754,
+                "coordinate": [
+                    107.1038818359375,
+                    267.9327697753906,
+                    215.7657470703125,
+                    290.9289855957031
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887646436691284,
+                "coordinate": [
+                    105.57379150390625,
+                    291.3896484375,
+                    585.7977294921875,
+                    677.09423828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873968958854675,
+                "coordinate": [
+                    105.43083190917969,
+                    676.7849731445312,
+                    586.8278198242188,
+                    920.4409790039062
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9189291000366211,
+                "coordinate": [
+                    106.68179321289062,
+                    948.0369873046875,
+                    581.841064453125,
+                    993.8511962890625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9862186312675476,
+                "coordinate": [
+                    107.06689453125,
+                    993.758544921875,
+                    583.1807861328125,
+                    1410.02783203125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6612533330917358,
+                "coordinate": [
+                    106.6146240234375,
+                    1414.542724609375,
+                    576.3496704101562,
+                    1469.452392578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9715966582298279,
+                "coordinate": [
+                    601.84619140625,
+                    172.64895629882812,
+                    1082.070556640625,
+                    220.90536499023438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886255264282227,
+                "coordinate": [
+                    601.1845703125,
+                    220.68325805664062,
+                    1084.076171875,
+                    797.35888671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884845614433289,
+                "coordinate": [
+                    600.7237548828125,
+                    796.6409912109375,
+                    1085.541015625,
+                    1472.7327880859375
+                ]
+            }
+        ]
+    }
+}

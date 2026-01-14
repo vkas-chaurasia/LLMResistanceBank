@@ -1,0 +1,147 @@
+Brief Original Article
+
+# Occurrence of Escherichia coli O157:H7 in retail raw meat products in Ethiopia
+
+Adem Hiko $ ^{1} $ , Daniel Asrat $ ^{2} $ , Girma Zewde $ ^{1} $ 
+
+ $ ^{1} $ Department of Veterinary Microbiology and Public Health, Faculty of Veterinary Medicine, Addis Ababa University, P.O.Box 34, Debre Zeit, Ethiopia
+
+ $ ^{2} $ Department of Medical Microbiology, Immunology and Parasitology, Faculty of Medicine, Addis Ababa University, P.O.Box 9086, Addis Ababa, Ethiopia
+
+## Abstract
+
+Background: Escherichia coli O157:H7 (E. coli O157:H7) is now recognized as a major cause of diarrhoea, hemorrhagic colitis and hemolytic-uremic syndrome worldwide. Consumption of raw or undercooked meat of bovine origin has been the most common means of transmitting this organism.
+
+Methodology: Over a period of 7 months (October 2006 to April 2007), a total of 738 raw meat samples were collected from bovines (n=250), sheep (n=243) and goat (n=245) and investigated for the presence of E. coli O157:H7. Antimicrobial susceptibility testing was performed using the disk diffusion method.
+
+Results: E. coli O157:H7 were isolated from 31 (4.2%) out of 738 meat samples examined. Among meat samples examined, the highest prevalence (8%) was recorded in beef, followed by lamb and mutton (2.5%) and goat meat (2%). The isolated strains were found to be susceptible (100%) to amikacin, chloramphenicol, gentamicin, kanamycin, nalidixic acid, norfloxacin, polymyxin B and trimethoprim-sulfamethoxazole. Multidrug resistance to three or more drugs was detected in 7/31 (22.6%) strains.
+
+Conclusions: The results of this study revealed the presence of E. coli O157:H7 in retail raw meats reaching consumers, indicating possible risks of infection to people through the consumption of raw/under-cooked meat or cross-contamination of other food products. Coordinated actions are needed to reduce or eliminate the risks posed by this organism at various stages in food chain. Multiple drug resistant isolates detected in the present study may pose a threat to humans and further limit therapeutic options.
+
+Key Words: Escherichia coli O157:H7, prevalence, antimicrobial susceptibility, raw meat, Ethiopia
+
+J Infect Developing Countries 2008; 2(5):389-393.
+
+Received 18 April 2008 - Accepted 7 July 2008
+
+Copyright © 2008 Hiko et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+## I ntroduction
+
+Escherichia coli (E. coli) is a normal part of the intestinal micro-flora of many healthy animals, including humans. However, some strains can cause diseases. Verocytotoxigenic E. coli (VTEC) (also referred to as Shiga toxin-producing E. coli), including serotype O157:H7, are one such group, causing severe, chronic, and potentially fatal illness such as hemorrhagic colitis, hemolytic uremic syndrome, thrombotic thrombocytopenic purpura and, in severe cases, death, related to their ability to produce one or more toxins known as verotoxin or Shiga-like toxin $ ^{[1]} $ . Consumption of raw or undercooked foods of bovine origin has been the most common means of transmitting VTEC organisms in sporadic cases and in outbreaks of VTEC infection $ ^{[2]} $ .
+
+Nevertheless, a variety of other foods have also been implicated in causing outbreaks  $ [3,4] $ . Antibiotic use in VTEC infections is controversial because of the potential to increase production and secretion of Shiga toxins  $ [5] $ . However, increase in antibiotic resistance has been noted over the last 20 years  $ [6-8] $ . Outbreaks of  $ E.\ coli $  O157 have been reported in different parts of the world  $ [9-11] $ .
+
+
+
+However, little is known about the prevalence of this serogroup in Ethiopia, either in humans or in the animal population or in foods  $ [12] $ . The present study was conducted to address the lack of information pertaining to the prevalence and antibiotic susceptibility profiles of  $ E.\ coli $  O157:H7 in raw meat obtained from food animals in Ethiopia where raw meat from these sources is widely consumed.
+
+Hiko et al. – Escherichia coli O157:H7 in retail raw meat products of Ethiopia
+
+J Infect Developing Countries 2008; 2(5): 389-393.
+
+## Materials and Methods
+
+## Ethical considerations
+
+The research project was approved by the Academic Commission of the Faculty of Veterinary Medicine, Addis Ababa University, Addis Ababa, Ethiopia.
+
+## Study area
+
+Over a period of 7 months (October 2006 to April 2007), a prevalence survey of  $ E.\ coli $  O157:H7 was conducted on meat samples obtained from legally registered butcher shops, municipal abattoirs, and selected export abattoirs at Debre-Zeit and Modjo towns, which are allocated at 45 and 70 km, respectively from the Addis Ababa, the capital city of the Federal Republic of Ethiopia.
+
+## Sample collection, handling and transport
+
+A total of 738 raw meat samples were collected from municipal abattoirs (n=177), export abattoirs (n=433) and butcher shops (n=128 (Table 1)). The meat samples were from bovines (n=250), sheep (n=243) and goat (n=245). Of the 738 meat samples, 406 (55%) and 333 (45%) were collected from Debre Zeit and Modjo Towns, respectively. All the meat samples were ready-to-eat fresh and collected aseptically, placed into sterile containers, and transported to the Microbiology Laboratory of the Faculty of Veterinary Medicine, Addis Ababa University, located at Debre Zeit. Samples were transported in ice boxes and analyzed within 6 to 12 hours.
+
+<div style="text-align: center;">Table 1. Meat samples investigated for  $ E.\ coli $  O157:H7 obtained from abattoirs and butcher shops, Debre Zeit and Modjo towns, Ethiopia.</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan="3">Raw meat type</td><td colspan="3">Meat source</td></tr><tr><td colspan="2">Abattoirs</td><td style='text-align: center;'>Butcher shops</td></tr><tr><td style='text-align: center;'>Export no. (%)</td><td style='text-align: center;'>Municipality no. (%)</td><td style='text-align: center;'>no. (%)</td></tr><tr><td style='text-align: center;'>Beef (n = 250)</td><td style='text-align: center;'>40 (16.0)</td><td style='text-align: center;'>124 (49.6)</td><td style='text-align: center;'>86 (34.4)</td></tr><tr><td style='text-align: center;'>Mutton (and/or lamb) (n = 243)</td><td style='text-align: center;'>188 (77.4)</td><td style='text-align: center;'>35 (14.4)</td><td style='text-align: center;'>20 (8.2)</td></tr><tr><td style='text-align: center;'>Goat&#x27;s meat (n = 245)</td><td style='text-align: center;'>205 (84.0)</td><td style='text-align: center;'>18 (7.0)</td><td style='text-align: center;'>22 (9.0)</td></tr><tr><td style='text-align: center;'>Total (n = 738)</td><td style='text-align: center;'>433 (59.0)</td><td style='text-align: center;'>177 (24.0)</td><td style='text-align: center;'>128 (17.0)</td></tr></table>
+
+## Sample preparation and selective enrichment
+
+Enrichment cultures for each meat sample were conducted by combining 25g of each sample with 225ml of tryptone soya broth (Oxoid Ltd, Basingstoke, UK) supplemented with 20 mg/l novobiocin (Sigma, Germany) in a stomacher bag, homogenizing for at least 2 minutes in a stomacher (Lab Blender 400, Seward Medical, London, UK) and incubating at  $ 37^{\circ} $ C for 16 to 18 h.
+
+### Culture and isolation of E. coli O157:H7
+
+All enriched meat samples were subsequently subcultured onto eosin methylene blue (EMB) agar (Difco Laboratories, USA) for primary screening of  $ E.\ coli $  and incubated aerobically at  $ 37^{\circ}C $  for 24 hours. Suspected colonies of  $ E.\ coli $  (greenish metallic sheen appearance with dark purple centers) were biochemically identified using API 20E gallery (API20E/20100, bioMerieux, Marcy l'Etoile, France) and subsequently they were further screened for  $ E.\ coli $  O157:H7. In brief, 2-3 biochemically confirmed  $ E.\ coli $  were subcultured on Sorbitol MacConkey Agar (Oxoid), supplemented with 0.05 mg/l cefixime and 2.5 mg/l tellurite (Oxoid) (SMAC-CT) and incubated at  $ 37^{\circ}C $  for 18 to 24 hours. Following the end of the incubation period, the SMAC-CT agar plates were examined for the presence of non-sorbitol fermenter colonies and subsequently they were further processed for serological identification. The type strain  $ E.\ coli $  O157:H7 (ATCC 43895) was placed into 10 ml of Brain Heart Infusion broth (BHI) (Oxoid) and incubated for 24 hours at  $ 37^{\circ}C $ . The resulting culture was streaked out on SMAC-CT agar and incubated for 24 hours at  $ 37^{\circ}C $ . This was used as a positive control.
+
+## Serological identification
+
+All non-sorbitol fermenting colonies from the SMAC-CT agar were subjected to slide agglutination with the E. coli O157 Latex test kit (Oxoid). The latex beads were coated with antibodies which bind to any O157 or H7 antigens on the test organisms, forming a visible antigen antibody precipitate [13]. Colonies giving a precipitation reaction were confirmed as E. coli O157:H7 positive.
+
+## Antimicrobial susceptibility testing
+
+The isolated E. coli O157:H7 strains were tested for antibiotic resistance to thirteen antimicrobial agents obtained from Oxoid [amikacin (AK) (30  $ \mu $ g), ampicillin (AMP) (10  $ \mu $ g), cephalothin (KF), (30  $ \mu $ g), chloramphenicol (C) (30  $ \mu $ g), gentamicin (CN) (10  $ \mu $ g), kanamycin (K) (30  $ \mu $ g), nalidixic acid (30  $ \mu $ g) (NA), norfloxacin (NOR) (10  $ \mu $ g), polymyxin B (PB) (300 units), streptomycin (S) (10  $ \mu $ g), trimethoprim (W) (5  $ \mu $ g), trimethoprim-sulphamethoxazole (SXT) (25  $ \mu $ g) and tetracycline (TE) (30  $ \mu $ g)] using the disc diffusion method according to the criteria of the National Committee for Clinical Laboratory Standards (NCCLS) [14]. The isolates were classified as sensitive, intermediate, and resistant using the breakpoints of the NCCLS [14]. A standard reference strain of E. coli
+
+390
+
+Hiko et al. – Escherichia coli O157:H7 in retail raw meat products of Ethiopia
+
+J Infect Developing Countries 2008; 2(5): 389-393.
+
+(ATCC 25922), sensitive to all antimicrobial drugs being tested, was used as a control strain.
+
+## Statistical analysis
+
+EPI-INFO Version 6 soft package (CDC, Atlanta GA) was used for statistical analysis. Comparisons were made using Chi-square test with Yates' correction or Fisher exact tests. A p-value of <0.05 was considered indicative of a statistically significant difference.
+
+## Results
+
+### Prevalence of E. coli O157:H7
+
+Out of 738 meat samples examined, 31 (4.2%) were found to be contaminated with E. coli O157:H7 (Table 2). Beef was found to be most frequently contaminated with E. coli O157:H7 (8%) when compared to the other raw meat types examined (2-2.5%) (p<0.05). The rate of E. coli O157:H7 isolated from all meat sources was found to be higher from butcher shops (7.8%) than from municipality abattoirs (6.8%) and export abattoirs (2.3%) (p<0.05).
+
+<div style="text-align: center;">Table 2. Prevalence of Escherichia coli O157: H7 isolated from raw meats samples in Ethiopia.</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan="2">Meat type investigated</td><td colspan="4">Prevalence rates (%) according to the Sources</td></tr><tr><td style='text-align: center;'>Export Abattoir</td><td style='text-align: center;'>Municipality Abattoir</td><td style='text-align: center;'>Butcher shops</td><td style='text-align: center;'>Total</td></tr><tr><td style='text-align: center;'>Beef</td><td style='text-align: center;'>2/40 (5) $ ^{a} $</td><td style='text-align: center;'>10/124 (8.1)</td><td style='text-align: center;'>8/86 (9.3)</td><td style='text-align: center;'>20/250 (8)</td></tr><tr><td style='text-align: center;'>Mutton and/or lamb</td><td style='text-align: center;'>4/188 (2.1)</td><td style='text-align: center;'>1/35 (2.8)</td><td style='text-align: center;'>1/20 (5)</td><td style='text-align: center;'>6/243 (2.5)</td></tr><tr><td style='text-align: center;'>Goat meat</td><td style='text-align: center;'>3/205 (1.5)</td><td style='text-align: center;'>1/18 (5.5)</td><td style='text-align: center;'>1/22 (4.5)</td><td style='text-align: center;'>5/245 (2)</td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'>9/433 (2.1)</td><td style='text-align: center;'>12/177 (6.8)</td><td style='text-align: center;'>10/128 (7.8)</td><td style='text-align: center;'>31/738 (4.2)</td></tr></table>
+
+Results expressed as the no. of E. coli O157: H7-positive samples/total no. of meat samples analyzed;  $ ^{a} $ Percentage of positive samples.
+
+## Antimicrobial susceptibility patterns
+
+The isolated strains were susceptible (100%) to amikacin, chloramphenicol, gentamicin, kanamycin, nalidixic acid, norfloxacin, polymyxin B and trimethoprim-sulfamethoxazole (Table 3). Multidrug resistance (MDR) to three or more drugs was detected in 7/31 (22.6%) strains. Of the 7 MDR strains, 3 were resistant to three drugs (streptomycin, tetracycline and ampicillin), 2 were resistant to four drugs (streptomycin, cepahlothin, tetracycline and ampicillin), and 2 were resistant to five drugs (streptomycin, cephlaothin, tetracycline, ampicillin and trimethoprim).
+
+## Discussion
+
+EHEC strains belonging to serogroup EHEC O157 are most frequently associated with human disease  $ [15] $ . However, EHEC strains of other serotypes from human, animal, and food sources have been reported and non-sorbitol fermenting O157:H7 strains detected in this study could potentially only represent a fraction of potential EHEC contamination  $ [15] $ . In the present study, beef was more frequently contaminated with E. coli O157:H7 compared to other meat samples examined (Table 2). This percentage is high in comparison with the prevalence of 0-5% reported elsewhere in the world  $ [16-19] $ . However, there are reports from different parts of the world that show a high contamination rate of beef with E. coli O157:H7, e.g. 14.7%-22.5% in Peru  $ [20] $ , 31% in Canada  $ [21] $  and 90% in the USA  $ [22] $ .
+
+
+
+<div style="text-align: center;">Table 3. Antimicrobial susceptibility profile of Escherichia coli O157:H7 isolated from raw meat samples.</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan="5">Antimicrobials Tested</td><td colspan="6">Source</td></tr><tr><td colspan="3">Goat meat (n=5)</td><td colspan="3">Mutton and/or lamb (n=6)</td></tr><tr><td style='text-align: center;'>S*</td><td style='text-align: center;'>I*</td><td style='text-align: center;'>R*</td><td style='text-align: center;'>S*</td><td style='text-align: center;'>I*</td><td style='text-align: center;'>R*</td></tr><tr><td style='text-align: center;'>No.</td><td style='text-align: center;'>No.</td><td style='text-align: center;'>No.</td><td style='text-align: center;'>No.</td><td style='text-align: center;'>No.</td><td style='text-align: center;'>No.</td></tr><tr><td style='text-align: center;'>(%)</td><td style='text-align: center;'>(%)</td><td style='text-align: center;'>(%)</td><td style='text-align: center;'>(%)</td><td style='text-align: center;'>(%)</td><td style='text-align: center;'>(%)</td></tr><tr><td style='text-align: center;'>AK</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td></tr><tr><td style='text-align: center;'>AMP</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td></tr><tr><td style='text-align: center;'>KF</td><td style='text-align: center;'>4 (80)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>1 (20)</td><td style='text-align: center;'>5 (83.3)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>1 (16.7)</td></tr><tr><td style='text-align: center;'>C</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>CN</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>K</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>NA</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>NOR</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>PB</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>S</td><td style='text-align: center;'>4 (80)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>1 (20)</td><td style='text-align: center;'>5 (83.3)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>1 (16.7)</td></tr><tr><td style='text-align: center;'>SXT</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>TE</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>5 (83.3)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>1 (16.7)</td></tr><tr><td style='text-align: center;'>W</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>6 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td></tr></table>
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan="3">Antimicrobials Tested</td><td colspan="3">Beef (n=20)</td><td colspan="3">Total (n=31)</td></tr><tr><td style='text-align: center;'>S*</td><td style='text-align: center;'>I*</td><td style='text-align: center;'>R*</td><td style='text-align: center;'>S*</td><td style='text-align: center;'>I*</td><td style='text-align: center;'>R*</td></tr><tr><td style='text-align: center;'>No. (%)</td><td style='text-align: center;'>No. (%)</td><td style='text-align: center;'>No. (%)</td><td style='text-align: center;'>No. (%)</td><td style='text-align: center;'>No. (%)</td><td style='text-align: center;'>No. (%)</td></tr><tr><td style='text-align: center;'>AK</td><td style='text-align: center;'>20 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>31 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>0 (0)</td></tr><tr><td style='text-align: center;'>AMP</td><td style='text-align: center;'>18 (90)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>2 (10)</td><td style='text-align: center;'>29 (93.5)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>2 (6.5)</td></tr><tr><td style='text-align: center;'>KF</td><td style='text-align: center;'>15 (75)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>5 (25)</td><td style='text-align: center;'>24 (77.4)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>7 (22.6)</td></tr><tr><td style='text-align: center;'>C</td><td style='text-align: center;'>20 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>31 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>CN</td><td style='text-align: center;'>20 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>31 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>K</td><td style='text-align: center;'>20 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>31 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>NA</td><td style='text-align: center;'>20 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>31 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>NOR</td><td style='text-align: center;'>20 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>31 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>PB</td><td style='text-align: center;'>20 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>31 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>S</td><td style='text-align: center;'>10 (50)</td><td style='text-align: center;'>2 (10)</td><td style='text-align: center;'>8 (40)</td><td style='text-align: center;'>19 (61.3)</td><td style='text-align: center;'>2 (6.5)</td><td style='text-align: center;'>10 (32.2)</td></tr><tr><td style='text-align: center;'>SXT</td><td style='text-align: center;'>20 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>31 (100)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>TE</td><td style='text-align: center;'>14 (70)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>6 (30)</td><td style='text-align: center;'>24 (77.4)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>7 (22.6)</td></tr><tr><td style='text-align: center;'>W</td><td style='text-align: center;'>17 (85)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>3 (15)</td><td style='text-align: center;'>28 (90.3)</td><td style='text-align: center;'>-</td><td style='text-align: center;'>3 (9.7)</td></tr></table>
+
+AK: Amikacin; AMP: Ampicillin; KF: Cephalothin; C: Chloramphenicol; CN: Gentamycin; K: Kanamycin; NA: Nalidixic acid; NOR: Norfloxacin; PB: Polymyxin B; S: Streptomycin; SXT: Trimethoprim Sulphamethoxazole; TE: Tetracycline; W: Trimethoprim;  $ S^{*}=Sensitive $ ;  $ I^{*}=Intermediate $ ;  $ R^{*}=Resistant $ .
+
+391
+
+Hiko et al. – Escherichia coli O157:H7 in retail raw meat products of Ethiopia
+
+J Infect Developing Countries 2008; 2(5): 389-393.
+
+E. coli O157:H7 was recovered at lower prevalence in meat samples obtained from sheep (2.5%) and goat (2%) than beef in the present study. This finding is in close agreement with the reported prevalence of 2.9% in the United Kingdom  $ [17] $  and 2% in Canada  $ [21] $ . This might be due to low fecal prevalence of  $ E\ coli\ O157:H7 $  in these animals, which results in relatively low risk of contamination. The overall variations in the prevalence of  $ E.\ coli\ O157:H7 $  may be a result of different sampling techniques employed and laboratory methodologies used, and may also be due to the reason that the studies were conducted in different countries at different times. Since virulence gene detection was not performed, the data derived in this study should only be considered presumptive; however, the high prevalence of O157:H7 strains identified with the limited available methodology gives cause for concern.
+
+The E. coli O157:H7 strains isolated in this study were all found susceptible to most antibiotics tested. Similar findings have been reported by other researchers  $ [16,23] $ . However, resistant strains do exist mainly to ampicillin, tetracycline, streptomycin, cephalothin and sulphamethoxazole  $ [6,18,23,24] $  and were detected in the present study. Multidrug resistance was found in 22.6% of the strains. Similar findings have been observed in other studies  $ [6,7] $ .
+
+Although other enterohemorrhagic  $ E.\ coli $  (EHEC) serotypes and the virulence factors of  $ E.\ coli $  O157:H7 were not investigated because of laboratory facility limitations, this study revealed that various retail raw meats products from foods of animal origin are often contaminated with  $ E.\ coli $  O157:H7, suggesting possible risks of infection to people through consumption of raw/undercooked meat or cross-contamination of other foods.
+
+The available evidence also shows that meats from foods of animal origin serve as potential vehicles for transmitting  $ E.\ coli $  O157:H7; interruption of transmission to humans should be given a high priority. The importance of proper handling and cooking of foods of animal origin are probably as important in preventing  $ E.\ coli $  O157:H7 infections as they are in preventing Salmonella and Campylobacter infections.
+
+Coordinated actions are needed to reduce or eliminate the risks posed by this organism at various stages in the food chain. These include Good Agricultural practice (GAP), Good Manufacturing practice (GMP), and Hazard Analysis of Critical Control Points (HACCP) at every stage of the meat supply chain, from the farm through to the abattoir, to the retailer, and to those involved with the handling and processing of such raw meat products in the home environment. Antibiotic resistance in most strains in this study is low. However, MDR organisms may become a public health risk should they enter the food chain.
+
+
+
+## Acknowledgements
+
+We would like to thank the owners of abattoirs and butcher shops at Debre-Zeit and Modjo towns for co-operation in all aspects of our study. We would like also to extend our heartfelt thanks to Dr. Rosemarie Blatz from Leipzig University, Germany, for providing us SMAC-CT agar.
+

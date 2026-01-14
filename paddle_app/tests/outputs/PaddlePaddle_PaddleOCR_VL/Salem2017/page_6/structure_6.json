@@ -1,0 +1,1277 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Salem2017.pdf",
+    "page_index": 5,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "860",
+            "block_bbox": [
+                60,
+                70,
+                89,
+                86
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "R. Ben Salem et al. / Journal of Infection and Public Health 10 (2017) 855–860",
+            "block_bbox": [
+                356,
+                69,
+                813,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Funding",
+            "block_bbox": [
+                59,
+                108,
+                133,
+                129
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Work in Spain was supported by project PI11-00808 from the \"Fondo de Investigación Sanitaria\" of the \"Instituto de Salud Carlos III\", cofunded by European Regional Development Fund of the European Union: a way to making Europe.",
+            "block_bbox": [
+                57,
+                150,
+                570,
+                236
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Competing interest",
+            "block_bbox": [
+                59,
+                256,
+                220,
+                277
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Not declared.",
+            "block_bbox": [
+                83,
+                297,
+                190,
+                317
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Ethical approval",
+            "block_bbox": [
+                60,
+                341,
+                196,
+                361
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Not required.",
+            "block_bbox": [
+                83,
+                383,
+                191,
+                403
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Acknowledgments",
+            "block_bbox": [
+                59,
+                425,
+                215,
+                446
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Raquel García-Fierro was the recipient of a grant from the 'Fundación para el Fomento en Asturias de la Investigación Científica Aplicada y la Tecnología' (FLCYT BP11-050). Rakia Ben Salem has a fellowship from the Tunisian Ministry of Higher Education and Scientific Research. This work has been partially performed during two short-term stays of Rakia Ben Salem at the Laboratory of Microbiology, Faculty of Medicine, University of Oviedo, Oviedo, Spain. She is very grateful for the kind help and the technical support received. The authors are most grateful to Dr. J. J. Gónzález-López, from the Department of Microbiology, Hospital Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain for kindly providing the qnrA, qnrB, qnrS and  $ aac(6') $ lb-cr strains used as positive controls.",
+            "block_bbox": [
+                57,
+                467,
+                570,
+                721
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## References",
+            "block_bbox": [
+                60,
+                740,
+                153,
+                761
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[1] EFSA (European Food Safety Authority). The European Union summary report on trends and sources of zoonoses, zoonotic agents and food-borne outbreaks in 2012. EFSA J 2014;12:3547.",
+            "block_bbox": [
+                67,
+                779,
+                568,
+                827
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[2] Huang JY, Henao OL, Griffin PM, Vugia DJ, Cronquist AB, Hurd S, et al. Infection with pathogens transmitted commonly through food and the effect of increasing use of culture-independent diagnostic tests on surveillance—foodborne diseases active surveillance network, 10 U.S. Sites, 2012-2015. MMWR Morb Mortal Wkly Rep 2016;65:368–71.",
+            "block_bbox": [
+                68,
+                828,
+                568,
+                907
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[3] Foley SL, Nayak R, Hanning IB, Johnson TJ, Han J, Ricke SC. Population dynamics of Salmonella enterica serotypes in commercial egg and poultry production. Appl Environ Microbiol 2011;77:4273–9.",
+            "block_bbox": [
+                67,
+                908,
+                568,
+                955
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[4] Ben Aissa R, Al-Gallas N, Troudi H, Belhadj N, Belhadj A. Trends in Salmonella enterica serotypes isolated from human, food, animal, and environment in Tunisia, 1994-2004. J Infect 2007;55:324–39.",
+            "block_bbox": [
+                68,
+                956,
+                568,
+                1003
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[5] Abbassi-Ghozzi I, Jaouani A, Aissa RB, Martinez-Urtaza J, Boudabous A, Gtari M. Antimicrobial resistance and molecular analysis of non-typhoidal Salmonella isolates from human in Tunisia. Pathol Biol 2011;59:207–12.",
+            "block_bbox": [
+                68,
+                1004,
+                568,
+                1051
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[6] Al-Gallas N, Abbassi MS, Gharbi B, Manai M, Ben Fayala MN, Bichihi R, et al. Occurrence of plasmid-mediated quinolone resistance determinants and rmtB gene in Salmonella enterica serovar Enteritidis and Typhimurium isolated from food-animal products in Tunisia. Foodborne Pathog Dis 2013;10:813–9.",
+            "block_bbox": [
+                68,
+                1052,
+                568,
+                1114
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[7] Parry CM. Antimicrobial drug resistance in Salmonella enterica. Curr Opin Infect Dis 2003;16:467–72.",
+            "block_bbox": [
+                68,
+                1115,
+                567,
+                1146
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[8] Butaye P, Michael GB, Schwarz S, Barrett TJ, Brisabois A, White DG. The clonal spread of multidrug-resistant non-typhi Salmonella serotypes. Microbes Infect 2006;8:1891–7.",
+            "block_bbox": [
+                68,
+                1147,
+                568,
+                1193
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[9] Schmidt H, Hensel M. Pathogenicity islands in bacterial pathogenesis. Clin Microbiol Rev 2004;17:14–56.",
+            "block_bbox": [
+                66,
+                1195,
+                568,
+                1226
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[10] Gerlach RG, Jackel D, Stecher B, Wagner C, Lupas A, Hardt WD, et al. Salmonella pathogenicity island 4 encodes a giant non-fimbrial adhesin and the cognate type 1 secretion system. Cell Microbiol 2007;9:1834–50.",
+            "block_bbox": [
+                60,
+                1227,
+                568,
+                1274
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[11] Ehrbar K, Hardt WD. Bacteriophage-encoded type III effectors in Salmonella enterica subspecies 1 serovar Typhimurium. Infect Genet Evol 2005;5:1–9.",
+            "block_bbox": [
+                60,
+                1275,
+                568,
+                1306
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[12] van Asten AJ, van Dijk JE. Distribution of “classic” virulence factors among Salmonella spp. FEMS Immunol Med Microbiol 2005;44:251–9.",
+            "block_bbox": [
+                60,
+                1307,
+                568,
+                1338
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[13] Guiney DG, Fierer J. The role of the spv genes in Salmonella pathogenesis. Front Microbiol 2011;2:129.",
+            "block_bbox": [
+                60,
+                1339,
+                567,
+                1369
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[14] Ben Salem R, Abbassi MS, García V, García-Fierro R, Njoud C, Messadi L, et al. Detection and molecular characterization of Salmonella enterica serovar",
+            "block_bbox": [
+                60,
+                1370,
+                568,
+                1402
+            ],
+            "block_id": 24,
+            "block_order": 23,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Eppendorf circulating in chicken farms in Tunisia. Zoonoses Public Health 2016;63:320–7.",
+            "block_bbox": [
+                629,
+                112,
+                1106,
+                143
+            ],
+            "block_id": 25,
+            "block_order": 24,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[15] Issenhuth-Jeanjean S, Roggentin P, Mikoleit M, Guibourdenche M, de Pinna E, Nair S, et al. Supplement 2008-2010 (no. 48) to the White-Kauffmann-Le Minor scheme. Res Microbiol 2014;165:526–30.",
+            "block_bbox": [
+                599,
+                144,
+                1107,
+                191
+            ],
+            "block_id": 26,
+            "block_order": 25,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[16] Clinical and Laboratory Standards Institute (C.L.S.I.). Performance standards for antimicrobial susceptibility testing: twenty-fifth informational supplement M100-S25; 2015.",
+            "block_bbox": [
+                599,
+                192,
+                1107,
+                238
+            ],
+            "block_id": 27,
+            "block_order": 26,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[17] García P, Guerra B, Bances M, Mendoza MC, Rodicio MR. IncA/C plasmids mediate antimicrobial resistance linked to virulence genes in the Spanish clone of the emerging Salmonella enterica serotype 4,[5],12:i. J Antimicrob Chemother 2011;66:543–9.",
+            "block_bbox": [
+                599,
+                239,
+                1108,
+                301
+            ],
+            "block_id": 28,
+            "block_order": 27,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[18] Martínez N, Mendoza MC, Rodríguez I, Soto S, Bances M, Rodicio MR. Detailed structure of integrons and transposons carried by large conjugative plasmids responsible for multidrug resistance in diverse genomic types of Salmonella enterica serovar Brandenburg. J Antimicrob Chemother 2007;60:1227–34.",
+            "block_bbox": [
+                599,
+                303,
+                1108,
+                366
+            ],
+            "block_id": 29,
+            "block_order": 28,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[19] Minarini LA, Poirel L, Cattoir V, Darini AL, Nordmann P. Plasmid-mediated quinolone resistance determinants among enterobacterial isolates from outpatients in Brazil. J Antimicrob Chemother 2008;62:474–8.",
+            "block_bbox": [
+                599,
+                367,
+                1107,
+                414
+            ],
+            "block_id": 30,
+            "block_order": 29,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[20] Soto SM, Rodríguez I, Rodicio MR, Vila J, Mendoza MC. Detection of virulence determinants in clinical strains of Salmonella enterica serovar Enteritidis and mapping on macrorestriction profiles. J Med Microbiol 2006;55:365–73.",
+            "block_bbox": [
+                600,
+                415,
+                1107,
+                463
+            ],
+            "block_id": 31,
+            "block_order": 30,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[21] Huehn S, La Ragione RM, Anjum M, Saunders M, Woodward MJ, Bunge C, et al. Virulotyping and antimicrobial resistance typing of Salmonella enterica serovars relevant to human health in Europe. Foodborne Pathog Dis 2010;7:523–35.",
+            "block_bbox": [
+                599,
+                463,
+                1107,
+                510
+            ],
+            "block_id": 32,
+            "block_order": 31,
+            "group_id": 32
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[22] Kado CI, Liu ST. Rapid procedure for detection and isolation of large and small plasmids. J Bacteriol 1981;145:1365–73.",
+            "block_bbox": [
+                600,
+                511,
+                1107,
+                542
+            ],
+            "block_id": 33,
+            "block_order": 32,
+            "group_id": 33
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[23] Soto SM, González-Hevia MA, Mendoza MC. Antimicrobial resistance in clinical isolates of Salmonella enterica serotype Enteritidis: relationships between mutations conferring quinolone resistance, integrons, plasmids and genetic types. J Antimicrob Chemother 2003;51:1287–91.",
+            "block_bbox": [
+                600,
+                542,
+                1108,
+                605
+            ],
+            "block_id": 34,
+            "block_order": 33,
+            "group_id": 34
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[24] Guedda I, Abbassi MS, Soufi L, Debya R, Hassen AB, Hamami S. Phenotypic and genotypic typing of Salmonella enterica serovar Enteritidis isolates from poultry farms environments in Tunisia. Ann Microbiol 2009;59:1–5.",
+            "block_bbox": [
+                599,
+                606,
+                1107,
+                653
+            ],
+            "block_id": 35,
+            "block_order": 34,
+            "group_id": 35
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[25] Zou M, Keelara S, Thakur S. Molecular characterization of Salmonella enterica serotype Enteritidis isolates from humans by antimicrobial resistance, virulence genes, and pulsed-field gel electrophoresis. Foodborne Pathog Dis 2012;9:232–8.",
+            "block_bbox": [
+                599,
+                654,
+                1108,
+                716
+            ],
+            "block_id": 36,
+            "block_order": 35,
+            "group_id": 36
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[26] Hall RM, Collis CM. Mobile gene cassettes and integrons: capture and spread of genes by site-specific recombination. Mol Microbiol 1995;15:593–600.",
+            "block_bbox": [
+                599,
+                717,
+                1108,
+                750
+            ],
+            "block_id": 37,
+            "block_order": 36,
+            "group_id": 37
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[27] Hopkins KL, Davies RH, Threlfall EJ. Mechanisms of quinolone resistance in Escherichia coli and Salmonella: recent developments. Int J Antimicrob Agents 2005;25:358–73.",
+            "block_bbox": [
+                599,
+                750,
+                1107,
+                797
+            ],
+            "block_id": 38,
+            "block_order": 37,
+            "group_id": 38
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[28] Kilmartin D, Morris D, O'Hare C, Corbett-Feeney G, Cormican M. Clonal expansion may account for high levels of quinolone resistance in Salmonella enterica serovar Enteritidis. Appl Environ Microbiol 2005;71:2587–91.",
+            "block_bbox": [
+                599,
+                798,
+                1108,
+                844
+            ],
+            "block_id": 39,
+            "block_order": 38,
+            "group_id": 39
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[29] Kim KY, Park JH, Kwak HS, Woo GJ. Characterization of the quinolone resistance mechanism in foodborne Salmonella isolates with high nalidixic acid resistance. Int J Food Microbiol 2011;146:52–6.",
+            "block_bbox": [
+                599,
+                845,
+                1108,
+                892
+            ],
+            "block_id": 40,
+            "block_order": 39,
+            "group_id": 40
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[30] Mirold S, Rabsch W, Tschäpe H, Hardt WD. Transfer of the Salmonella type III effector sopE between unrelated phage families. J Mol Biol 2001;312:7–16.",
+            "block_bbox": [
+                599,
+                893,
+                1107,
+                925
+            ],
+            "block_id": 41,
+            "block_order": 40,
+            "group_id": 41
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[31] Craig M, Slauch JM. Phagocytic superoxide specifically damages an extracytoplasmic target to inhibit or kill Salmonella. PloS One 2009;4:e4975.",
+            "block_bbox": [
+                599,
+                925,
+                1107,
+                957
+            ],
+            "block_id": 42,
+            "block_order": 41,
+            "group_id": 42
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[32] Capuano F, Mancusi A, Capparelli R, Esposito S, Proroga YT. Characterization of drug resistance and virulotypes of Salmonella strains isolated from food and humans. Foodborne Pathog Dis 2013;10:963–8.",
+            "block_bbox": [
+                599,
+                957,
+                1107,
+                1004
+            ],
+            "block_id": 43,
+            "block_order": 42,
+            "group_id": 43
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[33] Hur J, Kim JH, Park JH, Lee YJ, Lee JH. Molecular and virulence characteristics of multi-drug resistant Salmonella Enteritidis strains isolated from poultry. Vet J 2011;189:306–11.",
+            "block_bbox": [
+                599,
+                1005,
+                1108,
+                1052
+            ],
+            "block_id": 44,
+            "block_order": 43,
+            "group_id": 44
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[34] Rodríguez I, Guerra B, Mendoza MC, Rodicio MR. pUO-SeVR1 is an emergent virulence-resistance complex plasmid of Salmonella enterica serovar Enteritidis. J Antimicrob Chemother 2011;66:218–20.",
+            "block_bbox": [
+                599,
+                1053,
+                1108,
+                1100
+            ],
+            "block_id": 45,
+            "block_order": 44,
+            "group_id": 45
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[35] Rodríguez I, Rodicio MR, Guerra B, Hopkins KL. Potential international spread of multidrug-resistant invasive Salmonella enterica serovar Enteritidis. Emerg Infect Dis 2012;18:1173–6.",
+            "block_bbox": [
+                599,
+                1101,
+                1108,
+                1147
+            ],
+            "block_id": 46,
+            "block_order": 45,
+            "group_id": 46
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[36] Tassios PT, Markogiannakis A, Vatopoulos AC, Katsanikou E, Velonakis EN, Kourea-Kremastinou J, et al. Molecular epidemiology of antibiotic resistance of Salmonella Enteritidis during a 7-year period in Greece. J Clin Microbiol 1997;35:1316–21.",
+            "block_bbox": [
+                599,
+                1148,
+                1108,
+                1211
+            ],
+            "block_id": 47,
+            "block_order": 46,
+            "group_id": 47
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[37] Jacoby GA, Strahilevitz J, Hooper DC. Plasmid-mediated quinolone resistance. Microbiol Spectr 2014;2.",
+            "block_bbox": [
+                599,
+                1212,
+                1107,
+                1243
+            ],
+            "block_id": 48,
+            "block_order": 47,
+            "group_id": 48
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[38] Tenover FC, Arbeit RD, Goering RV, Mickelsen PA, Murray BE, Persing DH, et al. Interpreting chromosomal DNA restriction patterns produced by pulsed-field gel electrophoresis: criteria for bacterial strain typing. J Clin Microbiol 1995;33:2233–9.",
+            "block_bbox": [
+                599,
+                1243,
+                1108,
+                1306
+            ],
+            "block_id": 49,
+            "block_order": 48,
+            "group_id": 49
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "[39] Pang J-C, Chiu T-H, Chiou C-S, Schroeter A, Guerra B, Helmuth R, Tsen H-Y. Pulsed-field gel electrophoresis, plasmid profiles and phage types for the human isolates of Salmonella enterica serovar Enteritidis obtained over 13 years in Taiwan. J Appl Microbiol 2005;99:1472–83.",
+            "block_bbox": [
+                599,
+                1307,
+                1108,
+                1372
+            ],
+            "block_id": 50,
+            "block_order": 49,
+            "group_id": 50
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9005501866340637,
+                "coordinate": [
+                    60.77749252319336,
+                    70.76738739013672,
+                    89.26522827148438,
+                    86.2593002319336
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9477706551551819,
+                "coordinate": [
+                    356.2168273925781,
+                    69.87690734863281,
+                    813.1318359375,
+                    88.23680114746094
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9198888540267944,
+                "coordinate": [
+                    59.602195739746094,
+                    108.97447204589844,
+                    133.73687744140625,
+                    129.98809814453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9804525375366211,
+                "coordinate": [
+                    57.789764404296875,
+                    150.2933807373047,
+                    570.5352783203125,
+                    236.48304748535156
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8153209090232849,
+                "coordinate": [
+                    59.95668029785156,
+                    256.1002197265625,
+                    220.90895080566406,
+                    277.2694091796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9387162923812866,
+                "coordinate": [
+                    83.31885528564453,
+                    297.89642333984375,
+                    190.7890625,
+                    317.43560791015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.589785635471344,
+                "coordinate": [
+                    60.2457275390625,
+                    341.0792236328125,
+                    196.5196533203125,
+                    361.8082275390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9352315664291382,
+                "coordinate": [
+                    83.45722961425781,
+                    383.2425537109375,
+                    191.37779235839844,
+                    403.8173828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8564351201057434,
+                "coordinate": [
+                    59.558677673339844,
+                    425.9200134277344,
+                    215.35357666015625,
+                    446.7715148925781
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876859188079834,
+                "coordinate": [
+                    57.84490966796875,
+                    467.40484619140625,
+                    570.8004150390625,
+                    721.2743530273438
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9316806793212891,
+                "coordinate": [
+                    60.61430358886719,
+                    740.6869506835938,
+                    153.9353485107422,
+                    761.3435668945312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9747820496559143,
+                "coordinate": [
+                    67.11799621582031,
+                    779.9093627929688,
+                    568.4407958984375,
+                    827.4548950195312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9800533652305603,
+                "coordinate": [
+                    68.12591552734375,
+                    828.774658203125,
+                    568.7767944335938,
+                    907.119873046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9768735766410828,
+                "coordinate": [
+                    67.892578125,
+                    908.4833984375,
+                    568.4437255859375,
+                    955.4052734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9775499105453491,
+                "coordinate": [
+                    68.23223876953125,
+                    956.2501220703125,
+                    568.4136962890625,
+                    1003.1951904296875
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9915693402290344,
+                "coordinate": [
+                    61.6324462890625,
+                    777.170166015625,
+                    570.8165893554688,
+                    1404.26171875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9775242805480957,
+                "coordinate": [
+                    68.105712890625,
+                    1004.3504028320312,
+                    568.25439453125,
+                    1051.450927734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9796299934387207,
+                "coordinate": [
+                    68.13319396972656,
+                    1052.326171875,
+                    568.4571533203125,
+                    1114.3681640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9689006209373474,
+                "coordinate": [
+                    68.01708984375,
+                    1115.1622314453125,
+                    567.8536987304688,
+                    1146.4710693359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9764862656593323,
+                "coordinate": [
+                    68.2257080078125,
+                    1147.2042236328125,
+                    568.421142578125,
+                    1193.6805419921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9698403477668762,
+                "coordinate": [
+                    66.63569641113281,
+                    1195.1435546875,
+                    568.3198852539062,
+                    1226.8046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9761823415756226,
+                "coordinate": [
+                    60.86955261230469,
+                    1227.557861328125,
+                    568.3779907226562,
+                    1274.658447265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9644742012023926,
+                "coordinate": [
+                    60.39775085449219,
+                    1275.599365234375,
+                    568.06298828125,
+                    1306.979248046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9660702347755432,
+                "coordinate": [
+                    60.5091552734375,
+                    1307.667236328125,
+                    568.0394287109375,
+                    1338.844482421875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9665187001228333,
+                "coordinate": [
+                    60.53663635253906,
+                    1339.0283203125,
+                    567.9542846679688,
+                    1369.42236328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9665347337722778,
+                "coordinate": [
+                    60.6485595703125,
+                    1370.2203369140625,
+                    568.7876586914062,
+                    1402.3272705078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9682037234306335,
+                "coordinate": [
+                    629.24560546875,
+                    112.06706237792969,
+                    1106.8642578125,
+                    143.24720764160156
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.975275993347168,
+                "coordinate": [
+                    599.2852783203125,
+                    144.07537841796875,
+                    1107.0421142578125,
+                    191.14361572265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.975451648235321,
+                "coordinate": [
+                    599.4549560546875,
+                    192.305908203125,
+                    1107.78173828125,
+                    238.385986328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9790318012237549,
+                "coordinate": [
+                    599.4400634765625,
+                    239.28073120117188,
+                    1108.664306640625,
+                    301.2164611816406
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.979415774345398,
+                "coordinate": [
+                    599.6138916015625,
+                    303.003173828125,
+                    1108.2396240234375,
+                    366.56103515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9771401882171631,
+                "coordinate": [
+                    599.5521240234375,
+                    367.52142333984375,
+                    1107.8934326171875,
+                    414.88311767578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9767447113990784,
+                "coordinate": [
+                    600.1097412109375,
+                    415.36419677734375,
+                    1107.800048828125,
+                    463.02044677734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9757834076881409,
+                "coordinate": [
+                    599.6942138671875,
+                    463.84600830078125,
+                    1107.5618896484375,
+                    510.36163330078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9669278860092163,
+                "coordinate": [
+                    600.010986328125,
+                    511.1243896484375,
+                    1107.734375,
+                    542.5511474609375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9796745181083679,
+                "coordinate": [
+                    600.2254638671875,
+                    542.9910888671875,
+                    1108.1865234375,
+                    605.6705322265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9771181344985962,
+                "coordinate": [
+                    599.9522705078125,
+                    606.7137451171875,
+                    1107.998046875,
+                    653.6341552734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9798689484596252,
+                "coordinate": [
+                    599.8607177734375,
+                    654.7554931640625,
+                    1108.5975341796875,
+                    716.4488525390625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9699408411979675,
+                "coordinate": [
+                    599.82470703125,
+                    717.9500732421875,
+                    1108.634765625,
+                    750.0184326171875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.976993203163147,
+                "coordinate": [
+                    599.6500244140625,
+                    750.7354736328125,
+                    1107.9888916015625,
+                    797.1785888671875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9764885902404785,
+                "coordinate": [
+                    599.6572265625,
+                    798.4459228515625,
+                    1108.346923828125,
+                    844.4808349609375
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9919232726097107,
+                "coordinate": [
+                    597.3482666015625,
+                    111.39697265625,
+                    1110.22412109375,
+                    1373.35009765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9766035079956055,
+                "coordinate": [
+                    599.489013671875,
+                    845.3921508789062,
+                    1108.4508056640625,
+                    892.1499633789062
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9686314463615417,
+                "coordinate": [
+                    599.7066650390625,
+                    893.107177734375,
+                    1107.6270751953125,
+                    925.265869140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.96846604347229,
+                "coordinate": [
+                    599.7103271484375,
+                    925.7708740234375,
+                    1107.7938232421875,
+                    957.6563720703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9761220216751099,
+                "coordinate": [
+                    599.7501220703125,
+                    957.799560546875,
+                    1107.8975830078125,
+                    1004.490966796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9762102365493774,
+                "coordinate": [
+                    599.6142578125,
+                    1005.5335693359375,
+                    1108.408935546875,
+                    1052.0201416015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.976517915725708,
+                "coordinate": [
+                    599.47119140625,
+                    1053.4085693359375,
+                    1108.552978515625,
+                    1100.5001220703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9758499264717102,
+                "coordinate": [
+                    599.439208984375,
+                    1101.189697265625,
+                    1108.2552490234375,
+                    1147.33056640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9798797965049744,
+                "coordinate": [
+                    599.8201904296875,
+                    1148.262939453125,
+                    1108.1458740234375,
+                    1211.06689453125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9689286351203918,
+                "coordinate": [
+                    599.54833984375,
+                    1212.1456298828125,
+                    1107.6302490234375,
+                    1243.2845458984375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9794466495513916,
+                "coordinate": [
+                    599.77294921875,
+                    1243.904052734375,
+                    1108.027099609375,
+                    1306.706787109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9783236980438232,
+                "coordinate": [
+                    599.2950439453125,
+                    1307.9539794921875,
+                    1108.5592041015625,
+                    1372.0408935546875
+                ]
+            }
+        ]
+    }
+}

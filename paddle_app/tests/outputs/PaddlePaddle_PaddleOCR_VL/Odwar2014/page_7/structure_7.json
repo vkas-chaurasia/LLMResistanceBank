@@ -1,0 +1,1205 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Odwar2014.pdf",
+    "page_index": 6,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Odwar et al. BMC Research Notes 2014, 7:627 http://www.biomedcentral.com/1756-0500/7/627",
+            "block_bbox": [
+                107,
+                65,
+                444,
+                105
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 7 of 8",
+            "block_bbox": [
+                996,
+                65,
+                1081,
+                86
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "10. Borche E, Arinder P: Bacteriological safety issues in beef and ready to eat meat products as well as control measures. Meat Sci 2002, 62(3):381–390.",
+            "block_bbox": [
+                110,
+                180,
+                578,
+                216
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "11. Andrea W: Mobile slaughter houses will help small farmers. In News observer. 2010:3.",
+            "block_bbox": [
+                111,
+                217,
+                549,
+                251
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "12. Selvan PR, Narendra B, Sureshkumar S, Venkatamanujam V: Microbial quality of retail meat products available in Chennai city. Am J Food Technol 2007, 2(1):55–59.",
+            "block_bbox": [
+                111,
+                253,
+                547,
+                306
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "13. O'Brien TF: Emergence, spread, and environmental effect of antimicrobial resistance: how use of an antimicrobial anywhere can increase resistance to any antimicrobial anywhere else. J Clin Infect Dis 2002, 34(3):78–84.",
+            "block_bbox": [
+                111,
+                307,
+                569,
+                361
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "14. Angulo FJ, Nargund VN, Chiller TC: Evidence of an association between use of anti-microbial agents in food animals and anti-microbial resistance among bacteria isolated from humans and the human health consequences of such resistance. J Vet Med 2004, 51:374–379.",
+            "block_bbox": [
+                111,
+                362,
+                572,
+                433
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "15. Molbak K: Spread of resistant bacteria and resistance genes from animals to humans – the public health consequences. J Vet Med 2004, 51:364–369.",
+            "block_bbox": [
+                111,
+                434,
+                581,
+                486
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "16. Albert SJ, Agrawal A, Lewis DS: Disparities in access to fresh produce in low income neighborhoods in Los Angeles. Am J Prev Med 2006, 30:365–370.",
+            "block_bbox": [
+                111,
+                488,
+                565,
+                541
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "17. Moore LV, Diez-Roux AV: Associations of neighborhood characteristics with the location and type of food store. Am J Publ Health 2006, 96:325–331.",
+            "block_bbox": [
+                111,
+                543,
+                558,
+                595
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "18. Kikuvi GM, Ole-Mapenay IM, Mitema ES, Ombui JN: Antimicrobial resistance in Escherichia coli isolates from faeces and carcass samples of slaughter cattle, swine and chickens in Kenya. Israel J Vet Med 2006, 61(3–4):82–88.",
+            "block_bbox": [
+                111,
+                598,
+                577,
+                668
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "19. Afullo A, Odhiambo F: The primary solid waste storage gaps experienced by Nairobi households. Ethiop J Environ Manag 2009, 2:3.",
+            "block_bbox": [
+                111,
+                670,
+                577,
+                706
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "20. K'Akumu OA, Olima WHA: The dynamics and implications of residential segregation in Nairobi. Habitat Int J 2007, 31:87–99.",
+            "block_bbox": [
+                110,
+                707,
+                566,
+                742
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "21. AOAC: Official methods 966.24 for enumeration of Escherichia coli and Coliform bacteria in raw meats. 2006. http://www.3M.com/microbiology.",
+            "block_bbox": [
+                110,
+                742,
+                567,
+                780
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "22. MacFaddin JF: Biochemical Tests for Identification of Medical Bacteria. Philadelphia: Lippincott Williams and Wilkins; 2000. 3:363–36.",
+            "block_bbox": [
+                110,
+                780,
+                533,
+                815
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "23. Bauer AW, Kirby WMM, Sherris JC, Turk M: Antibiotic susceptibility testing by a standardized single disk method. Am J Clin Path 1966, 45:493–496.",
+            "block_bbox": [
+                110,
+                817,
+                571,
+                853
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "24. Clinical and Laboratory Standards Institute, CLSI: Performance Standards for Antimicrobial Susceptibility Testing. Twenty-second Informational Supplement. M100-S22. Clinical and Laboratory Standards Institute. Wayne, PA: CLSI; 2012. Document M100-S22.",
+            "block_bbox": [
+                110,
+                854,
+                565,
+                924
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "25. Ehrt S, Schnappinger D: Isolation of plasmids from E. coli by alkaline lysis: Methods in molecular biology. Springer Protocols 2003, 235:75–78.",
+            "block_bbox": [
+                110,
+                925,
+                578,
+                962
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "26. Fujioka M, Kasai K, Miura T, Sato T, Otomoto Y: Rapid diagnostic method for the detection of diarrheagenic Escherichia coli by multiplex PCR. Jpn J Infect Dis 2009, 62:476–480.",
+            "block_bbox": [
+                110,
+                962,
+                575,
+                1015
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "27. Food Safety and Inspection Service: Guidelines for Escherichia coli testing for process control verification in poultry slaughter establishment: HACCP guidelines and policies. 1996. http://www.fsis.usda.gov/wps/portal/fsis/topics/regulatorycompliance/compliance-guides-index#Ecoli.",
+            "block_bbox": [
+                110,
+                1016,
+                579,
+                1088
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "28. Saikia P, Joshi SR: Retail market poultry meats of North-East India: a microbiological survey for pathogenic contaminants. Res J Microbiol 2010, 5(1):36–43.",
+            "block_bbox": [
+                110,
+                1089,
+                580,
+                1142
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "29. Nzouankeu A, Ngandjia A, Ejenguele G, Njine T, Wouafo MH: Multiple contaminations of chickens with Campylobacter, Escherichia coli and Salmonella in Yaoundé, Cameroon. J Infect Dev Ctries 2010, 4(9):583–586.",
+            "block_bbox": [
+                110,
+                1143,
+                568,
+                1198
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "30. Thangh Huong CT, Hai Duong NT, Thu Hien NT: Contamination of some bacteria isolated from chicken meat in retail markets in Hanoi and examination of the antibiotic resistance ability of Salmonella and E. coli strains isolated. J Sci Dev 2009, 7(2):181–186.",
+            "block_bbox": [
+                110,
+                1198,
+                572,
+                1269
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "31. Ashraf MA, Hirofumi S, Tadashi S: Isolation and molecular characterization of multidrug resistant strains of Escherichia coli and Salmonella from retail chicken meat in Japan. J Food Sci 2009, 74:7.",
+            "block_bbox": [
+                110,
+                1270,
+                576,
+                1324
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "32. Johnson JR, Murray AC, Gajewski A, Sullivan M, Snippes P, Kuswoski MA, Smith KE: Isolation and molecular characterization of Nalidixic acid resistant extra intestinal pathogen Escherichia coli from retail chicken products. Antimicrob Agents Chemother 2003, 7:2161–2168.",
+            "block_bbox": [
+                110,
+                1325,
+                560,
+                1396
+            ],
+            "block_id": 24,
+            "block_order": 23,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "33. Zhao S, Blickenstaff K, Bodeis-Jones S, Gaines SA, Tong E, McDermott PF: Comparison of the prevalence and antimicrobial resistances of Escherichia coli isolates from different retail meats in the United States, 2002 to 2008. J Food Microbiol 2012, 78:23.",
+            "block_bbox": [
+                110,
+                1397,
+                576,
+                1469
+            ],
+            "block_id": 25,
+            "block_order": 24,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "34. Pointon A, Sexton M, Dowsett P, Saputra T, Kiermeier A, Lorimer M: A baseline survey of the microbiological quality of chicken portions and carcasses at retail in two Australian States, 2005 to 2006. J Food Protect 2008, 71(6):1123–1134.",
+            "block_bbox": [
+                606,
+                180,
+                1066,
+                250
+            ],
+            "block_id": 26,
+            "block_order": 25,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "35. Amara A, Ziani Z, Bouzoubaa K: Antibiotic resistance of Escherichia coli strains isolated in Morocco from chickens with cocilobacillosis. Vet Microbiol 1995, 43:325–330.",
+            "block_bbox": [
+                606,
+                252,
+                1054,
+                304
+            ],
+            "block_id": 27,
+            "block_order": 26,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "36. Koro ME, Anandan S, Quinlan JJ: Microbial quality of food available to populations of differing socio economic status. Am J Prev Med: Elsevier Inc 2010, 20(10):30.",
+            "block_bbox": [
+                606,
+                307,
+                1076,
+                360
+            ],
+            "block_id": 28,
+            "block_order": 27,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "37. Chaiba A, Rhazifilali F, Chahlaoui A, Soulaymani Bencheikh R, Zerhouni M: Microbiological quality of poultry meat on the Meknes market (Morocco). Inter J Foodsaf 2010, 9:67–71.",
+            "block_bbox": [
+                607,
+                361,
+                1063,
+                414
+            ],
+            "block_id": 29,
+            "block_order": 28,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "38. Vaskas TA, Dahesht EA, Seifi S, Rahmani M, Motaghifar A, Safanavaee R: Study and comparison of the bacterial contamination outbreak of chicken meat consumed in some cities of Mazandaran province, Iran. Afr J Microbiol Res 2012, 6(33):6286–6290.",
+            "block_bbox": [
+                607,
+                416,
+                1077,
+                487
+            ],
+            "block_id": 30,
+            "block_order": 29,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "39. Regula G, Ursula L, Roger S, Danuser J: Risk factors for antibiotic resistance in campylobacter species isolated from raw retail poultry in Switzerland. BioMed Central: Publ Health 2003, 3:39.",
+            "block_bbox": [
+                607,
+                488,
+                1076,
+                542
+            ],
+            "block_id": 31,
+            "block_order": 30,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "40. Jakabi M, Gelli DS, Ristiri CA, De Paula AMR, Sakuma H, Lopez GIS: Presence of Salmonella species and Escherichia coli O157:H7 in raw meat in Sao Paolo city, Brazil and evaluation of low temperature (refrigeration and freezing) in resistance of these bacteria. In Determination of human pathogen profiles in food by quality assured microbial assays. Paper presented at the proceedings of a final research coordination meeting held in Mexico city, Mexico. Edited by Loaharanu P, Rubio T. 2002:35–42.",
+            "block_bbox": [
+                607,
+                543,
+                1075,
+                668
+            ],
+            "block_id": 32,
+            "block_order": 31,
+            "group_id": 32
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "41. Popkin BM: Technology, transport, globalization and the nutrition transition food poultry. J Food Poult 2006, 10:1016.",
+            "block_bbox": [
+                606,
+                670,
+                1032,
+                705
+            ],
+            "block_id": 33,
+            "block_order": 32,
+            "group_id": 33
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "42. Nyaga P: Good bio-security practices in small scale commercial and scavenging production systems in Kenya. http://www.fao.org/docrep/013/al838e/al838e00.pdf.",
+            "block_bbox": [
+                606,
+                707,
+                1079,
+                758
+            ],
+            "block_id": 34,
+            "block_order": 33,
+            "group_id": 34
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "43. Adu-Gyamfi A, Torgby-Tetteh W, Appiah V: Microbiological quality of chicken sold in Accra and determination of D10-value of E. coli. J Food Nutri Sci 2012, 3:693–698.",
+            "block_bbox": [
+                606,
+                761,
+                1065,
+                814
+            ],
+            "block_id": 35,
+            "block_order": 34,
+            "group_id": 35
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "44. Thorsteinsdottir TR, Haraldsson G, Fridriksdottir V, Kristinsson KG, Gunnarsson E: Prevalence and genetic relatedness of antimicrobial resistant Escherichia coli isolated from food animals, food and humans in Iceland. Zoonoses Publ Health 2010, 57:189–196.",
+            "block_bbox": [
+                606,
+                816,
+                1078,
+                886
+            ],
+            "block_id": 36,
+            "block_order": 35,
+            "group_id": 36
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "45. Van TTH, George M, Istivan T, Tran L, Cole PJ: Antibiotic resistance in food-borne bacteria contaminants in Vietnam. App Environ Microbiol 2007, 73(12):7906–7911.",
+            "block_bbox": [
+                606,
+                888,
+                1078,
+                941
+            ],
+            "block_id": 37,
+            "block_order": 36,
+            "group_id": 37
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "46. Johnson JR, Kuskowski MA, Smith K, O'Bryan TT, Tatini S: Antimicrobial resistant and extra intestinal pathogenic Escherichia coli in retail foods. J Infect Dis 2005, 191:1040–1049.",
+            "block_bbox": [
+                605,
+                943,
+                1065,
+                995
+            ],
+            "block_id": 38,
+            "block_order": 37,
+            "group_id": 38
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "47. Fofana A, Bada AR, Seydi M, Akakpo AJ: Antibiotic resistance of Escherichia Coli strains isolated from raw meat in Senegal. Dakar Med 2006, 51(3):145–150.",
+            "block_bbox": [
+                606,
+                996,
+                1072,
+                1033
+            ],
+            "block_id": 39,
+            "block_order": 38,
+            "group_id": 39
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "48. Bester LA, Essack SY: Antibiotic resistance via the food chain: Fact or fiction? S Afri J Sci 2010, 106(9/10):1–5.",
+            "block_bbox": [
+                606,
+                1034,
+                1047,
+                1069
+            ],
+            "block_id": 40,
+            "block_order": 39,
+            "group_id": 40
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "49. Al-Ghamdi SA, El-Morsy F, Al-Mustafa ZH, Al-Ramadhan M, Hanif M: Antibiotic resistance of Escherichia coli isolated from poultry workers, patients and chicken in the eastern province of Saudi Arabia. J Trop Med Intern Health 1999, 4(4):278–283.",
+            "block_bbox": [
+                606,
+                1070,
+                1071,
+                1140
+            ],
+            "block_id": 41,
+            "block_order": 40,
+            "group_id": 41
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "50. Ruzauskas M, Šiugždinienė R, Šeputienė V, Šužiedéliene V, Virgailis M, Daugelavičius S: The situation of antimicrobial resistance of enteric bacteria isolated from animal origin to quinolones and fluoroquinolones. Veterinarijairzootechnika 2010, 50:73–80.",
+            "block_bbox": [
+                606,
+                1143,
+                1078,
+                1214
+            ],
+            "block_id": 42,
+            "block_order": 41,
+            "group_id": 42
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "51. Mitema ES, Kikuvi GM, Wegener HC, Stohr K: An assessment of antimicrobial consumption in food producing animals in Kenya. J Vet Pharm 2001, 24(6):385–390.",
+            "block_bbox": [
+                606,
+                1216,
+                1056,
+                1269
+            ],
+            "block_id": 43,
+            "block_order": 42,
+            "group_id": 43
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "52. Nonga HE, Mariki M, Karmurbo ED, Mdegela RH: Assessment of antimicrobial usage and antimicrobial residues in broiler chickens in Morogoro municipality, Tanzania. Pakistan J Nutr 2009, 8(3):203–207.",
+            "block_bbox": [
+                606,
+                1270,
+                1052,
+                1324
+            ],
+            "block_id": 44,
+            "block_order": 43,
+            "group_id": 44
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "53. Hammerum AM, Heuer OE: Human health hazards from antimicrobial resistant Escherichia coli of animal origin. J Clin Infect Dis 2009, 48:916–921.",
+            "block_bbox": [
+                606,
+                1325,
+                1071,
+                1361
+            ],
+            "block_id": 45,
+            "block_order": 44,
+            "group_id": 45
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "54. Majalija S, Oweka F, Wito GS, Lubowa M, Vudriko P, Nakamaya FM: Antibiotic susceptibility profiles of faecal Escherichia coli isolates from dip-litter broiler chickens in Northern and Central Uganda. J Vet Res 2010, 3(4):75–80.",
+            "block_bbox": [
+                606,
+                1362,
+                1076,
+                1415
+            ],
+            "block_id": 46,
+            "block_order": 45,
+            "group_id": 46
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "55. Thorsteinsdottir TR, Haraldsson G, Fridriksdottir V, Kristinsson KG, Gunnarsson E: Broiler chickens as source of human Fluoroquinolone resistant Escherichia coli, Iceland. J Emerg Infect Dis 2010, 16(1):133–135.",
+            "block_bbox": [
+                606,
+                1416,
+                1079,
+                1470
+            ],
+            "block_id": 47,
+            "block_order": 46,
+            "group_id": 47
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9450036287307739,
+                "coordinate": [
+                    107.99447631835938,
+                    65.79920959472656,
+                    444.8031921386719,
+                    105.91734313964844
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.917102575302124,
+                "coordinate": [
+                    996.5291137695312,
+                    65.67912292480469,
+                    1081.245849609375,
+                    86.30699157714844
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9690766930580139,
+                "coordinate": [
+                    110.3973388671875,
+                    180.05618286132812,
+                    578.6760864257812,
+                    216.45364379882812
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9639115333557129,
+                "coordinate": [
+                    111.23408508300781,
+                    217.28469848632812,
+                    549.01171875,
+                    251.53958129882812
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9761732220649719,
+                "coordinate": [
+                    111.30816650390625,
+                    253.13723754882812,
+                    547.3858032226562,
+                    306.1371154785156
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9781737923622131,
+                "coordinate": [
+                    111.45079040527344,
+                    307.44500732421875,
+                    569.064208984375,
+                    361.06536865234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9805609583854675,
+                "coordinate": [
+                    111.70054626464844,
+                    362.6775207519531,
+                    572.22509765625,
+                    433.8754577636719
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9785438179969788,
+                "coordinate": [
+                    111.35400390625,
+                    434.5899658203125,
+                    581.010986328125,
+                    486.95556640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9789170026779175,
+                "coordinate": [
+                    111.6707763671875,
+                    488.927978515625,
+                    565.4622192382812,
+                    541.5994873046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9776325225830078,
+                "coordinate": [
+                    111.57394409179688,
+                    543.123046875,
+                    558.9285888671875,
+                    595.93701171875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9795607924461365,
+                "coordinate": [
+                    111.797119140625,
+                    598.0361328125,
+                    577.4866333007812,
+                    668.41357421875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9696288108825684,
+                "coordinate": [
+                    111.06768798828125,
+                    670.1607666015625,
+                    577.1586303710938,
+                    706.1683349609375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9694312810897827,
+                "coordinate": [
+                    110.57069396972656,
+                    707.25439453125,
+                    566.8629760742188,
+                    742.55029296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9630027413368225,
+                "coordinate": [
+                    110.4971923828125,
+                    742.9403686523438,
+                    567.3204956054688,
+                    780.9946899414062
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9472878575325012,
+                "coordinate": [
+                    110.49142456054688,
+                    780.76123046875,
+                    533.131103515625,
+                    815.842041015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9686936736106873,
+                "coordinate": [
+                    110.57528686523438,
+                    817.17822265625,
+                    571.9769287109375,
+                    853.4425048828125
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9923570156097412,
+                "coordinate": [
+                    108.10218811035156,
+                    180.46875,
+                    577.274658203125,
+                    1469.7203369140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9788500666618347,
+                "coordinate": [
+                    110.34104919433594,
+                    854.11376953125,
+                    565.1671142578125,
+                    924.694580078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9709386825561523,
+                "coordinate": [
+                    110.400146484375,
+                    925.8447265625,
+                    578.5728759765625,
+                    962.0921630859375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9768038988113403,
+                "coordinate": [
+                    110.0836181640625,
+                    962.508544921875,
+                    575.0824584960938,
+                    1015.70068359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9785733819007874,
+                "coordinate": [
+                    110.05661010742188,
+                    1016.6822509765625,
+                    579.2169189453125,
+                    1088.7215576171875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9769187569618225,
+                "coordinate": [
+                    110.2569580078125,
+                    1089.68701171875,
+                    580.5859985351562,
+                    1142.0732421875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.975324273109436,
+                "coordinate": [
+                    110.09429931640625,
+                    1143.835693359375,
+                    568.5974731445312,
+                    1198.453369140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9805035591125488,
+                "coordinate": [
+                    110.33493041992188,
+                    1198.619384765625,
+                    572.5587158203125,
+                    1269.569580078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.977843701839447,
+                "coordinate": [
+                    110.41777038574219,
+                    1270.868408203125,
+                    576.5516967773438,
+                    1324.897705078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9804290533065796,
+                "coordinate": [
+                    110.49945068359375,
+                    1325.379638671875,
+                    560.4899291992188,
+                    1396.858642578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9791600108146667,
+                "coordinate": [
+                    110.062255859375,
+                    1397.778564453125,
+                    576.0914916992188,
+                    1469.514404296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9792107939720154,
+                "coordinate": [
+                    606.37255859375,
+                    180.35308837890625,
+                    1066.560546875,
+                    250.99887084960938
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9764127731323242,
+                "coordinate": [
+                    606.9053955078125,
+                    252.3523712158203,
+                    1054.1248779296875,
+                    304.84649658203125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9774062633514404,
+                "coordinate": [
+                    606.739501953125,
+                    307.4210510253906,
+                    1076.6953125,
+                    360.1545715332031
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9773008227348328,
+                "coordinate": [
+                    607.06201171875,
+                    361.52984619140625,
+                    1063.2127685546875,
+                    414.47772216796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9798046350479126,
+                "coordinate": [
+                    607.19775390625,
+                    416.2984313964844,
+                    1077.85595703125,
+                    487.2012634277344
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9784219264984131,
+                "coordinate": [
+                    607.1912841796875,
+                    488.5718994140625,
+                    1076.9510498046875,
+                    542.42236328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9822428226470947,
+                "coordinate": [
+                    607.036376953125,
+                    543.4151611328125,
+                    1075.05322265625,
+                    668.1405029296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9682411551475525,
+                "coordinate": [
+                    606.9326171875,
+                    670.2552490234375,
+                    1032.15234375,
+                    705.958740234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9765278100967407,
+                "coordinate": [
+                    606.8697509765625,
+                    707.0723876953125,
+                    1079.111572265625,
+                    758.9925537109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9753043055534363,
+                "coordinate": [
+                    606.295166015625,
+                    761.1935424804688,
+                    1065.939453125,
+                    814.7755737304688
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9909254312515259,
+                "coordinate": [
+                    604.17041015625,
+                    177.83551025390625,
+                    1078.74072265625,
+                    1472.958740234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9779623746871948,
+                "coordinate": [
+                    606.11962890625,
+                    816.450927734375,
+                    1078.0926513671875,
+                    886.718505859375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9763660430908203,
+                "coordinate": [
+                    606.1875,
+                    888.1527709960938,
+                    1078.2139892578125,
+                    941.6007690429688
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9748623967170715,
+                "coordinate": [
+                    605.8349609375,
+                    943.3551025390625,
+                    1065.68408203125,
+                    995.916015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9692069292068481,
+                "coordinate": [
+                    606.417236328125,
+                    996.9051513671875,
+                    1072.13623046875,
+                    1033.2513427734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9663506746292114,
+                "coordinate": [
+                    606.6419677734375,
+                    1034.5853271484375,
+                    1047.4285888671875,
+                    1069.4569091796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9794856309890747,
+                "coordinate": [
+                    606.1978759765625,
+                    1070.408203125,
+                    1071.5987548828125,
+                    1140.560546875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9797137379646301,
+                "coordinate": [
+                    606.2191162109375,
+                    1143.2691650390625,
+                    1078.9940185546875,
+                    1214.4661865234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9766743183135986,
+                "coordinate": [
+                    606.6292724609375,
+                    1216.519287109375,
+                    1056.2637939453125,
+                    1269.322998046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9743930101394653,
+                "coordinate": [
+                    606.822998046875,
+                    1270.684814453125,
+                    1052.71875,
+                    1324.207275390625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9644021391868591,
+                "coordinate": [
+                    606.4053955078125,
+                    1325.691162109375,
+                    1071.9185791015625,
+                    1361.031494140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9753206372261047,
+                "coordinate": [
+                    606.56640625,
+                    1362.139404296875,
+                    1076.900390625,
+                    1415.052490234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9744218587875366,
+                "coordinate": [
+                    606.5458984375,
+                    1416.3719482421875,
+                    1079.222900390625,
+                    1470.3641357421875
+                ]
+            }
+        ]
+    }
+}

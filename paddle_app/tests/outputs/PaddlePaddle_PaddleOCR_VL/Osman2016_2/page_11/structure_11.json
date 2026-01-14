@@ -1,0 +1,1109 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_2.pdf",
+    "page_index": 10,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                86,
+                56,
+                168,
+                73
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Meat MSSA, MRSA, MS-NSA, MR-NSA",
+            "block_bbox": [
+                856,
+                56,
+                1104,
+                73
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Fätkenheuer, G., and Kaasch, A. J. (2014). How deadly is methicillin-resistant Staphylococcus aureus? Lancet Infect. Dis. 14, 905–907. doi: 10.1016/S1473-3099(14)70904-1",
+            "block_bbox": [
+                87,
+                126,
+                582,
+                180
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "FDA (2012). Food and Drug Administration. Staphylococcus aureus: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook, 2nd Edn. Washington, DC: US Food and Drug Administration.",
+            "block_bbox": [
+                87,
+                182,
+                582,
+                238
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Futagawa-Saito, K., Ba-Thein, W., Sakurai, N., and Fukuyasu, T. (2006). Prevalence of virulence factors in Staphylococcus intermedius isolates from dogs and pigeons. BMC Vet. Res. 2:4. doi: 10.1186/1746-6148-2-4",
+            "block_bbox": [
+                87,
+                239,
+                582,
+                294
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Gade, N. D., and Qazi, M. S. (2013). Fluoroquinolone therapy in Staphylococcus aureus infections: where do we stand? J. Lab. Phys. 5, 109–112. doi:10.4103/0974-2727.119862",
+            "block_bbox": [
+                87,
+                296,
+                582,
+                351
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Grundmann, H., Aires-de-Sousa, M., Boyce, J., and Tiemersma, E. (2006). Emergence and resurgence of meticillin-resistant Staphylococcus aureus as a public-health threat. Lancet 368, 874–885. doi: 10.1016/S0140-6736(06)68853-3",
+            "block_bbox": [
+                87,
+                353,
+                582,
+                426
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Guran, H. S., and Kahya, S. (2015). Species diversity and pheno- and genotypic antibiotic resistance patterns of staphylococci isolated from retail ground meats. J. Food Sci. 80, M1291–M1298. doi: 10.1111/1750-3841.12893",
+            "block_bbox": [
+                87,
+                429,
+                582,
+                483
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Hanson, B. M., Dressler, A. E., Harper, A. L., Scheibel, R. P., Wardyn, S. E., Roberts, L. K., et al. (2011). Prevalence of Staphylococcus aureus and methicillin-resistant Staphylococcus aureus (MRSA) on retail meat in Iowa. J. Infect. Public Health 4, 169–174. doi: 10.1016/j.jiph.2011.06.001",
+            "block_bbox": [
+                87,
+                485,
+                582,
+                559
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Harada, K., and Asai, T. (2010). Role of antimicrobial selective pressure and secondary factors on antimicrobial resistance prevalence in Escherichia coli from food-producing animals in Japan. J. Biomed. Biotechnol. 2010, 12. doi:10.1155/2010/180682",
+            "block_bbox": [
+                87,
+                561,
+                583,
+                634
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Hooper, D. C. (2002). Fluoroquinolone resistance among Gram-positive cocci. Lancet Infect. Dis. 2, 530–538. doi: 10.1016/S1473-3099(02)00369-9",
+            "block_bbox": [
+                87,
+                637,
+                581,
+                673
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Huber, H., Ziegler, D., Pflüger, V., Vogel, G., Zweifel, C., and Stephan, R. (2011). Prevalence and characteristics of methicillin-resistant coagulase-negative staphylococci from livestock, chicken carcasses, bulk tank milk, minced meat, and contact persons. BMC Vet. Res. 7:6. doi: 10.1186/1746-6148-7-6",
+            "block_bbox": [
+                87,
+                675,
+                582,
+                767
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Jackson, C. R., Davis, J. A., and Barrett, J. B. (2013). Prevalence and characterization of methicillin-resistant Staphylococcus aureus isolates from retail meat and humans in Georgia. J. Clin. Microbiol. 51, 1199–1207. doi: 10.1128/JCM.03166-12",
+            "block_bbox": [
+                87,
+                770,
+                582,
+                842
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Kehrenberg, C., and Schwarz, S. (2006). Distribution of florfenicol resistance Genes fexA and cfr among chloramphenicol-resistant staphylococcus isolates. Antimicrob. Agents Chemother. 50, 1156–1163. doi: 10.1128/AAC.50.4.1156-1163.2006",
+            "block_bbox": [
+                87,
+                845,
+                582,
+                919
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Kehrenberg, C., Schwarz, S., Jacobsen, L., Hansen, L. H., and Vester, B. (2005). A new mechanism for chloramphenicol, florfenicol and clindamycin resistance: methylation of 23S ribosomal RNA at A2503. Mol. Microbiol. 57, 1064–1073. doi: 10.1111/j.1365-2958.2005.04754.x",
+            "block_bbox": [
+                87,
+                921,
+                583,
+                995
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Khan, S. A., Nawaz, M. S., Khan, A. A., and Cerniglia, C. E. (2000). Transfer of erythromycin resistance from poultry to human clinical strains of Staphylococcus aureus. J. Clin. Microbiol. 38, 1832–1838.",
+            "block_bbox": [
+                87,
+                997,
+                583,
+                1053
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Khan, S. A., Nawaz, M. S., Khan, A. A., Hopper, S. L., Jones, R. A., and Cerniglia, C. E. (2005). Molecular characterization of multidrug-resistant Enterococcus spp. from poultry and dairy farms: detection of virulence and vancomycin resistance gene markers by PCR. Mol. Cell Probes 19, 27–34. doi:10.1016/j.mcp.2004.09.001",
+            "block_bbox": [
+                87,
+                1054,
+                583,
+                1146
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Kitao, T. (2003). Survey of methicillin-resistant coagulase-negative staphylococci isolated from the fingers of nursing students. J. Infect. Chemother. 9, 30–34. doi:10.1007/s10156-002-0203-4",
+            "block_bbox": [
+                87,
+                1148,
+                582,
+                1203
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Koci, F., Sekar, A., Pacifico, L., and Esposito, A. (2015). A canine bug in a human heart. Q. J. Med. 108, 337–338. doi: 10.1093/qjmed/hcu123",
+            "block_bbox": [
+                87,
+                1205,
+                581,
+                1241
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Köck, R., Becker, K., Cookson, B., van Gemert-Pijnen, J. E., Harbarth, S., Kluytmans, J., et al. (2010). Methicillin-resistant Staphylococcus aureus (MRSA): burden of disease and control challenges in Europe. Euro. Surveill. 15, 19688.",
+            "block_bbox": [
+                87,
+                1243,
+                582,
+                1316
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "LaMarre, J. M., Locke, J. B., Shaw, K. J., and Mankin, A. S. (2011). Low fitness cost of the multidrug resistance gene cfr. Antimicrob. Agents Chemother. 55, 3714–3719. doi: 10.1128/AAC.00153-11",
+            "block_bbox": [
+                87,
+                1319,
+                582,
+                1373
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Lee, J. H. (2003). Methicillin (Oxacillin)-Resistant Staphylococcus aureus strains isolated from major food animals and their potential transmission to humans.",
+            "block_bbox": [
+                86,
+                1376,
+                582,
+                1413
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Appl. Environ. Microbiol. 69, 6489–6494. doi: 10.1128/AEM.69.11.6489-6494.2003",
+            "block_bbox": [
+                624,
+                126,
+                1099,
+                160
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Lee, J. H., Jeong, J. M., Park, Y. H., Choi, S. S., Kim, Y. H., Chae, J. S., et al. (2004). Evaluation of the methicillin-resistant Staphylococcus aureus (MRSA)-screen latex agglutination test for detection of MRSA of animal origin. J. Clin. Microbiol. 42, 2780–2782. doi: 10.1128/JCM.42.6.2780-2782.2004",
+            "block_bbox": [
+                608,
+                163,
+                1102,
+                237
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Lim, S. K., Nam, H. M., Park, H. J., Lee, H. S., Choi, M. J., Jung, S. C., et al. (2010). Prevalence and characterization of methicillin-resistant Staphylococcus aureus in raw meat in Korea. J. Microbiol. Biotechnol. 20, 775–778. doi:10.4014/jmb.0912.12022",
+            "block_bbox": [
+                607,
+                239,
+                1103,
+                312
+            ],
+            "block_id": 24,
+            "block_order": 23,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Linde, H. J., Schmidt, M., Fuchs, E., Reischl, U., Niller, H. H., and Lehn, N. (2001). In vitro activities of six Quinolones and mechanisms of resistance in Staphylococcus aureus and coagulase-negative Staphylococci. Antimicrob. Agents Chemother. 45, 1553–1557. doi: 10.1128/AAC.45.5.1553-1557.2001",
+            "block_bbox": [
+                608,
+                315,
+                1104,
+                407
+            ],
+            "block_id": 25,
+            "block_order": 24,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Marshall, B. M., and Levy, S. B. (2011). Food Animals and Antimicrobials: impacts on Human Health. Clin. Microbiol. Rev. 24, 718–733. doi: 10.1128/CMR.00002-11",
+            "block_bbox": [
+                607,
+                410,
+                1104,
+                464
+            ],
+            "block_id": 26,
+            "block_order": 25,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Martineau, F., Picard, F. J., Lansac, N., Ménard, C., Roy, P. H., Ouellette, M., et al. (2000). Correlation between the resistance genotype determined by multiplex PCR assays and the antibiotic susceptibility patterns of Staphylococcus aureus and Staphylococcus epidermidis. J. Clin. Microbiol. 44, 231–238. doi:10.1128/AAC.44.2.231-238.2000",
+            "block_bbox": [
+                608,
+                466,
+                1104,
+                558
+            ],
+            "block_id": 27,
+            "block_order": 26,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Nnachi, A. U., Emele, F. E., Ukaegbu, C. O., Agah, M. V., Udu-Ibiam, O. E., Chukwu, O. S., et al. (2014). Prevalence of methicillin-resistant Staphylococcus aureus (MRSA) in raw meat and meat handlers in Onitsha, Nigeria. Europ. J. Prev. Med. 2, 9–15. doi: 10.11648/j.ejpm.20140201.12",
+            "block_bbox": [
+                608,
+                561,
+                1103,
+                635
+            ],
+            "block_id": 28,
+            "block_order": 27,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Normanno, G., Corrente, M., La Salandra, G., Dambrosio, A., Quaglia, N. C., Parisi, A., et al. (2007). Methicillin-resistant Staphylococcus aureus (MRSA) in foods of animal origin product in Italy. Int. J. Food Microbiol. 117, 219–222. doi:10.1016/j.ijfoodmicro.2007.04.006",
+            "block_bbox": [
+                608,
+                638,
+                1104,
+                711
+            ],
+            "block_id": 29,
+            "block_order": 28,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "O'Brien, A. M., Hanson, B. M., Farina, S. A., Wu, J. Y., Simmering, J. E., Wardyn, S. E., et al. (2012). MRSA in conventional and alternative retail pork products. PLoS ONE 7:e30092. doi: 10.1371/journal.pone.0030092",
+            "block_bbox": [
+                608,
+                713,
+                1103,
+                768
+            ],
+            "block_id": 30,
+            "block_order": 29,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "O'Keefe, A., Hutton, T. A., Schifferli, D. M., and Rankin, S. C. (2010). First detection of CTX-M and SHV extended-spectrum beta-lactamases in Escherichia coli urinary tract isolates from dogs and cats in the United States. Antimicrob. Agents Chemother. 54, 3489–3492. doi: 10.1128/AAC.01701-09",
+            "block_bbox": [
+                608,
+                770,
+                1103,
+                843
+            ],
+            "block_id": 31,
+            "block_order": 30,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Oliphant, C. M., and Green, G. M. (2002). Quinolones: a comprehensive review. Am. Family Phys. 65, 455–464.",
+            "block_bbox": [
+                607,
+                845,
+                1102,
+                881
+            ],
+            "block_id": 32,
+            "block_order": 31,
+            "group_id": 32
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Osman, K. M., Abd El-Razik, K. A., Marie, H. S., and Arafa, A. (2015). Relevance of biofilm formation and virulence of different species of coagulase-negative staphylococci to public health. Eur. J. Clin. Microbiol. Infect. Dis. 34, 2009–2016. doi: 10.1007/s10096-015-2445-3",
+            "block_bbox": [
+                608,
+                883,
+                1104,
+                957
+            ],
+            "block_id": 33,
+            "block_order": 32,
+            "group_id": 33
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Osman, K. M., Abd El-Razik, K. A., Marie, H. S. H., and Arafa, A. (2016). Coagulase-negative Staphylococci collected from bovine milk: species and antimicrobial gene diversity. J. Food Saf. 36, 89–99. doi: 10.1111/jfs.12216",
+            "block_bbox": [
+                607,
+                959,
+                1103,
+                1015
+            ],
+            "block_id": 34,
+            "block_order": 33,
+            "group_id": 34
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Parkinson, E. I., Bair, J. S., Nakamura, B. A., Lee, H. Y., Kuttab, H. I., Southgate, E. H., et al. (2015). Deoxynybomycins inhibit mutant DNA gyrase and rescue mice infected with fluoroquinolone-resistant bacteria. Nat. Commun. 6, 6947. doi: 10.1038/s41467-015-00047-x",
+            "block_bbox": [
+                608,
+                1016,
+                1103,
+                1090
+            ],
+            "block_id": 35,
+            "block_order": 34,
+            "group_id": 35
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Pesavento, G., Ducci, B., Comodo, N., and Nostro, A. L. (2007). Antimicrobial resistance profile of Staphylococcus aureus isolated from raw meat: a research for methicillin resistant Staphylococcus aureus (MRSA). Food Control 18, 196–200. doi: 10.1016/j.foodcont.2005.09.013",
+            "block_bbox": [
+                608,
+                1092,
+                1103,
+                1165
+            ],
+            "block_id": 36,
+            "block_order": 35,
+            "group_id": 36
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Peton, V., and Le Loir, Y. (2014). Staphylococcus aureus in veterinary medicine. Infect. Gen. Evol. 21, 602–615. doi: 10.1016/j.meegid.2013.08.011",
+            "block_bbox": [
+                607,
+                1167,
+                1102,
+                1203
+            ],
+            "block_id": 37,
+            "block_order": 36,
+            "group_id": 37
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Pu, S., Han, F., and Ge, B. (2009). Isolation and characterization of methicillin-resistant Staphylococcus aureus strains from Louisiana retail meats. Appl. Environ. Microbiol. 75, 265–267. doi: 10.1128/AEM.01110-08",
+            "block_bbox": [
+                608,
+                1205,
+                1102,
+                1260
+            ],
+            "block_id": 38,
+            "block_order": 37,
+            "group_id": 38
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Redgrave, L. S., Sutton, S. B., Webber, M. A., and Piddock, L. J. (2014). Fluoroquinolone resistance: mechanisms, impact on bacteria, and role in evolutionary success. Trends Microbiol. 22, 438–445. doi:10.1016/j.tim.2014.04.007",
+            "block_bbox": [
+                608,
+                1262,
+                1103,
+                1336
+            ],
+            "block_id": 39,
+            "block_order": 38,
+            "group_id": 39
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Santos-Sanches, I., Mato, R., de Lencastre, H., Tomasz, A., CEM/NET Collaborators and the International Collaborators (2000). Patterns of multidrug resistance among methicillin-resistant hospital isolates of coagulase-positive and coagulase-negative staphylococci collected in the international multicenter",
+            "block_bbox": [
+                608,
+                1338,
+                1104,
+                1414
+            ],
+            "block_id": 40,
+            "block_order": 39,
+            "group_id": 40
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1482,
+                364,
+                1500
+            ],
+            "block_id": 41,
+            "block_order": null,
+            "group_id": 41
+        },
+        {
+            "block_label": "number",
+            "block_content": "11",
+            "block_bbox": [
+                585,
+                1483,
+                605,
+                1498
+            ],
+            "block_id": 42,
+            "block_order": null,
+            "group_id": 42
+        },
+        {
+            "block_label": "footer",
+            "block_content": "February 2016 | Volume 7 | Article 222",
+            "block_bbox": [
+                868,
+                1481,
+                1102,
+                1500
+            ],
+            "block_id": 43,
+            "block_order": null,
+            "group_id": 43
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9248459339141846,
+                "coordinate": [
+                    86.08029174804688,
+                    56.957557678222656,
+                    168.5291748046875,
+                    73.63826751708984
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9453584551811218,
+                "coordinate": [
+                    856.269287109375,
+                    56.18296813964844,
+                    1104.140625,
+                    73.517822265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9775561690330505,
+                "coordinate": [
+                    87.61692810058594,
+                    126.55422973632812,
+                    582.5875244140625,
+                    180.04837036132812
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9784496426582336,
+                "coordinate": [
+                    87.90837097167969,
+                    182.62930297851562,
+                    582.319580078125,
+                    238.10055541992188
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9789051413536072,
+                "coordinate": [
+                    87.31105041503906,
+                    239.77633666992188,
+                    582.962646484375,
+                    294.7148132324219
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9791417717933655,
+                "coordinate": [
+                    87.61981201171875,
+                    296.9354248046875,
+                    582.585205078125,
+                    351.181884765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9816001653671265,
+                "coordinate": [
+                    87.80586242675781,
+                    353.5457763671875,
+                    582.45361328125,
+                    426.3720703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9789181351661682,
+                "coordinate": [
+                    87.54347229003906,
+                    429.7466125488281,
+                    582.734130859375,
+                    483.3621520996094
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809699058532715,
+                "coordinate": [
+                    87.66285705566406,
+                    485.8704833984375,
+                    582.6847534179688,
+                    559.1834716796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806317090988159,
+                "coordinate": [
+                    87.81948852539062,
+                    561.61181640625,
+                    583.454833984375,
+                    634.72900390625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.971206784248352,
+                "coordinate": [
+                    87.06500244140625,
+                    637.8265380859375,
+                    581.5734252929688,
+                    673.8502197265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9824124574661255,
+                "coordinate": [
+                    87.44010925292969,
+                    675.4757080078125,
+                    582.199462890625,
+                    767.5533447265625
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9920365810394287,
+                "coordinate": [
+                    84.58804321289062,
+                    127.0703125,
+                    585.1866455078125,
+                    1415.8233642578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806937575340271,
+                "coordinate": [
+                    87.21073913574219,
+                    770.5477294921875,
+                    582.7105102539062,
+                    842.7232666015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809030294418335,
+                "coordinate": [
+                    87.28645324707031,
+                    845.3291015625,
+                    582.5442504882812,
+                    919.36962890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806963801383972,
+                "coordinate": [
+                    87.41572570800781,
+                    921.0782470703125,
+                    583.1483154296875,
+                    995.4788818359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9783268570899963,
+                "coordinate": [
+                    87.35044860839844,
+                    997.0757446289062,
+                    583.7758178710938,
+                    1053.265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9826080203056335,
+                "coordinate": [
+                    87.66302490234375,
+                    1054.731689453125,
+                    583.42626953125,
+                    1146.347412109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9784705638885498,
+                "coordinate": [
+                    87.62971496582031,
+                    1148.708251953125,
+                    582.6312866210938,
+                    1203.126220703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.970838189125061,
+                "coordinate": [
+                    87.21563720703125,
+                    1205.6617431640625,
+                    581.9598999023438,
+                    1241.8067626953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9810845255851746,
+                "coordinate": [
+                    87.90176391601562,
+                    1243.1002197265625,
+                    582.886962890625,
+                    1316.9473876953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9778420925140381,
+                "coordinate": [
+                    87.65875244140625,
+                    1319.45556640625,
+                    582.8809204101562,
+                    1373.755859375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9691288471221924,
+                "coordinate": [
+                    86.77943420410156,
+                    1376.8935546875,
+                    582.935302734375,
+                    1413.6875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9691103100776672,
+                "coordinate": [
+                    624.85986328125,
+                    126.30003356933594,
+                    1099.653076171875,
+                    160.67869567871094
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9804357290267944,
+                "coordinate": [
+                    608.3319091796875,
+                    163.90408325195312,
+                    1102.8909912109375,
+                    237.18020629882812
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9812585711479187,
+                "coordinate": [
+                    607.96923828125,
+                    239.69664001464844,
+                    1103.835693359375,
+                    312.63623046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9823172092437744,
+                "coordinate": [
+                    608.0111083984375,
+                    315.2415466308594,
+                    1104.6385498046875,
+                    407.6365051269531
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9784823060035706,
+                "coordinate": [
+                    607.921142578125,
+                    410.62359619140625,
+                    1104.198974609375,
+                    464.19354248046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9823375940322876,
+                "coordinate": [
+                    608.61865234375,
+                    466.6243591308594,
+                    1104.12646484375,
+                    558.5633544921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981322169303894,
+                "coordinate": [
+                    608.27783203125,
+                    561.7505493164062,
+                    1103.88671875,
+                    635.9525756835938
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809503555297852,
+                "coordinate": [
+                    608.3265380859375,
+                    638.108642578125,
+                    1104.18017578125,
+                    711.31787109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9790799021720886,
+                "coordinate": [
+                    608.4501953125,
+                    713.595947265625,
+                    1103.05224609375,
+                    768.3271484375
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9918713569641113,
+                "coordinate": [
+                    606.001953125,
+                    125.10247802734375,
+                    1105.8681640625,
+                    1415.191162109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9810361862182617,
+                "coordinate": [
+                    608.0113525390625,
+                    770.616943359375,
+                    1103.5174560546875,
+                    843.97900390625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9711741209030151,
+                "coordinate": [
+                    607.829833984375,
+                    845.827880859375,
+                    1102.7891845703125,
+                    881.717041015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806342124938965,
+                "coordinate": [
+                    608.050048828125,
+                    883.662841796875,
+                    1104.198486328125,
+                    957.0841064453125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9780590534210205,
+                "coordinate": [
+                    607.8809814453125,
+                    959.7996826171875,
+                    1103.7691650390625,
+                    1015.1165771484375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9806869626045227,
+                "coordinate": [
+                    608.3795166015625,
+                    1016.8511962890625,
+                    1103.9591064453125,
+                    1090.3121337890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9809190630912781,
+                "coordinate": [
+                    608.572021484375,
+                    1092.406982421875,
+                    1103.94873046875,
+                    1165.564453125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9720818996429443,
+                "coordinate": [
+                    607.634521484375,
+                    1167.60546875,
+                    1102.70849609375,
+                    1203.9384765625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9784328937530518,
+                "coordinate": [
+                    608.1246337890625,
+                    1205.74755859375,
+                    1102.90185546875,
+                    1260.69921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9814032316207886,
+                "coordinate": [
+                    608.7938232421875,
+                    1262.5689697265625,
+                    1103.0875244140625,
+                    1336.4219970703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9800206422805786,
+                "coordinate": [
+                    608.11279296875,
+                    1338.50830078125,
+                    1104.83740234375,
+                    1414.2587890625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9300498366355896,
+                "coordinate": [
+                    85.87464904785156,
+                    1482.16357421875,
+                    364.594970703125,
+                    1500.1953125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8791552782058716,
+                "coordinate": [
+                    585.3049926757812,
+                    1483.1851806640625,
+                    605.1475219726562,
+                    1498.6651611328125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9313428401947021,
+                "coordinate": [
+                    868.434814453125,
+                    1481.594970703125,
+                    1102.997314453125,
+                    1500.119873046875
+                ]
+            }
+        ]
+    }
+}

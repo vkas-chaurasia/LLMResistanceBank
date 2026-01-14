@@ -1,0 +1,483 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Shousha2015.pdf",
+    "page_index": 1,
+    "page_count": 7,
+    "width": 1170,
+    "height": 1566,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Phage Transfer of Antibiotic Resistance in Chicken Meat",
+            "block_bbox": [
+                749,
+                64,
+                1092,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "text",
+            "block_content": "most bacterial cells eventually lyse, a few are persistently infected (for a review, see reference 21).",
+            "block_bbox": [
+                75,
+                129,
+                575,
+                173
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "A phage can transfer bacterial DNA from one host to the other in a process known as transduction. Specialized transduction occurs frequently in the environment during lysogeny, when a prophage incorrectly excises not only its own DNA but also attached bacterial DNA from the host genome. Phages can store this DNA in the capsid, and during the next infection cycle the bacterial host might integrate the foreign DNA by homologous recombination  $ (22) $ . The process has been documented in different environments, such as in environmental water and on plant surfaces  $ (17) $ . New studies, using whole-genome sequencing, have shown that transduction events have occurred in almost every bacterial isolate sequenced  $ (23) $ . In theory, generalized transduction, in which either a virulent or a temperate phage accidentally packs bacterial DNA instead of phage DNA into its capsid and delivers it to the next host, may occur without the need for homologous recombination between different species of bacteria, although there has not yet been any definitive proof of the phenomenon  $ (16) $ . Broad-host-range plasmids have also been transduced between bacteria of nonrelated species  $ (20) $ .",
+            "block_bbox": [
+                73,
+                174,
+                577,
+                592
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "We tested chicken meat for the presence of phages that infect  $ E.\\ coli $  (coliphages) and that are able to transduce important antimicrobial resistances. Our results suggest that the transduction of antimicrobial resistance is not, as has been assumed to date, a rare event but is, rather, more common for certain resistance elements. Phages able to transfer antimicrobial resistance are rather diverse, ranging from host-specific ones to those with a broad host range, and the process is not dependent on homologous recombination. This study raises the question about new strategies in combating the transfer of antimicrobial resistance in the food environment.",
+            "block_bbox": [
+                73,
+                592,
+                577,
+                815
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## MATERIALS AND METHODS",
+            "block_bbox": [
+                75,
+                841,
+                308,
+                863
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Sample collection and preparation. From May to December 2013, 50 packed, chilled (4°C) chicken meat products were collected from supermarkets, street markets, and butchers in Vienna, Austria. A 25-g portion of each sample was removed from the package and placed into a sterile filter stomacher bag (BBAG03; Corning Gosselin, Hazebrouck, France) under aseptic conditions. Fifty milliliters of sterile 0.9% NaCl was used as a rinsing solution (Merck, Darmstadt, Germany) and was added to the bag, which was shaken manually for 3 min. After the rinsing, the saline was used for the isolation of phages and resistant bacteria.",
+            "block_bbox": [
+                74,
+                868,
+                576,
+                1048
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Isolation of resistant Escherichia coli colonies. One milliliter from each of the rinsing solutions was spread onto Coli-ID agar plates (bio-Mérieux, Marcy l'Etoile, France) containing appropriate antimicrobials (ampicillin at 35  $ \\mu $ g/ml, tetracycline at 20  $ \\mu $ g/ml, kanamycin at 30  $ \\mu $ g/ml, and chloramphenicol at 35  $ \\mu $ g/ml [Sigma-Aldrich, St. Louis, MO, USA]) and incubated at 42°C for 24 h. Four presumptive resistant E. coli colonies were further subcultured from the colonized plates onto plate count agar (Merck, Darmstadt, Germany) and incubated at 37°C for 24 h. These E. coli isolates were stored in Luria broth (Merck, Darmstadt, Germany) with the addition of 20% (wt/vol) glycerol (Sigma-Aldrich, St. Louis, MO, USA) at -80°C. Isolates were tested for antimicrobial resistance using standard methods (24).",
+            "block_bbox": [
+                74,
+                1048,
+                577,
+                1289
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Isolation of bacteriophages and preparation of lysates. Bacteriophages (virulent and temperate, based on plaque morphology) were isolated as described in standard ISO 10705-2:2000 (25). Briefly, 0.5 ml from an overnight culture of E. coli ATCC 13706 (DSM 12242) was mixed with 50 ml of modified Scholtens' broth, and the mixture was incubated at 37°C with shaking for 1 to 5 h until the culture reached an optical density at 600 nm of 0.4. One milliliter of this culture and 1 ml of sample rinsing solution were added to 2.5 ml preheated (45°C) modified Scholtens' soft agar (Scholtens' broth plus 0.8% agar), and the mixture was vortexed and immediately spread as an overlay on modified Scholtens' agar plates (Scholtens' broth plus 1.5% agar) at room temperature. These plates were incubated at 37°C for 18 to 20 h. Lysates of plaques were prepared as described by Groisman (26). In brief, plaques (five from each sample) were individually cut out from the soft agar plate and diluted in chloroform (1%, vol/vol),  $ MgSO_{4} $  (2 mM), and  $ CaCl_{2} $  (0.2 mM) (Sigma-Aldrich, St. Louis, MO, USA). The solution was vortexed for 10 s and centrifuged at 20,000 × g for 10 min. The supernatants were filtered through a 0.2-μm-pore-size filter (Whatman; GE Healthcare, Buckinghamshire, United Kingdom) and kept at 4°C for further use.",
+            "block_bbox": [
+                74,
+                1289,
+                577,
+                1451
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                589,
+                130,
+                1093,
+                358
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Titration of bacteriophage. Tenfold serial dilutions  $ \\left(10^{-1}\\right. $  to  $ \\left.10^{-6}\\right) $  were prepared from each phage lysate. Mixtures from 1 ml of an overnight culture of E. coli ATCC 13706 and 10  $ \\mu $ l from the diluted lysate were added to 2.5 ml preheated  $ (45^{\\circ}\\mathrm{C}) $  modified Scholtens' soft agar, vortexed, and immediately spread as an overlay on modified Scholtens' agar plates to solidify at room temperature. After incubation at  $ 37^{\\circ}C $  for 18 to 20 h, plaques were counted and appropriate dilutions were prepared for transduction and typing. Phage particles were expressed as the number of PFU per milliliter using the following formula: (number of plaques  $ \\times $  dilution factor)/ml. Titers were calculated for each phage and ranged from  $ 1.5 \\times 10^{8} $  to  $ 3.1 \\times 10^{10} $  PFU/ml.",
+            "block_bbox": [
+                590,
+                357,
+                1093,
+                584
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Transduction. Transduction was performed as described by Groisman with slight variations (26). In brief, 100  $ \\mu $ l of an E. coli ATCC 13706 overnight culture was mixed with 10  $ \\mu $ l of properly diluted (10 $ ^{4} $  PFU/ml) phage lysate, and the mixture was incubated at 37°C for 30 min without shaking to allow phage absorption. Two milliliters of modified Scholtens' broth was then added, and the mixture was incubated at 37°C for 1 to 2 h with shaking. The tubes were centrifuged at 12,000 × g for 3 min. The supernatant was discarded, and the pellet was suspended in 150  $ \\mu $ l modified Scholtens' broth and plated on Mueller-Hinton agar plates (Merck, Darmstadt, Germany) containing either ampicillin at 35  $ \\mu $ g/ml, tetracycline at 20  $ \\mu $ g/ml, kanamycin at 30  $ \\mu $ g/ml, or chloramphenicol at 35  $ \\mu $ g/ml. The plates were incubated at 37°C for 24 to 48 h. Additionally, to detect the transfer of extended-spectrum  $ \\beta $ -lactamase (ESBL) production to E. coli, ESBL-Bx plates (bioMérieux, Marcy l'Etoile, France) were incubated. Colonies were subcultured and stored at -80°C in Luria broth with the addition of 20% (wt/vol) glycerol for further analysis.",
+            "block_bbox": [
+                590,
+                584,
+                1094,
+                914
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "PCR for identification of resistance genes and Southern blot analysis. Resistance genes in the transduced E. coli isolates were detected by amplification of a partial sequence of the resistance gene by PCR (27) using different primers (Table 1) (primers were synthesized at Microsynth AG, Balgach, Switzerland). DNA was extracted from E. coli using the alkaline lysis method. The PCRs were carried out with a 12.5- $ \\mu $ l reaction mixture containing 10 ng DNA, 6.25  $ \\mu $ l Kapa2G polymerase from a Fast hot start kit (Kapa Biosystems, Wilmington, MA, USA), 1 mM  $ MgCl_{2} $ , and 0.1  $ \\mu $ M each primer. For Southern blot analysis, whole-genome DNA was restricted with EcoRI, separated on a 1% agarose gel in 1× TAE (Tris-acetate-EDTA) buffer, and transferred to a Hybond N $ ^{+} $  membrane using a vacuum blotter (Hoefer Scientific Instruments, San Francisco, CA, USA). The PCR product of aphA1 was labeled with a DIG High Prime DNA labeling and detection starter kit II (Roche, Mannheim, Germany). The hybridization was carried out according to the manufacturer's specifications, and the hybridized product was visualized using an illuminator (ChemiDoc XRS+ system; Bio-Rad Laboratories, Munich, Germany).",
+            "block_bbox": [
+                589,
+                914,
+                1093,
+                1265
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Characterization of coliphage. Mixtures from 100- $ \\mu $ l overnight cultures of different well-characterized, selected, laboratory E. coli strains with different properties (ATCC 13706, JM109, W3110, MC1061, and DH5 $ \\alpha $ ) were used to gain a suitable lysogeny spectrum for the phages, and 2.5 ml preheated (45°C) modified Scholtens' soft agar was spread as an overlay on modified Scholtens' agar plates at room temperature. After solidification, 5  $ \\mu $ l of appropriately diluted phage lysates was spotted on these plates. The plates were incubated at 37°C for 18 to 24 h, and the lysogeny spectra of each lysate were recorded.",
+            "block_bbox": [
+                589,
+                1264,
+                1094,
+                1452
+            ],
+            "block_id": 12,
+            "block_order": 12,
+            "group_id": 12
+        },
+        {
+            "block_label": "footer",
+            "block_content": "July 2015 Volume 81 Number 14",
+            "block_bbox": [
+                76,
+                1494,
+                295,
+                1513
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Applied and Environmental Microbiology",
+            "block_bbox": [
+                458,
+                1494,
+                710,
+                1513
+            ],
+            "block_id": 14,
+            "block_order": null,
+            "group_id": 14
+        },
+        {
+            "block_label": "footer",
+            "block_content": "aem.asm.org",
+            "block_bbox": [
+                965,
+                1495,
+                1045,
+                1513
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        },
+        {
+            "block_label": "number",
+            "block_content": "4601",
+            "block_bbox": [
+                1055,
+                1495,
+                1090,
+                1512
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9434950351715088,
+                "coordinate": [
+                    749.5550537109375,
+                    64.45285034179688,
+                    1092.1451416015625,
+                    84.13592529296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9736676216125488,
+                "coordinate": [
+                    75.2509765625,
+                    129.34854125976562,
+                    575.4650268554688,
+                    173.94622802734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883922934532166,
+                "coordinate": [
+                    73.665771484375,
+                    174.52450561523438,
+                    577.0742797851562,
+                    592.627685546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883319735527039,
+                "coordinate": [
+                    73.98274230957031,
+                    592.4882202148438,
+                    577.5907592773438,
+                    815.7911987304688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9387810826301575,
+                "coordinate": [
+                    75.59561157226562,
+                    841.8902587890625,
+                    308.0010681152344,
+                    863.04541015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879092574119568,
+                "coordinate": [
+                    74.36616516113281,
+                    868.035400390625,
+                    576.7717895507812,
+                    1048.20654296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884790778160095,
+                "coordinate": [
+                    74.39791870117188,
+                    1048.16064453125,
+                    577.216796875,
+                    1289.72705078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867972135543823,
+                "coordinate": [
+                    74.1607666015625,
+                    1289.397216796875,
+                    577.7950439453125,
+                    1451.071044921875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4619062840938568,
+                "coordinate": [
+                    686.876953125,
+                    192.96743774414062,
+                    724.6435546875,
+                    213.16873168945312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884335398674011,
+                "coordinate": [
+                    589.939453125,
+                    130.60894775390625,
+                    1093.874755859375,
+                    358.0155029296875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4801158010959625,
+                "coordinate": [
+                    984.6314697265625,
+                    358.05657958984375,
+                    1025.0198974609375,
+                    377.46966552734375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.43761011958122253,
+                "coordinate": [
+                    1047.745361328125,
+                    358.305419921875,
+                    1088.045654296875,
+                    377.722900390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885192513465881,
+                "coordinate": [
+                    590.013427734375,
+                    357.23760986328125,
+                    1093.208984375,
+                    584.3660278320312
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5047365427017212,
+                "coordinate": [
+                    640.2802734375,
+                    562.7964477539062,
+                    713.941650390625,
+                    582.3988647460938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887192845344543,
+                "coordinate": [
+                    590.047119140625,
+                    584.4933471679688,
+                    1094.054443359375,
+                    914.7827758789062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887535572052002,
+                "coordinate": [
+                    589.90576171875,
+                    914.2745361328125,
+                    1093.7159423828125,
+                    1265.3660888671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875214695930481,
+                "coordinate": [
+                    589.49462890625,
+                    1264.8243408203125,
+                    1094.3642578125,
+                    1452.2186279296875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9370822906494141,
+                "coordinate": [
+                    76.76219940185547,
+                    1494.789794921875,
+                    295.335205078125,
+                    1513.572021484375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9326041340827942,
+                "coordinate": [
+                    458.8424377441406,
+                    1494.421630859375,
+                    710.0035400390625,
+                    1513.600830078125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.914360761642456,
+                "coordinate": [
+                    965.5826416015625,
+                    1495.45166015625,
+                    1045.2117919921875,
+                    1513.3681640625
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8955493569374084,
+                "coordinate": [
+                    1055.7388916015625,
+                    1495.482177734375,
+                    1090.5601806640625,
+                    1512.671142578125
+                ]
+            }
+        ]
+    }
+}

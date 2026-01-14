@@ -1,0 +1,673 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Messad2014.pdf",
+    "page_index": 1,
+    "page_count": 5,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "S. Messad et al. / Food Control 40 (2014) 324–328",
+            "block_bbox": [
+                457,
+                91,
+                751,
+                110
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "325",
+            "block_bbox": [
+                1100,
+                92,
+                1127,
+                109
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "has been identified as one of the most important food vehicles for these organisms. Preparation of raw poultry and consumption of contaminated chicken meat or chicken products in general have been identified as the main risk factor for human infection with Campylobacter (Hartnett et al., 2009, 33 p.). Sporadic human cases have been associated with consumption of under-cooked poultry meat, while larger outbreaks are associated with raw milk (Denis et al., 2011; Karagiannis et al., 2010). Acute self-limited gastrointestinal illness, characterized by diarrhea, fever and abdominal cramps, is the most common presentation of Campylobacter infection; fresh blood may appear in the stools. Local complications such as cholecystitis, pancreatitis and peritonitis occur rarely. It has been recognized that Guillain–Barré syndrome is the most serious complication of Campylobacter infection, with an incidence of 1/1000 infections (Butzler, 2004).",
+            "block_bbox": [
+                78,
+                128,
+                592,
+                442
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Campylobacter diseases are primarily treated with fluoroquinolones and macrolides. However, an increase of acquired resistance to these same antibiotics has been reported by the European food safety authority (EFSA, 2010a). Because of their ability to be transmitted to humans through food chain, the zoonotic enteropathogenic bacteria resistant to antibiotics, mainly Campylobacter, are more dangerous in terms of human health. In the U.S.A, consumption of poultry has been identified as a risk factor for human infection by fluoroquinolone-resistant Campylobacter species (Luangtongkum et al., 2009).",
+            "block_bbox": [
+                78,
+                442,
+                591,
+                652
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Our study aims to determine the thermotolerants Campylobacter prevalence in broiler in some poultry farms and slaughterhouses of Algiers and the susceptibility of isolated strains to several antibiotics.",
+            "block_bbox": [
+                78,
+                652,
+                592,
+                736
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 2. Material and methods",
+            "block_bbox": [
+                80,
+                756,
+                289,
+                777
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.1. Samples collection",
+            "block_bbox": [
+                80,
+                798,
+                255,
+                820
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Our study was conducted from January to December, 2010. 300 samples were collected from six poultry farms representing about the tenth of poultry buildings in this region, and from five slaughterhouses representing the quarter of the abattoirs of this region, randomly chosen in the Algiers region. The poultry farms have livestock capacity between 4000 and 6000 subjects, while the processing capacity of the slaughterhouses are between 600 and 1200 subjects per hour. First, at the end of rearing period, from six poultry farms, 100 freshly emitted droppings samples were collected during the last week preceding removal; second, on five slaughterhouses, after chickens evisceration, 100 samples of caeca were taken and, 100 fresh broiler chicken neck skins were collected at the end of slaughtering chain. Both cecal contents and neck skin samples were collected from the same slaughter batch (animals had the same origin and were sampled randomly in the slaughterhouse line). For each farm and slaughterhouse, a single visit was performed early in the morning; the samples were placed in sterile plastic pots (droppings and cecal contents) and sterile plastic bags (neck skins) inside an isothermal cool-box at  $ +4^{\\circ}C $  and transferred immediately to the laboratory in order to be analyzed on the same day.",
+            "block_bbox": [
+                78,
+                840,
+                592,
+                1262
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.2. Isolation and identification",
+            "block_bbox": [
+                80,
+                1279,
+                320,
+                1301
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "The isolation and identification of thermotolerant Campylobacter were performed according to World Organisation for Animal Health recommendations (OIE, 2008) and to French Agency for Standardization: NF ISO 10272-1: 1995 norm (AFNOR, 2004, 15 p.) using the following procedures.",
+            "block_bbox": [
+                79,
+                1321,
+                591,
+                1426
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "All cultures and incubations were performed under microaerobic condition which was generated by using an anaerobic jar containing a gas generating CampyGen™ reagents (Oxoïd, Dardily. France).\n\nCulture of Campylobacter took place within 4 h after samples collection. From droppings and caecal contents the research of thermotolerant Campylobacter was performed by direct isolation on Butzler selective agar medium (Oxoïd, Dardily. France) and incubated at  $ 42^{\\circ} $ C for 48 h.",
+            "block_bbox": [
+                78,
+                1426,
+                591,
+                1491
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                615,
+                128,
+                1130,
+                233
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "From neck skin samples, isolation on Butzler agar was preceded by a selective enrichment step of sample: 10 g of sample in 90 mL of Preston broth (Oxoïd, Dardily. France) and incubated for 24 h at 42 °C. The culture dishes were then inoculated with a few drops of Preston broth, incubated at 42 °C and read every 24 h up to fifth day.",
+            "block_bbox": [
+                616,
+                233,
+                1130,
+                358
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The control strains were: Campylobacter jejuni (CIP 70.2), Campylobacter coli (CIP 70.80) and C. fetus (CIP 53.96) (Institut Pasteur Paris Collection, France).",
+            "block_bbox": [
+                616,
+                358,
+                1129,
+                421
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Curved Gram-negative bacilli, with typical motility (twirling and rapid darting movements), oxidase positive, catalase positive and which did not show growth at  $ 25^{\\circ} $ C were presumed thermotolerant Campylobacter in the preliminary identification.",
+            "block_bbox": [
+                616,
+                421,
+                1129,
+                506
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "Suspect colonies of Campylobacter were subsequently purified on Columbia agar (Bio-Rad, Marnes la coquette, France) with 5% horse blood (IPA: Institut Pasteur d'Algérie, Algiers, Algeria), and confirmed both by using biochemical test on Triple Sugar Iron agar (IPA; Algiers, Algeria) and sensitivity to cephalothin (30  $ \\mu $ g) (Bio-Rad, Marnes La Coquette, France).",
+            "block_bbox": [
+                616,
+                506,
+                1130,
+                633
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.3. Antibiotic sensitivity analysis",
+            "block_bbox": [
+                617,
+                652,
+                874,
+                674
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antimicrobial sensitivity of Campylobacter strains was assessed using the disk diffusion assay. All isolates were tested with the following antibiotics: ampicillin (10  $ \\mu $ g), amoxicillin/clavulanic acid (20/10  $ \\mu $ g), gentamicin (10  $ \\mu $ g), erythromycin (15 IU), nalidixic acid (30  $ \\mu $ g), ciprofloxacin (5  $ \\mu $ g), tetracycline (30  $ \\mu $ g) and chloramphenicol (30  $ \\mu $ g) (Bio-Rad, Marnes La Coquette, France), the choice of tested antibiotics was carried out according to the guidelines of the CA-SFM/2010 and according to the standardization of the antibiogram in human medicine on a national scale (WHO, 2008b, 102 p.).",
+            "block_bbox": [
+                616,
+                693,
+                1130,
+                903
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "Bacterial suspension of 0.5 McFarland was prepared from a pure 18 h culture, than seeded by swabbing. The isolated strains were inoculated on Mueller-Hinton agar (Bio-Rad, Marnes La Coquette, France) supplemented with 5% defibrinated horse blood. After deposition of antibiotics disks, the plates were incubated at 42 °C for 24–48 h in microaerophilic atmosphere. Inhibition zones were measured by a caliper and diameters were interpreted as recommended by the Antibiogram committee of the French Society of Microbiology (CA-SFM, 2010, 50 p.). For quality control reason, reference strains E. coli ATCC 25922 and Staphylococcus aureus ATCC 25923 were tested concomitantly with samples.",
+            "block_bbox": [
+                616,
+                903,
+                1130,
+                1136
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.4. Statistical analysis",
+            "block_bbox": [
+                617,
+                1154,
+                796,
+                1176
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "Chi-square test was used for comparisons in order to determine if there were statistically significant differences at 95% level in the prevalence of thermotolerant Campylobacter samples between the farms and between the slaughterhouses and to compare antimicrobial resistance rates. Significant differences were considered when probability  $ (p) $  was equal to or less than  $ \\alpha $  risk  $ (p \\leq 0.05) $ .",
+            "block_bbox": [
+                615,
+                1196,
+                1129,
+                1324
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 3. Results",
+            "block_bbox": [
+                618,
+                1342,
+                707,
+                1363
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "text",
+            "block_content": "3.1. Thermotolerant Campylobacter Prevalence in tested poultry farms and slaughterhouses",
+            "block_bbox": [
+                616,
+                1383,
+                1095,
+                1428
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "text",
+            "block_content": "Among 300 tested samples, 263 were positive to thermotolerant Campylobacter, which represent an overall prevalence of 87.7%.",
+            "block_bbox": [
+                616,
+                1447,
+                1129,
+                1491
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9385178685188293,
+                "coordinate": [
+                    457.83941650390625,
+                    91.52658081054688,
+                    751.9539184570312,
+                    110.57077026367188
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8857202529907227,
+                "coordinate": [
+                    1100.3232421875,
+                    92.61392211914062,
+                    1127.8330078125,
+                    109.01736450195312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885261058807373,
+                "coordinate": [
+                    78.56207275390625,
+                    128.539794921875,
+                    592.044189453125,
+                    442.6956787109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988680362701416,
+                "coordinate": [
+                    78.58343505859375,
+                    442.55810546875,
+                    591.5138549804688,
+                    652.9498291015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9806029200553894,
+                "coordinate": [
+                    78.63143920898438,
+                    652.8636474609375,
+                    592.4892578125,
+                    736.393310546875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.93048095703125,
+                "coordinate": [
+                    80.00961303710938,
+                    756.4813842773438,
+                    289.1963195800781,
+                    777.7272338867188
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9372800588607788,
+                "coordinate": [
+                    80.20347595214844,
+                    798.7894897460938,
+                    255.1227569580078,
+                    820.1515502929688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887499809265137,
+                "coordinate": [
+                    78.18460083007812,
+                    840.0648193359375,
+                    592.1309814453125,
+                    1262.2410888671875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.415704607963562,
+                "coordinate": [
+                    271.341552734375,
+                    1218.08935546875,
+                    322.2567138671875,
+                    1237.21435546875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9398119449615479,
+                "coordinate": [
+                    80.0693588256836,
+                    1279.7103271484375,
+                    320.0287780761719,
+                    1301.0445556640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852055907249451,
+                "coordinate": [
+                    79.02761840820312,
+                    1321.43017578125,
+                    591.30615234375,
+                    1426.628662109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9790483713150024,
+                "coordinate": [
+                    78.89840698242188,
+                    1426.93408203125,
+                    591.5185546875,
+                    1491.6435546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9856525659561157,
+                "coordinate": [
+                    615.5643310546875,
+                    128.55172729492188,
+                    1130.2550048828125,
+                    233.21875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5979273319244385,
+                "coordinate": [
+                    719.3033447265625,
+                    212.74798583984375,
+                    764.8529052734375,
+                    231.0
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9860779047012329,
+                "coordinate": [
+                    616.1766357421875,
+                    233.7882080078125,
+                    1130.4508056640625,
+                    358.5166015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7625440955162048,
+                "coordinate": [
+                    620.682861328125,
+                    296.78955078125,
+                    666.1923828125,
+                    316.147216796875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7718390822410583,
+                "coordinate": [
+                    834.46435546875,
+                    317.94439697265625,
+                    879.666748046875,
+                    336.32965087890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9781185984611511,
+                "coordinate": [
+                    616.218505859375,
+                    358.87969970703125,
+                    1129.196533203125,
+                    421.28009033203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9843994379043579,
+                "coordinate": [
+                    616.058349609375,
+                    421.72930908203125,
+                    1129.557861328125,
+                    506.15692138671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.984815239906311,
+                "coordinate": [
+                    616.2415771484375,
+                    506.2624206542969,
+                    1130.1151123046875,
+                    633.30029296875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9409889578819275,
+                "coordinate": [
+                    617.6013793945312,
+                    652.6234130859375,
+                    874.4832153320312,
+                    674.5599365234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880008101463318,
+                "coordinate": [
+                    616.0799560546875,
+                    693.2323608398438,
+                    1130.1004638671875,
+                    903.3756713867188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880173206329346,
+                "coordinate": [
+                    616.1522216796875,
+                    903.6751708984375,
+                    1130.691650390625,
+                    1136.0135498046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5635219812393188,
+                "coordinate": [
+                    1081.611572265625,
+                    986.7904052734375,
+                    1126.494384765625,
+                    1005.6715087890625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9343923330307007,
+                "coordinate": [
+                    617.8597412109375,
+                    1154.6051025390625,
+                    796.7432861328125,
+                    1176.5023193359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985271692276001,
+                "coordinate": [
+                    615.648193359375,
+                    1196.5611572265625,
+                    1129.397705078125,
+                    1324.5579833984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6943090558052063,
+                "coordinate": [
+                    1023.6773681640625,
+                    1301.282470703125,
+                    1100.5013427734375,
+                    1321.741455078125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9238628149032593,
+                "coordinate": [
+                    618.1973266601562,
+                    1342.5972900390625,
+                    707.7974243164062,
+                    1363.7620849609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9648091197013855,
+                "coordinate": [
+                    616.02880859375,
+                    1383.9921875,
+                    1095.312744140625,
+                    1428.06591796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9667383432388306,
+                "coordinate": [
+                    616.859130859375,
+                    1447.3653564453125,
+                    1129.7099609375,
+                    1491.1011962890625
+                ]
+            }
+        ]
+    }
+}

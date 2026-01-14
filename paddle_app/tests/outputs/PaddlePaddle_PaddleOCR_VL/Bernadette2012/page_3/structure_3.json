@@ -1,0 +1,535 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bernadette2012.pdf",
+    "page_index": 2,
+    "page_count": 5,
+    "width": 1201,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "International Journal of Microbiology",
+            "block_bbox": [
+                96,
+                84,
+                408,
+                109
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "3",
+            "block_bbox": [
+                1085,
+                86,
+                1101,
+                105
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 1: Antimicrobial susceptibility of Campylobacter jejuni and Campylobacter coli isolated from chickens in 2009 in Abidjan (Cote d'Ivoire).</div>\n",
+            "block_bbox": [
+                94,
+                142,
+                1102,
+                189
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Campylobacter strains</td><td colspan=\"5\">Antibiotic disks</td></tr><tr><td style='text-align: center;'>NA</td><td style='text-align: center;'>CIP</td><td style='text-align: center;'>AMX</td><td style='text-align: center;'>E</td><td style='text-align: center;'>GM</td></tr><tr><td style='text-align: center;'>Campylobacter spp. (n = 76)</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>R</td><td style='text-align: center;'>60 (78.9%)</td><td style='text-align: center;'>38 (50%)</td><td style='text-align: center;'>9 (11.8%)</td><td style='text-align: center;'>10 (13.5%)</td><td style='text-align: center;'>3 (3.9%)</td></tr><tr><td style='text-align: center;'>I</td><td style='text-align: center;'>7 (9.2%)</td><td style='text-align: center;'>10 (13.2%)</td><td style='text-align: center;'>14 (18.4%)</td><td style='text-align: center;'>12 (15.8%)</td><td style='text-align: center;'>0 (0%)</td></tr><tr><td style='text-align: center;'>S</td><td style='text-align: center;'>9 (11.9%)</td><td style='text-align: center;'>28 (36.8%)</td><td style='text-align: center;'>53 (69.8%)</td><td style='text-align: center;'>54 (70.7%)</td><td style='text-align: center;'>73 (96.1%)</td></tr><tr><td style='text-align: center;'>C. jejuni (n = 39)</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>R</td><td style='text-align: center;'>31 (79.5%)</td><td style='text-align: center;'>15 (38.5%)</td><td style='text-align: center;'>4 (10.2%)</td><td style='text-align: center;'>7 (17.9%)</td><td style='text-align: center;'>3 (7.7%)</td></tr><tr><td style='text-align: center;'>I</td><td style='text-align: center;'>2 (12.8%)</td><td style='text-align: center;'>6 (15.4%)</td><td style='text-align: center;'>9 (23.1%)</td><td style='text-align: center;'>8 (20.5%)</td><td style='text-align: center;'>0 (0%)</td></tr><tr><td style='text-align: center;'>S</td><td style='text-align: center;'>6 (7.7%)</td><td style='text-align: center;'>18 (46.1%)</td><td style='text-align: center;'>26 (66.7%)</td><td style='text-align: center;'>24 (61.6%)</td><td style='text-align: center;'>36 (92.3%)</td></tr><tr><td style='text-align: center;'>C. coli (n = 37)</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>R</td><td style='text-align: center;'>29 (78.4%)</td><td style='text-align: center;'>16 (43.2%)</td><td style='text-align: center;'>5 (13.5%)</td><td style='text-align: center;'>3 (8.1%)</td><td style='text-align: center;'>0 (0%)</td></tr><tr><td style='text-align: center;'>I</td><td style='text-align: center;'>2 (5.4%)</td><td style='text-align: center;'>4 (10.8%)</td><td style='text-align: center;'>5 (13.5%)</td><td style='text-align: center;'>4 (10.8%)</td><td style='text-align: center;'>0 (0%)</td></tr><tr><td style='text-align: center;'>S</td><td style='text-align: center;'>6 (16.2%)</td><td style='text-align: center;'>17 (46%)</td><td style='text-align: center;'>27 (73%)</td><td style='text-align: center;'>30 (81.1%)</td><td style='text-align: center;'>37 (100%)</td></tr></table>",
+            "block_bbox": [
+                97,
+                196,
+                1098,
+                549
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "S: sensitive, I: intermediate, R: resistant, NA: Nalidixic acid, CIP: Ciprofloxacin, AMX: Amoxicillin, E: Erythromycin, GM: Gentamicin.",
+            "block_bbox": [
+                95,
+                553,
+                962,
+                574
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "the inhibition zones were measured with calipers. Escherichia coli ATCC 25922 and Staphylococcus aureus ATCC 25923 were used as reference strains. The isolates were classified as sensitive, intermediate, and resistant according to the guidelines prepared by CLSI  $ [35] $ .",
+            "block_bbox": [
+                94,
+                613,
+                586,
+                732
+            ],
+            "block_id": 5,
+            "block_order": 1,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 3. Results",
+            "block_bbox": [
+                96,
+                753,
+                202,
+                778
+            ],
+            "block_id": 6,
+            "block_order": 2,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "3.1. Prevalence. Overall, 119 chickens ceaca were purchased from one commercial slaughter and cultured for thermophilic Campylobacter. From these 119 samples, 76 (63.8%) were positives and 43 (36.2%) were negatives to Campylobacter tests. Among the Campylobacter positives, 51.3% were Campylobacter jejuni and 48.7% were Campylobacter coli.",
+            "block_bbox": [
+                94,
+                796,
+                586,
+                957
+            ],
+            "block_id": 7,
+            "block_order": 3,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "3.2. Antimicrobial Susceptibility. The results of antimicrobial susceptibility testing for Campylobacter spp. isolated from chickens to nalidixic acid, ciprofloxacin, amoxicillin, erythromycin, and gentamicin are presented in Table 1.",
+            "block_bbox": [
+                94,
+                985,
+                585,
+                1077
+            ],
+            "block_id": 8,
+            "block_order": 4,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "For all isolates, antimicrobial resistance to nalidixic acid and ciprofloxacin was observed in 78.9% and 50%, respectively.",
+            "block_bbox": [
+                94,
+                1076,
+                585,
+                1144
+            ],
+            "block_id": 9,
+            "block_order": 5,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Among the 39 isolates of C. jejuni 79.5%; 38.5%; 17.9%; 7.7% were resistant to nalidixic acid, ciprofloxacin, amoxicillin, erythromycin, and gentamicin, respectively.",
+            "block_bbox": [
+                95,
+                1145,
+                585,
+                1213
+            ],
+            "block_id": 10,
+            "block_order": 6,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Among the 37 isolates, 78.4%; 43.2%; 13.5%; 8.1% were resistant to nalidixic acid, ciprofloxacin, amoxicillin, and erythromycin, respectively. In this study all isolates of C. coli were sensitive to gentamicin.",
+            "block_bbox": [
+                94,
+                1213,
+                586,
+                1306
+            ],
+            "block_id": 11,
+            "block_order": 7,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 4. Discussion",
+            "block_bbox": [
+                96,
+                1330,
+                238,
+                1355
+            ],
+            "block_id": 12,
+            "block_order": 8,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Case-control studies of foodborne infection rates have estimated that 50 to 70% of Campylobacter illness is due to consumption of contaminated poultry and their products  $ [9, 17, 36] $ . Several studies examined thermophilic Campylobacter in poultry, and the findings indicated prevalence ranges of the bacteria from 3% to 98% with C. jejuni or C. coli as the main isolates  $ [36, 37] $ .",
+            "block_bbox": [
+                94,
+                1371,
+                586,
+                1489
+            ],
+            "block_id": 13,
+            "block_order": 9,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                610,
+                613,
+                1101,
+                661
+            ],
+            "block_id": 14,
+            "block_order": 10,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Poultry and their products are commonly consumed in modern Ivoirians diets, but campylobacteriosis is not reported in Côte d'Ivoire up to now. Therefore, the primarily objective of this study was to determine prevalence of thermophilic species including C. jejuni and C. coli, in poultry in Abidjan.",
+            "block_bbox": [
+                609,
+                664,
+                1104,
+                801
+            ],
+            "block_id": 15,
+            "block_order": 11,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "This work demonstrated high prevalence of thermophilic Campylobacter in the studied chickens (63.8%). This proportion is similar to the results obtained in previous study (66.6%) [28]. Among the Campylobacter isolates 51.3% were C. jejuni and 48.7% were C. coli.",
+            "block_bbox": [
+                610,
+                803,
+                1103,
+                919
+            ],
+            "block_id": 16,
+            "block_order": 12,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "Such a high isolation rate of thermophilic Campylobacter in chickens has also been reported  $ [37–42] $ . However, prevalence of  $ C.\\ coli $  in chicken is higher in this study than others findings  $ [39, 42] $ .",
+            "block_bbox": [
+                610,
+                921,
+                1103,
+                1013
+            ],
+            "block_id": 17,
+            "block_order": 13,
+            "group_id": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "Poor hygiene and sanitation in poultry farms in Côte d'Ivoire could explain this high level of prevalence of  $ C.\\ coli $ . Indeed, most farms do not have security fence to prevent penetration of other animals including pigs, which are good carriers of  $ C.\\ coli $ . In some cases flocks of sheep or cattle and poultry take place at the same sites contributing like that to the contamination of chicken flocks with  $ C.\\ coli $ .",
+            "block_bbox": [
+                610,
+                1013,
+                1103,
+                1174
+            ],
+            "block_id": 18,
+            "block_order": 14,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antibiogram test indicated higher resistance of the microorganisms to ciprofloxacin and nalidixic acid. Recent studies reported that fluoroquinolone-resistant Campylobacter spp. rapidly emerged among poultry flocks  $ [19, 24, 43, 44] $ .",
+            "block_bbox": [
+                610,
+                1176,
+                1103,
+                1294
+            ],
+            "block_id": 19,
+            "block_order": 15,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "Alfredson and Korolik [45] advanced an hypothesis to explain this observation. They suggested that the use of enrofloxacin (derivates close to the fluoroquinolones used in human medicine) in animals flocks has probably exerted a selection pressure in animal reservoirs [22]. The absence of fluoroquinolone resistance of Campylobacter in Australia, country that has never used enrofloxacin, is a strong argument in favor of this hypothesis.",
+            "block_bbox": [
+                609,
+                1296,
+                1104,
+                1489
+            ],
+            "block_id": 20,
+            "block_order": 16,
+            "group_id": 20
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9468570351600647,
+                "coordinate": [
+                    96.41287231445312,
+                    84.72956848144531,
+                    408.02197265625,
+                    109.91337585449219
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8572399616241455,
+                "coordinate": [
+                    1085.3934326171875,
+                    86.5348129272461,
+                    1101.1099853515625,
+                    105.41704559326172
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9659743309020996,
+                "coordinate": [
+                    94.85418701171875,
+                    142.96820068359375,
+                    1102.302001953125,
+                    189.42877197265625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9880956411361694,
+                "coordinate": [
+                    97.81253051757812,
+                    196.05081176757812,
+                    1098.429443359375,
+                    549.04150390625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9367603063583374,
+                "coordinate": [
+                    95.6873779296875,
+                    553.668212890625,
+                    962.5599365234375,
+                    574.52685546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9850289225578308,
+                "coordinate": [
+                    94.12615966796875,
+                    613.271728515625,
+                    586.5720825195312,
+                    732.12109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9374140501022339,
+                "coordinate": [
+                    96.18165588378906,
+                    753.8776245117188,
+                    202.21949768066406,
+                    778.9367065429688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9868510365486145,
+                "coordinate": [
+                    94.729736328125,
+                    796.1297607421875,
+                    586.3208618164062,
+                    957.4544677734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9854486584663391,
+                "coordinate": [
+                    94.63761901855469,
+                    985.2054443359375,
+                    585.361572265625,
+                    1077.1995849609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9807218313217163,
+                "coordinate": [
+                    94.98631286621094,
+                    1076.883056640625,
+                    585.0479125976562,
+                    1144.839111328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.981367290019989,
+                "coordinate": [
+                    95.39480590820312,
+                    1145.322265625,
+                    585.3553466796875,
+                    1213.6748046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9819891452789307,
+                "coordinate": [
+                    94.41639709472656,
+                    1213.520751953125,
+                    586.1993408203125,
+                    1306.2392578125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.943374752998352,
+                "coordinate": [
+                    96.20415496826172,
+                    1330.151611328125,
+                    238.639892578125,
+                    1355.147705078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846388697624207,
+                "coordinate": [
+                    94.65216064453125,
+                    1371.169189453125,
+                    586.818115234375,
+                    1489.307373046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9726362228393555,
+                "coordinate": [
+                    610.1893310546875,
+                    613.0609130859375,
+                    1101.8201904296875,
+                    661.1912841796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987210750579834,
+                "coordinate": [
+                    609.896240234375,
+                    664.16162109375,
+                    1104.4337158203125,
+                    801.56494140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9856433868408203,
+                "coordinate": [
+                    610.8489990234375,
+                    803.4788818359375,
+                    1103.515380859375,
+                    919.1610107421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9844037294387817,
+                "coordinate": [
+                    610.111328125,
+                    921.984130859375,
+                    1103.2452392578125,
+                    1013.23779296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881029725074768,
+                "coordinate": [
+                    610.0810546875,
+                    1013.200439453125,
+                    1103.598388671875,
+                    1174.13330078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986717939376831,
+                "coordinate": [
+                    610.4393310546875,
+                    1176.6075439453125,
+                    1103.66552734375,
+                    1294.8143310546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881690740585327,
+                "coordinate": [
+                    609.3773193359375,
+                    1296.497314453125,
+                    1104.8331298828125,
+                    1489.841552734375
+                ]
+            }
+        ]
+    }
+}

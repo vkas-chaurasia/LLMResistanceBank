@@ -1,0 +1,367 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_1.pdf",
+    "page_index": 3,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                55,
+                169,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "ARGs with Staphylococci Chicken Meat",
+            "block_bbox": [
+                857,
+                54,
+                1104,
+                75
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "and a 0.2 mM concentration of each of the Staphylococcus-genus-specific primers (16S rRNA gene) was used. An internal control was integrated into the PCR-based assays to verify the efficiency of the amplifications and to ensure that significant PCR inhibition was absent. Genus-specific confirmation was carried out by PCR using the primers: F: AAC TCT GTT ATT AGG GAA GAA CA and R: CCA CCT TCC TCC GGT TTG TCA CC with annealing temperature: 68°C for 45 s to reveal an amplicon of bp 756 (Zhang et al., 2004). S. aureus ATCC 43300 was used as the positive control, while E. coli NCIMB 50034 was used as the negative control.",
+            "block_bbox": [
+                81,
+                122,
+                585,
+                374
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "The confirmed staphylococci isolates were confirmed as MRSA using PCR to detect the presence of mecA (the gold-standard reference method for this analysis). Four additional antimicrobial resistance genes frequently reported in S. aureus conferring resistance in the quinolone-resistance-determining-regions (QRDRs) responsible for quinolone resistance (gyrA, gyrB, and grlA genes) and the cfr gene conferring resistance to several classes of antibiotics (oxazolidinones, phenicols, streptogramin compounds, lincosamidins, and pleuromutilins known as the PhLOPSA phenotype) were also amplified. Gene's targets, primers pair, nucleotide sequences, operative protocols, PCR amplification was performed as described previously (Table 1). Positive and negative controls were included with all PCR runs performed. All PCR assay runs incorporated a reagent control (without template DNA), positive and negative control (Streptococcus pyogenes ATCC 19615) processed in a fashion similar to that of the tested isolates. Three independent PCR amplifications were carried out with a GeneAmp PCR System 2400 (Perkin-Elmer, Weiterstadt, Germany). Two microliters of template DNA was added to 23  $ \\mu $ L of distilled sterile water, and finally 25  $ \\mu $ L of reaction mixture containing 10 mM Tris-HCl (pH8.3), 50 mM KCl, 2.5 mM MgCl $ _{2} $ , 100 mM deoxynucleoside triphosphates, 1 mM of each primer and 3U of Taq polymerase were added. The amplicons were resolved by electrophoresis on 1.5% (w/v) agarose gel in TBE buffer, stained with ethidium bromide and photographed using a Polaroid Camera.",
+            "block_bbox": [
+                81,
+                374,
+                586,
+                767
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                121,
+                1107,
+                331
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## RESULTS",
+            "block_bbox": [
+                603,
+                361,
+                723,
+                389
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "The prevalence and diversity of the Staphylococcus species isolated from the chicken meat were found to be: out of the 100 chicken meat samples, 50 Staphylococcus species were isolated, which were further identified as, 14/50 CPS isolates differentiated into, S. aureus (n=3), S. hyicus (n=10), S. intermedius (n=1); and 36/50 CNS isolates identified as S. epidermidis (n=13), S. lugdunensis (n=15), S. hemolyticus (n=1), S. hominus (n=3), S. lentus (n=1), S. schleiferi (n=2), and S. cohnii (n=1).",
+            "block_bbox": [
+                601,
+                408,
+                1106,
+                595
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Resistance Phenotypes of the Staphylococcus Isolates",
+            "block_bbox": [
+                602,
+                617,
+                954,
+                672
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Table 2 shows the resistance phenotype of each of the 50 Staphylococcus isolates. Complete resistance to penicillin, gentamycin, clindamycin, oxacillin, and sulfamethoxazole/trimethoprim, with resistance to other",
+            "block_bbox": [
+                601,
+                672,
+                1108,
+                768
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 1 | Antimicrobial resistance genes targets, primers, and nucleotide sequences.</div>\n",
+            "block_bbox": [
+                84,
+                814,
+                661,
+                836
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Gene designation</td><td style='text-align: center;'>Oligonucleotide sequences (5′-3′)</td><td style='text-align: center;'>Amplion size (bp)</td><td style='text-align: center;'>PCR conditions</td><td style='text-align: center;'>References</td></tr><tr><td style='text-align: center;'>mecA</td><td style='text-align: center;'>F: GTAGAAATGACTGAACGTCCGATAA\nR: CCAATTCCACATTGTTTTCGGTCTAA</td><td style='text-align: center;'>310</td><td style='text-align: center;'>Initial denaturation: 95°C for 1 min\nAmplification (30 cycles of )\nDenaturation: 95°C for 30 s\nAnnealing: 50°C for 30 s\nExtension: 72°C for 60 s\nFinal extension: 72°C for 4 min</td><td style='text-align: center;'>Spanu et al., 2004</td></tr><tr><td style='text-align: center;'>cfr</td><td style='text-align: center;'>F: TGAAGTATAAAGCAGGTTGGGAGTCAR: ACCATATAATTGACCACAAGCAGC</td><td style='text-align: center;'>746</td><td style='text-align: center;'>Initial denaturation: 94°C for 1 min\nAmplification (34 cycles of )\nDenaturation: 94°C for 1 min\nAnnealing: 48°C for 30 s\nExtension: 72°C for 3 min\nFinal extension: 72°C for 7 min</td><td style='text-align: center;'>Kehrenberg and Schwarz, 2006</td></tr><tr><td style='text-align: center;'>gyrA</td><td style='text-align: center;'>F: ATGGCTGAATTACCTCAATCR: CATCATAGTTATCGATGAAATC</td><td style='text-align: center;'>399</td><td style='text-align: center;'>Initial denaturation: 95°C for 1 min\nAmplification (30 cycles of )\nDenaturation: 95°C for 30 s\nAnnealing: 55°C for 30 s</td><td style='text-align: center;'>Dubin et al., 1999</td></tr><tr><td style='text-align: center;'>grlA</td><td style='text-align: center;'>F: AATACGTATGATAAGAATTTCCGR: GTTGTGTCATCATAGTTTGG</td><td style='text-align: center;'>429</td><td style='text-align: center;'>Extension: 72°C for 60 s\nFinal extension: 72°C for 4 min</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>gyrB</td><td style='text-align: center;'>F: CAGCGTTAGATGTAGCAAGCR: CCGATTCCTGTACCAAATGC</td><td style='text-align: center;'>250</td><td style='text-align: center;'></td><td style='text-align: center;'>Linde et al., 2001</td></tr></table>",
+            "block_bbox": [
+                82,
+                838,
+                1103,
+                1420
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1481,
+                365,
+                1501
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "number",
+            "block_content": "4",
+            "block_bbox": [
+                587,
+                1482,
+                602,
+                1498
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "footer",
+            "block_content": "November 2016 | Volume 7 | Article 1846",
+            "block_bbox": [
+                850,
+                1480,
+                1104,
+                1500
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9211843609809875,
+                "coordinate": [
+                    85.23399353027344,
+                    55.63532257080078,
+                    169.3626251220703,
+                    74.56287384033203
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9418753981590271,
+                "coordinate": [
+                    857.448974609375,
+                    54.93403625488281,
+                    1104.705322265625,
+                    75.20108032226562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988723874092102,
+                "coordinate": [
+                    81.67266845703125,
+                    122.30321502685547,
+                    585.6395874023438,
+                    374.095703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889001846313477,
+                "coordinate": [
+                    81.71994018554688,
+                    374.0493469238281,
+                    586.312744140625,
+                    767.5830078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880340695381165,
+                "coordinate": [
+                    601.634521484375,
+                    121.85917663574219,
+                    1107.39794921875,
+                    331.37774658203125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9297383427619934,
+                "coordinate": [
+                    603.8692016601562,
+                    361.71533203125,
+                    723.0639038085938,
+                    389.8360595703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9866210222244263,
+                "coordinate": [
+                    601.5579833984375,
+                    408.8428955078125,
+                    1106.4422607421875,
+                    595.966552734375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961845338344574,
+                "coordinate": [
+                    602.9591064453125,
+                    617.6505737304688,
+                    954.5518798828125,
+                    672.2438354492188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9786078333854675,
+                "coordinate": [
+                    601.53662109375,
+                    672.99072265625,
+                    1108.117919921875,
+                    768.010986328125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8310775756835938,
+                "coordinate": [
+                    84.44320678710938,
+                    814.1773681640625,
+                    661.9332275390625,
+                    836.578369140625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9844271540641785,
+                "coordinate": [
+                    82.7076416015625,
+                    838.314453125,
+                    1103.6304931640625,
+                    1420.157958984375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9315347075462341,
+                "coordinate": [
+                    85.06915283203125,
+                    1481.0107421875,
+                    365.4884338378906,
+                    1501.4580078125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8392602205276489,
+                "coordinate": [
+                    587.6885986328125,
+                    1482.391357421875,
+                    602.24609375,
+                    1498.789794921875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9334896802902222,
+                "coordinate": [
+                    850.0751953125,
+                    1480.5767822265625,
+                    1104.3079833984375,
+                    1500.9403076171875
+                ]
+            }
+        ]
+    }
+}

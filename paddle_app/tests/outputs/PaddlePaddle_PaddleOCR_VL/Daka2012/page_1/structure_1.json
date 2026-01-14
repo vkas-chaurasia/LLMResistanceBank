@@ -1,0 +1,535 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Daka2012.pdf",
+    "page_index": 0,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Daka et al. Annals of Clinical Microbiology and Antimicrobials 2012, 11:26 http://www.ann-clinmicrob.com/content/11/1/26",
+            "block_bbox": [
+                107,
+                63,
+                601,
+                107
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_809_64_1079_145.jpg\" alt=\"Image\" width=\"22%\" /></div>\n",
+            "block_bbox": [
+                809,
+                64,
+                1079,
+                145
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "RESEARCH",
+            "block_bbox": [
+                115,
+                181,
+                267,
+                211
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Open Access",
+            "block_bbox": [
+                918,
+                184,
+                1073,
+                212
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Antibiotic-resistance Staphylococcus aureus isolated from cow's milk in the Hawassa area, South Ethiopia",
+            "block_bbox": [
+                107,
+                242,
+                988,
+                395
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Deresse Daka $ ^{1*} $ , Solomon G/silassie $ ^{2} $  and Dawit Yihdego $ ^{1} $ ",
+            "block_bbox": [
+                106,
+                410,
+                592,
+                441
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Abstract",
+            "block_bbox": [
+                121,
+                490,
+                208,
+                516
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Background: Quarter milk samples from cows were examined to determine the prevalence of Staphylococcus aureus (SA) and different antibiotic resistant pattern were determined in a cross-sectional study design.\n\nObjective: The objective of this study was to isolate Staphylococcus aureus from samples of cow's milk obtained from Hawassa area and to determine their antibiotic susceptibility patterns.",
+            "block_bbox": [
+                116,
+                525,
+                1042,
+                632
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Method: A total of 160 milk (CCP1-CCP5) samples were collected and screened for the presence of S. aureus. Gram staining, oxidase, catalase, DNase, haemolysis and coagulase tests were employed for bacterial identification.",
+            "block_bbox": [
+                118,
+                634,
+                1065,
+                686
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Results: All the samples were contaminated with S. aureus. A total of 78 S. aureus isolates were obtained during this study. The levels of contamination with S. aureus were higher in milk obtained from CCP1, CCP2, CCP3, CCP4 and CCP5 at Hawassa area farms (18.0%, 25.6%, 27.0%, 21.8% and 7.7%) respectively. A large percentage of the S. aureus isolates (25.6% and 27.0%) were from CCP2 and CCP3. All strains were resistant to Penicillin G (PG) (10  $ \\mu $ g), Ampicillin (AP) (10  $ \\mu $ g), Amoxicillin-Clavulanic acid (AC) (30  $ \\mu $ g), Ciprofloxacin (CIP) (5  $ \\mu $ g), Erythromycin (E) (15  $ \\mu $ g), Ceftriaxone (CRO) (30  $ \\mu $ g), Trimethoprim-Sulfamethoxazole (TMP-SMZ) (25  $ \\mu $ g), Oxacillin (Ox) (1  $ \\mu $ g) and Vancomycin (V) (30  $ \\mu $ g), 67.9%, 70.9%, 30.9%, 0%, 32.1%, 23.1%, 7.7%, 60.3% and 38.5% respectively.",
+            "block_bbox": [
+                117,
+                688,
+                1068,
+                860
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Conclusion: The proportion of isolates resistant to CIP, TMP-SMZ, CRO, AC, E and V were low compared to AP, PG and Ox. S. aureus is normally resident in humans; therefore, the S. aureus present in the cow's milk may have resulted from transmission between the two species, emphasizing the need to improve sanitary conditions in the milking environment.",
+            "block_bbox": [
+                116,
+                861,
+                1070,
+                961
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Keywords: Antibiotics, S. aureus, Milk",
+            "block_bbox": [
+                119,
+                969,
+                427,
+                995
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I ntroduction",
+            "block_bbox": [
+                107,
+                1030,
+                232,
+                1053
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Staphylococcus aureus is a ubiquitous human pathogen and a common cause of invasive and life-threatening infections. It is the most common cause of community-associated cellulitis  $ [1,2] $  endocarditis  $ [3] $ , and is a common cause of bacteremia  $ [1,4,5] $ . S. aureus strains were once nearly uniformly susceptible to semi-synthetic penicillinase-resistant  $ \\beta $ -lactams (e.g. methicillin, oxacillin), the most commonly used class of antibiotics for skin infection. These strains were termed'methicillin-resistant Staphylococcus aureus, or MRSA, a term that implied cross-resistance to all  $ \\beta $ -lactams including all penicillins and cephalosporins.",
+            "block_bbox": [
+                106,
+                1055,
+                585,
+                1298
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                602,
+                1030,
+                1081,
+                1080
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Staphylococci are normal inhabitants of the skin and mucous membranes of animals and humans. Pathogenic strains are usually coagulase-positive  $ [6] $  and have been found to cause disease in their hosts throughout the world  $ [7,8] $ . Diseases in cattle caused by Staphylococcus aureus range from simple abscesses and mastitis to the more severe toxic shock syndrome  $ [7-9] $ . Milk is an excellent growth medium for a large number of microorganisms, including S. aureus  $ [10] $ . Bacterial contamination of milk usually occurs during the milking process and this depends on the sanitary condition of the environment, utensils used for milking and the milking",
+            "block_bbox": [
+                601,
+                1079,
+                1084,
+                1370
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "footnote",
+            "block_content": " $ ^{*} $ Correspondence: drsdk200@gmail.com",
+            "block_bbox": [
+                109,
+                1329,
+                360,
+                1349
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        },
+        {
+            "block_label": "footnote",
+            "block_content": " $ ^{1} $ Hawassa University College of Medicine and Health sciences, Hawassa, Ethiopia",
+            "block_bbox": [
+                107,
+                1349,
+                547,
+                1385
+            ],
+            "block_id": 17,
+            "block_order": null,
+            "group_id": 17
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "Full list of author information is available at the end of the article",
+            "block_bbox": [
+                107,
+                1384,
+                513,
+                1405
+            ],
+            "block_id": 18,
+            "block_order": null,
+            "group_id": 18
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_108_1419_336_1467.jpg\" alt=\"Image\" width=\"19%\" /></div>\n",
+            "block_bbox": [
+                108,
+                1419,
+                336,
+                1467
+            ],
+            "block_id": 19,
+            "block_order": null,
+            "group_id": 19
+        },
+        {
+            "block_label": "footer",
+            "block_content": "© 2012 Daka et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+            "block_bbox": [
+                354,
+                1418,
+                1032,
+                1471
+            ],
+            "block_id": 20,
+            "block_order": null,
+            "group_id": 20
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9563165307044983,
+                "coordinate": [
+                    107.03607177734375,
+                    63.27688217163086,
+                    601.11962890625,
+                    107.47860717773438
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9582442045211792,
+                "coordinate": [
+                    809.9202880859375,
+                    64.25413513183594,
+                    1079.6776123046875,
+                    145.20387268066406
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8307903409004211,
+                "coordinate": [
+                    115.55255126953125,
+                    181.9031982421875,
+                    267.82769775390625,
+                    211.73980712890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7867714762687683,
+                "coordinate": [
+                    918.6593017578125,
+                    184.05642700195312,
+                    1073.7818603515625,
+                    212.67044067382812
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9812678694725037,
+                "coordinate": [
+                    107.19268798828125,
+                    242.17788696289062,
+                    988.8619995117188,
+                    395.5843200683594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9399561882019043,
+                "coordinate": [
+                    106.65565490722656,
+                    410.6916198730469,
+                    592.3309326171875,
+                    441.4106140136719
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8874335885047913,
+                "coordinate": [
+                    121.09284973144531,
+                    490.06732177734375,
+                    208.61192321777344,
+                    516.6275024414062
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.6300657987594604,
+                "coordinate": [
+                    116.5887451171875,
+                    525.2244873046875,
+                    1042.129150390625,
+                    632.5125732421875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.6538598537445068,
+                "coordinate": [
+                    118.16891479492188,
+                    634.1861572265625,
+                    1065.557373046875,
+                    686.379150390625
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.8479163646697998,
+                "coordinate": [
+                    117.16650390625,
+                    688.6021728515625,
+                    1068.517822265625,
+                    860.83203125
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.7971178889274597,
+                "coordinate": [
+                    116.21078491210938,
+                    861.8988037109375,
+                    1070.628173828125,
+                    961.3128662109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9407119750976562,
+                "coordinate": [
+                    119.95603942871094,
+                    969.091064453125,
+                    427.3662109375,
+                    995.338134765625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.936874270439148,
+                "coordinate": [
+                    107.96965026855469,
+                    1030.9501953125,
+                    232.30479431152344,
+                    1053.8203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878820180892944,
+                "coordinate": [
+                    106.059326171875,
+                    1055.51318359375,
+                    585.61279296875,
+                    1298.58056640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9733441472053528,
+                "coordinate": [
+                    602.9859619140625,
+                    1030.64013671875,
+                    1081.3563232421875,
+                    1080.29248046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884983897209167,
+                "coordinate": [
+                    601.9764404296875,
+                    1079.867431640625,
+                    1084.2274169921875,
+                    1370.714599609375
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8182530403137207,
+                "coordinate": [
+                    109.04088592529297,
+                    1329.53759765625,
+                    360.91937255859375,
+                    1349.86474609375
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8866469860076904,
+                "coordinate": [
+                    107.36619567871094,
+                    1349.14697265625,
+                    547.7406005859375,
+                    1385.7236328125
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.7885451316833496,
+                "coordinate": [
+                    107.3173828125,
+                    1384.8612060546875,
+                    513.588623046875,
+                    1405.3843994140625
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.9589882493019104,
+                "coordinate": [
+                    108.69995880126953,
+                    1419.583251953125,
+                    336.8380126953125,
+                    1467.206298828125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9612902402877808,
+                "coordinate": [
+                    354.3074951171875,
+                    1418.3348388671875,
+                    1032.0780029296875,
+                    1471.8848876953125
+                ]
+            }
+        ]
+    }
+}

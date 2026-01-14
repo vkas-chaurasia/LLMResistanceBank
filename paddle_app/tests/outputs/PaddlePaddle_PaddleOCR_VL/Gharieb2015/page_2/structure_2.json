@@ -1,0 +1,319 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Gharieb2015.pdf",
+    "page_index": 1,
+    "page_count": 11,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Gharieb et al. Gut Pathog (2015) 7:34",
+            "block_bbox": [
+                108,
+                64,
+                356,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 2 of 11",
+            "block_bbox": [
+                992,
+                66,
+                1080,
+                89
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Background",
+            "block_bbox": [
+                107,
+                176,
+                230,
+                200
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Non-typhoidal Salmonella (NTS) is one of the major zoonotic food-borne pathogens representing an important public health problem worldwide. It can cause a variety of clinical manifestations ranging from mild gastroenteritis to bacteraemia and extra intestinal localized infections involving many organs. The global burden of NTS gastroenteritis has been estimated to be 93.8 million cases of gastroenteritis each year with 155,000 deaths annually  $ [1] $ . Food of animal origin especially poultry meat is considered to be one of the major vehicles of Salmonella infections in humans and has been implicated in outbreaks of human salmonellosis  $ [2] $ . Antimicrobial resistance and virulence of Salmonella strains play a vital role in systemic infections. Salmonella pathogenicity is dictated by an array of factors encoded by virulence genes that assist the organism to express its virulence in the host cells and ultimately manifest in the typical symptoms of salmonellosis. Some genes are known to be involved in adhesion and invasion including; plasmid encoded fimbriae (pefA) and hyper invasive locus (hilA)  $ [3, 4] $ . Salmonella outer proteins (sop A-E) encoded by sop gene and (stn) codes for enterotoxin productions are associated with the actual manifestation of pathogenic processes  $ [5] $ . In addition to virulence factors, the emergence of antimicrobial resistance among NTS has become a public health threat. Since food of animal origin is a major source of Salmonella spp., it has been suggested that abundant use of antimicrobials in food animals' production may contribute to the presence of antimicrobial resistance in these species and subsequently transferred to humans through food chain  $ [6] $ . Factors contributed to the resistance and virulence of Salmonella may be located on chromosomes, plasmids, transposon and integrons. Integrons are DNA elements that can transfer antibiotic resistance genes among bacteria. Class I integrons are the most common type of integrons recognized among the multidrug resistant (MDR) Salmonella and have conserved regions (5'-CS and 3'-CS) which often contain gene cassettes  $ [7] $ . These cassettes contain genes that confer resistance to antimicrobial agents including aminoglycosides, b-lactams, chloramphenicol and trimethoprim as well as genes that confer resistance to antiseptics and disinfectants  $ [8] $ . The present study was undertaken to (i) trace the prevalence and antimicrobial susceptibility patterns of NTS enterica serotypes isolated from poultry meat and diarrhoeic patients (ii) ascertain the presence of virulence genes and class I integrons using PCR (iii) sequencing of the amplified DNA fragments of class I integrons in order to identify the resistance genes located in integron gene cassettes.",
+            "block_bbox": [
+                105,
+                201,
+                587,
+                1094
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                174,
+                1084,
+                514
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Results and discussion",
+            "block_bbox": [
+                602,
+                535,
+                820,
+                559
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Prevalence of Salmonella serovars in poultry meat and diarrhoeic patients",
+            "block_bbox": [
+                602,
+                560,
+                1009,
+                608
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "In the present study, the overall prevalence of Salmonella spp. in the total examined poultry meat samples was 10 % (Table 1). This result was compatible with previous studies in Nepal [9]. Moreover, our results regarding the prevalence of Salmonella spp. in broiler chicken meat (14 %) substantiate the findings of others in Canada [10].",
+            "block_bbox": [
+                602,
+                608,
+                1082,
+                752
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Serotyping of Salmonella spp. isolated from poultry meat in this study revealed the predominance of S. Typhimurium in chicken meat and this was in concordance with previous studies from India  $ [11] $ . Additionally, other serovars such as S. Rubislaw, S. Kiel (chicken meat) and S. Derby (duck meat) were identified.",
+            "block_bbox": [
+                602,
+                753,
+                1082,
+                896
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "It was obvious from Table 1 that 4 % (2 out of 50) of stool samples from diarrhoeic patients were positive for Salmonella spp. and S. Typhimurium was the only serotype identified. Nearly similar prevalence in diarrhoeic patients was reported in India [12]. The isolation of S. Derby from poultry meat and humans has been previously recorded in Netherlands [13]. Moreover, S. Rubislaw was isolated from chicken meat in Senegal and",
+            "block_bbox": [
+                601,
+                896,
+                1084,
+                1091
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 1 Frequency distribution of Salmonella serovars in poultry meat and diarrhoeic patients</div>\n",
+            "block_bbox": [
+                106,
+                1144,
+                869,
+                1168
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"3\">Source</td><td colspan=\"3\">Poultry meat</td><td rowspan=\"2\">Diarrhoeic patients (n = 50)</td><td rowspan=\"2\">Total (150)</td></tr><tr><td style='text-align: center;'>Chicken (n = 50)</td><td style='text-align: center;'>Duck (n = 50)</td><td style='text-align: center;'>Total (n = 100)</td></tr><tr><td style='text-align: center;'>No. (%)</td><td style='text-align: center;'>No. (%)</td><td style='text-align: center;'>No. (%)</td><td style='text-align: center;'>No. (%)</td><td style='text-align: center;'>No. (%)</td></tr><tr><td style='text-align: center;'>Serotype</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>S. Typhimurium (O1,4,5],12 H $ _{1} $ : i H $ _{2} $ : 1,2)</td><td style='text-align: center;'>5 (10)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>5 (5)</td><td style='text-align: center;'>2 (4)</td><td style='text-align: center;'>7 (4.7)</td></tr><tr><td style='text-align: center;'>S. Rubislaw (O11 H $ _{1} $ : r H2: e,n,x)</td><td style='text-align: center;'>1 (2)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (1)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (0.7)</td></tr><tr><td style='text-align: center;'>S. Kiel (O1,2,12 H $ _{1} $ : g, p H $ _{2} $ :−)</td><td style='text-align: center;'>1 (2)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (1)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (0.7)</td></tr><tr><td style='text-align: center;'>S. Derby (O1,4,5],12 H $ _{1} $ : f,g H2: [1,2])</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (2)</td><td style='text-align: center;'>1 (1)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (0.7)</td></tr><tr><td style='text-align: center;'>Untypable</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>2 (4)</td><td style='text-align: center;'>2 (2)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>2 (1.3)</td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'>7 (14)</td><td style='text-align: center;'>3 (6)</td><td style='text-align: center;'>10 (10)</td><td style='text-align: center;'>2 (4)</td><td style='text-align: center;'>12 (8)</td></tr></table>",
+            "block_bbox": [
+                107,
+                1172,
+                1079,
+                1450
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9355832934379578,
+                "coordinate": [
+                    108.42626953125,
+                    64.94224548339844,
+                    356.9098205566406,
+                    88.00740051269531
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8945555686950684,
+                "coordinate": [
+                    992.4541015625,
+                    66.65574645996094,
+                    1080.024658203125,
+                    89.40509033203125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9121066927909851,
+                "coordinate": [
+                    107.17302703857422,
+                    176.45083618164062,
+                    230.23870849609375,
+                    200.93289184570312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988714873790741,
+                "coordinate": [
+                    105.00018310546875,
+                    201.21298217773438,
+                    587.6690063476562,
+                    1094.154296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885922074317932,
+                "coordinate": [
+                    601.2540283203125,
+                    174.47796630859375,
+                    1084.2044677734375,
+                    514.8364868164062
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8941891193389893,
+                "coordinate": [
+                    602.9837646484375,
+                    535.2647705078125,
+                    820.1593017578125,
+                    559.9168701171875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9464812278747559,
+                "coordinate": [
+                    602.9853515625,
+                    560.5908203125,
+                    1009.11083984375,
+                    608.251708984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9854624271392822,
+                "coordinate": [
+                    602.4052734375,
+                    608.3458251953125,
+                    1082.8642578125,
+                    752.806396484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865678548812866,
+                "coordinate": [
+                    602.211669921875,
+                    753.3836669921875,
+                    1082.9273681640625,
+                    896.2069091796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9864707589149475,
+                "coordinate": [
+                    601.5328369140625,
+                    896.1356201171875,
+                    1084.3482666015625,
+                    1091.6275634765625
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9446614384651184,
+                "coordinate": [
+                    106.553466796875,
+                    1144.0191650390625,
+                    869.0921630859375,
+                    1168.3997802734375
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9865524172782898,
+                "coordinate": [
+                    107.32241821289062,
+                    1172.50732421875,
+                    1079.48193359375,
+                    1450.742919921875
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Wabeto2017.pdf",
+    "page_index": 0,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Wabeto et al. Journal of Health, Population and Nutrition (2017) 36:52 DOI 10.1186/s41043-017-0131-z",
+            "block_bbox": [
+                107,
+                60,
+                582,
+                104
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Journal of Health, Population and Nutrition",
+            "block_bbox": [
+                762,
+                67,
+                1081,
+                125
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "RESEARCH ARTICLE",
+            "block_bbox": [
+                115,
+                179,
+                393,
+                209
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Open Access",
+            "block_bbox": [
+                918,
+                179,
+                1074,
+                210
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Detection and identification of antimicrobial-resistant Salmonella in raw beef at Wolaita Sodo municipal abattoir, Southern Ethiopia",
+            "block_bbox": [
+                107,
+                236,
+                892,
+                443
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_966_222_1081_268.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                966,
+                222,
+                1081,
+                268
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Wondimu Wabeto $ ^{1} $ , Yishak Abraham $ ^{2} $  and Antehun Alemayehu Anjulo $ ^{2*} $ ",
+            "block_bbox": [
+                106,
+                460,
+                721,
+                489
+            ],
+            "block_id": 6,
+            "block_order": 4,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Abstract",
+            "block_bbox": [
+                120,
+                539,
+                208,
+                565
+            ],
+            "block_id": 7,
+            "block_order": 5,
+            "group_id": 7
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Background: The consumption of multidrug resistant Salmonella isolates along with a raw meat dish is directly relevant to the global public health crisis of antimicrobial resistance. All countries around the globe are suffering from food-borne diseases. In developing countries, more than one billion individuals suffering from gastroenteritis and around five million infected individuals die annually.",
+            "block_bbox": [
+                117,
+                573,
+                1054,
+                676
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Methods: A cross-sectional study was carried out from December 2015 to May 2016 to show the risk of Salmonella associated with consuming traditional raw meat dishes and to characterize the antimicrobial resistance profile at Wolaita Sodo municipal abattoir. Animals were being processed as part of the normal work of the abattoir, and 448 carcass samples were taken after getting a written consent from the municipality. Samples were transported to Wolaita Sodo University Microbiology Laboratory in an ice box within an hour of collection. Swab samples were pre-enriched in tetrathionate broth and Rappaport-Vassiliadis R10 broth. Broth culture was sub-cultured on xylose lysine deoxycholate and brilliant green agar and incubated at a temperature of  $ 37^{\\circ} $ C for overnight. Antimicrobial susceptibility test was done by disk diffusion method. Microbiological and observational data entry and analysis were done using Microsoft Excel 2007.",
+            "block_bbox": [
+                118,
+                677,
+                1061,
+                897
+            ],
+            "block_id": 9,
+            "block_order": 7,
+            "group_id": 9
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Results: From the total 448 sampled carcasses, Salmonella growth was observed in 56 (12.5%) samples. The isolates had various resistance profiles, with resistance to 1 to 12 antimicrobial drugs. Tetracycline- and nitrofurantoin-resistant isolates were frequent, 83.93 and 73.21% respectively, and followed by streptomycin-resistant isolates (66%). Ciprofloxacin-resistant isolates were rare (7%).",
+            "block_bbox": [
+                118,
+                899,
+                1007,
+                1000
+            ],
+            "block_id": 10,
+            "block_order": 8,
+            "group_id": 10
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Conclusion: Salmonella species contamination frequency was high in raw beef, and most of the isolates exhibited resistance to commonly used antibiotics. People living in the town and consuming the raw meat are at risk for developing diseases, and attention should be given to select antimicrobials in treating Salmonella infections in both animals and human beings based on antimicrobial susceptibility test. Moreover, intersectoral working and developing one health approach is essential. Health information should be given to individuals who have the habit of eating raw meat. Training on sanitary and hygiene practice should be given to the abattoir workers.",
+            "block_bbox": [
+                118,
+                1001,
+                1036,
+                1151
+            ],
+            "block_id": 11,
+            "block_order": 9,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Keywords: Antimicrobial susceptibility pattern, Beef, Abattoir, Isolation, Identification, Salmonella spp.",
+            "block_bbox": [
+                119,
+                1156,
+                905,
+                1184
+            ],
+            "block_id": 12,
+            "block_order": 10,
+            "group_id": 12
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "* Correspondence: Antehunalemayehu@gmail.com  \n² Department of Medical Laboratory, College of Health Sciences and Medicine, Wolaita Sodo University, P.O. Box: 138, Wolaita Sodo, Ethiopia  \nFull list of author information is available at the end of the article",
+            "block_bbox": [
+                107,
+                1327,
+                550,
+                1403
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_109_1416_336_1464.jpg\" alt=\"Image\" width=\"19%\" /></div>\n",
+            "block_bbox": [
+                109,
+                1416,
+                336,
+                1464
+            ],
+            "block_id": 14,
+            "block_order": null,
+            "group_id": 14
+        },
+        {
+            "block_label": "footer",
+            "block_content": "© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
+            "block_bbox": [
+                354,
+                1415,
+                1045,
+                1501
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9546306729316711,
+                "coordinate": [
+                    107.16372680664062,
+                    60.48563003540039,
+                    582.1571044921875,
+                    104.81976318359375
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9439005255699158,
+                "coordinate": [
+                    762.2847900390625,
+                    67.04580688476562,
+                    1081.79248046875,
+                    125.87063598632812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8992623686790466,
+                "coordinate": [
+                    115.84402465820312,
+                    179.01657104492188,
+                    393.6283264160156,
+                    209.81008911132812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6332142949104309,
+                "coordinate": [
+                    918.9649658203125,
+                    179.99655151367188,
+                    1074.474853515625,
+                    210.33285522460938
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9815131425857544,
+                "coordinate": [
+                    107.62405395507812,
+                    236.99484252929688,
+                    892.1024169921875,
+                    443.9028625488281
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.6676687598228455,
+                "coordinate": [
+                    966.908935546875,
+                    222.00888061523438,
+                    1081.119873046875,
+                    268.1622009277344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9428383111953735,
+                "coordinate": [
+                    106.5062255859375,
+                    460.0591735839844,
+                    721.6583251953125,
+                    489.9574279785156
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8965440988540649,
+                "coordinate": [
+                    120.8738784790039,
+                    539.2835083007812,
+                    208.78665161132812,
+                    565.3112182617188
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.897990882396698,
+                "coordinate": [
+                    117.1614990234375,
+                    573.91064453125,
+                    1054.7769775390625,
+                    676.26513671875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9610083103179932,
+                "coordinate": [
+                    118.110107421875,
+                    677.1314697265625,
+                    1061.7139892578125,
+                    897.5269775390625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5763846635818481,
+                "coordinate": [
+                    767.5858154296875,
+                    822.3414306640625,
+                    814.2681884765625,
+                    847.0224609375
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9410694241523743,
+                "coordinate": [
+                    118.24285888671875,
+                    899.6345825195312,
+                    1007.4227905273438,
+                    1000.3189086914062
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9720141887664795,
+                "coordinate": [
+                    118.2408447265625,
+                    1001.4200439453125,
+                    1036.0850830078125,
+                    1151.2401123046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9421335458755493,
+                "coordinate": [
+                    119.92425537109375,
+                    1156.16357421875,
+                    905.5044555664062,
+                    1184.2529296875
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.958740234375,
+                "coordinate": [
+                    107.29638671875,
+                    1327.4224853515625,
+                    550.3270874023438,
+                    1403.4141845703125
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.953822135925293,
+                "coordinate": [
+                    109.00641632080078,
+                    1416.2392578125,
+                    336.3638916015625,
+                    1464.573486328125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9641263484954834,
+                "coordinate": [
+                    354.4781494140625,
+                    1415.962158203125,
+                    1045.409423828125,
+                    1501.411865234375
+                ]
+            }
+        ]
+    }
+}

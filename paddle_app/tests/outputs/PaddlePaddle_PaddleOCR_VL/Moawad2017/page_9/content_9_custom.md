@@ -1,0 +1,33 @@
+Moawad et al. Gut Pathog (2017) 9:57
+
+Page 9 of 13
+
+meat) [26], Canary islands (16.5% in chicken meat) [27], Northwestern Spain (17.9% in chicken) [28], Ethiopia (17.9% in chicken and giblets) [29], and Egypt (10.0% in poultry meat) [7]. On the other hand, it was higher than reported previously in meat products in Egypt (6.6%) and in ground beef in the United States (4.2%) [30, 31].
+
+In total, S. enterica serovar Typhimurium was the dominant serovar. These results were in accordance with previous study from chicken products in Cambodia and Thailand  $ [32] $ . Controversially, S. enterica serovar Enteritidis was the dominant serotype in imported frozen poultry samples from Brazil to Canary Islands and in chicken carcasses in Spain  $ [27, 28] $ . Salmonella enterica serovar Kentucky was frequently detected in samples coming from US to Canary Islands  $ [27] $ .
+
+Prevalence of  $ E.\ coli $  in chicken meat and organs was 16.7% which was lower than in Nigeria (43.4%) in frozen poultry meat  $ [33] $  but higher than in Korea (4.9% in poultry meat)  $ [34] $ . Prevalence of  $ E.\ coli $  in beef meat was 6.7%, while in Korea and Iran were found 4.1 and 29.0%, respectively  $ [34, 35] $ .
+
+In this study, 19.0% of  $ E.\ coli $  isolates typed as O78 was mainly from poultry products, while in China, O78 was identified in 60.0% of  $ E.\ coli $  isolated from chicken and ducks [36].  $ E.\ coli $  type O158 identified in 9.5% only in beef meat while O158 detected in 22.7% of food isolates in Chile [37].
+
+Bacterial antimicrobial resistance is a global emerging problem of public health concern.
+
+In the current study, a high percentage of S. enterica serovars were resistant to ampicillin and cefotaxime. The resistance to other antimicrobial agents was variable while all isolates were sensitive to chloramphenicol and ciprofloxacin. The results were in a partial accordance with results of previous reports stating that all S. enterica isolated from chicken meat and beef were sensitive to ciprofloxacin [38]. 72.4% of Salmonella isolates in Thai meat products were resistant to ampicillin while 71.0% of isolates in Cambodian meat products were resistant to sulfamethoxazole [32]. Controversially, S. enterica isolated from animals and food of animal origin in Italy were highly resistant to ampicillin, chloramphenicol, streptomycin and tetracycline [39] and all Salmonella isolated from beef in Tunisia were susceptible to amoxicillin and clavulanic acid [40].
+
+In total, 46.7% of S. enterica serovars showed multidrug resistance, which was higher than resistance of Salmonella isolated from raw chicken (31.0%) in Pennsylvania during [41]. Less multidrug resistant S. enterica isolates (6.0%) were identified in cattle hides and carcasses in the US [42].
+
+The results of this study showed that the antimicrobial resistance of E. coli isolated from poultry was higher than from beef to the most of tested antibiotics. The high resistance to tetracycline, ampicillin, amoxycillin–clavulanic acid, trimethoprim/sulphamethoxazole and streptomycin in this study was in agreement with previous reports conducted in Egypt [10, 43] and Algeria [44]. While in Spain, most of E. coli isolated from diarrhoeic and healthy lambs were highly resistant to tetracycline and streptomycin but show lower resistance to ampicillin [45]. Most of E. coli isolates in this study were sensitive to enrofloxacin, chloramphenicol and ceftriaxone which is in agreement with previous results in Spain [45].
+
+
+
+In this study, 61.9% of  $ E.\ coli $  isolates were multidrug resistant. Similar results reported previously in Ghana and US [23, 46].
+
+Most of the phenotypically antibiotic resistant S. enterica serovars carried antibiotic resistance marker genes associated with  $ \beta $ -lactams and quinolones.
+
+The  $ \beta $ -lactamase encoding gene  $ bla_{TEM} $  conferring resistance to penicillins and first-generation cephalosporins was detected in 73.3% of S. enterica serovars and in 76.9% of ampicillin-resistant isolates which is significantly high in comparison to 57.3% ( $ bla_{TEM-1} $ ) in S. enterica isolated from retail chickens in China [47]. Another  $ \beta $ -lactamase encoding gene  $ bla_{CMY-2} $ , an AmpC beta-lactamase gene that confers resistance to a wide variety of  $ \beta $ -lactam antibiotics detected in 13.3% of isolates. In contrast, in 4.7% of S. enterica serovars Typhimurium and Enteritidis originated from diseased broilers in Egypt  $ bla_{CMY-2} $  was identified [48] and all resistant S. enterica serovar Typhimurium isolated from retail meat in US were harbouring  $ bla_{CMY} $  [49]. The same gene could not be detected previously in any S. enterica serovar Typhimurium isolated from chicken meat in Egypt [8].
+
+ $ bla_{CTX-M} $  could be identified in 73.3% of isolated S. enterica serovars. In 24.0 and 18.8% of different Salmonella serovars isolated from retail chicken carcasses in China,  $ bla_{CTX-M-15} $  and  $ bla_{CTX-M-3} $  were detected, respectively [47].
+
+The  $ bla_{SHV} $  is responsible for the plasmid-mediated ampicillin resistance and  $ \beta $ -lactamase encoding genes  $ bla_{OXA} $  conferring resistance to ampicillin and cephalothin not detected in any of S. enterica serovars in this study. This result was in accordance with a result for S. enterica serovar Typhimurium isolated from chicken meat in Egypt [8]. In contrast, 30.2% of ESBL-producing Salmonella isolated from raw chicken carcasses in China were harbouring  $ bla_{OXA-1} $  [47].
+
+Although none of S. enterica serovars were phenotypically resistant to ciprofloxacin, qnrA, qnrB and qnrS genes were detected in 33.3, 20.0 and 6.7%, respectively in all S. enterica serovars and in 100, 60.0 and 20.0%, respectively in S. enterica resistant to nalidixic acid. A different result showed that 1.16% of nalidixic acid-resistant S.

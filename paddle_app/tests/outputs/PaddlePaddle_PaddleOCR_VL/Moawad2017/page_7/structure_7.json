@@ -1,0 +1,639 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Moawad2017.pdf",
+    "page_index": 6,
+    "page_count": 13,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Moawad et al. Gut Pathog (2017) 9:57",
+            "block_bbox": [
+                108,
+                62,
+                361,
+                85
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 7 of 13",
+            "block_bbox": [
+                992,
+                63,
+                1081,
+                86
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Twenty-one E. coli isolates were characterized as 4 O18 (19.0%) and 4 O78 (19.0%) serotypes. Other serotypes are given in Table 2.",
+            "block_bbox": [
+                106,
+                173,
+                585,
+                248
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Molecular identification of Salmonella serovars",
+            "block_bbox": [
+                106,
+                269,
+                490,
+                292
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "All 15 recovered S. enterica serovars harboured ompC gene, which confirms Salmonella genus. Nine S. enterica serovar Typhimurium (60.0%) and two S. enterica serovar Enteritidis (13.3%) were identified by means of serovar-specific bands using PCR (Table 3). Four other isolates could not be typed with PCR method (26.7%).",
+            "block_bbox": [
+                105,
+                293,
+                585,
+                440
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Determination of antimicrobial susceptibility profiles",
+            "block_bbox": [
+                106,
+                462,
+                538,
+                485
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "The results of determination of antimicrobial resistance of S. enterica and E. coli isolates to thirteen antibiotics are given in Tables 4 and 5. Most of the S. enterica isolates showed resistance to ampicillin (87.0%) and cefotaxime (80.0%) and all were susceptible to chloramphenicol, colistin and ciprofloxacin. Resistance to other antibiotics was shown in Table 4.",
+            "block_bbox": [
+                105,
+                486,
+                585,
+                652
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Seven isolates of S. enterica serovar Typhimurium were resistant to ampicillin, cefotaxime and cefpodoxime (77.8%), while 6 isolates (66.7%) were highly sensitive to ciprofloxacin. Resistance to other antibiotics was weaker developed.",
+            "block_bbox": [
+                106,
+                653,
+                585,
+                773
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Both S. enterica serovar Enteritidis isolates were resistant to ampicillin, cefotaxime and tetracycline. Additionally, one isolate showed resistance to streptomycin, nalidixic acid, trimethoprim/sulphamethoxazole and streptomycin.\n\nIn addition to the entire resistance to ampicillin and cefotaxime, majority of the S. enterica serovar Paratyphi A isolates were resistant to amoxicillin–clavulanic acid, ceftriaxone and trimethoprim/sulphamethoxazole.",
+            "block_bbox": [
+                105,
+                773,
+                585,
+                896
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                602,
+                173,
+                1082,
+                269
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonella enterica serovar Kentucky isolate showed no pronounced susceptibility to any of the tested antibiotics and was resistant to six of them (Table 4). Seven out of 15 S. enterica serovars (46.7%) revealed phenotypic multidrug resistance exhibiting by resistance to three or more classes of antibiotics (Table 4).",
+            "block_bbox": [
+                601,
+                269,
+                1082,
+                413
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Escherichia coli isolates showed resistance to tetracycline, ampicillin, streptomycin, trimethoprim/sulphamethoxazole and amoxicillin–clavulanic acid with 80.9, 71.4, 61.9, 61.9 and 61.9%, respectively. Ten (47.6%), 9 (42.8%) and 9 (42.8%) isolates were susceptible to ciprofloxacin, enrofloxacin and ceftriaxone, respectively. All tested isolates were susceptible to colistin. Thirteen E. coli isolates (61.9%) were characterized as multidrug resistant (Table 5).",
+            "block_bbox": [
+                601,
+                414,
+                1083,
+                628
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "The multidrug resistance of isolated Salmonella and  $ E.\\ coli $  was shown in Tables 6 and 7, respectively.",
+            "block_bbox": [
+                602,
+                629,
+                1081,
+                679
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Molecular detection of resistance-associated genes",
+            "block_bbox": [
+                602,
+                701,
+                1020,
+                724
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Six of 8 screened resistance-associated genes were detected in S. enterica serovars by PCR (Table 6). Eleven (73.3%) isolates harboured  $ bla_{CTX-M} $  gene (1, 3 and 14) associated with cefotaxime resistance and 11 (73.3%) isolates harboured  $ bla_{TEM-1} $  gene associated with penicillin and narrow spectrum  $ \\beta $ -lactamase resistance. Five (33.3%) isolates harboured quinolone resistance gene.",
+            "block_bbox": [
+                601,
+                726,
+                1083,
+                896
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 6 Phenotypic resistance and resistance determinants found in S. enterica isolates in this study</div>\n",
+            "block_bbox": [
+                106,
+                928,
+                913,
+                952
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Source</td><td style='text-align: center;'>Serovar</td><td style='text-align: center;'>Resistance phenotype</td><td style='text-align: center;'>Resistance genes/class 1 integrons</td></tr><tr><td style='text-align: center;'>Poultry</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>CPD, CTX, NAL</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $ , qnrA, qnrB, qnrS</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, AMP, CPD</td><td style='text-align: center;'>bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>Enteritidis</td><td style='text-align: center;'>AMP, CTX, TET</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $ , bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>Kentucky</td><td style='text-align: center;'>AMC, AMP, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{TEM-1}} $ , qnrA</td></tr><tr><td style='text-align: center;'>Fresh poultry organs (liver)</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, AMP, CPD, CRO, CTX, NAL, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $ , bla $ _{\\text{TEM-1}} $ , qnrA, dfrA15, dfrA17</td></tr><tr><td style='text-align: center;'>Fresh poultry organs (liver)</td><td style='text-align: center;'>Paratyphi A</td><td style='text-align: center;'>AMC, AMP, CAZ CRO, CTX, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-14}} $ , bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Frozen poultry meat</td><td style='text-align: center;'>Paratyphi A</td><td style='text-align: center;'>AMC, AMP, CRO, CTX, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-14}} $ , bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Beef</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMP, CAZ, CTX</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $</td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMP, CAZ, CRO, CTX</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $</td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, CPD, CTX, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-3}} $ , bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>Enteritidis</td><td style='text-align: center;'>AMP, CPD, CTX, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CMY-2}} $ , bla $ _{\\text{CTX-M-1}} $ , bla $ _{\\text{TEM-1}} $ , qnrA, qnrB</td></tr><tr><td style='text-align: center;'>Fresh beef organs (spleen)</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMP, CPD, CTX, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-14}} $ , bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh beef organs (liver)</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, AMP, CPD</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>Fresh beef organs (liver)</td><td style='text-align: center;'>Paratyphi A</td><td style='text-align: center;'>AMP, CPD, CTX</td><td style='text-align: center;'>bla $ _{\\text{TEM1}} $</td></tr><tr><td style='text-align: center;'>Frozen beef meat</td><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>AMC, AMP, CAZ, CPD, CRO, CTX, ENR, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CMY-2}} $ , bla $ _{\\text{CTX-M-1}} $ , bla $ _{\\text{TEM1}} $ , qnrA, qnrB, aadA2</td></tr></table>",
+            "block_bbox": [
+                106,
+                955,
+                1079,
+                1411
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "AMC amoxycillin–clavulanic acid, AMP ampicillin, CAZ ceftazidime, CPD cefpodoxime, CRO chloramphenicol, CTX cefotaxime, ENR enrofloxacin, NAL nalidixic acid, STR streptomycin, TET tetracycline, T/S trimethoprim/sulphamethoxazole",
+            "block_bbox": [
+                105,
+                1416,
+                1074,
+                1455
+            ],
+            "block_id": 17,
+            "block_order": null,
+            "group_id": 17
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9458561539649963,
+                "coordinate": [
+                    108.32891845703125,
+                    62.319339752197266,
+                    361.89849853515625,
+                    85.02554321289062
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9047173261642456,
+                "coordinate": [
+                    992.0052490234375,
+                    63.78754425048828,
+                    1081.3468017578125,
+                    86.16295623779297
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9788548350334167,
+                "coordinate": [
+                    106.08316040039062,
+                    173.23269653320312,
+                    585.7781982421875,
+                    248.24383544921875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9451202154159546,
+                "coordinate": [
+                    106.27864074707031,
+                    269.9554443359375,
+                    490.07733154296875,
+                    292.999267578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852213263511658,
+                "coordinate": [
+                    105.48294067382812,
+                    293.77410888671875,
+                    585.667236328125,
+                    440.234619140625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.948614776134491,
+                "coordinate": [
+                    106.67631530761719,
+                    462.0345764160156,
+                    538.4600830078125,
+                    485.3288879394531
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867057204246521,
+                "coordinate": [
+                    105.794921875,
+                    486.5936279296875,
+                    585.4517822265625,
+                    652.8289794921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986574113368988,
+                "coordinate": [
+                    106.16767883300781,
+                    653.6046142578125,
+                    585.865478515625,
+                    773.1004638671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985673725605011,
+                "coordinate": [
+                    105.50250244140625,
+                    773.638671875,
+                    585.9991455078125,
+                    896.31640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841118454933167,
+                "coordinate": [
+                    602.13818359375,
+                    173.6861572265625,
+                    1082.5390625,
+                    269.95947265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873966574668884,
+                "coordinate": [
+                    601.8072509765625,
+                    269.983642578125,
+                    1082.9652099609375,
+                    413.49761962890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882733225822449,
+                "coordinate": [
+                    601.84228515625,
+                    414.24395751953125,
+                    1083.4468994140625,
+                    628.9014282226562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.971713125705719,
+                "coordinate": [
+                    602.798095703125,
+                    629.4745483398438,
+                    1081.274658203125,
+                    679.9219360351562
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9397138953208923,
+                "coordinate": [
+                    602.3486328125,
+                    701.9912109375,
+                    1020.241943359375,
+                    724.912353515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9831331372261047,
+                "coordinate": [
+                    601.6558837890625,
+                    726.4550170898438,
+                    1083.6546630859375,
+                    896.7266235351562
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8722773790359497,
+                "coordinate": [
+                    837.9500122070312,
+                    774.71142578125,
+                    913.7482299804688,
+                    799.402587890625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.868417501449585,
+                "coordinate": [
+                    769.8162841796875,
+                    823.0882568359375,
+                    840.4183349609375,
+                    847.5528564453125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9505836367607117,
+                "coordinate": [
+                    106.1304931640625,
+                    928.9817504882812,
+                    913.673828125,
+                    952.8220825195312
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9879885911941528,
+                "coordinate": [
+                    106.81414794921875,
+                    955.5430908203125,
+                    1079.822509765625,
+                    1411.7855224609375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8449968099594116,
+                "coordinate": [
+                    790.294677734375,
+                    1023.0157470703125,
+                    963.8267822265625,
+                    1046.1468505859375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6432076692581177,
+                "coordinate": [
+                    791.08447265625,
+                    1049.029052734375,
+                    844.972412109375,
+                    1071.118408203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.851727306842804,
+                "coordinate": [
+                    791.1192626953125,
+                    1073.04833984375,
+                    909.510986328125,
+                    1095.709716796875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7938915491104126,
+                "coordinate": [
+                    791.065673828125,
+                    1096.4268798828125,
+                    882.697509765625,
+                    1118.7059326171875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8320292830467224,
+                "coordinate": [
+                    790.9932861328125,
+                    1119.6822509765625,
+                    1040.8262939453125,
+                    1143.5850830078125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.808605432510376,
+                "coordinate": [
+                    791.5726318359375,
+                    1145.2099609375,
+                    915.6170654296875,
+                    1168.3095703125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8153210878372192,
+                "coordinate": [
+                    791.0113525390625,
+                    1169.948486328125,
+                    914.674560546875,
+                    1192.994873046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7424268126487732,
+                "coordinate": [
+                    790.8721923828125,
+                    1217.85791015625,
+                    855.7608642578125,
+                    1240.80908203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7084182500839233,
+                "coordinate": [
+                    791.373291015625,
+                    1242.4012451171875,
+                    855.656982421875,
+                    1264.8714599609375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.787493109703064,
+                "coordinate": [
+                    791.2197875976562,
+                    1265.92822265625,
+                    908.6480102539062,
+                    1289.075927734375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.848675549030304,
+                "coordinate": [
+                    790.9654541015625,
+                    1290.090087890625,
+                    1037.2181396484375,
+                    1313.561767578125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8014194965362549,
+                "coordinate": [
+                    791.1359252929688,
+                    1315.36083984375,
+                    914.8786010742188,
+                    1338.93212890625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6736058592796326,
+                "coordinate": [
+                    791.2957763671875,
+                    1362.91748046875,
+                    841.3228759765625,
+                    1385.226806640625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9385309219360352,
+                "coordinate": [
+                    105.56478881835938,
+                    1416.1575927734375,
+                    1074.270751953125,
+                    1455.2296142578125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6732980012893677,
+                "coordinate": [
+                    791.1748046875,
+                    1387.4287109375,
+                    1078.618896484375,
+                    1409.790283203125
+                ]
+            }
+        ]
+    }
+}

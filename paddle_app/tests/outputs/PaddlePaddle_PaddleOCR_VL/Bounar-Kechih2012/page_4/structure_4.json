@@ -1,0 +1,151 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bounar-Kechih2012.pdf",
+    "page_index": 3,
+    "page_count": 7,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "1182",
+            "block_bbox": [
+                87,
+                52,
+                135,
+                75
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "BOUNAR-KECHIH ET AL.",
+            "block_bbox": [
+                488,
+                53,
+                732,
+                78
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 2. Rates and antimicrobial resistance profiles of Salmonella strains isolated from Gallus gallus</div>\n",
+            "block_bbox": [
+                284,
+                701,
+                310,
+                1509
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\"> $ ^{3} $ AMP: ampicillin; K: kanamycin; FT: nitrofurantoin; NAL: nalidixic acid; TCY: tetracycline; SSS: sulphonamides, TMP: trimethoprim, SXT: cotrimoxazole.</div>\n",
+            "block_bbox": [
+                905,
+                375,
+                938,
+                1496
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Salmonella serotype</td><td rowspan=\"2\">n1¹</td><td style='text-align: center;'>β-Lactam</td><td style='text-align: center;'>Aminoglycoside</td><td style='text-align: center;'>Furan</td><td style='text-align: center;'>Quinolone</td><td style='text-align: center;'>Cycline</td><td colspan=\"3\">Sulphonamide</td><td rowspan=\"2\">n2²</td><td rowspan=\"2\">Resistance profile³</td></tr><tr><td style='text-align: center;'>AMP</td><td style='text-align: center;'>K</td><td style='text-align: center;'>FT</td><td style='text-align: center;'>NAL</td><td style='text-align: center;'>TCY</td><td style='text-align: center;'>SSS</td><td style='text-align: center;'>TMP</td><td style='text-align: center;'>SXT</td></tr><tr><td rowspan=\"3\">Heidelberg</td><td rowspan=\"3\">19/24</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>AMP, TCY</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>NAL</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>17</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>17</td><td style='text-align: center;'>TCY, NAL</td></tr><tr><td rowspan=\"2\">Enteritidis</td><td rowspan=\"2\">12/20</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>9</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>9</td><td style='text-align: center;'>FT</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3</td><td style='text-align: center;'>NAL</td></tr><tr><td style='text-align: center;'>Albany</td><td style='text-align: center;'>2/16</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>NAL</td></tr><tr><td rowspan=\"3\">Typhimurium</td><td rowspan=\"3\">5/9</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>FT, SSS</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>TMP, SXT</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3</td><td style='text-align: center;'>SSS, TCY, NAL</td></tr><tr><td rowspan=\"3\">Pullorum</td><td rowspan=\"3\">4/4</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>NAL</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>NAL, SSS</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>FT</td></tr><tr><td rowspan=\"2\">Blockley</td><td rowspan=\"2\">3/6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>SSS</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>TCY</td></tr><tr><td rowspan=\"3\">Hadar</td><td rowspan=\"3\">3/5</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>AMP, TCY</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>NAL</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>K, TCY</td></tr><tr><td rowspan=\"2\">Indiana</td><td rowspan=\"2\">2/2</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>FT</td></tr><tr><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>TMP, SXT, SSS, TCY</td></tr><tr><td style='text-align: center;'>Infantis</td><td style='text-align: center;'>1/6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>NAL</td></tr><tr><td style='text-align: center;'>Livingstone</td><td style='text-align: center;'>1/5</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>TCY, SXT, TMP</td></tr><tr><td style='text-align: center;'>Newport</td><td style='text-align: center;'>1/1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>AMP, TCY, NAL</td></tr><tr><td style='text-align: center;'>Kedougou</td><td style='text-align: center;'>0/1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>/</td></tr><tr><td style='text-align: center;'>Montevideo</td><td style='text-align: center;'>0/1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>/</td></tr><tr><td style='text-align: center;'>%</td><td style='text-align: center;'>53/100</td><td style='text-align: center;'>5.66</td><td style='text-align: center;'>1.89</td><td style='text-align: center;'>22.64</td><td style='text-align: center;'>58.49</td><td style='text-align: center;'>16.98</td><td style='text-align: center;'></td><td style='text-align: center;'>11.32</td><td style='text-align: center;'></td><td style='text-align: center;'>53</td><td style='text-align: center;'></td></tr></table>",
+            "block_bbox": [
+                317,
+                89,
+                871,
+                1513
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9044777750968933,
+                "coordinate": [
+                    87.25556945800781,
+                    52.399784088134766,
+                    135.60150146484375,
+                    75.97857666015625
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9275998473167419,
+                "coordinate": [
+                    488.2288818359375,
+                    53.073486328125,
+                    732.97412109375,
+                    78.15846252441406
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.928902268409729,
+                "coordinate": [
+                    284.1394348144531,
+                    701.8155517578125,
+                    310.3597106933594,
+                    1509.5059814453125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7152467370033264,
+                "coordinate": [
+                    905.3848876953125,
+                    375.65753173828125,
+                    938.1920166015625,
+                    1496.25048828125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9708805680274963,
+                "coordinate": [
+                    317.906982421875,
+                    89.620361328125,
+                    871.72216796875,
+                    1513.618896484375
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,557 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Fashae2019.pdf",
+    "page_index": 10,
+    "page_count": 11,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Fashae et al. – Salmonella from chickens and humans in Nigeria",
+            "block_bbox": [
+                96,
+                71,
+                515,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "J Infect Dev Ctries 2010; 4(8):484-494.",
+            "block_bbox": [
+                863,
+                71,
+                1122,
+                90
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "57. Bradley T, Angulo F, Mitchell M (2001) Public health education on Salmonella spp and reptiles. J Am Vet Med Assoc 219: 754-755.",
+            "block_bbox": [
+                97,
+                130,
+                578,
+                189
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "58. Oboegbulem SI, Iseghohimhen AU (1985) Wall Geckos (Geckonidae) as reservoirs of Salmonellae in Nigeria: problems for epidemiology and public health. Int J Zoonoses 12: 228-232.",
+            "block_bbox": [
+                98,
+                192,
+                578,
+                272
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "59. Mascher F, Reinthaler FF, Sixl W (1988) Serotyping of Salmonella strains in south-west Nigeria: epidemiological aspects. Geogr Med 18: 171-174.",
+            "block_bbox": [
+                98,
+                275,
+                578,
+                335
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "60. Parry CM, Threlfall EJ (2008) Antimicrobial resistance in typhoidal and nontyphoidal salmonellae. Curr Opin Infect Dis 21: 531-538.",
+            "block_bbox": [
+                98,
+                337,
+                578,
+                396
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "61. Elgroud R, Zerdoumi F, Benazzouz M, Bouzitouna-Bentchouala C, Granier SA, Fremy S, Brisabois A, Dufour B, Millemann Y (2009) Characteristics of Salmonella contamination of broilers and slaughterhouses in the region of Constantine (Algeria). Zoonoses Public Health 56: 84-93.",
+            "block_bbox": [
+                98,
+                399,
+                579,
+                501
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "62. Anonymous (2009) Annual report on zoonoses in Denmark 2007. National Food Institute, Technical University of Denmark, Copenhagen, Denmark.",
+            "block_bbox": [
+                98,
+                504,
+                578,
+                563
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "63. Bertrand S, Weill FX, Cloeckaert A, Vrints M, Mairiaux E, Praud K, Dierick K, Wildemauve C, Godard C, Butaye P, Imberechts H, Grimont PA, Collard JM (2006) Clonal emergence of extended-spectrum beta-lactamase (CTX-M-2)-producing Salmonella enterica serovar Virchow isolates with reduced susceptibilities to ciprofloxacin among poultry and humans in Belgium and France (2000 to 2003). J Clin Microbiol 44: 2897-2903.",
+            "block_bbox": [
+                98,
+                565,
+                578,
+                728
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "64. Weinberger M, Solnik-Isaac H, Shachar D, Reisfeld A, Valinsky L, Andorn N, Agmon V, Yishai R, Bassal R, Fraser A, Yaron S, Cohen D (2006) Salmonella enterica serotype Virchow: epidemiology, resistance patterns and molecular characterisation of an invasive Salmonella serotype in Israel. Clin Microbiol Infect 12: 999-1005.",
+            "block_bbox": [
+                102,
+                730,
+                579,
+                852
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "65. Weill FX, Lailler R, Praud K, Kerouanton A, Fabre L, Brisabois A, Grimont PA, Cloeckaert A (2004) Emergence",
+            "block_bbox": [
+                98,
+                854,
+                578,
+                895
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "of extended-spectrum-beta-lactamase (CTX-M-9)-producing multiresistant strains of Salmonella enterica serotype Virchow in poultry and humans in France. J Clin Microbiol 42: 5767-5773.",
+            "block_bbox": [
+                678,
+                130,
+                1125,
+                210
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "66. Ammari S, Laglaoui A, En-Nanei L, Bertrand S, Wildemauwe C, Barrijal S, Abid M (2009) Isolation, drug resistance and molecular characterization of Salmonella isolates in northern Morocco. J Infect Dev Ctries 3: 41-49.",
+            "block_bbox": [
+                644,
+                213,
+                1125,
+                294
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "67. Tibaijuka B, Molla B, Hildebrandt G, Kleer J (2003) Occurrence of Salmonellae in retail raw chicken products in Ethiopia. Berl Munch Tierarztl Wochenschr 116: 55-58.",
+            "block_bbox": [
+                645,
+                296,
+                1124,
+                356
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "68. Adetosoye AI (1980) Infective drug resistance among Escherichia coli isolated from clinically healthy domestic livestock. Vet Microbiol 333-342.",
+            "block_bbox": [
+                645,
+                359,
+                1124,
+                418
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "69. Lee HY, Su LH, Tsai MH, Kim SW, Chang HH, Jung SI, Park KH, Perera J, Carlos C, Tan BH, Kumarasinghe G, So T, Chongthaleong A, Hsueh PR, Liu JW, Song JH, Chiu CH (2009) High rate of reduced susceptibility to ciprofloxacin and ceftriaxone among nontyphoid Salmonella clinical isolates in Asia. Antimicrob Agents Chemother 53: 2696-2699.",
+            "block_bbox": [
+                645,
+                420,
+                1125,
+                561
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "70. Garcia-Fernandez A, Fortini D, Veldman K, Mevius D, Carattoli A (2009) Characterization of plasmids harbouring qnrS1, qnrB2 and qnrB19 genes in Salmonella. J Antimicrob Chemother 63: 274-281.",
+            "block_bbox": [
+                645,
+                564,
+                1125,
+                646
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Corresponding author",
+            "block_bbox": [
+                643,
+                667,
+                860,
+                689
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "Rene S. Hendriksen  \n\nNational Food Institute, Technical University of Denmark  \n\nKemitorvet, Building 204, DK-2800, Kgs. Lyngby, Denmark  \n\nPhone: +45 35 88 60 00  \n\nFax: +45 35 88 60 01  \n\nEmail: rshe@food.dtu.dk",
+            "block_bbox": [
+                641,
+                691,
+                1092,
+                816
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "Conflict of interests: No conflict of interests is declared.",
+            "block_bbox": [
+                642,
+                841,
+                1080,
+                863
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "number",
+            "block_content": "494",
+            "block_bbox": [
+                1087,
+                1472,
+                1126,
+                1492
+            ],
+            "block_id": 20,
+            "block_order": null,
+            "group_id": 20
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9482256174087524,
+                "coordinate": [
+                    96.7584228515625,
+                    71.9093017578125,
+                    515.3823852539062,
+                    90.66384887695312
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9453625082969666,
+                "coordinate": [
+                    863.590087890625,
+                    71.75823974609375,
+                    1122.9412841796875,
+                    90.12478637695312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9784647226333618,
+                "coordinate": [
+                    97.728515625,
+                    130.75245666503906,
+                    578.0317993164062,
+                    189.9740447998047
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9813100099563599,
+                "coordinate": [
+                    98.6015625,
+                    192.68338012695312,
+                    578.2620239257812,
+                    272.0440979003906
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.979969322681427,
+                "coordinate": [
+                    98.5899658203125,
+                    275.61505126953125,
+                    578.5086669921875,
+                    335.59454345703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9800946712493896,
+                "coordinate": [
+                    98.658935546875,
+                    337.6799011230469,
+                    578.1636352539062,
+                    396.9404602050781
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9823728203773499,
+                "coordinate": [
+                    98.51628112792969,
+                    399.59613037109375,
+                    579.0192260742188,
+                    501.47137451171875
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9908556938171387,
+                "coordinate": [
+                    96.97650146484375,
+                    129.33139038085938,
+                    580.9449462890625,
+                    895.9783935546875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9780977964401245,
+                "coordinate": [
+                    98.66468811035156,
+                    504.03741455078125,
+                    578.9342651367188,
+                    563.4553833007812
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9830545783042908,
+                "coordinate": [
+                    98.72264099121094,
+                    565.001220703125,
+                    578.76220703125,
+                    728.327392578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.982221782207489,
+                "coordinate": [
+                    102.2802734375,
+                    730.8507080078125,
+                    579.058837890625,
+                    852.3677978515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9693102836608887,
+                "coordinate": [
+                    98.55104064941406,
+                    854.434326171875,
+                    578.656494140625,
+                    895.5484619140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9804216027259827,
+                "coordinate": [
+                    678.63671875,
+                    130.7793731689453,
+                    1125.34130859375,
+                    210.7029266357422
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9801760315895081,
+                "coordinate": [
+                    644.977294921875,
+                    213.78713989257812,
+                    1125.025146484375,
+                    294.1498718261719
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9783086180686951,
+                "coordinate": [
+                    645.177978515625,
+                    296.6681213378906,
+                    1124.1748046875,
+                    356.3081359863281
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9787909984588623,
+                "coordinate": [
+                    645.351806640625,
+                    359.6664123535156,
+                    1124.664794921875,
+                    418.1587219238281
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9903632998466492,
+                "coordinate": [
+                    643.218017578125,
+                    129.24203491210938,
+                    1126.908203125,
+                    646.18017578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9827499389648438,
+                "coordinate": [
+                    645.2301025390625,
+                    420.499755859375,
+                    1125.3736572265625,
+                    561.2578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9782481789588928,
+                "coordinate": [
+                    645.406494140625,
+                    564.7449340820312,
+                    1125.3543701171875,
+                    646.2158813476562
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8734644055366516,
+                "coordinate": [
+                    643.2354736328125,
+                    667.5490112304688,
+                    860.9393310546875,
+                    689.8234252929688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9666192531585693,
+                "coordinate": [
+                    641.6756591796875,
+                    691.33154296875,
+                    1092.0474853515625,
+                    816.700927734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.914194643497467,
+                "coordinate": [
+                    642.3565673828125,
+                    841.6226806640625,
+                    1080.4949951171875,
+                    863.8157958984375
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9171838760375977,
+                "coordinate": [
+                    1087.13671875,
+                    1472.047607421875,
+                    1126.0244140625,
+                    1492.29736328125
+                ]
+            }
+        ]
+    }
+}

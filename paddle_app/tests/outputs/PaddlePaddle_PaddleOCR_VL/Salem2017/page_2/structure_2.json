@@ -1,0 +1,439 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Salem2017.pdf",
+    "page_index": 1,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "856",
+            "block_bbox": [
+                60,
+                70,
+                89,
+                86
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "R. Ben Salem et al. / Journal of Infection and Public Health 10 (2017) 855–860",
+            "block_bbox": [
+                355,
+                69,
+                813,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Multiple factors determine the virulence of S. enterica, which are primarily encoded by chromosomal genes, unlinked or clustered in islets (composed by a few genes) and larger pathogenicity islands (SPIs). In Salmonella more than 20 SPIs have been detected so far, with SPI1 to SPI5 being linked to well-defined pathogenic processes  $ [9] $ . SPI-1 and SPI-2 encode different type III secretion systems which deliver effector proteins into the cytosol of the host cell, leading to bacterial invasion of the intestinal epithelium as well as proliferation of Salmonella within eukaryotic cells. SPI-3 encodes a magnesium transporter involved in adaptation of Salmonella to the adverse intracellular environment. SPI-4 encodes a giant non-fimbrial adhesin (SiiE) and a type I secretion system responsible for its transport. SiiE mediates close interaction with microvilli at the apical side of epithelial cells. SPI-5 is connected with inflammation and chloride secretion during the enteric phase of the disease  $ [9,10] $ . Other non SPI-associated genes also play an important role during infection, for example, prophage-encoded genes and fimbrial gene clusters  $ [11,12] $ . In addition, some serotypes of S. enterica, including S. Enteritidis, harbor virulence-plasmids of variable size, which share the spv (Salmonella plasmid virulence) locus. The spv region seems to promote rapid growth and survival of S. enterica within the host cells and is thus believed to play an important role in systemic infections  $ [13] $ .",
+            "block_bbox": [
+                56,
+                107,
+                571,
+                589
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "In Tunisia, a retrospective study on the occurrence of S. enterica during an 11-year period (1994–2004), revealed S. Enteritidis as the most common serotype recovered from human specimens (24.1%; 1640/6815) and animals (69%; 1551/2249), and the second serotype found in food products (15.8%; 877/5539), only preceded by S. Anatum. In addition, S. Enteritidis was the most common serotype in poultry (70.3%; 1378/1959) and poultry meat (27.7%; 415/1496) [4]. A more recent study also supported the predominance of S. Enteritidis in chicken products along the 2008–2011 years [6]. Despite this, information available on the resistance and genetic properties of isolates from chickens and environmental farm samples in Tunisia is rather limited. The aim of the present study was the characterization of a collection of S. Enteritidis isolates obtained from these sources with respect to their resistance properties, virulence gene content, plasmid patterns and XbaI pulsed-field gel electrophoresis (PFGE) profiles.",
+            "block_bbox": [
+                56,
+                589,
+                571,
+                928
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Materials and methods",
+            "block_bbox": [
+                58,
+                963,
+                250,
+                985
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Bacterial isolates",
+            "block_bbox": [
+                58,
+                1004,
+                190,
+                1025
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "During the period 2009–2013, we have collected 142 Salmonella isolates, which were identified as S. Enteritidis (85; 60%), S. Eppendorf (22; 15.5%), S. Zanzibar (17; 12%), S. Typhimurium (7; 5%), S. Anatum (5; 3.5%), S. Kentucky (3; 2.1%), S. Seftenberg (2; 1.3%), S. Virchow (1; 0.7%) and S. Solt (1; 0.7%). Phenotypic and genotypic characterization of the S. Eppendorf isolates have previously been reported [14]. In the present study we focused on S. Enteritidis isolates owing to their high incidence. Only 77 out of the 85 originally detected isolates could be recovered for further analysis. They were obtained from samples (feces, organs and/or embryonic eggs) of healthy (38) and sick chickens (8; suffering from colibacillosis or pasteurellosis), and of the farm environment (31; waste of hatching, feathers, dust and water). The isolates were collected in 17 farms (located in central and north eastern regions of the country) or during official controls along the period of four years. Initial detection was done according to ISO method 6579/2002 and the isolates were confirmed as Salmonella by API 20E (Bio-Mérieux, Marcy l'Etoile, France). Serotype was determined by slide agglutination with the use of antisera (Bio-Rad, Marnes-la-Coquette, France) to identify somatic O antigens and flagellar H antigens, according to the Kauffmann–White–Le Minor scheme [15].",
+            "block_bbox": [
+                56,
+                1045,
+                572,
+                1489
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial susceptibility testing by disk diffusion",
+            "block_bbox": [
+                597,
+                108,
+                981,
+                130
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antimicrobial susceptibilities for all S. Enteritidis isolates were tested by the disk diffusion method on Mueller–Hinton agar using commercial disks (Oxoid, Madrid, Spain), and results were interpreted according to the Clinical and Laboratory Standards Institute guidelines [16]. The following antimicrobials were used: ampicillin 10  $ \\mu $ g (AMP), amoxicillin/clavulanic acid 30  $ \\mu $ g (AMC), cefotaxime 30  $ \\mu $ g (CTX), cefoxitin 30  $ \\mu $ g (FOX), apramycin 15  $ \\mu $ g (APR), chloramphenicol 30  $ \\mu $ g (CHL), gentamycin 10  $ \\mu $ g (GEN), ciprofloxacin 5  $ \\mu $ g (CIP), nalidixic acid 30  $ \\mu $ g (NAL), streptomycin 10  $ \\mu $ g (STR), sulfonamides 30  $ \\mu $ g (SUL), tetracycline 30  $ \\mu $ g (TET), tobramycin 10  $ \\mu $ g (TOB) and trimethoprim 5  $ \\mu $ g (TMP). S. Enteritidis ATCC 13076 and S. Typhimurium ATCC 14028 were used as control strains.",
+            "block_bbox": [
+                595,
+                149,
+                1111,
+                423
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Genes encoding antimicrobial resistance",
+            "block_bbox": [
+                597,
+                453,
+                898,
+                475
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Genes encoding resistance to ampicillin  $ [bla_{OXA-1}, bla_{PSE-1}, bla_{SHV}, bla_{TEM-1-like}] $ , streptomycin  $ [aadA1-like, aadA2, strA and strB] $  and sulfonamides  $ [sul1, sul2, sul3] $ , selected according to the resistance phenotypes, were screened by PCR, using previously reported primers and conditions [17]. The genetic bases of nalidixic acid resistance were established by PCR amplification and sequencing of the quinolone resistance-determining region (QRDR) of the gyrA gene of nine isolate selected as representative of different resistance profiles [18]. Sequencing was conducted at Macrogen Europe (Amsterdam, Netherlands). For all S. Enteritidis isolates, the qnrA, qnrB, qnrS and  $ aac(6')-Ib-cr $  genes, coding for plasmid-mediated quinolone resistance (PMQR) were also screened by PCR [19]. To investigate the presence of class 1 integrons in sul1- and sul3-positive isolates, the presence of the int1 gene was investigated [17].",
+            "block_bbox": [
+                594,
+                494,
+                1111,
+                811
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## V irulence genotyping",
+            "block_bbox": [
+                597,
+                839,
+                762,
+                863
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "All S. Enteritidis isolates were tested for 10 virulence genes, selected for their established association with Salmonella pathogenicity  $ [9-13] $ . For this, PCR amplifications were performed using previously published primers and conditions  $ [20,21] $ . Five target genes  $ [orgA, ssaQ, mgtC, spi\\_4D (siiD) $  and  $ sopB] $  are located on SPI1 to SPI5, one (spvC) on the virulence plasmid, three (gipA, sodC1 and sopE1) on prophages, and one (bcfC) on a fimbrial gene cluster.",
+            "block_bbox": [
+                595,
+                881,
+                1111,
+                1032
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Plasmid profiles",
+            "block_bbox": [
+                597,
+                1059,
+                722,
+                1083
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Plasmid DNA was extracted by the technique of Kado and Liu  $ [22] $  and analyzed by electrophoresis on 0.6% agarose gels. Plasmids from Escherichia coli strains 39R861 and V517 were included as size controls.",
+            "block_bbox": [
+                595,
+                1101,
+                1110,
+                1187
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Pulsed-field gel electrophoresis analysis",
+            "block_bbox": [
+                597,
+                1216,
+                892,
+                1240
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Thirty six representative isolates with different resistance, virulence and plasmid combined profiles were typed by PFGE, using the PulseNet protocol with the XbaI (40U; Takara Biomedical, Madrid, Spain) enzyme (http://www.pulsenetinternational.org/). Electrophoresis was performed in a CHEF-DR III (Bio-Rad Laboratories, Madrid, Spain) with the following settings: initial switch time 2 s, final switch time 63 s, a gradient of 6 V/cm, 120° angle and 21 h of electrophoresis. Migration of the DNA fragments was achieved in 1% agarose gels (w/v; Ultra-Pure DNA Grade Agarose, Bio-Rad) submerged in 0.5X TBE buffer. XbaI-digested DNA of S. Braenderup H9812 was included as size marker. The gels were visualized under",
+            "block_bbox": [
+                594,
+                1259,
+                1111,
+                1491
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8876363039016724,
+                "coordinate": [
+                    60.59162902832031,
+                    70.41752624511719,
+                    89.84138488769531,
+                    86.55268859863281
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9377026557922363,
+                "coordinate": [
+                    355.7332763671875,
+                    69.0030517578125,
+                    813.659912109375,
+                    88.72216796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879994988441467,
+                "coordinate": [
+                    56.7510986328125,
+                    107.96624755859375,
+                    571.7880249023438,
+                    589.5975952148438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882832765579224,
+                "coordinate": [
+                    56.82647705078125,
+                    589.3388671875,
+                    571.6853637695312,
+                    928.56884765625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9208979606628418,
+                "coordinate": [
+                    58.71051025390625,
+                    963.2161865234375,
+                    250.759521484375,
+                    985.1114501953125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9199643135070801,
+                "coordinate": [
+                    58.966949462890625,
+                    1004.2388916015625,
+                    190.26516723632812,
+                    1025.7635498046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882237911224365,
+                "coordinate": [
+                    56.641143798828125,
+                    1045.1591796875,
+                    572.3857421875,
+                    1489.93359375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9239158630371094,
+                "coordinate": [
+                    597.250732421875,
+                    108.20272827148438,
+                    981.669677734375,
+                    130.8094482421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878590703010559,
+                "coordinate": [
+                    595.6524658203125,
+                    149.72531127929688,
+                    1111.5911865234375,
+                    423.8655090332031
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9322328567504883,
+                "coordinate": [
+                    597.500244140625,
+                    453.1507568359375,
+                    898.7586669921875,
+                    475.75604248046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875003099441528,
+                "coordinate": [
+                    594.9163818359375,
+                    494.88336181640625,
+                    1111.1805419921875,
+                    811.8346557617188
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9207509160041809,
+                "coordinate": [
+                    597.7239379882812,
+                    839.627197265625,
+                    762.1107788085938,
+                    863.81689453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.98490971326828,
+                "coordinate": [
+                    595.1258544921875,
+                    881.5880126953125,
+                    1111.0911865234375,
+                    1032.9625244140625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9106272459030151,
+                "coordinate": [
+                    597.5880126953125,
+                    1059.2855224609375,
+                    722.0269775390625,
+                    1083.5057373046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9771601557731628,
+                "coordinate": [
+                    595.6572265625,
+                    1101.1202392578125,
+                    1110.8525390625,
+                    1187.9268798828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9302232265472412,
+                "coordinate": [
+                    597.2208251953125,
+                    1216.552001953125,
+                    892.92822265625,
+                    1240.248046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873223900794983,
+                "coordinate": [
+                    594.981201171875,
+                    1259.057373046875,
+                    1111.41796875,
+                    1491.946533203125
+                ]
+            }
+        ]
+    }
+}

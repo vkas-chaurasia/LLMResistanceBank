@@ -1,0 +1,378 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_1.pdf",
+    "page_index": 4,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                56,
+                168,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "ARGs with Staphylococci Chicken Meat",
+            "block_bbox": [
+                858,
+                55,
+                1104,
+                75
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 2 | Distribution of Staphylococcus spp. isolated from chicken meat samples according to their species diversity and multidrug resistance pattern.</div>\n",
+            "block_bbox": [
+                84,
+                122,
+                1103,
+                144
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Coagulase reaction</td><td rowspan=\"2\">Staphylococcus spp. (n = isolates)</td><td colspan=\"12\">Antibiotics</td></tr><tr><td style='text-align: center;'>Ampicillin-sulbactam</td><td style='text-align: center;'>Chloramphenicol</td><td style='text-align: center;'>Ciprofloxacin</td><td style='text-align: center;'>Clindamycin</td><td style='text-align: center;'>Erythromycin</td><td style='text-align: center;'>Gentamycin</td><td style='text-align: center;'>Methicillin</td><td style='text-align: center;'>Oxacillin</td><td style='text-align: center;'>Penicillin</td><td style='text-align: center;'>Sulfamethoxazole/Trimethoprim</td><td style='text-align: center;'>Tetracycline</td><td style='text-align: center;'>Vancomycin</td></tr><tr><td style='text-align: center;'>Resistance Pattern</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"3\">Coagulase positive</td><td style='text-align: center;'>S. aureus (3)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>2</td></tr><tr><td style='text-align: center;'>S. hyicus (10)</td><td style='text-align: center;'>4</td><td style='text-align: center;'>6</td><td style='text-align: center;'>5</td><td style='text-align: center;'>9</td><td style='text-align: center;'>9</td><td style='text-align: center;'>6</td><td style='text-align: center;'>6</td><td style='text-align: center;'>8</td><td style='text-align: center;'>9</td><td style='text-align: center;'>9</td><td style='text-align: center;'>9</td><td style='text-align: center;'>7</td></tr><tr><td style='text-align: center;'>S. intermedius (1)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td></tr><tr><td rowspan=\"7\">Coagulase negative</td><td style='text-align: center;'>S. epidermidis (13)</td><td style='text-align: center;'>3</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5</td><td style='text-align: center;'>13</td><td style='text-align: center;'>11</td><td style='text-align: center;'>10</td><td style='text-align: center;'>7</td><td style='text-align: center;'>9</td><td style='text-align: center;'>12</td><td style='text-align: center;'>4</td><td style='text-align: center;'>11</td><td style='text-align: center;'>3</td></tr><tr><td style='text-align: center;'>S. lugdunensis (15)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>3</td><td style='text-align: center;'>15</td><td style='text-align: center;'>14</td><td style='text-align: center;'>12</td><td style='text-align: center;'>6</td><td style='text-align: center;'>8</td><td style='text-align: center;'>14</td><td style='text-align: center;'>9</td><td style='text-align: center;'>15</td><td style='text-align: center;'>4</td></tr><tr><td style='text-align: center;'>S. hemolyticus (1)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>S. hominus (3)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>2</td><td style='text-align: center;'>3</td><td style='text-align: center;'>3</td><td style='text-align: center;'>2</td><td style='text-align: center;'>3</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>S. lentus (1)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>S. schleiferi (2)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>S. cohnii (1)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'>50</td><td style='text-align: center;'>12</td><td style='text-align: center;'>14</td><td style='text-align: center;'>16</td><td style='text-align: center;'>49</td><td style='text-align: center;'>46</td><td style='text-align: center;'>40</td><td style='text-align: center;'>27</td><td style='text-align: center;'>37</td><td style='text-align: center;'>47</td><td style='text-align: center;'>33</td><td style='text-align: center;'>47</td><td style='text-align: center;'>20</td></tr></table>",
+            "block_bbox": [
+                83,
+                151,
+                1104,
+                675
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "important antimicrobials was also observed. The antimicrobial resistance profile of the 50 isolated Staphylococcus spp to different antibiotics was analyzed; none of the isolates were totally sensitive to the 12 tested antibiotics and 16/50 of the isolates were shown to be resistant to at least 3 antibiotics (S. lugdunensis) representing three classes. A small percentage of the isolates (less than 50%) demonstrated resistance to oxacillin, methicillin, erythromycin, chloramphenicol, ciprofloxacin, vancomycin, and tetracycline (Table 2). Also resistant to  $ \\beta $ -lactams, such as ampicillin (6/50), penicillin (22/50), methicillin (8/50), and oxacillin (13/50) was evident (Table 2). Forty seven out of the fifty isolates were resistant to penicillin and tetracycline.",
+            "block_bbox": [
+                82,
+                721,
+                585,
+                1022
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## The Distribution of Antibiotic Resistance Ratios of the Staphylococcus (S) Coagulase Positive (CP)-Negative (CN) That Are Resistant (MR) and Susceptible to Methicillin (MS)",
+            "block_bbox": [
+                83,
+                1036,
+                579,
+                1175
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Methicillin resistance in CPS and CNS was calculated to be 64.3 and 52.8%, respectively. The antimicrobial resistance patterns of the isolates are shown in Table 3. The resistance ratios to clindamycin, methicillin, oxacillin, penicillin, and sulfamethoxazole/trimethoprim in CPS and to clindamycin, gentamycin, methicillin, oxacillin and penicillin in CNS were found to be higher in the methicillin-resistant isolates compared to those that were susceptible to methicillin (p < 0.001). The lowest resistance ratio in the methicillin-resistant staphylococci was detected for ciprofloxacin and ampicillin-sulbactam in the CPS and to ampicillin-sulbactam, chloramphenicol and",
+            "block_bbox": [
+                82,
+                1176,
+                585,
+                1432
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 3 | The antibiotic resistance ratios of the Staphylococcus (S) Coagulase positive (CP)– negative (CN) that are resistant (MR) and susceptible to methicillin (MS) (%).</div>\n",
+            "block_bbox": [
+                604,
+                723,
+                1059,
+                783
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Number of staphylococci = 50</td><td colspan=\"2\">CPS</td><td colspan=\"2\">CNS</td></tr><tr><td colspan=\"2\">n = 14.50 (28%)</td><td colspan=\"2\">n = 36.50 (72%)</td></tr><tr><td style='text-align: center;'>Antibiotics</td><td style='text-align: center;'>MRCPS (9/14, 64.3%)</td><td style='text-align: center;'>MSCPS (5/14, 35.7%)</td><td style='text-align: center;'>MRCNS (19/36, 52.8%)</td><td style='text-align: center;'>MSCNS (17/36, 47.2%)</td></tr><tr><td style='text-align: center;'>Ampicillin-sulbactam</td><td style='text-align: center;'>28.6</td><td style='text-align: center;'>14.3</td><td style='text-align: center;'>16.7</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Chloramphenicol</td><td style='text-align: center;'>35.7</td><td style='text-align: center;'>21.4</td><td style='text-align: center;'>11.1</td><td style='text-align: center;'>5.6</td></tr><tr><td style='text-align: center;'>Ciprofloxacin</td><td style='text-align: center;'>21.4</td><td style='text-align: center;'>21.4</td><td style='text-align: center;'>19.4</td><td style='text-align: center;'>8.3</td></tr><tr><td style='text-align: center;'>Clindamycin</td><td style='text-align: center;'>57.1</td><td style='text-align: center;'>35.7</td><td style='text-align: center;'>52.8</td><td style='text-align: center;'>47.2</td></tr><tr><td style='text-align: center;'>Erythromycin</td><td style='text-align: center;'>42.9</td><td style='text-align: center;'>50.0</td><td style='text-align: center;'>50.0</td><td style='text-align: center;'>41.7</td></tr><tr><td style='text-align: center;'>Gentamycin</td><td style='text-align: center;'>42.9</td><td style='text-align: center;'>28.6</td><td style='text-align: center;'>52.8</td><td style='text-align: center;'>30.6</td></tr><tr><td style='text-align: center;'>Methicillin</td><td style='text-align: center;'>64.3</td><td style='text-align: center;'>35.7</td><td style='text-align: center;'>52.8</td><td style='text-align: center;'>47.2</td></tr><tr><td style='text-align: center;'>Oxacillin</td><td style='text-align: center;'>64.3</td><td style='text-align: center;'>21.4</td><td style='text-align: center;'>52.8</td><td style='text-align: center;'>16.7</td></tr><tr><td style='text-align: center;'>Penicillin</td><td style='text-align: center;'>64.3</td><td style='text-align: center;'>28.6</td><td style='text-align: center;'>52.8</td><td style='text-align: center;'>41.7</td></tr><tr><td style='text-align: center;'>Sulfamethoxazole/Trimethoprim</td><td style='text-align: center;'>64.3</td><td style='text-align: center;'>28.6</td><td style='text-align: center;'>38.9</td><td style='text-align: center;'>16.7</td></tr><tr><td style='text-align: center;'>Tetracycline</td><td style='text-align: center;'>57.1</td><td style='text-align: center;'>35.7</td><td style='text-align: center;'>47.2</td><td style='text-align: center;'>47.2</td></tr><tr><td style='text-align: center;'>Vancomycin</td><td style='text-align: center;'>50.0</td><td style='text-align: center;'>21.4</td><td style='text-align: center;'>27.8</td><td style='text-align: center;'>0</td></tr></table>",
+            "block_bbox": [
+                604,
+                789,
+                1100,
+                1230
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "ciprofloxacin in the CNS. A comparison of the resistance patterns revealed that all isolates from chickens showed resistance from three to nine classes of antimicrobial agents (Table 4).",
+            "block_bbox": [
+                603,
+                1268,
+                1105,
+                1337
+            ],
+            "block_id": 9,
+            "block_order": 4,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Eight isolates showed resistance to oxacillin, undetectable by mecA amplification. The three S. aureus isolates were resistant to 9–10 antimicrobials (Table 4). Two unique susceptibility profiles were identified among the S. aureus isolates, with many resistant",
+            "block_bbox": [
+                603,
+                1337,
+                1106,
+                1431
+            ],
+            "block_id": 10,
+            "block_order": 5,
+            "group_id": 10
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1481,
+                364,
+                1501
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "number",
+            "block_content": "5",
+            "block_bbox": [
+                588,
+                1482,
+                602,
+                1499
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "footer",
+            "block_content": "November 2016 | Volume 7 | Article 1846",
+            "block_bbox": [
+                850,
+                1480,
+                1103,
+                1500
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9230164289474487,
+                "coordinate": [
+                    85.95973205566406,
+                    56.03014373779297,
+                    168.5228729248047,
+                    74.2259292602539
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.942557156085968,
+                "coordinate": [
+                    858.154541015625,
+                    55.292945861816406,
+                    1104.05517578125,
+                    75.09870147705078
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.941352128982544,
+                "coordinate": [
+                    84.991455078125,
+                    122.61515045166016,
+                    1103.1669921875,
+                    144.37130737304688
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9876285791397095,
+                "coordinate": [
+                    83.9588623046875,
+                    151.90985107421875,
+                    1104.3302001953125,
+                    675.5999755859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884518384933472,
+                "coordinate": [
+                    82.95472717285156,
+                    721.9871826171875,
+                    585.491943359375,
+                    1022.3487548828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9731535315513611,
+                "coordinate": [
+                    83.14202880859375,
+                    1036.9068603515625,
+                    579.6240844726562,
+                    1175.4566650390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884918928146362,
+                "coordinate": [
+                    82.739501953125,
+                    1176.42724609375,
+                    585.3126220703125,
+                    1432.357421875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5445757508277893,
+                "coordinate": [
+                    444.4931640625,
+                    1338.150146484375,
+                    537.114501953125,
+                    1360.046630859375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9692152142524719,
+                "coordinate": [
+                    604.2940673828125,
+                    723.4580078125,
+                    1059.29248046875,
+                    783.151123046875
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9874798655509949,
+                "coordinate": [
+                    604.1629638671875,
+                    789.829345703125,
+                    1100.8709716796875,
+                    1230.3070068359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9813026785850525,
+                "coordinate": [
+                    603.47900390625,
+                    1268.37109375,
+                    1105.040771484375,
+                    1337.39306640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9831216931343079,
+                "coordinate": [
+                    603.1376953125,
+                    1337.5244140625,
+                    1106.239990234375,
+                    1431.587158203125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9403356313705444,
+                "coordinate": [
+                    85.5257568359375,
+                    1481.0440673828125,
+                    364.6979675292969,
+                    1501.2628173828125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8527219891548157,
+                "coordinate": [
+                    588.1898193359375,
+                    1482.1146240234375,
+                    602.1763916015625,
+                    1499.1700439453125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9413480162620544,
+                "coordinate": [
+                    850.9627685546875,
+                    1480.64404296875,
+                    1103.6651611328125,
+                    1500.8359375
+                ]
+            }
+        ]
+    }
+}

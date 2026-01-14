@@ -1,0 +1,295 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Ejo2016.pdf",
+    "page_index": 3,
+    "page_count": 8,
+    "width": 1201,
+    "height": 1600,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "4",
+            "block_bbox": [
+                98,
+                87,
+                114,
+                105
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "BioMed Research International",
+            "block_bbox": [
+                845,
+                84,
+                1101,
+                108
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 2: The general proportion of antimicrobial susceptibility test among Salmonella isolates.</div>\n",
+            "block_bbox": [
+                257,
+                143,
+                938,
+                167
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Antimicrobials</td><td colspan=\"3\">Antimicrobial susceptibility test</td></tr><tr><td style='text-align: center;'>Susceptible (%)</td><td style='text-align: center;'>Intermediate (%)</td><td style='text-align: center;'>Resistant (%)</td></tr><tr><td style='text-align: center;'>Amoxicillin (AML)</td><td style='text-align: center;'>16 (76.2)</td><td style='text-align: center;'>3 (14.3)</td><td style='text-align: center;'>2 (9.5)</td></tr><tr><td style='text-align: center;'>Ampicillin (AMP)</td><td style='text-align: center;'>15 (71.4)</td><td style='text-align: center;'>3 (14.3)</td><td style='text-align: center;'>3 (14.3)</td></tr><tr><td style='text-align: center;'>Cephalothin (KF)</td><td style='text-align: center;'>16 (76.2)</td><td style='text-align: center;'>4 (19)</td><td style='text-align: center;'>1 (4.8)</td></tr><tr><td style='text-align: center;'>Ceftriaxone (CRO)</td><td style='text-align: center;'>21 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Gentamicin (CN)</td><td style='text-align: center;'>19 (90.5)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (9.5)</td></tr><tr><td style='text-align: center;'>Nalidixic acid (NA)</td><td style='text-align: center;'>19 (90.5)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (9.5)</td></tr><tr><td style='text-align: center;'>Nitrofurantoin (F)</td><td style='text-align: center;'>15 (71.4)</td><td style='text-align: center;'>4 (19)</td><td style='text-align: center;'>2 (9.5)</td></tr><tr><td style='text-align: center;'>Sulfamethoxazole-trimethoprim (SXT)</td><td style='text-align: center;'>15 (71.4)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>6 (28.6)</td></tr><tr><td style='text-align: center;'>Tetracycline (TE)</td><td style='text-align: center;'>10 (47.6)</td><td style='text-align: center;'>2 (9.5)</td><td style='text-align: center;'>9 (42.6)</td></tr></table>",
+            "block_bbox": [
+                98,
+                176,
+                1099,
+                455
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 3: Antimicrobial resistance profiles of Salmonella isolates recovered from animal-origin food items.</div>\n",
+            "block_bbox": [
+                215,
+                481,
+                981,
+                504
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Antimicrobial tested</td><td colspan=\"4\">Number of resistant isolates from food samples</td><td rowspan=\"2\">Total (n = 10)</td></tr><tr><td style='text-align: center;'>Minced meat (n = 1)</td><td style='text-align: center;'>Raw meat (n = 3)</td><td style='text-align: center;'>Raw egg (n = 5)</td><td style='text-align: center;'>Raw milk (n = 1)</td></tr><tr><td style='text-align: center;'>Amoxicillin (AML)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (20)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>3 (30)</td></tr><tr><td style='text-align: center;'>Ampicillin (AMP)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (20)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>2 (20)</td></tr><tr><td style='text-align: center;'>Cephalothin (KF)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (33.3)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (20)</td></tr><tr><td style='text-align: center;'>Ceftriaxone (CRO)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Gentamicin (CN)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (33.3)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (10)</td></tr><tr><td style='text-align: center;'>Nalidixic acid (NA)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (40)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (20)</td></tr><tr><td style='text-align: center;'>Nitrofurantoin (F)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (33.3)</td><td style='text-align: center;'>2 (40)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>4 (40)</td></tr><tr><td style='text-align: center;'>Sulfamethoxazole-trimethoprim (SXT)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (33.3)</td><td style='text-align: center;'>2 (40)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>4 (40)</td></tr><tr><td style='text-align: center;'>Tetracycline (TE)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>3 (100)</td><td style='text-align: center;'>4 (80)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>9 (90)</td></tr></table>",
+            "block_bbox": [
+                98,
+                515,
+                1097,
+                852
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "nitrofurantoin. Looking at individual antimicrobials, resistance to tetracycline and sulfamethoxazole-trimethoprim was frequently observed, followed by ampicillin, amoxicillin, gentamicin, nalidixic acid, and nitrofurantoin. Two isolates (20%) exhibited resistance to one antimicrobial, while eight (80%) were resistant to two or more tested antimicrobials (Table 4). In general, antimicrobial susceptibility test revealed that ceftriaxone, gentamicin, and nalidixic acid were the antimicrobials indicated as active against Salmonella spp. isolated from this study.",
+            "block_bbox": [
+                94,
+                894,
+                586,
+                1124
+            ],
+            "block_id": 6,
+            "block_order": 1,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 4. Discussion",
+            "block_bbox": [
+                95,
+                1147,
+                239,
+                1172
+            ],
+            "block_id": 7,
+            "block_order": 2,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "In the present study, the prevalence and the antimicrobial resistance patterns of Salmonella spp. isolated from foods of animal origin were evaluated. The study revealed an overall prevalence rate of 5.5% (21 of 384) in the studied food items. Even though there have been some studies on Salmonella isolation in food items in Ethiopia  $ [10, 12, 13] $ , there has been no uniformity with respect to the sample type examined; as a result, the overall prevalence of Salmonella in animal-origin foods may not be comparable. In the combined analysis, the overall prevalence of Salmonella in this study was lower than that reported in Thailand  $ [18] $  but higher than the reports in Morocco  $ [19] $ . The difference might be the sample type and sample procedures and the detection methods employed for different studies. As Padungtod and Kaneene  $ [20] $  described earlier, the rate of prevalence may also vary from experiment to experiment, from country to country, or from one area to another area within a country. There are many potential sources by which foods of animal origin can become contaminated; some are at the food preparation stage and others are in the food preparing environment. Some examples of contamination during food item processing and preparation are storage, washing, and cutting. As a public health view, most foodborne Salmonella infections are associated with foods of animal origin; however, recent investigations have identified fruits and vegetables as the source of contamination for foodborne Salmonella outbreaks  $ [21] $ . Transport vehicles and processing equipment are also other examples of contamination. Unclean environment, unhygienic food handling practices, and water sources in public places are suggestive evidence of Salmonella postpreparation contamination in this study. Water of unknown microbiological quality can also be an important hazard for food items  $ [21] $ .",
+            "block_bbox": [
+                93,
+                1189,
+                586,
+                1489
+            ],
+            "block_id": 8,
+            "block_order": 3,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                610,
+                894,
+                1104,
+                1327
+            ],
+            "block_id": 9,
+            "block_order": 4,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "In the present study, Salmonella contamination in raw meat samples was 12%, which was in close agreement with that of Ejeta et al.  $ [13] $ , who reported 12% from retail raw meat samples in Addis Ababa, Ethiopia. In Ethiopia, approximately 15% of the meat samples were found to be positive at the retail level. But our finding was lower as compared to the studies conducted in Senegal  $ [22] $  and in Iran  $ [23] $ . However, the",
+            "block_bbox": [
+                609,
+                1328,
+                1104,
+                1488
+            ],
+            "block_id": 10,
+            "block_order": 5,
+            "group_id": 10
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8557702898979187,
+                "coordinate": [
+                    98.18230438232422,
+                    87.6229248046875,
+                    114.0378646850586,
+                    105.91265869140625
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9458097219467163,
+                "coordinate": [
+                    845.9259033203125,
+                    84.90863800048828,
+                    1101.2249755859375,
+                    108.56096649169922
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9498929381370544,
+                "coordinate": [
+                    257.30841064453125,
+                    143.85989379882812,
+                    938.8156127929688,
+                    167.86367797851562
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9883257150650024,
+                "coordinate": [
+                    98.13729858398438,
+                    176.68551635742188,
+                    1099.1307373046875,
+                    455.9560852050781
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9501686096191406,
+                "coordinate": [
+                    215.9022216796875,
+                    481.04949951171875,
+                    981.0269775390625,
+                    504.2557373046875
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9883639812469482,
+                "coordinate": [
+                    98.44137573242188,
+                    515.0377197265625,
+                    1097.8616943359375,
+                    852.5006103515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879071116447449,
+                "coordinate": [
+                    94.06719970703125,
+                    894.757568359375,
+                    586.5218505859375,
+                    1124.4210205078125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9371182322502136,
+                "coordinate": [
+                    95.80982971191406,
+                    1147.91015625,
+                    239.20127868652344,
+                    1172.64599609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887679219245911,
+                "coordinate": [
+                    93.870849609375,
+                    1189.72802734375,
+                    586.81396484375,
+                    1489.6416015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889406561851501,
+                "coordinate": [
+                    610.015625,
+                    894.0018310546875,
+                    1104.015869140625,
+                    1327.9803466796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9868894815444946,
+                "coordinate": [
+                    609.8553466796875,
+                    1328.05810546875,
+                    1104.319580078125,
+                    1488.8388671875
+                ]
+            }
+        ]
+    }
+}

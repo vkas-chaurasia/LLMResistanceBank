@@ -1,0 +1,402 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_1.pdf",
+    "page_index": 2,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                55,
+                169,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "ARGs with Staphylococci Chicken Meat",
+            "block_bbox": [
+                857,
+                54,
+                1104,
+                75
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "decades, a continuous loss of susceptibility toward most of the available antibiotics was recorded for CNS with a greater tendency to develop multidrug resistance (Taponen and Pyörälä, 2009) limiting present therapies posing a great threat to the health care system worldwide (Balaban and Rasooly, 2000; Anderson-Berry et al., 2011; deKraker et al., 2011; Jean-Baptiste et al., 2011; Marra et al., 2011). CNS of both animal and human origins are believed to serve as important reservoirs of antimicrobial resistance genes (Becker et al., 2014), which can transfer and integrate into the S. aureus genome leading to the emergence of new, potentially more resistant strains (Otto, 2012; Vitali et al., 2014). The mechanisms responsible for antimicrobial resistance in CNS are identical to those occurring in S. aureus (Livermore, 2000). Reports of methicillin-resistant strains among CNS are challenging due to the large proportion of methicillin-resistant strains and increasing numbers of isolates reinforcing the need to revise their importance to food safety (Bhargava and Zhang, 2014; Chah et al., 2014; Osman et al., 2016a,b). Therefore, screening of these elements is important for public health and despite the importance of such a screen, limited data are available for CNS at the species level among the chicken retail meat.",
+            "block_bbox": [
+                82,
+                122,
+                585,
+                603
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Consequently, our endeavor was to reveal the hypothetical implications that chicken meat may serve as a vector for the conveyance of AMRB and AMRG to humans. Therefore, we pursued in this study to probe the quinolone resistance determining region that has not been formerly analyzed, the mecA and cfr genes of methicillin-susceptible Staphylococcus aureus (MSSA), methicillin-resistant S. aureus (MRSA), methicillin-resistant coagulase-negative staphylococci (MRCNS) and methicillin-susceptible coagulase-negative staphylococci (MSCNS) isolated from the retail trade of ready-to-eat raw chicken meat sold in the retail market.",
+            "block_bbox": [
+                82,
+                603,
+                585,
+                857
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## MATERIALS AND METHODS",
+            "block_bbox": [
+                83,
+                882,
+                417,
+                909
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Sample Collection and Processing",
+            "block_bbox": [
+                83,
+                920,
+                484,
+                946
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Retail chicken (breasts and thighs) products  $ (n = 100) $  were collected from 20 retail supermarkets and groceries in the Great Cairo Area during the year 2013. The purchased products at retail were placed in sterile plastic containment (zip-seal bags) then into ice chests with cold blocks to be immediately sent to the Department of Poultry Diseases, Animal Health Research, Institute, Dokki, laboratory for microbiological analyses. Upon arrival at the laboratory, the samples were transferred aseptically into stomacher bags with sterile tongs and weighed. Samples weighing 205 g were hand agitated with 250 ml of sterile 0.1% peptone broth. A 30 ml aliquot of sample wash was added to 30 ml of Baird Parker broth (2x concentration) with tellurite enrichment in a 250 ml sterile Erlenmeyer flask and incubated at 37°C for 18–24 h. After enrichment, 10  $ \\mu $ l of broth was plated onto each of five antibiotic-supplemented Baird Parker agars with EY tellurite enrichment (BD) formulations and one unsupplemented formulation and incubated 18–24 h for growth. After enrichment, 10  $ \\mu $ l was plated onto Baird Parker agar (BPA) with EY tellurite enrichment and incubated at 35°C 18–24 h for growth. Ten microliter were also plated onto CHROMagar MRSA plates and incubated at 35°C 24–48 h and examined for growth. Presumptive S. aureus (black colonies with clear halos on BPA) and presumptive MRSA (mauve colonies on CHROMagar) were initially screened using conventional methods: Gram staining, coagulase plasma test, hemolysis, catalase production, salt mannitol agar growth, Voges-Proskauer test, the maltose and trehalose fermentation test, susceptibility to polymyxin B test (300 lg, NewProv) and KOH test. Further confirmation was achieved by the API Staph kit. Individual colonies from all positive plates were streaked for isolated colonies twice before being frozen at -80°C in Brucella Broth (BD) containing 20% glycerol (Sigma). On the day of experimentation the isolates were subcultured onto Mueller-Hinton agar, stored at 27°C in tryptic soy broth and fetal calf serum containing 2% yeast extract and revitalized for phenotypic resistance testing and DNA preparation.",
+            "block_bbox": [
+                82,
+                947,
+                585,
+                1432
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                602,
+                122,
+                1107,
+                469
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antibiotic Susceptibility Test",
+            "block_bbox": [
+                603,
+                500,
+                938,
+                526
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antibiotic resistance of the 50 isolated Staphylococcus spp. was examined using 12 commercial antibiotic discs and performed by the standard disc diffusion method (CLSI, 2013). S. aureus ATCC 25923 was plated as a control. After incubation at  $ 37^{\\circ} $ C for 24 h the diameter of inhibition halos around the colonies was measured. The antibiotics used were: penicillin (10  $ \\mu $ g), ampicillin-sulbactam (20  $ \\mu $ g), chloramphenicol (30  $ \\mu $ g), ciprofloxacin (5  $ \\mu $ g), erythromycin (15  $ \\mu $ g), tetracycline (30  $ \\mu $ g), gentamicin (10  $ \\mu $ g), clindamycin (2  $ \\mu $ g), methicillin (5  $ \\mu $ g), oxacillin (1  $ \\mu $ g), vancomycin (30  $ \\mu $ g), and sulfamethoxazole/trimethoprim (25  $ \\mu $ g). In the present investigation, we followed the criteria and standardized international terminology for defining multidrug-resistant (MDR), extensively drug-resistant (XDR) and pandrug-resistant (PDR) in S. aureus that was created through a joint initiative by the European Centre for Disease Prevention and Control (ECDC) and the Centers for Disease Control and Prevention (CDC) (Magiorakos et al., 2012): MDR was defined as acquired non-susceptibility to at least one agent in three or more antimicrobial categories (and one or more of these have to apply: an MRSA is always considered MDR by virtue of being an MRSA or/and non-susceptible to  $ \\geq $ 1 agent in  $ \\geq $ 3 antimicrobial categories), XDR was defined as non-susceptibility to at least one agent in all but two or fewer antimicrobial categories (non-susceptible to  $ \\geq $ 1 agent in all but  $ \\leq $ 2 categories) and PDR was defined as non-susceptibility to all agents in all antimicrobial categories.",
+            "block_bbox": [
+                602,
+                528,
+                1107,
+                1149
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Extraction of Staphylococcal DNA and Amplification of the 16S rRNA Gene, Quinolone Resistance Determining Region, mecA and cfr Genes by PCR",
+            "block_bbox": [
+                602,
+                1180,
+                1103,
+                1290
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Bacterial genomic DNA was made from all 50 isolates from 2 mL of bacterial suspension from an overnight culture in brain-heart infusion using a protocol previously described (Bakshi et al., 2005). The DNA pellets were resuspended in an appropriate volume of TE solution (10 mM Tris-HCl, pH 8.0; 1 mM EDTA). Amplification was performed from the purified genomic DNA.",
+            "block_bbox": [
+                602,
+                1291,
+                1106,
+                1432
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1480,
+                365,
+                1501
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "number",
+            "block_content": "3",
+            "block_bbox": [
+                587,
+                1481,
+                602,
+                1499
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "footer",
+            "block_content": "November 2016 | Volume 7 | Article 1846",
+            "block_bbox": [
+                850,
+                1480,
+                1104,
+                1500
+            ],
+            "block_id": 14,
+            "block_order": null,
+            "group_id": 14
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9182810187339783,
+                "coordinate": [
+                    85.48277282714844,
+                    55.65663146972656,
+                    169.04251098632812,
+                    74.61235046386719
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9401312470436096,
+                "coordinate": [
+                    857.7027587890625,
+                    54.931068420410156,
+                    1104.5242919921875,
+                    75.2281723022461
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988433301448822,
+                "coordinate": [
+                    82.14485168457031,
+                    122.24847412109375,
+                    585.5956420898438,
+                    603.8941040039062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885744452476501,
+                "coordinate": [
+                    82.478271484375,
+                    603.7232666015625,
+                    585.034912109375,
+                    857.3851318359375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9464645385742188,
+                "coordinate": [
+                    83.86369323730469,
+                    882.171630859375,
+                    417.01702880859375,
+                    909.208984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9471803307533264,
+                "coordinate": [
+                    83.4244384765625,
+                    920.425048828125,
+                    484.9068603515625,
+                    946.745849609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887381792068481,
+                "coordinate": [
+                    82.17774963378906,
+                    947.4692993164062,
+                    585.811279296875,
+                    1432.14990234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.413078248500824,
+                "coordinate": [
+                    106.54313659667969,
+                    1246.0701904296875,
+                    148.9859161376953,
+                    1267.3717041015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988146960735321,
+                "coordinate": [
+                    602.27734375,
+                    122.10922241210938,
+                    1107.23291015625,
+                    469.3279113769531
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.944782018661499,
+                "coordinate": [
+                    603.762451171875,
+                    500.2294921875,
+                    938.388916015625,
+                    526.7830810546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886844754219055,
+                "coordinate": [
+                    602.2838134765625,
+                    528.2452392578125,
+                    1107.77392578125,
+                    1149.2418212890625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.970179557800293,
+                "coordinate": [
+                    602.68017578125,
+                    1180.038330078125,
+                    1103.3363037109375,
+                    1290.897216796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845861196517944,
+                "coordinate": [
+                    602.539794921875,
+                    1291.4508056640625,
+                    1106.846435546875,
+                    1432.7435302734375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9274232387542725,
+                "coordinate": [
+                    85.10942077636719,
+                    1480.9102783203125,
+                    365.1185302734375,
+                    1501.3585205078125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8410808444023132,
+                "coordinate": [
+                    587.5745849609375,
+                    1481.9638671875,
+                    602.3983154296875,
+                    1499.3359375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.929215669631958,
+                "coordinate": [
+                    850.6810302734375,
+                    1480.540283203125,
+                    1104.0377197265625,
+                    1500.884521484375
+                ]
+            }
+        ]
+    }
+}

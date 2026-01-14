@@ -1,0 +1,343 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Nguyen2016.pdf",
+    "page_index": 4,
+    "page_count": 9,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Nguyen et al. Gut Pathog (2016) 8:39",
+            "block_bbox": [
+                108,
+                62,
+                356,
+                85
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 5 of 9",
+            "block_bbox": [
+                1000,
+                63,
+                1081,
+                86
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 2 Results of cultivation and multiplex PCR identification of Campylobacter isolates</div>\n",
+            "block_bbox": [
+                106,
+                172,
+                582,
+                219
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Cultivation</td><td colspan=\"4\">mPCR identification of Campylobacter</td><td rowspan=\"2\">Total n (%)</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>C. jejuni</td><td style='text-align: center;'>C. coli</td><td style='text-align: center;'>Not identified</td><td style='text-align: center;'>C. coli/C. jejuni</td></tr><tr><td style='text-align: center;'>Positive (n)</td><td style='text-align: center;'>31</td><td style='text-align: center;'>4</td><td style='text-align: center;'>5</td><td style='text-align: center;'>0</td><td style='text-align: center;'>40 (69.0)</td></tr><tr><td style='text-align: center;'>Negative (n)</td><td style='text-align: center;'>3</td><td style='text-align: center;'>14</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>18 (31.0)</td></tr></table>",
+            "block_bbox": [
+                108,
+                223,
+                582,
+                365
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "(MAMA–PCR) was used to characterize a gyrA gene mutation associated with ciprofloxacin resistance as well as mutations in 23S rRNA genes as cause of erythromycin resistance. The molecular biological detection of resistance to ciprofloxacin in both C. coli and C. jejuni was also confirmed by change of amino acid 86 from threonine to isoleucine in the gyrA gene. Additional to the ciprofloxacin resistant Campylobacter isolates (Tables 3, 4), three Campylobacter DNAs were detected harbouring the gyrA gene mutation. The results were confirmed by PCR–RFLP according to Vacher et al. [24]. Mutations at positions 2074 and 2075 of the 23S rRNA genes in 13 phenotypically erythromycin-resistant isolates could neither be detected by using PCR–RFLP nor MAMA–PCR.",
+            "block_bbox": [
+                105,
+                413,
+                586,
+                608
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                173,
+                1082,
+                317
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "The  $ tet(O) $  gene which is mainly responsible for tetracycline-resistance was detected by PCR in 12 out of 22 resistant C. jejuni isolates (54.5 %) and in all tetracycline resistant C. coli isolates.  $ tet(O) $  gene was not detected in DNA extracted from the non-growing samples. Additionally, a newly developed PCR assay was used for the detection of the  $ tet(A) $  gene.  $ tet(A) $  was detected in 28 out of 31 C. jejuni (90.3 %) and in all 4 C. coli isolates. In 3 out of 14 non-growing samples which harboured C. coli DNA,  $ tet(A) $  gene could be found as well as in the one sample where both C. jejuni and C. coli were detected.",
+            "block_bbox": [
+                601,
+                317,
+                1084,
+                606
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 3 Results of MIC determination and resistance rates of Kenyan Campylobacter jejuni isolates</div>\n",
+            "block_bbox": [
+                107,
+                649,
+                897,
+                672
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Class</td><td rowspan=\"2\">Antibiotic ( $ \\mu $ g/ml)</td><td colspan=\"12\">Antibiotic susceptibility of Campylobacter jejuni (n=31)</td><td rowspan=\"9\">R $ ^{*} $  (%)</td></tr><tr><td style='text-align: center;'>0.06</td><td style='text-align: center;'>0.12</td><td style='text-align: center;'>0.25</td><td style='text-align: center;'>0.5</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>4</td><td style='text-align: center;'>8</td><td style='text-align: center;'>16</td><td style='text-align: center;'>32</td><td style='text-align: center;'>64</td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">Macrolides</td><td style='text-align: center;'>Chloramphenicol</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>9</td><td style='text-align: center;'>3</td><td style='text-align: center;'>6</td><td style='text-align: center;'>5</td><td style='text-align: center;'>8</td><td style='text-align: center;'></td><td style='text-align: center;'>25.8</td></tr><tr><td style='text-align: center;'>Erythromycin</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>14</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>12</td><td style='text-align: center;'></td><td style='text-align: center;'>51.6</td></tr><tr><td style='text-align: center;'>Fluoroquinolones</td><td style='text-align: center;'>Ciprofloxacin</td><td style='text-align: center;'>5</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'></td><td style='text-align: center;'>2</td><td style='text-align: center;'>1</td><td style='text-align: center;'>19</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>71.0</td></tr><tr><td style='text-align: center;'>Quinolones</td><td style='text-align: center;'>Nalidixic acid</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>4</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>22</td><td style='text-align: center;'>77.4</td></tr><tr><td rowspan=\"2\">Aminoglycosides</td><td style='text-align: center;'>Gentamicin</td><td style='text-align: center;'></td><td style='text-align: center;'>2</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td><td style='text-align: center;'>11</td><td style='text-align: center;'>5</td><td style='text-align: center;'>2</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>25.8</td></tr><tr><td style='text-align: center;'>Streptomycin</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>12</td><td style='text-align: center;'>2</td><td style='text-align: center;'>4</td><td style='text-align: center;'>1</td><td style='text-align: center;'>12</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>41.9</td></tr><tr><td style='text-align: center;'>Tetracyclines</td><td style='text-align: center;'>Tetracycline</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>6</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'></td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>20</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>71.0</td></tr></table>",
+            "block_bbox": [
+                111,
+                674,
+                962,
+                980
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "Boldface in italic type indicates the number of resistant isolates. A thick black line indicates the break point between clinically sensitive and resistant strains  $ R^{*} $  resistance rate",
+            "block_bbox": [
+                107,
+                988,
+                1014,
+                1030
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 4 Results of MIC determination and resistance rates of Kenyan Campylobacter coli isolates</div>\n",
+            "block_bbox": [
+                107,
+                1073,
+                880,
+                1096
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Class</td><td rowspan=\"2\">Antibiotic ( $ \\mu $ g/ml)</td><td colspan=\"12\">Antibiotic susceptibility of Campylobacter coli (n=4)</td><td rowspan=\"4\">R $ ^{*} $  (%)</td></tr><tr><td style='text-align: center;'>0.06</td><td style='text-align: center;'>0.12</td><td style='text-align: center;'>0.25</td><td style='text-align: center;'>0.5</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>4</td><td style='text-align: center;'>8</td><td style='text-align: center;'>16</td><td style='text-align: center;'>32</td><td style='text-align: center;'>64</td><td style='text-align: center;'></td></tr><tr><td rowspan=\"2\">Macrolides</td><td style='text-align: center;'>Chloramphenicol</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>2</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>2</td><td style='text-align: center;'></td><td style='text-align: center;'>50.0</td></tr><tr><td style='text-align: center;'>Erythromycin</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>4</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Fluoroquinolones</td><td style='text-align: center;'>Ciprofloxacin</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>3</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>75.0</td></tr><tr><td style='text-align: center;'>Quinolones</td><td style='text-align: center;'>Nalidixic acid</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>3</td><td style='text-align: center;'>75.0</td></tr><tr><td rowspan=\"2\">Aminoglycosides</td><td style='text-align: center;'>Gentamicin</td><td style='text-align: center;'></td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>25.0</td></tr><tr><td style='text-align: center;'>Streptomycin</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>2</td><td style='text-align: center;'></td><td style='text-align: center;'>2</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Tetracyclines</td><td style='text-align: center;'>Tetracycline</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'>25.0</td></tr></table>",
+            "block_bbox": [
+                112,
+                1098,
+                961,
+                1400
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "Boldface in italic type indicates the number of resistant isolates. A thick black line indicates the break point between clinically sensitive and resistant strains  $ R^{*} $  resistance rate",
+            "block_bbox": [
+                107,
+                1407,
+                1014,
+                1450
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9476225972175598,
+                "coordinate": [
+                    108.64400482177734,
+                    62.45481872558594,
+                    356.1121520996094,
+                    85.52447509765625
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9064169526100159,
+                "coordinate": [
+                    1000.6643676757812,
+                    63.73435974121094,
+                    1081.494873046875,
+                    86.21923828125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9677656292915344,
+                "coordinate": [
+                    106.83856201171875,
+                    172.6314697265625,
+                    582.412109375,
+                    219.92572021484375
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9795684814453125,
+                "coordinate": [
+                    108.01812744140625,
+                    223.96597290039062,
+                    582.4392700195312,
+                    365.3825988769531
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986962080001831,
+                "coordinate": [
+                    105.87001037597656,
+                    413.51971435546875,
+                    586.7691650390625,
+                    608.2611694335938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876930117607117,
+                "coordinate": [
+                    601.587890625,
+                    173.33502197265625,
+                    1082.74853515625,
+                    317.7763977050781
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872166514396667,
+                "coordinate": [
+                    601.586181640625,
+                    317.76495361328125,
+                    1084.1781005859375,
+                    606.5823364257812
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9519761204719543,
+                "coordinate": [
+                    107.517333984375,
+                    649.30322265625,
+                    897.438232421875,
+                    672.362548828125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885785579681396,
+                "coordinate": [
+                    111.69979858398438,
+                    674.4818115234375,
+                    962.5391845703125,
+                    980.4471435546875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.671580970287323,
+                "coordinate": [
+                    107.50955200195312,
+                    988.0283203125,
+                    1014.782470703125,
+                    1030.36328125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9483693838119507,
+                "coordinate": [
+                    107.9766845703125,
+                    1073.2440185546875,
+                    880.4373779296875,
+                    1096.8748779296875
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9884859323501587,
+                "coordinate": [
+                    112.1904296875,
+                    1098.449462890625,
+                    961.72412109375,
+                    1400.430419921875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8563596606254578,
+                "coordinate": [
+                    107.69619750976562,
+                    1407.981689453125,
+                    1014.7315673828125,
+                    1450.959716796875
+                ]
+            }
+        ]
+    }
+}

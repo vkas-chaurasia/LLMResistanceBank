@@ -1,0 +1,223 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Gharieb2015.pdf",
+    "page_index": 4,
+    "page_count": 11,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Gharieb et al. Gut Pathog (2015) 7:34",
+            "block_bbox": [
+                109,
+                65,
+                356,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 5 of 11",
+            "block_bbox": [
+                991,
+                66,
+                1079,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_214_190_974_539.jpg\" alt=\"Image\" width=\"63%\" /></div>\n",
+            "block_bbox": [
+                214,
+                190,
+                974,
+                539
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Fig. 1 Agarose gel electrophoresis showing an amplification of pefA gene (700 bp) in Salmonella isolates from poultry meat and humans. Lane N: negative control (pefA $ ^{-} $  Salmonella strain), lane L: DNA ladder (100 bp), lane P: positive control (pefA $ ^{+} $  Salmonella strain), lane 1: pefA $ ^{-} $  (S. Derby, duck), lane 2: pefA $ ^{-} $  (S. Kiel, chicken), lane 3: pefA $ ^{+} $  (untypable, duck), lane 4: pefA $ ^{+} $  (S. Rubislaw, chicken), lanes 5, 6, 10, 11: pefA $ ^{-} $  (S. Typhimurium, chicken), lane 7: pefA $ ^{-} $  (untypable, duck), lanes 8, 9: pefA $ ^{-} $  (S. Typhimurium, humans), lane 12: pefA $ ^{+} $  (S. Typhimurium, chicken)</div>\n",
+            "block_bbox": [
+                117,
+                544,
+                1039,
+                628
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_214_690_974_1041.jpg\" alt=\"Image\" width=\"63%\" /></div>\n",
+            "block_bbox": [
+                214,
+                690,
+                974,
+                1041
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Fig. 2 Agarose gel electrophoresis showing an amplification of hilA gene (854 bp) in Salmonella isolates from poultry meat and humans. Lane N: negative control (hilA $ ^{-} $  Salmonella strain), lane L: DNA ladder (100 bp), lane P: Positive control (hilA $ ^{+} $  Salmonella strain), lane 1: hilA $ ^{-} $  (S. Derby, duck), lane 2: hilA $ ^{+} $  (S. Kiel, chicken), lane 3,7: hilA $ ^{-} $  (untypable, duck), lane 4: hilA $ ^{-} $  (S. Rubislaw, chicken), lanes 5, 6, 10, 11,12: hilA $ ^{-} $  (S. Typhimurium, chicken), lanes 8,9: hilA $ ^{-} $  (S. Typhimurium, humans)</div>\n",
+            "block_bbox": [
+                117,
+                1047,
+                1059,
+                1130
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "of the variable amplicons of class I integrons denoted by asterisks (Fig. 5) revealed the presence of gene cassettes containing aminoglycoside acetyltransferase [aac(3)-Id or aacCA5] gene which confers resistance against gentamycin, aminoglycoside adenyltransferase (aadA2, aadA4, aadA7) genes that confer resistance to streptomycin and spectinomycin, streptothricin acetyltransferase (sat) encoding resistance against streptothricin, dihydrofolate reductase type 15 (dfrA15) that confers resistance to trimethoprim, lnuF gene that codes for lincosamides resistance (lincomycin and clindamycin) and putative esterase (estX). Interestingly, the aac (3)-Id plus aadA7 were the most predominant resistance genes identified in class I integron gene cassettes of 1600 bp (S. Derby, duck), 1500 bp (untypable strain, duck) and 1550 bp (S. Typhimurium, chicken). The same cassettes harboring aac (3)-Id and aadA7 genes were previously identified in class I integron of S. Haifa (GenBank accession no. AY563051) [21], S. Newport (AY458224) [22] and S. Kentucky (AY463797) [23]. Despite the presence of these genes, some strains such as S. Derby was susceptible to gentamycin and S. Typhimurium strains (chicken) were",
+            "block_bbox": [
+                105,
+                1176,
+                586,
+                1443
+            ],
+            "block_id": 6,
+            "block_order": 1,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                1176,
+                1083,
+                1443
+            ],
+            "block_id": 7,
+            "block_order": 2,
+            "group_id": 6
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9390162825584412,
+                "coordinate": [
+                    109.16370391845703,
+                    65.36288452148438,
+                    356.6246337890625,
+                    87.34725952148438
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9004475474357605,
+                "coordinate": [
+                    991.993408203125,
+                    66.74740600585938,
+                    1079.802490234375,
+                    88.96124267578125
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9856944680213928,
+                "coordinate": [
+                    214.53384399414062,
+                    190.36219787597656,
+                    974.3326416015625,
+                    539.2158203125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9735292196273804,
+                "coordinate": [
+                    117.82223510742188,
+                    544.55419921875,
+                    1039.888671875,
+                    628.701171875
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9841088652610779,
+                "coordinate": [
+                    214.78897094726562,
+                    690.7315673828125,
+                    974.9293212890625,
+                    1041.3321533203125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9729587435722351,
+                "coordinate": [
+                    117.93405151367188,
+                    1047.41259765625,
+                    1059.01953125,
+                    1130.46923828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879617094993591,
+                "coordinate": [
+                    105.96530151367188,
+                    1176.3157958984375,
+                    586.2872314453125,
+                    1443.5015869140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878572225570679,
+                "coordinate": [
+                    601.9586181640625,
+                    1176.496337890625,
+                    1083.0897216796875,
+                    1443.801513671875
+                ]
+            }
+        ]
+    }
+}

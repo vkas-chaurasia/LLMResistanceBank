@@ -1,0 +1,845 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Samaxa2011.pdf",
+    "page_index": 5,
+    "page_count": 6,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "642",
+            "block_bbox": [
+                108,
+                43,
+                143,
+                61
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "SAMAXA ET AL.",
+            "block_bbox": [
+                210,
+                45,
+                337,
+                63
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "J. Food Prot., Vol. 75, No. 4",
+            "block_bbox": [
+                912,
+                45,
+                1106,
+                63
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "of isolates) (12). This trend was also noted by Mrema et al. (17), who found that 9.7% of sausage isolates were resistant to tetracycline. However, 100% resistance was found for sulfafurazole. Tetracycline and sulfafurazole were not included in the panel of antibiotics in the present study, so resistance to these two antibiotics could not be tracked. However, all isolates were sensitive to tigecycline, a new-generation derivative of tetracycline, and to the trimethoprim-sulfamethoxazole combination. Sulfamethoxazole is a sulfonamide antibiotic similar to sulfafurazole, both of which have a broader spectrum of activity than the generic formulations. These data indicate a shift in resistant patterns; Salmonella isolates found in the present study were predominantly resistant to aminoglycoside antibiotics. Nevertheless, all isolates from this study were susceptible to carbapenems.",
+            "block_bbox": [
+                104,
+                106,
+                593,
+                487
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Because Salmonella Muenchen can cause transient infections (3) and Salmonella Typhimurium is an established pathogen, the presence of multidrug resistance in these pathogens presents a health care challenge. Salmonella Enteritidis, which also was isolated, was resistant to a seven antimicrobial drugs tested. Although antibiotics are not routinely given to individuals with Salmonella infections, antibiotics are prescribed to immunocompromised patients and patients with systemic infections. The results of the present study indicate that consumers of meat sausages are at risk for being infected by multidrug-resistant Salmonella strains. The information on the prevalence and the correlation between the serotype and antimicrobial resistance can be useful for identifying trends and assessing the effectiveness of current initiatives within the food industry to improve food hygiene strategies aimed at reducing bacterial loads in primary production and at the various stages of the food production chain.",
+            "block_bbox": [
+                104,
+                489,
+                593,
+                919
+            ],
+            "block_id": 4,
+            "block_order": 2,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## ACKNOWLEDGMENT",
+            "block_bbox": [
+                242,
+                937,
+                457,
+                959
+            ],
+            "block_id": 5,
+            "block_order": 3,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "We thank the University of Botswana Office of Research and Development for financial support.",
+            "block_bbox": [
+                106,
+                970,
+                592,
+                1012
+            ],
+            "block_id": 6,
+            "block_order": 4,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## REFERENCES",
+            "block_bbox": [
+                280,
+                1031,
+                419,
+                1053
+            ],
+            "block_id": 7,
+            "block_order": 5,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "1. Aarestrup, F. M., and H. C. Wegener. 1999. The effects of antibiotic usage in food animals on the development of antimicrobial resistance of importance for humans in Campylobacter and Escherichia coli. Microbes Infect. 1:639–644.",
+            "block_bbox": [
+                118,
+                1065,
+                591,
+                1143
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "2. Allmann, M., C. Hofelein, E. Koppel, J. Luthy, R. Meyer, C. Niederhauser, B. Wegmuller, and U. Candrian. 1995. Polymerase chain reaction (PCR) for detection of pathogenic microorganisms in bacteriological monitoring of dairy products. Res. Microbiol. 146:85–97.",
+            "block_bbox": [
+                118,
+                1145,
+                590,
+                1240
+            ],
+            "block_id": 9,
+            "block_order": 7,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "3. Anonymous. 2008. Aminoglycosides versus bacteria—a description of the action, resistance mechanism, and nosocomial battleground. J. Biomed. Sci. 15(1):5–14.",
+            "block_bbox": [
+                118,
+                1244,
+                590,
+                1301
+            ],
+            "block_id": 10,
+            "block_order": 8,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "4. Bansal, N. S., V. Gray, and F. McDonnell. 2006. Validated PCR assay for the routine detection of Salmonella in food. J. Food Prot. 69:282–287.",
+            "block_bbox": [
+                118,
+                1304,
+                590,
+                1360
+            ],
+            "block_id": 11,
+            "block_order": 9,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "5. Boase, J., S. Lipsky, P. Simani, S. Smith, C. Skilton, and S. Greenman. 1999. Outbreak of Salmonella serotype Muenchen infections associated with unpasteurized orange juice—United States and Canada. Morb. Mortal. Wkly. Rep. 48:582–585.",
+            "block_bbox": [
+                118,
+                1364,
+                591,
+                1441
+            ],
+            "block_id": 12,
+            "block_order": 10,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "6. Buxton, J., M. Fyfe, A. King, A. Paccagnella, K. Campbell, and A. Ellis. 1999. Outbreak of Salmonella serotype Muenchen infection in the United States and Canada associated with unpasteurized orange",
+            "block_bbox": [
+                118,
+                1444,
+                591,
+                1502
+            ],
+            "block_id": 13,
+            "block_order": 11,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "juice—the British Columbia experience. Can. Commun. Dis. Rep. 25:161–164.",
+            "block_bbox": [
+                659,
+                105,
+                1105,
+                143
+            ],
+            "block_id": 14,
+            "block_order": 12,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "7. Centers for Disease Control and Prevention. 2010. Surveillance for foodborne disease outbreaks—United States, 2007. Morb. Mortal. Wkly. Rep. 59:873–979.",
+            "block_bbox": [
+                632,
+                147,
+                1104,
+                203
+            ],
+            "block_id": 15,
+            "block_order": 13,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "8. Doi, Y., and Y. Arakawa. 2007. 16S ribosomal RNA methylation: emerging resistance mechanisms against aminoglycosides. Clin. Infect. Dis. 45:88–94.",
+            "block_bbox": [
+                632,
+                207,
+                1104,
+                264
+            ],
+            "block_id": 16,
+            "block_order": 14,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "9. European Commission. 1999. Opinion of the Scientific Steering Committee on Antimicrobial Resistance. Directorate-General XXIV, Consumer Policy and Consumer Health Protection Directorate B, Scientific Health Opinions Unit B3, Management of Scientific Committees II, p. 7–8, 34. European Commission, Brussels.",
+            "block_bbox": [
+                631,
+                268,
+                1105,
+                366
+            ],
+            "block_id": 17,
+            "block_order": 15,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "10. Food and Agriculture Organization. 1992. Manual of food quality control. 14/4 Rev. Microbiological analysis. Food and Agriculture Organization, Rome.",
+            "block_bbox": [
+                626,
+                369,
+                1105,
+                427
+            ],
+            "block_id": 18,
+            "block_order": 16,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "11. Food and Agriculture Organization and World Health Organization. 2000. Activities on risk assessment of microbiological hazards in food risk assessment: Salmonella spp. in broiler and eggs. Hazard identification and hazard characterization of Salmonella in broilers and eggs. Food and Agriculture Organization and World Health Organization, Rome.",
+            "block_bbox": [
+                625,
+                430,
+                1105,
+                547
+            ],
+            "block_id": 19,
+            "block_order": 17,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "12. Gashe, B. A., and S. Mpuchane. 2000. Prevalence of salmonellae on beef products at butcheries and their antibiotics resistance profile. J. Food Sci. 65:880–883.",
+            "block_bbox": [
+                626,
+                551,
+                1105,
+                608
+            ],
+            "block_id": 20,
+            "block_order": 18,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "13. Grimont, P. A. D., and F.-X. Weill. 2007. Antigenic formulae of the Salmonella serovars, 9th ed. WHO Collaborating Center for Reference and Research on Salmonella, Institut Pasteur, Paris. Available at: http://www.pasteur.fr/ip/portal/action/WebdriveActionEvent/oid/01s-000036-089. Accessed 11 January 2011.",
+            "block_bbox": [
+                626,
+                612,
+                1106,
+                709
+            ],
+            "block_id": 21,
+            "block_order": 19,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "14. Jones, T. F., L. A. Ingram, P. R. Cieslak, D. J. Vugia, M. Tobin-D'Angelo, S. Hurd, C. Medus, A. Cronquist, and F. J. Angulo. 2008. Salmonellosis outcomes differ substantially by serotype. J. Infect. Dis. 189:109–115.",
+            "block_bbox": [
+                626,
+                713,
+                1106,
+                791
+            ],
+            "block_id": 22,
+            "block_order": 20,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "15. Malorny, B., P. T. Tassios, P. Radstrom, N. Cook, M. Wagner, and J. Hoorfar. 2003. Standardization of diagnostic PCR for the detection of food-borne pathogens. Int. J. Food Microbiol. 83:39–48.",
+            "block_bbox": [
+                626,
+                794,
+                1106,
+                852
+            ],
+            "block_id": 23,
+            "block_order": 21,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "16. Motsoela, C., E. K. Collison, and B. A. Gashe. 2002. Prevalence of Salmonella in two Botswana abattoir environments. J. Food Prot. 65:1869–1872.",
+            "block_bbox": [
+                626,
+                855,
+                1106,
+                912
+            ],
+            "block_id": 24,
+            "block_order": 22,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "17. Mrema, N., S. Mpuchane, and B. A. Gashe. 2006. Prevalence of Salmonella in raw minced meat, raw fresh sausages and raw burger patties from retail outlets in Gaborone, Botswana. Food Control 17:207–212.",
+            "block_bbox": [
+                626,
+                916,
+                1106,
+                993
+            ],
+            "block_id": 25,
+            "block_order": 23,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "18. National AIDS Coordinating Agency. 2010. Botswana 2010 country progress report. National AIDS Coordinating Agency, Gaborone, Botswana.",
+            "block_bbox": [
+                626,
+                997,
+                1105,
+                1054
+            ],
+            "block_id": 26,
+            "block_order": 24,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "19. Odumeru, J. A., and J. Belvedere. 2002. Evaluation of the MicroFoss system for enumeration of total viable count, Escherichia coli and coliforms in ground beef. J. Microbiol. Methods 50:33–38.",
+            "block_bbox": [
+                625,
+                1058,
+                1105,
+                1116
+            ],
+            "block_id": 27,
+            "block_order": 25,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "20. Piknova, L., A. O. Stefanovic, H. Drahovska, M. Sasik, and T. Kuchta. 2002. Detection of Salmonella in food, equivalent to ISO 6579, by a three-day polymerase chain reaction-based method. Food Control 13:191–194.",
+            "block_bbox": [
+                625,
+                1119,
+                1106,
+                1196
+            ],
+            "block_id": 28,
+            "block_order": 26,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "21. Poppe, C. 2000. Salmonella infections in the domestic fowl, p. 107–132. In C. Wray and A. Wray (ed.), Salmonella in domestic animals. CAB International, New York.",
+            "block_bbox": [
+                625,
+                1200,
+                1106,
+                1258
+            ],
+            "block_id": 29,
+            "block_order": 27,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "22. Proctor, M. E., M. Hamacher, M. L. Tortorello, J. R. Archer, and J. P. Davis. 2001. Multistate outbreak of Salmonella serovar Muenchen infections associated with alfalfa sprouts grown from seeds treated with calcium hypochlorite. J. Clin. Microbiol. 39:3461–3465.",
+            "block_bbox": [
+                625,
+                1261,
+                1105,
+                1339
+            ],
+            "block_id": 30,
+            "block_order": 28,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "23. Rodriguez-Lazaro, D., M. Hernández, M. D'Agostino, and N. Cook. 2006. Application of nucleic acid sequence based amplification (NASBA) for the detection of viable food-borne pathogens: progress and challenges. J. Rapid Methods Autom. Microbiol. 14:218–236.",
+            "block_bbox": [
+                625,
+                1342,
+                1105,
+                1420
+            ],
+            "block_id": 31,
+            "block_order": 29,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "24. Rowe, J. S., S. S. Shah, S. Motlhagodi, M. Bafana, and E. Tawanana. 2010. An epidemiologic review of enteropathogens in Gaborone, Botswana: shifting patterns of resistance in an HIV endemic region. PLoS ONE 5(6):e10924.",
+            "block_bbox": [
+                625,
+                1423,
+                1105,
+                1500
+            ],
+            "block_id": 32,
+            "block_order": 30,
+            "group_id": 32
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8860451579093933,
+                "coordinate": [
+                    108.22673034667969,
+                    43.2747802734375,
+                    143.3911895751953,
+                    61.91888427734375
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9288451075553894,
+                "coordinate": [
+                    210.0938720703125,
+                    45.179664611816406,
+                    337.67431640625,
+                    63.110267639160156
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9431819319725037,
+                "coordinate": [
+                    912.3262939453125,
+                    45.47425079345703,
+                    1106.7213134765625,
+                    63.76886749267578
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884627461433411,
+                "coordinate": [
+                    104.549560546875,
+                    106.76481628417969,
+                    593.7011108398438,
+                    487.6422119140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881712198257446,
+                "coordinate": [
+                    104.44778442382812,
+                    489.12255859375,
+                    593.95751953125,
+                    919.6683349609375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9412493109703064,
+                "coordinate": [
+                    242.38070678710938,
+                    937.9277954101562,
+                    457.4971008300781,
+                    959.4966430664062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.960754930973053,
+                "coordinate": [
+                    106.33538818359375,
+                    970.4935302734375,
+                    592.5807495117188,
+                    1012.0455322265625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9269236326217651,
+                "coordinate": [
+                    280.44769287109375,
+                    1031.0361328125,
+                    419.65118408203125,
+                    1053.149658203125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9773944616317749,
+                "coordinate": [
+                    118.9046630859375,
+                    1065.8017578125,
+                    591.1362915039062,
+                    1143.1943359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9794830083847046,
+                "coordinate": [
+                    118.322021484375,
+                    1145.5906982421875,
+                    590.9221801757812,
+                    1240.9793701171875
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9907709360122681,
+                "coordinate": [
+                    116.42842102050781,
+                    1063.96337890625,
+                    592.8958740234375,
+                    1502.8974609375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9755396842956543,
+                "coordinate": [
+                    118.82008361816406,
+                    1244.9609375,
+                    590.5127563476562,
+                    1301.6416015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9761731028556824,
+                "coordinate": [
+                    118.92701721191406,
+                    1304.6507568359375,
+                    590.0748291015625,
+                    1360.9151611328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9796754121780396,
+                "coordinate": [
+                    118.51127624511719,
+                    1364.673828125,
+                    591.4331665039062,
+                    1441.796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9750055074691772,
+                "coordinate": [
+                    118.38856506347656,
+                    1444.546142578125,
+                    591.6159057617188,
+                    1502.145263671875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9663226008415222,
+                "coordinate": [
+                    659.294677734375,
+                    105.66973876953125,
+                    1105.0828857421875,
+                    143.640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9739317893981934,
+                "coordinate": [
+                    632.7655029296875,
+                    147.07666015625,
+                    1104.9739990234375,
+                    203.96890258789062
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9761966466903687,
+                "coordinate": [
+                    632.1876220703125,
+                    207.81558227539062,
+                    1104.987060546875,
+                    264.85443115234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9808447360992432,
+                "coordinate": [
+                    631.4632568359375,
+                    268.42364501953125,
+                    1105.6790771484375,
+                    366.30841064453125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9769450426101685,
+                "coordinate": [
+                    626.26318359375,
+                    369.5832824707031,
+                    1105.626220703125,
+                    427.6828918457031
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9811733365058899,
+                "coordinate": [
+                    625.8255615234375,
+                    430.53533935546875,
+                    1105.9581298828125,
+                    547.8466186523438
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.975874125957489,
+                "coordinate": [
+                    626.51318359375,
+                    551.4598388671875,
+                    1105.774169921875,
+                    608.5755615234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981293261051178,
+                "coordinate": [
+                    626.4566650390625,
+                    612.247314453125,
+                    1106.599609375,
+                    709.828125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9794583320617676,
+                "coordinate": [
+                    626.17236328125,
+                    713.4139404296875,
+                    1106.2357177734375,
+                    791.6348876953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9775174260139465,
+                "coordinate": [
+                    626.234375,
+                    794.5728759765625,
+                    1106.0908203125,
+                    852.9996337890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9766408801078796,
+                "coordinate": [
+                    626.5145263671875,
+                    855.7681884765625,
+                    1106.3914794921875,
+                    912.7999267578125
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9909511804580688,
+                "coordinate": [
+                    624.4931640625,
+                    105.18804931640625,
+                    1108.4365234375,
+                    1499.958740234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9797648787498474,
+                "coordinate": [
+                    626.19384765625,
+                    916.4526977539062,
+                    1106.757568359375,
+                    993.8899536132812
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9764344692230225,
+                "coordinate": [
+                    626.58740234375,
+                    997.4429931640625,
+                    1105.8306884765625,
+                    1054.8560791015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9771130084991455,
+                "coordinate": [
+                    625.94140625,
+                    1058.6651611328125,
+                    1105.906982421875,
+                    1116.2430419921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9797611236572266,
+                "coordinate": [
+                    625.272216796875,
+                    1119.4395751953125,
+                    1106.1749267578125,
+                    1196.4859619140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9769037365913391,
+                "coordinate": [
+                    625.03515625,
+                    1200.4874267578125,
+                    1106.15673828125,
+                    1258.5472412109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.978925883769989,
+                "coordinate": [
+                    625.4124755859375,
+                    1261.709716796875,
+                    1105.6148681640625,
+                    1339.663818359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9790580868721008,
+                "coordinate": [
+                    625.283203125,
+                    1342.78759765625,
+                    1105.34375,
+                    1420.92626953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9781697988510132,
+                "coordinate": [
+                    625.1500244140625,
+                    1423.972412109375,
+                    1105.7913818359375,
+                    1500.538818359375
+                ]
+            }
+        ]
+    }
+}

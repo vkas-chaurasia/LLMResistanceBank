@@ -1,0 +1,1 @@
+AF071555.1 S.Typhimurium DT10

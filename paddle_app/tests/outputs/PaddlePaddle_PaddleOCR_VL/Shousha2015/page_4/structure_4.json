@@ -1,0 +1,461 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Shousha2015.pdf",
+    "page_index": 3,
+    "page_count": 7,
+    "width": 1170,
+    "height": 1566,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Phage Transfer of Antibiotic Resistance in Chicken Meat",
+            "block_bbox": [
+                749,
+                64,
+                1092,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_75_130_572_354.jpg\" alt=\"Image\" width=\"42%\" /></div>\n",
+            "block_bbox": [
+                75,
+                130,
+                572,
+                354
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">FIG 1 Proportion of resistance-transducing phages among all isolated phages. Kanamycin resistance-transducing phages were detected the most often  $ (n=43 $  of 243 phages detected), followed by chloramphenicol  $ (n=8) $  and tetracycline  $ (n=4) $  resistance-transducing phages. Three phages were found to transduce kanamycin plus ampicillin resistance, and two phages transduced kanamycin plus chloramphenicol resistance.  $ \\phi Cm^{r} $ ,  $ \\phi Km^{r} $ ,  $ \\phi Tet^{r} $ ,  $ \\phi Km^{r} $  Amp $ ^{r} $ , and  $ \\phi Km^{r} $  Cm $ ^{r} $ , chloramphenicol, kanamycin, tetracycline, kanamycin and ampicillin, and kanamycin and chloramphenicol resistance-transducing phages, respectively.</div>\n",
+            "block_bbox": [
+                74,
+                363,
+                576,
+                530
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "resistance only were isolated from seven chicken meat samples. Phages transducing kanamycin and chloramphenicol resistance were found in six samples. Phages from three samples could transduce either kanamycin or ampicillin resistance. Chloramphenicol resistance-transducing phages were recovered from three samples. Phages with the ability to transduce resistance to tetracycline only were seen in another two samples, and kanamycin and tetracycline resistance-transducing phages were isolated from one sample.",
+            "block_bbox": [
+                74,
+                573,
+                576,
+                750
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antimicrobial resistance transduced by phages. Kanamycin resistance could be transduced the most often, i.e., by 43 phages. Eight phages were able to transduce chloramphenicol resistance, and four transduced tetracycline resistance. Three phages could transduce ampicillin and kanamycin resistance, and two transduced chloramphenicol and kanamycin resistance (Fig. 1). No phages were able to transduce extended-spectrum  $ \\beta $ -lactamase production to E. coli ATCC 13706.",
+            "block_bbox": [
+                74,
+                749,
+                577,
+                863
+            ],
+            "block_id": 4,
+            "block_order": 2,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                590,
+                128,
+                1092,
+                198
+            ],
+            "block_id": 5,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Coliphage characterization. An optimized titer was defined by titration of phages  $ (n = 243) $  isolated from chicken meat. The titer of each phage was calculated to range from  $ 1.5 \\times 10^{8} $  to  $ 3.1 \\times 10^{10} $  PFU/ml. For a brief characterization of the antimicrobial resistance-transducing phages, a lysotype pattern was determined for five different E. coli strains (ATCC 13706, JM109, W3110, MC1061, and DH5 $ \\alpha $ ) using lysates of each phage whose titers had been determined. Table 3 lists the different lysotypes of all antimicrobial resistance-transducing phages. A high degree of variability, given by 13 different lysotypes, was seen within these phages isolated from chicken meat.",
+            "block_bbox": [
+                589,
+                198,
+                1093,
+                458
+            ],
+            "block_id": 6,
+            "block_order": 4,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Detection of resistance genes in transduced E. coli isolates. The  $ \\operatorname{tet}(A) $  gene fragment could be amplified from all transduced tetracycline-resistant E. coli isolates. All transduced kanamycin-resistant E. coli isolates harbored the aphA1 gene. All but one E. coli isolate to which ampicillin resistance was transduced harbored the  $ bla_{TEM} $  gene. The floR gene was detected in three transduced chloramphenicol-resistant E. coli isolates. Southern blot analysis of five kanamycin-resistant isolates of E. coli ATCC 13706 transduced with phage  $ \\phi $ E5c uncovered that the aphA1 gene integrated at different sites in the genome; thus, homologous recombination was not required.",
+            "block_bbox": [
+                589,
+                459,
+                1094,
+                720
+            ],
+            "block_id": 7,
+            "block_order": 5,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Association of resistance-transducing phages and  $ E.\\ coli $  in meat samples. A statistically significant association between the presence/absence of resistant  $ E.\\ coli $  isolates and the presence/absence of phages able to transduce the same antimicrobial resistance into  $ E.\\ coli $  ATCC 13706 in chicken meat samples was established for kanamycin  $ (P = 0.01) $  (Table 4).",
+            "block_bbox": [
+                589,
+                721,
+                1094,
+                862
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 3 Lysotypes of antimicrobial resistance-transducing phages</div>\n",
+            "block_bbox": [
+                75,
+                906,
+                540,
+                928
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'></td><td colspan=\"5\">Lysis of the indicated E. coli strains</td><td colspan=\"5\">Phage(s) transducing resistance to the indicated antimicrobial</td></tr><tr><td style='text-align: center;'>LT $ ^{\\alpha} $  pattern</td><td style='text-align: center;'>ATCC 13706</td><td style='text-align: center;'>JM109</td><td style='text-align: center;'>W3110</td><td style='text-align: center;'>MC1061</td><td style='text-align: center;'>DH5 $ \\alpha $</td><td style='text-align: center;'>Kanamycin</td><td style='text-align: center;'>Chloramphenicol</td><td style='text-align: center;'>Ampicillin</td><td style='text-align: center;'>Tetracycline</td><td style='text-align: center;'></td></tr><tr><td rowspan=\"6\">LT1</td><td rowspan=\"6\">+++</td><td rowspan=\"6\">+++</td><td rowspan=\"6\">+++</td><td rowspan=\"6\">+++</td><td rowspan=\"6\">-</td><td style='text-align: center;'>$ \\phi $ E2b,  $ \\phi $ E5a,  $ \\phi $ E5b,  $ \\phi $ E5c,  $ \\phi $ E5d,  $ \\phi $ E5e</td><td style='text-align: center;'>$ \\phi $ E6b,  $ \\phi $ E16e,  $ \\phi $ E30e</td><td style='text-align: center;'>$ \\phi $ E5c,  $ \\phi $ E9b</td><td style='text-align: center;'>$ \\phi $ E10c,  $ \\phi $ E10d</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>$ \\phi $ E7a,  $ \\phi $ E7b,  $ \\phi $ E7c,  $ \\phi $ E7d,  $ \\phi $ E7e,  $ \\phi $ E9b</td><td style='text-align: center;'>$ \\phi $ E49d</td><td style='text-align: center;'>$ \\phi $ E13d</td><td style='text-align: center;'>$ \\phi $ E15d,  $ \\phi $ E40e</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>$ \\phi $ E9d,  $ \\phi $ E12b,  $ \\phi $ E12e,  $ \\phi $ E13a,  $ \\phi $ E13b</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>$ \\phi $ E13c,  $ \\phi $ E13d,  $ \\phi $ E13e,  $ \\phi $ E16a,  $ \\phi $ E16d</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>$ \\phi $ E19b,  $ \\phi $ E19c,  $ \\phi $ E22c,  $ \\phi $ E23b,  $ \\phi $ E23c</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>$ \\phi $ E28a,  $ \\phi $ E28b,  $ \\phi $ E28c,  $ \\phi $ E28d,  $ \\phi $ E30a,  $ \\phi $ E49a</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT2</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>++</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>-</td><td style='text-align: center;'>$ \\phi $ E2c</td><td style='text-align: center;'>$ \\phi $ E43e</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT3</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>++</td><td style='text-align: center;'>++</td><td style='text-align: center;'>++</td><td style='text-align: center;'>-</td><td style='text-align: center;'>$ \\phi $ E2d</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT4</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+</td><td style='text-align: center;'>++</td><td style='text-align: center;'>++</td><td style='text-align: center;'>-</td><td style='text-align: center;'>$ \\phi $ E2e</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT5</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>++</td><td style='text-align: center;'>-</td><td style='text-align: center;'>$ \\phi $ E6a,  $ \\phi $ E19a</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT6</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>-</td><td style='text-align: center;'>$ \\phi $ E6d,  $ \\phi $ E9c,  $ \\phi $ E27c</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT7</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>++</td><td style='text-align: center;'>-</td><td style='text-align: center;'>$ \\phi $ E9a,  $ \\phi $ E15c</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT8</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>-</td><td style='text-align: center;'>$ \\phi $ E12c,  $ \\phi $ E12d,  $ \\phi $ E34e</td><td style='text-align: center;'>$ \\phi $ E12c</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT9</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+</td><td style='text-align: center;'>++</td><td style='text-align: center;'>+</td><td style='text-align: center;'>-</td><td style='text-align: center;'>$ \\phi $ E19e</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT10</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>++</td><td style='text-align: center;'>++</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>-</td><td style='text-align: center;'>$ \\phi $ E34a</td><td style='text-align: center;'>$ \\phi $ E34a</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT11</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td><td style='text-align: center;'>$ \\phi $ E35d</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT12</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>++</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td><td style='text-align: center;'>$ \\phi $ E35e</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>LT13</td><td style='text-align: center;'>+++</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'>-</td><td style='text-align: center;'></td><td style='text-align: center;'>$ \\phi $ E39d</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>",
+            "block_bbox": [
+                73,
+                926,
+                1090,
+                1392
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{a} $  LT, lysotype.",
+            "block_bbox": [
+                76,
+                1395,
+                164,
+                1413
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{b} $  The phage designations indicate the chicken meat sample (E) number (indicated by Arabic numerals) and the phage isolate number (indicated by lowercase letters); for example,  $ \\phi $ E5a represents the first phage isolate from chicken meat sample number 5.",
+            "block_bbox": [
+                74,
+                1411,
+                1083,
+                1450
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "footer",
+            "block_content": "July 2015 Volume 81 Number 14",
+            "block_bbox": [
+                76,
+                1494,
+                295,
+                1513
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Applied and Environmental Microbiology",
+            "block_bbox": [
+                458,
+                1494,
+                710,
+                1513
+            ],
+            "block_id": 14,
+            "block_order": null,
+            "group_id": 14
+        },
+        {
+            "block_label": "footer",
+            "block_content": "aem.asm.org",
+            "block_bbox": [
+                965,
+                1495,
+                1045,
+                1513
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        },
+        {
+            "block_label": "number",
+            "block_content": "4603",
+            "block_bbox": [
+                1055,
+                1495,
+                1091,
+                1512
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9490006566047668,
+                "coordinate": [
+                    749.1990966796875,
+                    64.03182983398438,
+                    1092.2686767578125,
+                    84.44735717773438
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9838206768035889,
+                "coordinate": [
+                    75.05378723144531,
+                    130.220947265625,
+                    572.5733642578125,
+                    354.04656982421875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.976749062538147,
+                "coordinate": [
+                    74.15151977539062,
+                    363.45703125,
+                    576.0467529296875,
+                    530.2164916992188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988329291343689,
+                "coordinate": [
+                    74.4288330078125,
+                    573.1202392578125,
+                    576.609130859375,
+                    750.076416015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846408367156982,
+                "coordinate": [
+                    74.37437438964844,
+                    749.7000732421875,
+                    577.33544921875,
+                    863.2630615234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9819382429122925,
+                "coordinate": [
+                    590.2630615234375,
+                    128.7242431640625,
+                    1092.124755859375,
+                    198.32916259765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886151552200317,
+                "coordinate": [
+                    589.9403076171875,
+                    198.62420654296875,
+                    1093.7493896484375,
+                    458.84552001953125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4029375910758972,
+                "coordinate": [
+                    594.3905639648438,
+                    580.1842651367188,
+                    648.4251098632812,
+                    603.2227172851562
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.47405001521110535,
+                "coordinate": [
+                    952.2967529296875,
+                    245.5437774658203,
+                    1088.7930908203125,
+                    267.83270263671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888441562652588,
+                "coordinate": [
+                    589.6346435546875,
+                    459.1682434082031,
+                    1094.0643310546875,
+                    720.76513671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9861169457435608,
+                "coordinate": [
+                    589.4246826171875,
+                    721.7252197265625,
+                    1094.2987060546875,
+                    862.914794921875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9475224018096924,
+                "coordinate": [
+                    75.57392883300781,
+                    906.726806640625,
+                    540.8133544921875,
+                    928.72119140625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9890656471252441,
+                "coordinate": [
+                    73.3927001953125,
+                    926.3722534179688,
+                    1090.0753173828125,
+                    1392.876220703125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9022265076637268,
+                "coordinate": [
+                    76.88410949707031,
+                    1395.144775390625,
+                    164.9524688720703,
+                    1413.404541015625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9295763969421387,
+                "coordinate": [
+                    74.27285766601562,
+                    1411.745849609375,
+                    1083.7266845703125,
+                    1450.735107421875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9381005764007568,
+                "coordinate": [
+                    76.52949523925781,
+                    1494.6884765625,
+                    295.54595947265625,
+                    1513.69189453125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9384593963623047,
+                "coordinate": [
+                    458.7816162109375,
+                    1494.349853515625,
+                    710.163818359375,
+                    1513.810791015625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9246643781661987,
+                "coordinate": [
+                    965.55419921875,
+                    1495.311767578125,
+                    1045.1187744140625,
+                    1513.5625
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9062352180480957,
+                "coordinate": [
+                    1055.664794921875,
+                    1495.149658203125,
+                    1091.11328125,
+                    1512.866943359375
+                ]
+            }
+        ]
+    }
+}

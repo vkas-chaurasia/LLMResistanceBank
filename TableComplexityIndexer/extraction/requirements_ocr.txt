@@ -1,0 +1,17 @@
+
+torch==2.7.0
+torchvision==0.22.0
+torchaudio==2.7.0
+transformers==4.46.3
+tokenizers
+tiktoken
+verovio
+accelerate
+pillow
+scikit-learn
+beautifulsoup4
+tqdm
+pylatexenc
+apted
+lxml
+huggingface-hub>=0.34.0

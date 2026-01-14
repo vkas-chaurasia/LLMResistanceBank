@@ -1,0 +1,560 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Moawad2017.pdf",
+    "page_index": 8,
+    "page_count": 13,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Moawad et al. Gut Pathog (2017) 9:57",
+            "block_bbox": [
+                108,
+                62,
+                361,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 9 of 13",
+            "block_bbox": [
+                992,
+                64,
+                1080,
+                85
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "meat) [26], Canary islands (16.5% in chicken meat) [27], Northwestern Spain (17.9% in chicken) [28], Ethiopia (17.9% in chicken and giblets) [29], and Egypt (10.0% in poultry meat) [7]. On the other hand, it was higher than reported previously in meat products in Egypt (6.6%) and in ground beef in the United States (4.2%) [30, 31].",
+            "block_bbox": [
+                105,
+                173,
+                585,
+                318
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "In total, S. enterica serovar Typhimurium was the dominant serovar. These results were in accordance with previous study from chicken products in Cambodia and Thailand  $ [32] $ . Controversially, S. enterica serovar Enteritidis was the dominant serotype in imported frozen poultry samples from Brazil to Canary Islands and in chicken carcasses in Spain  $ [27, 28] $ . Salmonella enterica serovar Kentucky was frequently detected in samples coming from US to Canary Islands  $ [27] $ .",
+            "block_bbox": [
+                105,
+                318,
+                585,
+                534
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Prevalence of  $ E.\\ coli $  in chicken meat and organs was 16.7% which was lower than in Nigeria (43.4%) in frozen poultry meat  $ [33] $  but higher than in Korea (4.9% in poultry meat)  $ [34] $ . Prevalence of  $ E.\\ coli $  in beef meat was 6.7%, while in Korea and Iran were found 4.1 and 29.0%, respectively  $ [34, 35] $ .",
+            "block_bbox": [
+                106,
+                534,
+                585,
+                677
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, 19.0% of  $ E.\\ coli $  isolates typed as O78 was mainly from poultry products, while in China, O78 was identified in 60.0% of  $ E.\\ coli $  isolated from chicken and ducks [36].  $ E.\\ coli $  type O158 identified in 9.5% only in beef meat while O158 detected in 22.7% of food isolates in Chile [37].",
+            "block_bbox": [
+                106,
+                677,
+                585,
+                821
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Bacterial antimicrobial resistance is a global emerging problem of public health concern.",
+            "block_bbox": [
+                107,
+                821,
+                584,
+                870
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "In the current study, a high percentage of S. enterica serovars were resistant to ampicillin and cefotaxime. The resistance to other antimicrobial agents was variable while all isolates were sensitive to chloramphenicol and ciprofloxacin. The results were in a partial accordance with results of previous reports stating that all S. enterica isolated from chicken meat and beef were sensitive to ciprofloxacin [38]. 72.4% of Salmonella isolates in Thai meat products were resistant to ampicillin while 71.0% of isolates in Cambodian meat products were resistant to sulfamethoxazole [32]. Controversially, S. enterica isolated from animals and food of animal origin in Italy were highly resistant to ampicillin, chloramphenicol, streptomycin and tetracycline [39] and all Salmonella isolated from beef in Tunisia were susceptible to amoxicillin and clavulanic acid [40].",
+            "block_bbox": [
+                105,
+                869,
+                585,
+                1253
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "In total, 46.7% of S. enterica serovars showed multidrug resistance, which was higher than resistance of Salmonella isolated from raw chicken (31.0%) in Pennsylvania during [41]. Less multidrug resistant S. enterica isolates (6.0%) were identified in cattle hides and carcasses in the US [42].",
+            "block_bbox": [
+                105,
+                1253,
+                585,
+                1397
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "The results of this study showed that the antimicrobial resistance of E. coli isolated from poultry was higher than from beef to the most of tested antibiotics. The high resistance to tetracycline, ampicillin, amoxycillin–clavulanic acid, trimethoprim/sulphamethoxazole and streptomycin in this study was in agreement with previous reports conducted in Egypt [10, 43] and Algeria [44]. While in Spain, most of E. coli isolated from diarrhoeic and healthy lambs were highly resistant to tetracycline and streptomycin but show lower resistance to ampicillin [45]. Most of E. coli isolates in this study were sensitive to enrofloxacin, chloramphenicol and ceftriaxone which is in agreement with previous results in Spain [45].",
+            "block_bbox": [
+                105,
+                1397,
+                585,
+                1447
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                173,
+                1082,
+                438
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, 61.9% of  $ E.\\ coli $  isolates were multidrug resistant. Similar results reported previously in Ghana and US [23, 46].",
+            "block_bbox": [
+                602,
+                437,
+                1082,
+                509
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Most of the phenotypically antibiotic resistant S. enterica serovars carried antibiotic resistance marker genes associated with  $ \\beta $ -lactams and quinolones.",
+            "block_bbox": [
+                602,
+                509,
+                1081,
+                582
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The  $ \\beta $ -lactamase encoding gene  $ bla_{TEM} $  conferring resistance to penicillins and first-generation cephalosporins was detected in 73.3% of S. enterica serovars and in 76.9% of ampicillin-resistant isolates which is significantly high in comparison to 57.3% ( $ bla_{TEM-1} $ ) in S. enterica isolated from retail chickens in China [47]. Another  $ \\beta $ -lactamase encoding gene  $ bla_{CMY-2} $ , an AmpC beta-lactamase gene that confers resistance to a wide variety of  $ \\beta $ -lactam antibiotics detected in 13.3% of isolates. In contrast, in 4.7% of S. enterica serovars Typhimurium and Enteritidis originated from diseased broilers in Egypt  $ bla_{CMY-2} $  was identified [48] and all resistant S. enterica serovar Typhimurium isolated from retail meat in US were harbouring  $ bla_{CMY} $  [49]. The same gene could not be detected previously in any S. enterica serovar Typhimurium isolated from chicken meat in Egypt [8].",
+            "block_bbox": [
+                601,
+                581,
+                1083,
+                966
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ bla_{CTX-M} $  could be identified in 73.3% of isolated S. enterica serovars. In 24.0 and 18.8% of different Salmonella serovars isolated from retail chicken carcasses in China,  $ bla_{CTX-M-15} $  and  $ bla_{CTX-M-3} $  were detected, respectively [47].",
+            "block_bbox": [
+                602,
+                965,
+                1081,
+                1085
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "The  $ bla_{SHV} $  is responsible for the plasmid-mediated ampicillin resistance and  $ \\beta $ -lactamase encoding genes  $ bla_{OXA} $  conferring resistance to ampicillin and cephalothin not detected in any of S. enterica serovars in this study. This result was in accordance with a result for S. enterica serovar Typhimurium isolated from chicken meat in Egypt [8]. In contrast, 30.2% of ESBL-producing Salmonella isolated from raw chicken carcasses in China were harbouring  $ bla_{OXA-1} $  [47].",
+            "block_bbox": [
+                601,
+                1085,
+                1082,
+                1303
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Although none of S. enterica serovars were phenotypically resistant to ciprofloxacin, qnrA, qnrB and qnrS genes were detected in 33.3, 20.0 and 6.7%, respectively in all S. enterica serovars and in 100, 60.0 and 20.0%, respectively in S. enterica resistant to nalidixic acid. A different result showed that 1.16% of nalidixic acid-resistant S.",
+            "block_bbox": [
+                601,
+                1302,
+                1083,
+                1447
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9440579414367676,
+                "coordinate": [
+                    108.77617645263672,
+                    62.464385986328125,
+                    361.3931884765625,
+                    84.85444641113281
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8936113119125366,
+                "coordinate": [
+                    992.4542236328125,
+                    64.00564575195312,
+                    1080.8560791015625,
+                    85.81021118164062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867367148399353,
+                "coordinate": [
+                    105.85934448242188,
+                    173.11807250976562,
+                    585.045654296875,
+                    318.4284973144531
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877315163612366,
+                "coordinate": [
+                    105.69549560546875,
+                    318.1312255859375,
+                    585.6499633789062,
+                    534.6210327148438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9866502285003662,
+                "coordinate": [
+                    106.52610778808594,
+                    534.0001831054688,
+                    585.098388671875,
+                    677.9213256835938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9861226081848145,
+                "coordinate": [
+                    106.21923828125,
+                    677.3975830078125,
+                    585.5547485351562,
+                    821.3857421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9667692184448242,
+                "coordinate": [
+                    107.33250427246094,
+                    821.87939453125,
+                    584.6030883789062,
+                    870.11865234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882320761680603,
+                "coordinate": [
+                    105.29934692382812,
+                    869.9263916015625,
+                    585.626953125,
+                    1253.6981201171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9863253235816956,
+                "coordinate": [
+                    105.85545349121094,
+                    1253.88037109375,
+                    585.4083251953125,
+                    1397.53271484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9659264087677002,
+                "coordinate": [
+                    105.7381591796875,
+                    1397.5054931640625,
+                    585.1296997070312,
+                    1447.5401611328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881030917167664,
+                "coordinate": [
+                    601.4603271484375,
+                    173.50355529785156,
+                    1082.9566650390625,
+                    438.5439453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9760070443153381,
+                "coordinate": [
+                    602.4658203125,
+                    437.9561767578125,
+                    1082.307373046875,
+                    509.57891845703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9768327474594116,
+                "coordinate": [
+                    602.6387939453125,
+                    509.8650207519531,
+                    1081.5289306640625,
+                    582.15625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8705734610557556,
+                "coordinate": [
+                    918.7421264648438,
+                    583.2943115234375,
+                    980.4989624023438,
+                    607.2022705078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877960681915283,
+                "coordinate": [
+                    601.4776611328125,
+                    581.7050170898438,
+                    1083.1219482421875,
+                    966.3768920898438
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8938365578651428,
+                "coordinate": [
+                    902.0137939453125,
+                    678.043212890625,
+                    983.0159912109375,
+                    702.924072265625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.907049834728241,
+                "coordinate": [
+                    851.6373291015625,
+                    726.695068359375,
+                    928.7633056640625,
+                    751.717529296875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9040988683700562,
+                "coordinate": [
+                    606.812744140625,
+                    847.4476318359375,
+                    678.1998291015625,
+                    871.1788330078125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8873094916343689,
+                "coordinate": [
+                    752.8764038085938,
+                    894.7044677734375,
+                    814.4749145507812,
+                    919.6036376953125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9010735154151917,
+                "coordinate": [
+                    623.01318359375,
+                    967.5400390625,
+                    699.335693359375,
+                    991.527587890625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8809133768081665,
+                "coordinate": [
+                    666.901123046875,
+                    1039.4151611328125,
+                    761.28271484375,
+                    1063.7091064453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9819428324699402,
+                "coordinate": [
+                    602.340576171875,
+                    965.4594116210938,
+                    1081.49853515625,
+                    1085.6650390625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9200363159179688,
+                "coordinate": [
+                    800.5594482421875,
+                    1038.532470703125,
+                    887.0618896484375,
+                    1064.476318359375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.897148609161377,
+                "coordinate": [
+                    663.236572265625,
+                    1087.53369140625,
+                    722.661865234375,
+                    1111.33740234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8963658213615417,
+                "coordinate": [
+                    606.7452392578125,
+                    1134.473876953125,
+                    666.7166748046875,
+                    1158.888427734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987332284450531,
+                "coordinate": [
+                    601.5799560546875,
+                    1085.43212890625,
+                    1082.53515625,
+                    1303.01953125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8891174793243408,
+                "coordinate": [
+                    747.9661865234375,
+                    1277.818115234375,
+                    817.6602783203125,
+                    1302.563720703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9848804473876953,
+                "coordinate": [
+                    601.482666015625,
+                    1302.00341796875,
+                    1083.459716796875,
+                    1447.3681640625
+                ]
+            }
+        ]
+    }
+}

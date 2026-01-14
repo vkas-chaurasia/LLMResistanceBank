@@ -1,0 +1,295 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bawa2015.pdf",
+    "page_index": 2,
+    "page_count": 7,
+    "width": 1190,
+    "height": 1684,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Bawa et al. J. Appl. Biosci. 2015 Antimicrobial susceptibility of Salmonella enterica strains isolated from raw beef, mutton and intestines sold in Ouagadougou, Burkina Faso.",
+            "block_bbox": [
+                135,
+                139,
+                1051,
+                191
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_153_223_1037_801.jpg\" alt=\"Image\" width=\"74%\" /></div>\n",
+            "block_bbox": [
+                153,
+                223,
+                1037,
+                801
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Figure 1: Sampling sites in Ouagadougou/Burkina Faso</div>\n",
+            "block_bbox": [
+                135,
+                808,
+                620,
+                836
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## RESULTS",
+            "block_bbox": [
+                135,
+                856,
+                225,
+                880
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, out of 450 samples collected, 86 (19%) were contaminated by Salmonella spp (Table 1). Salmonella were found in 27% (47/175), 18% (9/50), 11% (19/175) and 22% (11/50) respectively of beef, beef intestine, mutton and sheep intestine.",
+            "block_bbox": [
+                133,
+                881,
+                1054,
+                957
+            ],
+            "block_id": 4,
+            "block_order": 2,
+            "group_id": 4
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 2: Antimicrobial resistance of Salmonella enterica spp</div>\n",
+            "block_bbox": [
+                134,
+                981,
+                612,
+                1005
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Source of meat sample</td><td style='text-align: center;'>Prevalence of Salmonella enterica</td></tr><tr><td style='text-align: center;'>Beef (n = 175)</td><td style='text-align: center;'>47 (27%)</td></tr><tr><td style='text-align: center;'>Beef intestine (n = 50)</td><td style='text-align: center;'>9 (18%)</td></tr><tr><td style='text-align: center;'>Mutton (n = 175)</td><td style='text-align: center;'>19 (11%)</td></tr><tr><td style='text-align: center;'>Sheep intestine (n = 50)</td><td style='text-align: center;'>11 (22%)</td></tr><tr><td style='text-align: center;'>Total (n = 450)</td><td style='text-align: center;'>86 (19%)</td></tr></table>",
+            "block_bbox": [
+                127,
+                1004,
+                1062,
+                1170
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "%= percentage, n= number",
+            "block_bbox": [
+                137,
+                1171,
+                356,
+                1195
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "The antibiotic susceptibility test showed resistant Salmonella strains. Of the 86 Salmonella spp isolated in beef meat and mutton, 36% and 47% were respectively resistant to at least three or more families of antibiotics (Table 2). Overall resistance was most frequently observed to tetracycline and cefalotin respectively 91% and 60% in beef and 95% and 74% respectively in mutton. Low resistance between 30% and 2% in beef and between 42% and 5% in mutton were observed for other antibiotics tested. In addition, strains of Salmonella isolated in intestine products resist only to tetracycline (78%) and cefalotin (56%) for beef intestine and (73%) to tetracycline for sheep intestine (Table 2).",
+            "block_bbox": [
+                133,
+                1218,
+                579,
+                1394
+            ],
+            "block_id": 8,
+            "block_order": 3,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                610,
+                1217,
+                1055,
+                1371
+            ],
+            "block_id": 9,
+            "block_order": 4,
+            "group_id": 8
+        },
+        {
+            "block_label": "number",
+            "block_content": "8968",
+            "block_bbox": [
+                570,
+                1494,
+                619,
+                1515
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9371836185455322,
+                "coordinate": [
+                    135.0947265625,
+                    139.3212890625,
+                    1051.03759765625,
+                    191.74700927734375
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.983135998249054,
+                "coordinate": [
+                    153.0947265625,
+                    223.6058349609375,
+                    1037.999267578125,
+                    801.1734619140625
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9487847089767456,
+                "coordinate": [
+                    135.37319946289062,
+                    808.015869140625,
+                    620.6798095703125,
+                    836.589599609375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9185354709625244,
+                "coordinate": [
+                    135.6287078857422,
+                    856.417724609375,
+                    225.94813537597656,
+                    880.99951171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9662648439407349,
+                "coordinate": [
+                    133.40176391601562,
+                    881.9254150390625,
+                    1054.5546875,
+                    957.7508544921875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9492284655570984,
+                "coordinate": [
+                    134.89990234375,
+                    981.0770874023438,
+                    612.8868408203125,
+                    1005.7609252929688
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.979961097240448,
+                "coordinate": [
+                    127.48886108398438,
+                    1004.888916015625,
+                    1062.0386962890625,
+                    1170.099365234375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9186937212944031,
+                "coordinate": [
+                    137.06298828125,
+                    1171.55908203125,
+                    356.80615234375,
+                    1195.97900390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858819246292114,
+                "coordinate": [
+                    133.4889678955078,
+                    1218.5374755859375,
+                    579.1581420898438,
+                    1394.5277099609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9833377003669739,
+                "coordinate": [
+                    610.375732421875,
+                    1217.753662109375,
+                    1055.772705078125,
+                    1371.202392578125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9072321057319641,
+                "coordinate": [
+                    570.7213134765625,
+                    1494.063232421875,
+                    619.851318359375,
+                    1515.633544921875
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,466 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Odwar2014.pdf",
+    "page_index": 2,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Odwar et al. BMC Research Notes 2014, 7:627 http://www.biomedcentral.com/1756-0500/7/627",
+            "block_bbox": [
+                107,
+                64,
+                445,
+                106
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 3 of 8",
+            "block_bbox": [
+                996,
+                64,
+                1081,
+                87
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial susceptibility testing",
+            "block_bbox": [
+                106,
+                175,
+                397,
+                199
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Using the Kirby-Bauer disc diffusion method  $ [23] $ , E. coli were tested for their susceptibility to 12 commonly used antimicrobials on disks containing; Ampicillin (AMP 10  $ \\mu $ g), Amoxicillin-clavulanic acid (AMC, 30  $ \\mu $ g), Tetracycline (TE 30  $ \\mu $ g), sulphamethoxazole-trimethoprin (SXT 30  $ \\mu $ g), Ciprofloxacin (CIP 5  $ \\mu $ g), Ceftriaxone (CRO 30  $ \\mu $ g), Ceftazidime (CAZ 30  $ \\mu $ g), Kanamycin (K 30  $ \\mu $ g), Streptomycin (S 10  $ \\mu $ g), Gentamicin (CN 10  $ \\mu $ g), Nalidixic acid (NA 30  $ \\mu $ g) and Chloramphenicol (C 30  $ \\mu $ g). The concentrations of the antimicrobial disks were selected based on the internationally recognized standards and guidelines on antimicrobial routine testing and reporting on enterobacteriaceae provided by the Clinical and Laboratory Standard Institute. E. coli strain 25922 was used to control for bacterial growth and potency of antibiotic disks. Inoculated agar plates were incubated at 37°C for 24 h. The susceptibility zones were also measured and interpreted according to criteria set by the Clinical and Laboratory Standards Institute  $ [24] $ .",
+            "block_bbox": [
+                104,
+                199,
+                586,
+                658
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### Bacterial DNA extraction and detection of virulence genes in E. coli",
+            "block_bbox": [
+                106,
+                679,
+                583,
+                726
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "DNA from the isolated E. coli as well as from 5 control strains was extracted following the procedures described by Ehrt and Schnappinger  $ [25] $ , with slight modifications. A loop full of overnight bacterial culture was suspended in 1 ml of sterile distilled water and then boiled for 10 minutes at  $ 95^{\\circ} $ C. The cell mixture was centrifuged for 5 minutes at 14,000 rpm and supernatant was used as the DNA template for PCR amplification. Ten PCR primers were used to detect the target genes enumerating toxins in pathogenic E. coli  $ [26] $ . A multiplex PCR system was optimized by the progressive incorporation of primers corresponding to the different genes and several combinations of melting temperatures, primer concentrations and DNA template concentration. PuReTaq ready to go PCR beads (GE Health care) were used for PCR. The total reaction volume in each PCR tube was  $ 25 \\mu l $  containing  $ 3 \\mu l $  template DNA,  $ 2 \\mu l $  primer ( $ 0.2 \\mu l $  of each primer) and  $ 20 \\mu l $  sterile PCR water. PCR was done under the following conditions; initial denaturation at  $ 94^{\\circ} $ C for 5 minutes. This was followed by 35 cycles of denaturation at  $ 94^{\\circ} $ C for 1 minute, annealing at  $ 56^{\\circ} $ C for 30 seconds and extension at  $ 72^{\\circ} $ C for 1 minute. The final step was amplification at  $ 72^{\\circ} $ C for 10 minutes. Amplicons were then subjected to agarose gel electrophoresis and viewed under UV light.",
+            "block_bbox": [
+                104,
+                727,
+                586,
+                1330
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Statistical analysis",
+            "block_bbox": [
+                106,
+                1351,
+                263,
+                1374
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Statistical analysis including means, medians and standard deviations, was conducted by means of SPSS version 17.0 software. To determine differences in microbial counts in chicken samples purchased from among the various retail outlets, ANOVA was used after converting the counts to base 10 logarithms. The chi-square test was used to assess any statistical significant association between antimicrobial resistances in the  $ E.\\ coli $  isolated with regard to retail outlet classification from where the raw chicken was purchased.",
+            "block_bbox": [
+                105,
+                1374,
+                586,
+                1474
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                600,
+                175,
+                1084,
+                321
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Results",
+            "block_bbox": [
+                602,
+                342,
+                681,
+                366
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Contamination rate and microbial count in raw retail chicken",
+            "block_bbox": [
+                601,
+                367,
+                1038,
+                414
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Contamination rate of chicken samples by total coliform bacteria was found to be 97% while contamination by  $ E.\\ coli $  was 78%. The average  $ E.\\ coli $  and coliform counts for all samples in general were observed to be above the acceptable range for  $ E.\\ coli $  counts as set by the Hazard Analysis and Critical Control Point system (HACCP), developed by Food and Agriculture Organization (FAO) and adopted by the Codex Alimentarius Commission (3.911 and 5.0261Log $ _{10} $ cfu/ml respectively). According to this system, the acceptable food safety range is 100 cfu/ml or less (2.000 Log $ _{10} $ cfu/ml or less), the marginal or intermediate range is over 100 cfu/ml but not above 1000 cfu/ml (over 2.000 but not above 3.000 Log $ _{10} $ cfu/ml) and the unacceptable range is above 1000 cfu/ml (above 3.000 Log $ _{10} $ cfu/ml) [27]. Only 80 (40%) out of a total 200 retail chicken samples that were purchased fell under the acceptable range for  $ E.\\ coli $  counts. 76% of samples fell under the unacceptable range for total coliforms. As shown in Tables 1 and 2, supermarkets had the highest percentage of samples within acceptable food safety ranges while average counts of samples from the rest of the retail outlets were within marginal or unacceptable counts of above 2.000 Log $ _{10} $ cfu/ml. There was a statistical significant difference in the  $ E.\\ coli $  count (F(4,175) = 16.676; MSE = 106.576; p < 0.001) and coliform counts (F(4,179) = 18.37; MSE = 105.097; p < 0.001) among the outlets with supermarkets having the lowest  $ E.\\ coli $  and coliform count compared to the rest. Graphical evidence of the differences of  $ E.\\ coli $  and coliform counts observed in the different retail outlet classifications are also shown in Figures 1 and 2.",
+            "block_bbox": [
+                600,
+                415,
+                1084,
+                1163
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### Prevalence of antimicrobial resistant E. coli isolated from raw retail chicken",
+            "block_bbox": [
+                601,
+                1183,
+                1071,
+                1230
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Seventy-five percent (117 out 156) of the E. coli isolated exhibited resistance to at least one of the 12 antibiotics tested. As seen in Table 3, prevalence of antimicrobial resistance was highest for tetracycline followed by sulphamethoxazole-trimethoprin, ampicillin and streptomycin. Only 24.5% of the isolates were fully sensitive to all antibiotics while 42.9% were resistant to 3 or more antibiotics especially to the above mentioned antimicrobials. There was no significant difference in the prevalence of antimicrobial resistance among the 5 classifications of",
+            "block_bbox": [
+                600,
+                1231,
+                1086,
+                1474
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9447157382965088,
+                "coordinate": [
+                    107.07566833496094,
+                    64.3478775024414,
+                    445.49896240234375,
+                    106.58817291259766
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9018091559410095,
+                "coordinate": [
+                    996.204345703125,
+                    64.79385375976562,
+                    1081.78759765625,
+                    87.2054443359375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9406316876411438,
+                "coordinate": [
+                    106.74668884277344,
+                    175.86012268066406,
+                    397.4957275390625,
+                    199.08937072753906
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888156652450562,
+                "coordinate": [
+                    104.58149719238281,
+                    199.22259521484375,
+                    586.9547729492188,
+                    658.4039306640625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9671730399131775,
+                "coordinate": [
+                    106.02825927734375,
+                    679.4561767578125,
+                    583.5402221679688,
+                    726.2904052734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887027740478516,
+                "coordinate": [
+                    104.74705505371094,
+                    727.2404174804688,
+                    586.9876708984375,
+                    1330.279052734375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.48144227266311646,
+                "coordinate": [
+                    131.52195739746094,
+                    1183.9757080078125,
+                    176.01954650878906,
+                    1207.0919189453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4855591952800751,
+                "coordinate": [
+                    242.4366455078125,
+                    1207.927734375,
+                    287.1534423828125,
+                    1230.63134765625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.427533358335495,
+                "coordinate": [
+                    509.529296875,
+                    1208.099853515625,
+                    553.578369140625,
+                    1230.80517578125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9258124828338623,
+                "coordinate": [
+                    106.8254623413086,
+                    1351.9112548828125,
+                    263.4784851074219,
+                    1374.5198974609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9775347709655762,
+                "coordinate": [
+                    105.2452392578125,
+                    1374.795654296875,
+                    586.715576171875,
+                    1474.548095703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9850068688392639,
+                "coordinate": [
+                    600.9896240234375,
+                    175.0830078125,
+                    1084.1500244140625,
+                    321.26483154296875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8636389374732971,
+                "coordinate": [
+                    602.44287109375,
+                    342.2274169921875,
+                    681.9835205078125,
+                    366.059326171875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9567320942878723,
+                "coordinate": [
+                    601.693115234375,
+                    367.11712646484375,
+                    1038.5120849609375,
+                    414.48773193359375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4568392336368561,
+                "coordinate": [
+                    708.6951904296875,
+                    608.2982788085938,
+                    867.9083251953125,
+                    631.9846801757812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887707233428955,
+                "coordinate": [
+                    600.761962890625,
+                    415.4937744140625,
+                    1084.844970703125,
+                    1163.1683349609375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5018119812011719,
+                "coordinate": [
+                    606.2305908203125,
+                    727.9370727539062,
+                    717.3662109375,
+                    752.4108276367188
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4282366633415222,
+                "coordinate": [
+                    839.554443359375,
+                    752.552978515625,
+                    950.835205078125,
+                    775.740966796875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.42108020186424255,
+                "coordinate": [
+                    678.1134033203125,
+                    991.5821533203125,
+                    1075.9312744140625,
+                    1015.2435302734375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4018448293209076,
+                "coordinate": [
+                    789.5579833984375,
+                    1016.57861328125,
+                    1076.9769287109375,
+                    1039.231689453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5092596411705017,
+                "coordinate": [
+                    606.4027099609375,
+                    1040.8824462890625,
+                    689.8013916015625,
+                    1063.6256103515625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9654050469398499,
+                "coordinate": [
+                    601.6597900390625,
+                    1183.479736328125,
+                    1071.3809814453125,
+                    1230.471923828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875796437263489,
+                "coordinate": [
+                    600.5318603515625,
+                    1231.458740234375,
+                    1086.0687255859375,
+                    1474.60888671875
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,475 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Ahmed2014.pdf",
+    "page_index": 3,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "42",
+            "block_bbox": [
+                64,
+                72,
+                84,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "A.M. Ahmed et al. / International Journal of Food Microbiology 189 (2014) 39–44",
+            "block_bbox": [
+                362,
+                71,
+                809,
+                90
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "3.2. Incidence of class 1 and class 2 integrons in S. enterica from meat and dairy products",
+            "block_bbox": [
+                61,
+                109,
+                572,
+                154
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "It is well known that genes encoding antimicrobial resistance are often linked to mobile genetic elements. One of the most important genetic elements responsible for spreading antimicrobial resistance genes among bacteria is the integron (Mazel, 2006). Most integrons were found to be located on plasmids and could be transferred to other strains by conjugation (Van et al., 2012). In this study, PCR identified class 1 integrons in 39.1% S. enterica isolates (Table 1). The incidence of class 1 integrons was higher in meat products (39.6%) than in dairy products (37.5%) (Table 1). DNA-sequencing results for the inserted gene cassettes identified 12 types of class 1 integrons with 16 different antimicrobial resistance gene cassettes (Table 1). Our results relating to the incidence of class 1 integrons are higher than those reported in the USA, where only 15% of S. enterica serovars (including Typhimurium and Enteritidis) isolated from retail meats harbored class 1 integrons (Zhao et al., 2009). This incidence of class 1 integrons in dairy products is significantly higher than that recently reported for the USA by Van Keesel et al. (2013), as class 1 integrons were identified in only 2.8% of the MDR S. enterica isolates isolated from bulk milk and milk filters. Class 2 integron is also an important vehicle for spreading antimicrobial resistance genes in S. enterica strains (Ahmed et al., 2005). In this study, PCR identified class 2 integrons in only 8.7% S. enterica isolates as follows: S. enterica serovar Typhimurium (4.4%) and S. enterica serovar Enteritidis (4.4%) (Table 1). The incidence of class 2 integrons was higher in meat products (9.4%) than in dairy products (6.2%). DNA-sequencing results for the inserted gene cassettes identified three types of class 2 integrons (Table 1). In Egypt, class 2 integrons have been reported previously in 5.4% of Gram-negative bacteria isolated from bovine mastitis (Ahmed and Shimamoto, 2011). Interestingly, to the best of our knowledge, this is the first report of the detection and identification of class 2 integrons in raw milk.",
+            "block_bbox": [
+                60,
+                172,
+                574,
+                804
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "##### 3.3. Incidence of  $ \\beta $ -lactamase-encoding genes in S. enterica from meat and dairy products",
+            "block_bbox": [
+                61,
+                821,
+                572,
+                866
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Production of  $ \\beta $ -lactamases is considered the main mechanism of resistance in Gram-negative bacteria to overcome penicillin-derived ( $ \\beta $ -lactam) antibiotics. Resistance to expanded-spectrum cephalosporins in S. enterica is a special concern, since these antimicrobials are a front-line therapeutic for the treatment of numerous Gram-negative infections (Bradford, 2001). In this study, PCR identified  $ \\beta $ -lactamase-encoding genes in 75.4% S. enterica isolates. The incidence of  $ \\beta $ -lactamase-encoding genes was very similar in meat products (75.5%) and dairy products (75.0%) (Table 1). These genes include:  $ bla_{TEM-1} $  (41.5%),  $ bla_{CMY-2} $  (11.3%),  $ bla_{CTX-M-3} $  and  $ bla_{CTX-M-15} $  (11.3%),  $ bla_{SHV-12} $  (7.5%) and  $ bla_{OXA-1} $  (3.7%) (Table 1). In China,  $ bla_{OXA-1} $  was the most commonly identified  $ \\beta $ -lactamase gene in S. enterica isolates from pigs, ducks and chickens from abattoirs and retail markets, followed by  $ bla_{TEM-1} $ ,  $ bla_{PSE-1} $  and  $ bla_{CMY-2} $  (Li et al., 2013). In Portugal,  $ bla_{CTX-M-1} $ ,  $ bla_{CTX-M-14} $ ,  $ bla_{CTX-M-15} $  and  $ bla_{CTX-M-32} $ ,  $ bla_{SHV-12} $  and  $ bla_{TEM-1} $  genes were detected in S. enterica isolates from poultry, swine and food products of animal origin (bovine, swine and poultry) (Clemente et al., 2013). In the USA, 11.4% of S. enterica isolates isolated from bulk milk and milk filters were positive for  $ bla_{CMY} $  (Van Keesel et al., 2013).",
+            "block_bbox": [
+                60,
+                884,
+                574,
+                1306
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "##### 3.4. Incidence of plasmid-mediated quinolone resistance genes in S. enterica from meat and dairy products",
+            "block_bbox": [
+                60,
+                1323,
+                572,
+                1368
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Quinolones are used extensively in veterinary practice worldwide to combat bacterial diseases. S. enterica with reduced susceptibility to ciprofloxacin is of serious concern as fluoroquinolone (e.g., ciprofloxacin) is the drug of first choice for the treatment of invasive and systemic salmonellosis that occurs in humans and animals (Dimitrov et al., 2007). In this study, the plasmid-mediated quinolone resistance genes: qnrA, qnrB, qnrS and aac(6')-Ib-cr were identified in 28.3% of tested S. enterica isolates from meat products. In Hong Kong, it was reported that S. enterica strains isolated from retail meats with different resistance profiles harbored plasmid-mediated quinolone resistance genes, one carrying the qnrS gene and the other carrying qnrS and aac(6')-Ib-cr genes (Wong and Chen, 2013). In China, qnrA, qnrB, qnrS and aac(6')-Ib-cr genes were identified in S. enterica strains isolated from retail foods (including chicken meat) with the incidence of 46.6%, 12.7%, 19.5% and 13.6%, respectively (Yang et al., 2013). In Colombia, qnrB was identified in S. enterica strains isolated from retail meats (including ground and chicken meats) (Karczmarczyk et al., 2010). Also qnrB, qnrS and aac(6')-Ib-cr were identified in 25% of tested S. enterica isolates from dairy products. In Egypt, qnrA, qnrB, qnrS and aac(6')-Ib-cr genes were identified in 14.3% of Gram-negative bacteria isolated from bovine mastitis (Ahmed and Shimamoto, 2011). It is well known that qnr genes confer only low-level resistance to fluoroquinolones and accumulations of quinolone resistance-determining region (QRDR) mutations is necessary for S. enterica to be resistant to fluoroquinolone especially ciprofloxacin (Eaves et al., 2004; Robicsek et al., 2006). To the best of our knowledge, this is the first report of the detection and identification of plasmid-mediated quinolone resistance genes in S. enterica isolates from dairy products.",
+            "block_bbox": [
+                61,
+                1387,
+                574,
+                1494
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                596,
+                110,
+                1111,
+                594
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "##### 3.5. Incidence of florfenicol resistance gene, floR, in S. enterica from meat and dairy products",
+            "block_bbox": [
+                597,
+                612,
+                1109,
+                657
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Florfenicol was approved by the FDA in 1996 for veterinary use in food animals in the United States. Florfenicol is not approved for human use; however, it is related to chloramphenicol and can select for cross-resistance among bacterial pathogens. Florfenicol resistance is mediated by the floR gene, which confers non-enzymatic cross-resistance to chloramphenicol (White et al., 2000). In this study, PCR-and DNA-sequence screening identified floR in 18.8% S. enterica isolates. The incidence of floR was higher in dairy products (25.0%) than in meat products (17.0%) (Table 1). In Malaysia, floR was detected in MDR S. enterica strains isolated from meat products (raw beef, chicken meat and street foods) (Thong and Modarressi, 2011). In Egypt, floR has been detected in 1% of S. enterica strains isolated from diseased broilers (Ahmed and Shimamoto, 2012). Also, in this study, floR was identified in 25.0% of S. enterica strains isolated from dairy products. In Egypt, floR has been detected in 6.3% of Gram-negative bacteria isolated from cases of bovine mastitis (Ahmed and Shimamoto, 2011). To the best of our knowledge, this is the first report of the detection and identification of floR in dairy products.",
+            "block_bbox": [
+                595,
+                675,
+                1111,
+                1055
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "3.6. Incidence of S. enterica serovar Typhimurium DT104 in meat and dairy products",
+            "block_bbox": [
+                596,
+                1072,
+                1109,
+                1117
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "S. enterica serovar Typhimurium DT104 is a truly international multiresistant clone of S. enterica that emerged in the UK in the early 1990s and then spread worldwide (Threlfall, 2000). S. enterica serovar Typhimurium DT104 usually shows a pentadrug-resistance phenotype to ampicillin, chloramphenicol, streptomycin, sulphonamides and tetracyclines (ACSSuT resistance type). In this study, S. enterica serovar Typhimurium DT104 was identified at high levels in beef (7.5%) and also in cheese (6.3%) (Table 1). Our findings are very important from the public health point of view as a beef-associated outbreak of S. enterica serovar Typhimurium DT104 occurred in September–November 2005 in the Netherlands (Kivi et al., 2007). Also, an outbreak of human salmonellosis caused by S. enterica serovar Typhimurium DT104 occurred in Denmark between July and August 2005 due to imported beef served as carpaccio (Ethelberg et al., 2007). Furthermore, in the USA, numerous outbreaks of S. enterica serovar Typhimurium DT104 have been associated with the consumption of raw-milk cheese (Cody et al., 1999).",
+            "block_bbox": [
+                595,
+                1135,
+                1111,
+                1495
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8767247796058655,
+                "coordinate": [
+                    64.35798645019531,
+                    72.60621643066406,
+                    84.57945251464844,
+                    88.02651977539062
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9351688027381897,
+                "coordinate": [
+                    362.435546875,
+                    71.07916259765625,
+                    809.5079345703125,
+                    90.68501281738281
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7788593173027039,
+                "coordinate": [
+                    61.242431640625,
+                    109.96886444091797,
+                    572.9307861328125,
+                    154.07708740234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855777621269226,
+                "coordinate": [
+                    60.5513916015625,
+                    172.93902587890625,
+                    574.8409423828125,
+                    804.1659545898438
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6258078813552856,
+                "coordinate": [
+                    61.6021728515625,
+                    821.803955078125,
+                    572.4680786132812,
+                    866.170166015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4060875475406647,
+                "coordinate": [
+                    66.15834045410156,
+                    1095.562744140625,
+                    142.16146850585938,
+                    1116.245361328125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.44531694054603577,
+                "coordinate": [
+                    133.37725830078125,
+                    1075.5146484375,
+                    192.7818603515625,
+                    1095.349853515625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8450399041175842,
+                "coordinate": [
+                    65.6769790649414,
+                    1118.0380859375,
+                    124.3447036743164,
+                    1137.53857421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876695275306702,
+                "coordinate": [
+                    60.666412353515625,
+                    884.6387939453125,
+                    574.6434326171875,
+                    1306.6329345703125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6710435748100281,
+                "coordinate": [
+                    391.83148193359375,
+                    1074.884033203125,
+                    465.79022216796875,
+                    1095.399658203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7864315509796143,
+                "coordinate": [
+                    501.78369140625,
+                    1075.2392578125,
+                    566.4755859375,
+                    1095.845703125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.48244744539260864,
+                "coordinate": [
+                    211.07858276367188,
+                    1179.637451171875,
+                    286.5964660644531,
+                    1200.377197265625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5260408520698547,
+                "coordinate": [
+                    436.4605712890625,
+                    1158.487060546875,
+                    500.957763671875,
+                    1178.854248046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4428541660308838,
+                "coordinate": [
+                    89.75956726074219,
+                    1201.6519775390625,
+                    155.55368041992188,
+                    1220.9539794921875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5328795313835144,
+                "coordinate": [
+                    189.80911254882812,
+                    1201.7239990234375,
+                    248.78909301757812,
+                    1221.2823486328125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7363535761833191,
+                "coordinate": [
+                    128.01168823242188,
+                    1283.991943359375,
+                    177.55917358398438,
+                    1304.509765625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6630246043205261,
+                "coordinate": [
+                    60.807861328125,
+                    1323.50927734375,
+                    572.3935546875,
+                    1368.353515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.980046272277832,
+                "coordinate": [
+                    61.17462158203125,
+                    1387.04296875,
+                    574.0181274414062,
+                    1494.67724609375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4341166615486145,
+                "coordinate": [
+                    727.1029052734375,
+                    132.37841796875,
+                    824.7686767578125,
+                    152.68508911132812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857951402664185,
+                "coordinate": [
+                    596.331787109375,
+                    110.33821105957031,
+                    1111.18359375,
+                    594.952880859375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4718640148639679,
+                "coordinate": [
+                    968.2293701171875,
+                    383.59295654296875,
+                    1019.4781494140625,
+                    404.18023681640625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7236029505729675,
+                "coordinate": [
+                    597.9228515625,
+                    612.8228759765625,
+                    1109.4000244140625,
+                    657.2069091796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987441897392273,
+                "coordinate": [
+                    595.7081298828125,
+                    675.6025390625,
+                    1111.3968505859375,
+                    1055.2181396484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7486795783042908,
+                "coordinate": [
+                    596.819580078125,
+                    1072.789794921875,
+                    1109.118408203125,
+                    1117.186279296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871391654014587,
+                "coordinate": [
+                    595.8660888671875,
+                    1135.9892578125,
+                    1111.356201171875,
+                    1495.196044921875
+                ]
+            }
+        ]
+    }
+}

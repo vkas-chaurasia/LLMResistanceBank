@@ -1,0 +1,751 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Wabeto2017.pdf",
+    "page_index": 4,
+    "page_count": 7,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Wabeto et al. Journal of Health, Population and Nutrition (2017) 36:52",
+            "block_bbox": [
+                108,
+                61,
+                582,
+                83
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 5 of 7",
+            "block_bbox": [
+                996,
+                62,
+                1080,
+                83
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "chart",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_chart_box_251_181_941_422.jpg\" alt=\"Image\" width=\"57%\" /></div>\n",
+            "block_bbox": [
+                251,
+                181,
+                941,
+                422
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Fig. 1 Multidrug resistant profile of Salmonella species isolated from raw beef samples at Wolaita Sodo municipal abattoir, 2016. Key: DA clindamycin, AMP ampicillin, AMC amoxicillin-clavulanic acid, GEN gentamicin, K kanamycin, CIP ciprofloxacin, CHL chloramphenicol, NA nalidixic acid, CRO ceftriaxone, F nitrofurantoin, S streptomycin, TE tetracycline</div>\n",
+            "block_bbox": [
+                118,
+                426,
+                1058,
+                489
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "the market [57]. In addition to public health problems, it could lead to economic loss in the country due to loss of exporting meat and animal products.",
+            "block_bbox": [
+                106,
+                532,
+                586,
+                604
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Ciprofloxacin showed a good antimicrobial activity against the Salmonella isolates. From the 56 isolates, 49 (87.5%) were susceptible to ciprofloxacin which was comparable to the previous studies conducted in Ethiopia [49], Nigeria [53], and Addis Ababa [51]. The effectiveness of ciprofloxacin might be a recent introduction of the drug. It is not widely used in countries like Ethiopia and other African countries [51].",
+            "block_bbox": [
+                106,
+                605,
+                586,
+                797
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Conclusions",
+            "block_bbox": [
+                107,
+                820,
+                227,
+                842
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonella species contamination frequency was high in raw beef, and most of the isolates exhibited resistance to commonly used antibiotics. Tetracycline-resistant and ciprofloxacin-susceptible Salmonella species were frequently detected in raw beef. People living in the town and consuming the raw meat are at risk for developing diseases, and attention should be given to select antimicrobials in treating Salmonella infections in both animals and human beings based on antimicrobial susceptibility test. Hence, intersectoral working and developing one health approach is essential. Health information should be given to individuals who have the habit of eating raw meat. Training on sanitary and hygiene practice should be given to the abattoir workers. WHO basic hygiene principles, which cover food safety procedures from the farm of origin to ante-mortem and post-mortem inspection to handling until the food is consumed, should be practiced.",
+            "block_bbox": [
+                105,
+                844,
+                586,
+                1255
+            ],
+            "block_id": 7,
+            "block_order": 4,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Additional file",
+            "block_bbox": [
+                108,
+                1297,
+                248,
+                1322
+            ],
+            "block_id": 8,
+            "block_order": 5,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Additional file 1: Table S1. Conventional biochemical test results of the samples that yielded growth on agar at Wolaita Sodo municipal abattoir, 2016. Table S2 Antimicrobial susceptibility pattern of 56 isolates of Salmonella spp. at Wolaita Sodo municipal abattoir, 2016. Figure S1 Antimicrobial susceptibility pattern of salmonella isolate at Wolaita Sodo Municipal Abattoir, 2016. (DOCX 37 kb)",
+            "block_bbox": [
+                115,
+                1344,
+                570,
+                1456
+            ],
+            "block_id": 9,
+            "block_order": 6,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Abbreviations",
+            "block_bbox": [
+                605,
+                536,
+                703,
+                554
+            ],
+            "block_id": 10,
+            "block_order": 7,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "BGA: Brilliant green agar; BPW: Buffered peptone water; MDR: Multiple drug resistance; MKTTn: Müller-Kauffman tetrathionate with novobiocin; MoH: Minister of Health; RV: Rappaport-Vassiliadis medium; SIM: Simon's citrate indole motility; TSI: Triple sugar iron; XLD: Xylose lysine desoxycholate",
+            "block_bbox": [
+                603,
+                554,
+                1075,
+                629
+            ],
+            "block_id": 11,
+            "block_order": 8,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Acknowledgements",
+            "block_bbox": [
+                604,
+                651,
+                741,
+                669
+            ],
+            "block_id": 12,
+            "block_order": 9,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "We would like to thank the staffs of Ottona Teaching Reference Hospital Laboratory and faculty member of Natural and Computational Sciences in Wolaita Sodo University.",
+            "block_bbox": [
+                602,
+                668,
+                1060,
+                725
+            ],
+            "block_id": 13,
+            "block_order": 10,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Funding",
+            "block_bbox": [
+                604,
+                747,
+                667,
+                765
+            ],
+            "block_id": 14,
+            "block_order": 11,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "Not applicable",
+            "block_bbox": [
+                604,
+                766,
+                700,
+                785
+            ],
+            "block_id": 15,
+            "block_order": 12,
+            "group_id": 15
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Availability of data and materials",
+            "block_bbox": [
+                604,
+                808,
+                829,
+                826
+            ],
+            "block_id": 16,
+            "block_order": 13,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "Data is not available for online access; however, readers who wish to gain access to the data can write to the corresponding author Antehun Alemayehu at Antehunalemayehu@gmail.com",
+            "block_bbox": [
+                603,
+                826,
+                1060,
+                883
+            ],
+            "block_id": 17,
+            "block_order": 14,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Authors' contributions",
+            "block_bbox": [
+                604,
+                905,
+                759,
+                922
+            ],
+            "block_id": 18,
+            "block_order": 15,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "WW and YA were involved in the conception and designing of the study, writing the proposal, analysis, and interpretation of data. AA was involved in the analysis and interpretation of data and manuscript writing. All authors agreed to be accountable for all aspects of the work.",
+            "block_bbox": [
+                602,
+                923,
+                1074,
+                998
+            ],
+            "block_id": 19,
+            "block_order": 16,
+            "group_id": 19
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Ethics approval and consent to participate",
+            "block_bbox": [
+                604,
+                1020,
+                890,
+                1038
+            ],
+            "block_id": 20,
+            "block_order": 17,
+            "group_id": 20
+        },
+        {
+            "block_label": "text",
+            "block_content": "The study was approved by the Ethical Clearance Committee of the Faculty of Natural and Computational Science, University of Wolaita Sodo, Southern Ethiopia. A letter of support was obtained from the administrative bodies of Wolaita Sodo town. A written consent was obtained from the municipal abattoir. The animals were being processed as part of the normal work of the abattoir, and samples were taken after explaining the objectives of the study.",
+            "block_bbox": [
+                602,
+                1039,
+                1074,
+                1166
+            ],
+            "block_id": 21,
+            "block_order": 18,
+            "group_id": 21
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Consent for publication",
+            "block_bbox": [
+                604,
+                1188,
+                766,
+                1206
+            ],
+            "block_id": 22,
+            "block_order": 19,
+            "group_id": 22
+        },
+        {
+            "block_label": "text",
+            "block_content": "Not applicable",
+            "block_bbox": [
+                604,
+                1207,
+                702,
+                1226
+            ],
+            "block_id": 23,
+            "block_order": 20,
+            "group_id": 23
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Competing interests",
+            "block_bbox": [
+                604,
+                1249,
+                745,
+                1267
+            ],
+            "block_id": 24,
+            "block_order": 21,
+            "group_id": 24
+        },
+        {
+            "block_label": "text",
+            "block_content": "The authors declare that they have no competing interests.",
+            "block_bbox": [
+                603,
+                1267,
+                970,
+                1287
+            ],
+            "block_id": 25,
+            "block_order": 22,
+            "group_id": 25
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Publisher's Note",
+            "block_bbox": [
+                605,
+                1318,
+                763,
+                1339
+            ],
+            "block_id": 26,
+            "block_order": 23,
+            "group_id": 26
+        },
+        {
+            "block_label": "text",
+            "block_content": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+            "block_bbox": [
+                603,
+                1340,
+                1034,
+                1378
+            ],
+            "block_id": 27,
+            "block_order": 24,
+            "group_id": 27
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Author details",
+            "block_bbox": [
+                605,
+                1393,
+                706,
+                1412
+            ],
+            "block_id": 28,
+            "block_order": 25,
+            "group_id": 28
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{1} $ Dubbo Preparatory School, Wolaita Zone, Ethiopia.  $ ^{2} $ Department of Medical Laboratory, College of Health Sciences and Medicine, Wolaita Sodo University, P.O. Box: 138, Wolaita Sodo, Ethiopia.",
+            "block_bbox": [
+                603,
+                1411,
+                1073,
+                1468
+            ],
+            "block_id": 29,
+            "block_order": 26,
+            "group_id": 29
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9534046649932861,
+                "coordinate": [
+                    108.43769836425781,
+                    61.59309387207031,
+                    582.4647827148438,
+                    83.86592102050781
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9178236722946167,
+                "coordinate": [
+                    996.7327880859375,
+                    62.37706756591797,
+                    1080.5606689453125,
+                    83.21361541748047
+                ]
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9819590449333191,
+                "coordinate": [
+                    251.332275390625,
+                    181.1111297607422,
+                    941.5950927734375,
+                    422.61541748046875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9681830406188965,
+                "coordinate": [
+                    118.023681640625,
+                    426.10211181640625,
+                    1058.7955322265625,
+                    489.04937744140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9831122756004333,
+                "coordinate": [
+                    106.88262939453125,
+                    532.68798828125,
+                    586.258056640625,
+                    604.49560546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878214001655579,
+                "coordinate": [
+                    106.4403076171875,
+                    605.2697143554688,
+                    586.4393310546875,
+                    797.6541137695312
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9427621364593506,
+                "coordinate": [
+                    107.63316345214844,
+                    820.2080078125,
+                    227.97389221191406,
+                    842.29248046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884433150291443,
+                "coordinate": [
+                    105.8004150390625,
+                    844.693603515625,
+                    586.9118041992188,
+                    1255.474609375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9427603483200073,
+                "coordinate": [
+                    108.95213317871094,
+                    1297.890869140625,
+                    248.42408752441406,
+                    1322.140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787710309028625,
+                "coordinate": [
+                    115.64813232421875,
+                    1344.133544921875,
+                    570.0693359375,
+                    1456.996337890625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9316565990447998,
+                "coordinate": [
+                    605.013671875,
+                    536.2130126953125,
+                    703.99462890625,
+                    554.7777099609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9767175316810608,
+                "coordinate": [
+                    603.151611328125,
+                    554.74755859375,
+                    1075.0877685546875,
+                    629.809814453125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9350190162658691,
+                "coordinate": [
+                    604.7017822265625,
+                    651.3176879882812,
+                    741.4964599609375,
+                    669.4357299804688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9742556214332581,
+                "coordinate": [
+                    602.8367919921875,
+                    668.059814453125,
+                    1060.5726318359375,
+                    725.11767578125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9018368721008301,
+                "coordinate": [
+                    604.6952514648438,
+                    747.4335327148438,
+                    667.2442016601562,
+                    765.9323120117188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9212541580200195,
+                "coordinate": [
+                    604.7994384765625,
+                    766.6393432617188,
+                    700.3043212890625,
+                    785.5969848632812
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9431205987930298,
+                "coordinate": [
+                    604.8565673828125,
+                    808.1415405273438,
+                    829.2725830078125,
+                    826.2123413085938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9746842384338379,
+                "coordinate": [
+                    603.249755859375,
+                    826.376953125,
+                    1060.9283447265625,
+                    883.1434326171875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9375091791152954,
+                "coordinate": [
+                    604.8392333984375,
+                    905.205322265625,
+                    759.4837646484375,
+                    922.9425048828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9807798266410828,
+                "coordinate": [
+                    602.8028564453125,
+                    923.1240234375,
+                    1074.7017822265625,
+                    998.4549560546875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9411767721176147,
+                "coordinate": [
+                    604.0904541015625,
+                    1020.4132080078125,
+                    890.5670166015625,
+                    1038.9754638671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.984586238861084,
+                "coordinate": [
+                    602.58837890625,
+                    1039.016357421875,
+                    1074.001220703125,
+                    1166.816162109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9137175679206848,
+                "coordinate": [
+                    604.9389038085938,
+                    1188.575439453125,
+                    766.5538940429688,
+                    1206.7978515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8862180113792419,
+                "coordinate": [
+                    604.8232421875,
+                    1207.952880859375,
+                    702.589111328125,
+                    1226.2978515625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9272549152374268,
+                "coordinate": [
+                    604.8740234375,
+                    1249.2510986328125,
+                    745.52978515625,
+                    1267.6527099609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9363624453544617,
+                "coordinate": [
+                    603.912353515625,
+                    1267.3516845703125,
+                    970.496337890625,
+                    1287.4034423828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9438956379890442,
+                "coordinate": [
+                    605.1471557617188,
+                    1318.740478515625,
+                    763.6692504882812,
+                    1339.600830078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9640112519264221,
+                "coordinate": [
+                    603.4139404296875,
+                    1340.6798095703125,
+                    1034.997802734375,
+                    1378.0589599609375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9304453730583191,
+                "coordinate": [
+                    605.2147216796875,
+                    1393.9949951171875,
+                    706.067138671875,
+                    1412.4786376953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9709784388542175,
+                "coordinate": [
+                    603.8004150390625,
+                    1411.40185546875,
+                    1073.1536865234375,
+                    1468.62060546875
+                ]
+            }
+        ]
+    }
+}

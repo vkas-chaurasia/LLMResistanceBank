@@ -1,0 +1,304 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bawa2015.pdf",
+    "page_index": 1,
+    "page_count": 7,
+    "width": 1190,
+    "height": 1684,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Bawa et al. J. Appl. Biosci. 2015 Antimicrobial susceptibility of Salmonella enterica strains isolated from raw beef, mutton and intestines sold in Ouagadougou, Burkina Faso.",
+            "block_bbox": [
+                134,
+                139,
+                1050,
+                191
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "text",
+            "block_content": "economic losses (Fadlalla et al., 2012; Hendriksen et al., 2012). In Burkina Faso, salmonella is considered as a public health concern and is a common source of medical complications (Bonkoungou et al., 2013; Timbiné et al., 2013; Dembélé et al., 2014). The utilization of antimicrobial drugs has played an important role in animal husbandry, since they are used in prophylaxis, treatment and growth promotion (EFSA, 2012). However, their abusive use in human and animals has led to an increase in bacterial resistance among several bacterial strains including Salmonella (Li et al., 2013). The husbandry practices used in the meat industry and the widespread use of medicated feeds in edible intestines operations made meat a major reservoir of antimicrobial-resistant Salmonella (Sodagari et al., 2015). Previous studies showed that Salmonella enterica",
+            "block_bbox": [
+                133,
+                211,
+                579,
+                670
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## MATERIALS AND METHODS",
+            "block_bbox": [
+                135,
+                692,
+                382,
+                717
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Study design and sampling: The study was conducted between October 2011 to October 2012, in twenty-five (25) open markets located in Ouagadougou, Burkina Faso (Figure 1). Sampling was done by buying 125g to 500g of beef (175), beef intestine (50), mutton (175) and sheep intestine (50). Samples collected were placed in separate sterile containers and then in ice boxes, transported at 4 °C to the laboratory and processed within two hours. The sampling sites were identified according to the importance and availability of meat.",
+            "block_bbox": [
+                134,
+                717,
+                578,
+                964
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Identification of Salmonella isolates: Salmonella isolation was conducted according to ISO 6579:2002 (E) methods lightly modified. Briefly, twenty-five grams (25 g) of each sample was mixed in 225 ml of buffered peptone water (Liofilchem, Italy) with a stomacher lab blender 400 (Sewar, England). The suspension of meat was incubated at 37°C for 24 hours. An aliquot (1 ml) of pre-enriched broth was inoculated into 9 ml of Rappaport-Vassiliadis (RV) broth (Liofilchem, Italy) and incubated at 42°C for 24 hours. A loopful of enriched broth was streaked onto Xylose-lysine desoxycholate (XLD) and Hektoen enteric (HEK) (Liofilchem, Italy) agar plate media and incubated at 37°C for 24 hours. All suspected Salmonella colonies were firstly tested for urea, indole, lactose, glucose, citrate metabolism, gas production, mannitol, mobility, oxidase (Bio-Rad, France). Presumed isolated of Salmonella were suspended in physiological saline solution (NaCl, 9 g/L in water) for identification by API 20 E system (BioMerieux, France). The database accessed isolated from meat and several foods is resistant to commonly used antibiotics like amoxicillin/clavulanic acid, aztreonam, cefalotin, ceftriaxone, cefepim, gentamicin, chloramphenicol, tetracycline, nalidixic acid and ciprofloxacin. (Kagambèga et al., 2011; Bagré et al., 2014; Bsadjo Tchamba et al., 2015; Sodagari et al., 2015). Animals are the main source of the resistance of Salmonella to the different antibiotics in treatment of human infections (kagambèga et al., 2013). Antibiotic resistance has been attributed to genetic and environmental factors (Sambe-Ba et al., 2013). In view of the great consumption for beef and mutton in Burkina Faso, this study was conducted to assess the microbial quality of raw meat sold in the local market of Ouagadougou and to determine the antibiotic resistance profile of Salmonella enterica.",
+            "block_bbox": [
+                133,
+                964,
+                578,
+                1434
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                609,
+                211,
+                1056,
+                670
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "from the apiweb $ ^{™} $  software (BioMérieux, France) was used in order to interpret the results.",
+            "block_bbox": [
+                610,
+                716,
+                1054,
+                767
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antibiotic susceptibility tests: Antibiogram was done onto Mueller-Hinton agar (Liofilchem, Italy) plate media following the standardized disk diffusion method as described by Bauer et al. (1966). Pure colonies of each isolate were suspended in sterile physiological saline solution (NaCl, 9 g/l %) to prepare a suspension at the same turbidity to the 0.5 Mc Farland standards ( $ \\sim10^{8} $  UFC/ml) and used to sow the Mueller-Hinton agar plates. A total of 14 Antimicrobials agents (Liofilchem, Italy) were tested: Aminopenicillins (amoxicillin/clavulanic acid, 30  $ \\mu $ g); Carboxypenicillins (ticarcillin, 75  $ \\mu $ g); Monobactams (aztreonam, 30  $ \\mu $ g); Carbapenemes (imipenem, 10  $ \\mu $ g); Cephalosporins (cefalotin, 30  $ \\mu $ g; cefalexin, 30  $ \\mu $ g; cefamandol, 30  $ \\mu $ g; ceftriaxone, 30  $ \\mu $ g; cefepim, 30  $ \\mu $ g); Aminoglucosides (gentamicin, 30  $ \\mu $ g); Phenicols (chloramphenicol, 30  $ \\mu $ g); Cyclines (tetracycline, 30  $ \\mu $ g); Quinolones (nalidixic acid, 30  $ \\mu $ g) and Fluoroquinolones (ciprofloxacin, 5  $ \\mu $ g). Inhibition diameters of the antibiotics were interpreted according to the European Committee on Antimicrobial Susceptibility Instructions (EUCAST, 2014).",
+            "block_bbox": [
+                610,
+                767,
+                1055,
+                1283
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Statistical analysis: Epi-Info version 3.5.1 software was used to calculate the prevalence and MedCalc 11.0.1.0 to determine p value of the various parameters. Any p value < 0.05 was considered as statistically significant.",
+            "block_bbox": [
+                610,
+                1283,
+                1055,
+                1384
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "number",
+            "block_content": "8967",
+            "block_bbox": [
+                570,
+                1494,
+                619,
+                1515
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9435176849365234,
+                "coordinate": [
+                    134.9158935546875,
+                    139.4591522216797,
+                    1050.720947265625,
+                    191.2158966064453
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885717034339905,
+                "coordinate": [
+                    133.42861938476562,
+                    211.45338439941406,
+                    579.01904296875,
+                    670.034423828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9348031282424927,
+                "coordinate": [
+                    135.17959594726562,
+                    692.6898193359375,
+                    382.2206726074219,
+                    717.0921630859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873336553573608,
+                "coordinate": [
+                    134.22784423828125,
+                    717.7939453125,
+                    578.1132202148438,
+                    964.5380859375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40837717056274414,
+                "coordinate": [
+                    258.4921569824219,
+                    889.8353271484375,
+                    303.5480651855469,
+                    912.9512939453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4888465106487274,
+                "coordinate": [
+                    158.96559143066406,
+                    1110.6552734375,
+                    202.7320098876953,
+                    1134.837890625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4750179648399353,
+                "coordinate": [
+                    158.27679443359375,
+                    1259.3193359375,
+                    201.64404296875,
+                    1282.75048828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988627016544342,
+                "coordinate": [
+                    133.79412841796875,
+                    964.4000244140625,
+                    578.9673461914062,
+                    1434.5809326171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881767630577087,
+                "coordinate": [
+                    609.63232421875,
+                    211.07127380371094,
+                    1056.299560546875,
+                    670.7423095703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9596290588378906,
+                "coordinate": [
+                    610.8707275390625,
+                    716.9078979492188,
+                    1054.7445068359375,
+                    767.9605102539062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881046414375305,
+                "coordinate": [
+                    610.531494140625,
+                    767.89306640625,
+                    1055.9310302734375,
+                    1283.55810546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9775334000587463,
+                "coordinate": [
+                    610.8604736328125,
+                    1283.24951171875,
+                    1055.6668701171875,
+                    1384.5283203125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9121060371398926,
+                "coordinate": [
+                    570.9937744140625,
+                    1494.292724609375,
+                    619.6776123046875,
+                    1515.096435546875
+                ]
+            }
+        ]
+    }
+}

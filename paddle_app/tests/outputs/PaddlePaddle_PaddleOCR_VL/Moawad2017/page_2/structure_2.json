@@ -1,0 +1,461 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Moawad2017.pdf",
+    "page_index": 1,
+    "page_count": 13,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Moawad et al. Gut Pathog (2017) 9:57",
+            "block_bbox": [
+                108,
+                61,
+                361,
+                85
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 2 of 13",
+            "block_bbox": [
+                992,
+                63,
+                1081,
+                86
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Background",
+            "block_bbox": [
+                107,
+                173,
+                230,
+                197
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "In spite of the improved technology and hygienic practices in developed countries at all stages of poultry and beef meat production, foodborne infections remain as a continuous threat to human and animal health. Escherichia (E.) coli and S. enterica serovars are the dominant members of Enterobacteriaceae causing foodborne infections. The expansion of antibiotic resistance in bacteria is also an emerging public health hazard due to the compromised efficacy in the treatment of infectious diseases $ ^{[1]} $ .",
+            "block_bbox": [
+                105,
+                198,
+                585,
+                438
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "The continuous exposure of bacterial strains by  $ \\beta $ -lactams has led to dynamic and massive production and mutation of  $ \\beta $ -lactamases [2]. Extended-spectrum  $ \\beta $ -lactamases (ESBLs) are derived from point mutations in the  $ bla_{TEM-1} $  and  $ bla_{SHV-1} $   $ \\beta $ -lactamase genes, which cannot hydrolyse cephamycin and are inhibited by clavulanic acid [3], while ampicillin class C  $ \\beta $ -lactamase (AmpC) enzymes are active on cephamycin as well as oxyiminocephalosporins and monobactams [4]. ESBLs are mostly located on mobile genetic elements (plasmids or integrons), which can facilitate their mobility from bacterial species to others by horizontal gene transfer [5].",
+            "block_bbox": [
+                105,
+                438,
+                586,
+                727
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "In Egypt, Salmonella isolates from chicken meat and organs showed high resistance to different antibiotic classes  $ [6–8] $  where also, ESBL-producing E. coli were isolated from retail chicken meat and dairy products in Egypt  $ [9, 10] $ .",
+            "block_bbox": [
+                106,
+                727,
+                585,
+                846
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Quinolones considered as drugs of choice for treatment of human infections caused by Gram-negative bacteria. However, resistance to quinolones has been emerged over the time due to misuse and/or overdose of drugs in human and veterinary practice  $ [11] $ . Plasmid-mediated quinolone resistance (PMQR) represented by quinolone resistance (qnr) genes is widely distributed among bacteria  $ [12–14] $ .",
+            "block_bbox": [
+                105,
+                846,
+                585,
+                1038
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Integrons are genetic elements able to capture individual antibiotic resistance genes including  $ \\beta $ -lactamases encoding genes and stimulate their transcription and expression [15]. The capture and spread of antibiotic resistance determinants by integrons stimulates the rapid evolution of multidrug resistances (MDR) among Gram-negative bacteria [16]. Among five main integron classes, integrons 1 and 2 are most frequent in Gram-negative bacteria. More than 70 different antibiotic resistance genes have been characterized within integrons [16].",
+            "block_bbox": [
+                104,
+                1038,
+                586,
+                1138
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                600,
+                173,
+                1083,
+                318
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Colistin as antimicrobial substance was used against Gram-negative bacteria. Its usage has been limited due to its systemic toxicity but it was re-introduced as a last-line option in treatment of human infections  $ [17, 18] $ .",
+            "block_bbox": [
+                602,
+                318,
+                1082,
+                414
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "This study aimed to discuss the prevalence, serotyping, antibiotic resistance and characterization of resistance-associated genes in S. enterica serovars and E. coli isolated from beef and poultry meat products in the Nile Delta, Egypt.",
+            "block_bbox": [
+                601,
+                414,
+                1083,
+                536
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Methods",
+            "block_bbox": [
+                602,
+                556,
+                697,
+                579
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Sampling, isolation and identification of bacteria",
+            "block_bbox": [
+                602,
+                581,
+                1001,
+                604
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "One hundred and eighty samples were randomly collected aseptically (90 chicken and 90 beef meat and organs) from slaughterhouses and markets in four districts in northern Egypt (Dakahlia, Damietta, Kafr El-Sheikh and Gharbia governorates). Briefly, 30 samples of freshly slaughtered chickens and 30 samples of native frozen chickens from restaurants and supermarkets (each 15 from breast and from thigh muscles and skin) were taken. Thirty samples of organs (gizzard and liver) were collected from freshly slaughtered chickens. In addition, 30 beef meat samples of freshly slaughtered carcasses (neck, brisket, flank and rump muscles) were obtained from slaughterhouses. Thirty samples from locally frozen beef meat, collected from supermarkets and restaurants and 30 samples from organs (liver, spleen and heart) from freshly slaughtered animals were used in this study (Tables 1, 2).",
+            "block_bbox": [
+                601,
+                604,
+                1083,
+                1013
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Ten grams of each meat and organ sample were incised using sterile scalpel and forceps, transported immediately to the laboratory in ice bags, then transferred into sterile homogenizer flask containing 45 ml of nutrient broth (Oxoid, Manchester, UK). The mixture was",
+            "block_bbox": [
+                600,
+                1013,
+                1084,
+                1136
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 1 Sources, number of S. enterica isolates and results of their serovar identification</div>\n",
+            "block_bbox": [
+                106,
+                1202,
+                817,
+                1226
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Serovar</td><td colspan=\"4\">Poultry</td><td colspan=\"4\">Beef</td><td rowspan=\"2\">(Poultry + beef) n (%)</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Fresh meat (n = 30)</td><td style='text-align: center;'>Frozen meat (n = 30)</td><td style='text-align: center;'>Fresh organs (n = 30)</td><td style='text-align: center;'>Total n (%)</td><td style='text-align: center;'>Fresh meat (n = 30)</td><td style='text-align: center;'>Frozen meat (n = 30)</td><td style='text-align: center;'>Fresh organs (n = 30)</td><td style='text-align: center;'>Total n (%)</td></tr><tr><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>2</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>3 (3.3)</td><td style='text-align: center;'>3</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>6 (6.7)</td><td style='text-align: center;'>9 (60.0)</td></tr><tr><td style='text-align: center;'>S. Paratyphi A</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2 (6.7)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1 (3.3)</td><td style='text-align: center;'>3 (20.0)</td></tr><tr><td style='text-align: center;'>S. Enteritidis</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (3.3)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (3.3)</td><td style='text-align: center;'>2 (13.3)</td></tr><tr><td style='text-align: center;'>S. Kentucky</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (3.3)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (6.7)</td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'>4</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>7 (7.8)</td><td style='text-align: center;'>4</td><td style='text-align: center;'>1</td><td style='text-align: center;'>3</td><td style='text-align: center;'>8 (8.8)</td><td style='text-align: center;'>15 (100)</td></tr></table>",
+            "block_bbox": [
+                106,
+                1231,
+                1078,
+                1445
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9393866062164307,
+                "coordinate": [
+                    108.38262939453125,
+                    61.95459747314453,
+                    361.6869201660156,
+                    85.3165512084961
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8982527256011963,
+                "coordinate": [
+                    992.4644775390625,
+                    63.743927001953125,
+                    1081.2596435546875,
+                    86.05197143554688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9317589402198792,
+                "coordinate": [
+                    107.08639526367188,
+                    173.7935791015625,
+                    230.33349609375,
+                    197.74349975585938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882252216339111,
+                "coordinate": [
+                    105.09074401855469,
+                    198.65640258789062,
+                    585.4434204101562,
+                    438.4885559082031
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.87275230884552,
+                "coordinate": [
+                    170.86363220214844,
+                    535.064208984375,
+                    241.4510040283203,
+                    560.162353515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882716536521912,
+                "coordinate": [
+                    105.28498840332031,
+                    438.1451110839844,
+                    586.260498046875,
+                    727.2181396484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7973647713661194,
+                "coordinate": [
+                    287.8243103027344,
+                    535.308349609375,
+                    355.1192932128906,
+                    560.2138671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9856452345848083,
+                "coordinate": [
+                    106.46138000488281,
+                    727.2182006835938,
+                    585.4874267578125,
+                    846.9011840820312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988149106502533,
+                "coordinate": [
+                    105.37652587890625,
+                    846.19287109375,
+                    585.6177368164062,
+                    1038.6025390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9816291332244873,
+                "coordinate": [
+                    104.938232421875,
+                    1038.408447265625,
+                    586.3575439453125,
+                    1138.117431640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871657490730286,
+                "coordinate": [
+                    600.9725341796875,
+                    173.31564331054688,
+                    1083.056884765625,
+                    318.5951232910156
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9847256541252136,
+                "coordinate": [
+                    602.0260009765625,
+                    318.5069580078125,
+                    1082.983642578125,
+                    414.0426025390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9836683869361877,
+                "coordinate": [
+                    601.7030029296875,
+                    414.34283447265625,
+                    1083.3309326171875,
+                    536.232666015625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9272409677505493,
+                "coordinate": [
+                    602.8375854492188,
+                    556.0309448242188,
+                    697.6109008789062,
+                    579.8156127929688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9300073981285095,
+                "coordinate": [
+                    602.4842529296875,
+                    581.3731689453125,
+                    1001.2197265625,
+                    604.8624267578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882077574729919,
+                "coordinate": [
+                    601.4417724609375,
+                    604.4937744140625,
+                    1083.77490234375,
+                    1013.8720703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9823930263519287,
+                "coordinate": [
+                    600.6932373046875,
+                    1013.3765869140625,
+                    1084.431884765625,
+                    1136.9097900390625
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9445958137512207,
+                "coordinate": [
+                    106.31170654296875,
+                    1202.9515380859375,
+                    817.1293334960938,
+                    1226.9930419921875
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9836040139198303,
+                "coordinate": [
+                    106.5908203125,
+                    1231.0068359375,
+                    1078.4063720703125,
+                    1445.310791015625
+                ]
+            }
+        ]
+    }
+}

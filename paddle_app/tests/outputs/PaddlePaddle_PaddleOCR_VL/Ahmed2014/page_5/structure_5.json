@@ -1,0 +1,295 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Ahmed2014.pdf",
+    "page_index": 4,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "A.M. Ahmed et al. / International Journal of Food Microbiology 189 (2014) 39–44",
+            "block_bbox": [
+                379,
+                71,
+                827,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "43",
+            "block_bbox": [
+                1105,
+                72,
+                1126,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Results of conjugation experiments and plasmid replicon typing for Salmonella enterica isolated from meat and dairy products.</div>\n",
+            "block_bbox": [
+                80,
+                127,
+                802,
+                148
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>No.</td><td style='text-align: center;'>Isolate</td><td style='text-align: center;'>Serovar</td><td style='text-align: center;'>Resistance genotype</td><td style='text-align: center;'>Plasmid replicona</td><td style='text-align: center;'>Conjugableb</td><td style='text-align: center;'>Transconjugant resistance genotypeb</td></tr><tr><td style='text-align: center;'>1</td><td style='text-align: center;'>ST-M1</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (aadA2 and bla_{PSE-1}), bla_{TEM-1}, bla_{CMY-2}, bla_{CTX-M-3}, qnrB, aac(6&#x27;)-Ib-cr, floR</td><td style='text-align: center;'>N</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{TEM-1}, bla_{CMY-2}, bla_{CTX-M-3}, qnrB, aac(6&#x27;)-Ib-cr</td></tr><tr><td style='text-align: center;'>2</td><td style='text-align: center;'>ST-M2</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (aadA2 and bla_{PSE-1}), bla_{TEM-1}, bla_{CMY-2}, bla_{CTX-M-15}, bla_{SHV-12}, qnrA, floR</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{TEM-1}, bla_{CMY-2}, bla_{CTX-M-15}, bla_{SHV-12}, qnrA, floR</td></tr><tr><td style='text-align: center;'>3</td><td style='text-align: center;'>ST-M3</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (aadA2 and bla_{PSE-1}), bla_{TEM-1}, bla_{SHV-12}, qnrB, floR</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{TEM-1}, bla_{SHV-12}, qnrB</td></tr><tr><td style='text-align: center;'>4</td><td style='text-align: center;'>ST-M4</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (aadA2 and bla_{PSE-1}), qnrS, floR</td><td style='text-align: center;'>NT</td><td style='text-align: center;'>NA</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>5</td><td style='text-align: center;'>ST-M5</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA12-orf-aadA2), bla_{CMY-2}, aac(6&#x27;)-Ib-cr</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA12-orf-aadA2), bla_{CMY-2}, aac(6&#x27;)-Ib-cr</td></tr><tr><td style='text-align: center;'>6</td><td style='text-align: center;'>ST-M6</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (aadB-catB3), bla_{TEM-1}, bla_{OXA-1}, floR</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (aadB-catB3), bla_{TEM-1}, bla_{OXA-1}, floR</td></tr><tr><td style='text-align: center;'>7</td><td style='text-align: center;'>ST-M7</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA1-aadA1), bla_{TEM-1}, bla_{SHV-12}, aac(6&#x27;)-Ib-cr</td><td style='text-align: center;'>HI1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA1-aadA1), bla_{TEM-1}, bla_{SHV-12}, aac(6&#x27;)-Ib-cr</td></tr><tr><td style='text-align: center;'>8</td><td style='text-align: center;'>ST-M8</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA12-orf-aadA2), bla_{TEM-1}, bla_{CTX-M-3}</td><td style='text-align: center;'>L/M</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA12-orf-aadA2), bla_{TEM-1}, bla_{CTX-M-3}</td></tr><tr><td style='text-align: center;'>9</td><td style='text-align: center;'>ST-M9</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA17-aadA5), bla_{TEM-1}, bla_{CTX-M-3}, floR</td><td style='text-align: center;'>L/M</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA17-aadA5), bla_{TEM-1}, bla_{CTX-M-3}, floR</td></tr><tr><td style='text-align: center;'>10</td><td style='text-align: center;'>ST-M10</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA17-aadA5), bla_{TEM-1}, qnrS</td><td style='text-align: center;'>HI1</td><td style='text-align: center;'>No</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>11</td><td style='text-align: center;'>ST-M11</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA1-aadA1), bla_{TEM-1}, qnrB</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA1-aadA1), bla_{TEM-1}, qnrB</td></tr><tr><td style='text-align: center;'>12</td><td style='text-align: center;'>ST-M12</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA1-aadA1), bla_{TEM-1}</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA1-aadA1), bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>13</td><td style='text-align: center;'>ST-M13</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (aadA2), bla_{TEM-1}, bla_{TEM-1}</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (aadA2), bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>14</td><td style='text-align: center;'>ST-M14</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA15), bla_{TEM-1}, bla_{CTX-M-15}</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA15), bla_{TEM-1}, bla_{CTX-M-15}</td></tr><tr><td style='text-align: center;'>15</td><td style='text-align: center;'>ST-M15</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 2 (dfrA1-sat2-aadA1), bla_{CMY-2}</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 2 (dfrA1-sat2-aadA1), bla_{CMY-2}</td></tr><tr><td style='text-align: center;'>16</td><td style='text-align: center;'>ST-M16</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 2 (dfrA1-sat2-aadA1)</td><td style='text-align: center;'>NT</td><td style='text-align: center;'>NA</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>17</td><td style='text-align: center;'>ST-M17</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>qnrB</td><td style='text-align: center;'>NT</td><td style='text-align: center;'>NA</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>18</td><td style='text-align: center;'>ST-M18</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>bla_{TEM-1}, aac(6&#x27;)-Ib-cr</td><td style='text-align: center;'>N</td><td style='text-align: center;'>No</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>19</td><td style='text-align: center;'>ST-M19</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>floR</td><td style='text-align: center;'>NT</td><td style='text-align: center;'>NA</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>20</td><td style='text-align: center;'>SE-M1</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 1 (dfrA1-aadA1), bla_{CMY-2}, qnrB, floR</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA1-aadA1), bla_{CMY-2}, qnrB</td></tr><tr><td style='text-align: center;'>21</td><td style='text-align: center;'>SE-M2</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 1 (aadA2), bla_{TEM-1}, bla_{CTX-M-3}, qnrS</td><td style='text-align: center;'>N</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (aadA2), bla_{TEM-1}, bla_{CTX-M-3}, qnrS</td></tr><tr><td style='text-align: center;'>22</td><td style='text-align: center;'>SE-M3</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 1 (dfrA17-aadA5), bla_{TEM-1}, aac(6&#x27;)-Ib-cr</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA17-aadA5), bla_{TEM-1}, aac(6&#x27;)-Ib-cr</td></tr><tr><td style='text-align: center;'>23</td><td style='text-align: center;'>SE-M4</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 1 (dfrA5), bla_{TEM-1}</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA5), bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>24</td><td style='text-align: center;'>SE-M5</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 1 (estX-aadA1), bla_{TEM-1}</td><td style='text-align: center;'>N</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (estX-aadA1), bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>25</td><td style='text-align: center;'>SE-M6</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>bla_{TEM-1}, floR</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>26</td><td style='text-align: center;'>SE-M7</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 2 (estX-sat2-aadA1), bla_{TEM-1}</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>27</td><td style='text-align: center;'>SE-M8</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 2 (estX-sat2-aadA1), bla_{SHV-12}</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{SHV-12}</td></tr><tr><td style='text-align: center;'>28</td><td style='text-align: center;'>SE-M9</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 2 (estX-sat2-aadA1)</td><td style='text-align: center;'>NT</td><td style='text-align: center;'>NA</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>29</td><td style='text-align: center;'>SE-M10</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>bla_{TEM-1}</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>No</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>30</td><td style='text-align: center;'>SE-M11</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>bla_{CMY-2}</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{CMY-2}</td></tr><tr><td style='text-align: center;'>31</td><td style='text-align: center;'>SE-M12</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>bla_{OXA-1}</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{OXA-1}</td></tr><tr><td style='text-align: center;'>32</td><td style='text-align: center;'>SI-M1</td><td style='text-align: center;'>S. Infantis</td><td style='text-align: center;'>Class 1 (aadA1), bla_{TEM-1}</td><td style='text-align: center;'>HI1</td><td style='text-align: center;'>No</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>33</td><td style='text-align: center;'>SI-M2</td><td style='text-align: center;'>S. Infantis</td><td style='text-align: center;'>Class 1 (aadA1)</td><td style='text-align: center;'>HI1</td><td style='text-align: center;'>No</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>34</td><td style='text-align: center;'>SI-M3</td><td style='text-align: center;'>S. Infantis</td><td style='text-align: center;'>floR</td><td style='text-align: center;'>NT</td><td style='text-align: center;'>NA</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>35</td><td style='text-align: center;'>SI-M4</td><td style='text-align: center;'>S. Infantis</td><td style='text-align: center;'>qnrB</td><td style='text-align: center;'>NT</td><td style='text-align: center;'>NA</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>36</td><td style='text-align: center;'>SI-M5</td><td style='text-align: center;'>S. Infantis</td><td style='text-align: center;'>bla_{TEM-1}</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>37</td><td style='text-align: center;'>SN-M1</td><td style='text-align: center;'>S. non-typable</td><td style='text-align: center;'>bla_{TEM-1}</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>38</td><td style='text-align: center;'>ST-D1</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (aadA2 and bla_{PSE-1}), bla_{TEM-1}, bla_{SHV-12}, aac(6&#x27;)-Ib-cr, qnrB, floR</td><td style='text-align: center;'>N</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{TEM-1}, bla_{SHV-12}, aac(6&#x27;)-Ib-cr, qnrB</td></tr><tr><td style='text-align: center;'>39</td><td style='text-align: center;'>ST-D2</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA17-aadA5), bla_{TEM-1}, bla_{CTX-M-3}, qnrS</td><td style='text-align: center;'>L/M</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA17-aadA5), bla_{TEM-1}, bla_{CTX-M-3}, qnrS</td></tr><tr><td style='text-align: center;'>40</td><td style='text-align: center;'>ST-D4</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 1 (dfrA15b-cm1A4-aadA2), bla_{TEM-1}</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA15b-cm1A4-aadA2), bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>41</td><td style='text-align: center;'>ST-D3</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>Class 2 (dfrA1-sat2), bla_{CMY-2}</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 2 (dfrA1-sat2), bla_{CMY-2}</td></tr><tr><td style='text-align: center;'>42</td><td style='text-align: center;'>ST-D5</td><td style='text-align: center;'>S. Typhimurium</td><td style='text-align: center;'>bla_{TEM-1}</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>43</td><td style='text-align: center;'>SE-D1</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 1 (aac(3)-Id-aadA7), bla_{TEM-1}, bla_{OXA-1}, floR</td><td style='text-align: center;'>I1</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (aac(3)-Id-aadA7), bla_{TEM-1}</td></tr><tr><td style='text-align: center;'>44</td><td style='text-align: center;'>SE-D2</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>Class 1 (dfrA12-orf-aadA2), bla_{CMY-2}</td><td style='text-align: center;'>A/C</td><td style='text-align: center;'>Yes</td><td style='text-align: center;'>Class 1 (dfrA12-orf-aadA2), bla_{CMY-2}</td></tr><tr><td style='text-align: center;'>45</td><td style='text-align: center;'>SE-D3</td><td style='text-align: center;'>S. Enteriditis</td><td style='text-align: center;'>qnrS</td><td style='text-align: center;'>NT</td><td style='text-align: center;'>NA</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>46</td><td style='text-align: center;'>SI-D1</td><td style='text-align: center;'>S. Infantis</td><td style='text-align: center;'>Class 1 (aadA1), bla_{TEM-1}</td><td style='text-align: center;'>HI1</td><td style='text-align: center;'>No</td><td style='text-align: center;'>NA</td></tr><tr><td style='text-align: center;'>47</td><td style='text-align: center;'>SI-D2</td><td style='text-align: center;'>S. Infantis</td><td style='text-align: center;'>floR</td><td style='text-align: center;'>NT</td><td style='text-align: center;'>NA</td><td style='text-align: center;'>NA</td></tr></table>",
+            "block_bbox": [
+                82,
+                151,
+                1122,
+                1183
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{a} $  NT. not tested.",
+            "block_bbox": [
+                92,
+                1187,
+                193,
+                1203
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "b NA, not applicable.",
+            "block_bbox": [
+                91,
+                1203,
+                217,
+                1222
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 3.7. Transferability and replicon typing of plasmids",
+            "block_bbox": [
+                80,
+                1281,
+                431,
+                1305
+            ],
+            "block_id": 6,
+            "block_order": 1,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, plasmid analysis showed that most of plasmid carrying integrons and resistance genes were conjugable with replicon types: IncI1, IncA/C, IncHI1, IncN and IncL/M (Table 2). These types of plasmid replicon are more frequently detected in plasmids among Enterobacteriaceae and play a crucial role in spreading of specific resistance genes especially extended-spectrum  $ \\beta $ -lactamase genes and acquired AmpC genes (Carattoli, 2011). Also, these types of plasmid are considered to be \"epidemic resistance plasmids\" that are being worldwide detected in Enterobacteriaceae of different origins and sources (Carattoli, 2011).",
+            "block_bbox": [
+                78,
+                1324,
+                592,
+                1495
+            ],
+            "block_id": 7,
+            "block_order": 2,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                614,
+                1281,
+                1127,
+                1326
+            ],
+            "block_id": 8,
+            "block_order": 3,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 4. Conclusions",
+            "block_bbox": [
+                615,
+                1345,
+                732,
+                1366
+            ],
+            "block_id": 9,
+            "block_order": 4,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Our study highlights the high incidence of MDR S. enterica in meat and dairy products from Egypt and provides molecular characterization of different mechanisms of antimicrobial resistance. Also, some resistance genes were identified in dairy products for the first time. Information on antibiotic resistance phenotypes and genotypes of foodborne",
+            "block_bbox": [
+                613,
+                1386,
+                1128,
+                1495
+            ],
+            "block_id": 10,
+            "block_order": 5,
+            "group_id": 10
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9465042948722839,
+                "coordinate": [
+                    379.8581237792969,
+                    71.35863494873047,
+                    827.421142578125,
+                    90.70763397216797
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8758983612060547,
+                "coordinate": [
+                    1105.765869140625,
+                    72.25530242919922,
+                    1126.35888671875,
+                    88.98091888427734
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9259184002876282,
+                "coordinate": [
+                    80.162353515625,
+                    127.96148681640625,
+                    802.6575927734375,
+                    148.04153442382812
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901151657104492,
+                "coordinate": [
+                    82.6666259765625,
+                    151.133544921875,
+                    1122.9530029296875,
+                    1183.97412109375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9003399610519409,
+                "coordinate": [
+                    92.02615356445312,
+                    1187.067626953125,
+                    193.64675903320312,
+                    1203.65478515625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.922539234161377,
+                "coordinate": [
+                    91.80537414550781,
+                    1203.9522705078125,
+                    217.9390411376953,
+                    1222.4371337890625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9507407546043396,
+                "coordinate": [
+                    80.75321960449219,
+                    1281.972900390625,
+                    431.908203125,
+                    1305.068115234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882404804229736,
+                "coordinate": [
+                    78.05886840820312,
+                    1324.26953125,
+                    592.0404052734375,
+                    1495.345703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9707199931144714,
+                "coordinate": [
+                    614.13720703125,
+                    1281.505859375,
+                    1127.3631591796875,
+                    1326.59765625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9306776523590088,
+                "coordinate": [
+                    615.4628295898438,
+                    1345.1729736328125,
+                    732.2743530273438,
+                    1366.6427001953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852460026741028,
+                "coordinate": [
+                    613.62255859375,
+                    1386.75146484375,
+                    1128.3486328125,
+                    1495.24853515625
+                ]
+            }
+        ]
+    }
+}

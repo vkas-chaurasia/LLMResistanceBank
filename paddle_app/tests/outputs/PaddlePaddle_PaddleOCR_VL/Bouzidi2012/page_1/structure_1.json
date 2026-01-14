@@ -1,0 +1,703 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bouzidi2012.pdf",
+    "page_index": 0,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Food Research International 45 (2012) 897–904",
+            "block_bbox": [
+                457,
+                70,
+                749,
+                91
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_83_122_205_231.jpg\" alt=\"Image\" width=\"10%\" /></div>\n",
+            "block_bbox": [
+                83,
+                122,
+                205,
+                231
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "header",
+            "block_content": "Contents lists available at ScienceDirect",
+            "block_bbox": [
+                456,
+                124,
+                757,
+                145
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "header",
+            "block_content": "ELSEVIER",
+            "block_bbox": [
+                84,
+                234,
+                205,
+                260
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "header",
+            "block_content": "Food Research International",
+            "block_bbox": [
+                423,
+                170,
+                788,
+                202
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "header",
+            "block_content": "journal homepage: www.elsevier.com/locate/foodres",
+            "block_bbox": [
+                364,
+                235,
+                847,
+                256
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "header_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_header_image_box_1008_111_1122_256.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                1008,
+                111,
+                1122,
+                256
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Salmonella contamination of laying-hen flocks in two regions of Algeria",
+            "block_bbox": [
+                79,
+                329,
+                976,
+                364
+            ],
+            "block_id": 7,
+            "block_order": 1,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Nardjess Bouzidi $ ^{a,b} $ , Leila Aoun $ ^{a} $ , Mourad Zeghdoudi $ ^{a} $ , Mourad Bensouilah $ ^{c} $ , Rachid Elgroud $ ^{d} $ , Ibtissem Oucief $ ^{a} $ , Sophie A. Granier $ ^{e} $ , Anne Brisabois $ ^{e} $ , Loïc Desquilbet $ ^{f} $ , Yves Millemann $ ^{b,*} $ \n\na Département des sciences vétérinaires, Eltarf University, Eltarf, Algeria\n\nb Université Paris-Est, Ecole Nationale Vétérinaire d'Alfort, Unité Microbiologie Alimentaire, Sécurité et Qualité des Aliments (MASQ), 94704 Maisons-Alfort Cedex, France\n\nc Laboratoire d'écologie et d'espèces marines (EEMAL — Marine species and ecology laboratory), Faculty of Science, University of Badji Mokhtar, Annaba, Algeria\n\nd Laboratoire d'hygiène et d'inspection des denrées alimentaires d'origine animale (Food animal hygiene and inspection laboratory), Veterinary science department, University of Mentouri, Constantine, Algeria\n\ne Bacterial Characterization and Epidemiology Unit, Maisons-Alfort Laboratory for Food Safety, Anses, 94706 Maisons-Alfort Cedex, France\n\nf Université Paris-Est, Ecole Nationale Vétérinaire d'Alfort, Unité de maladies contagieuses, 94704 Maisons-Alfort Cedex, France",
+            "block_bbox": [
+                78,
+                378,
+                1013,
+                432
+            ],
+            "block_id": 8,
+            "block_order": 2,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                80,
+                441,
+                495,
+                460
+            ],
+            "block_id": 9,
+            "block_order": 3,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                80,
+                459,
+                1047,
+                478
+            ],
+            "block_id": 10,
+            "block_order": 4,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                80,
+                475,
+                1002,
+                495
+            ],
+            "block_id": 11,
+            "block_order": 5,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                81,
+                494,
+                1125,
+                529
+            ],
+            "block_id": 12,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                80,
+                528,
+                870,
+                547
+            ],
+            "block_id": 13,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                81,
+                545,
+                808,
+                565
+            ],
+            "block_id": 14,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## ARTICLE INFO",
+            "block_bbox": [
+                80,
+                610,
+                277,
+                629
+            ],
+            "block_id": 15,
+            "block_order": 9,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Article history:\n\nReceived 14 February 2011\n\nAccepted 14 May 2011",
+            "block_bbox": [
+                80,
+                648,
+                247,
+                702
+            ],
+            "block_id": 16,
+            "block_order": 10,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "Keywords:\n\nSalmonella\n\nLaying-hen flocks\n\nPrevalence\n\nSerovars\n\nResistance to antibiotics\n\nRisk indicators\n\nAlgeria",
+            "block_bbox": [
+                80,
+                719,
+                231,
+                858
+            ],
+            "block_id": 17,
+            "block_order": 11,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## A B S T R A C T",
+            "block_bbox": [
+                410,
+                610,
+                546,
+                630
+            ],
+            "block_id": 18,
+            "block_order": 12,
+            "group_id": 18
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "A preliminary epidemiological study of Salmonella contamination in laying-hen flocks was carried out in the regions of Annaba and Eltarf, Algeria, from March to October 2008 and March to November 2009. Our objectives were (i) to estimate the prevalence of infection by Salmonella spp. in seven pooled samples during the hens' laying period (ii) to identify the serotypes and antimicrobial resistance phenotypes of isolates, and (iii) to characterize the factors that may be related to Salmonella contamination in Algerian henhouses. For this purpose, 18 out of 22 operational laying-hen houses were sampled one to three times during these periods: once at the start of laying (pullets aged 22–31 weeks), once in the middle of laying (47–60 weeks) and once at the end of laying prior to depopulation (70–86 weeks). The flocks' Salmonella status was assessed by collecting 2754 environmental samples that were analyzed according to the ISO 6579 method. The antibiotic resistance of Salmonella strains was tested as per the guidelines of the Clinical and Laboratory Standards Institute (CLSI). The relationship between each potential risk factor and the Salmonella status of laying-hen flocks was evaluated by calculating the relative risk with 95% confidence intervals. Eight flocks tested positive for Salmonella spp., with a higher prevalence at the end of laying than at either the beginning or middle. Only 19 isolates were recovered from the 2754 samples analyzed and nine different serotypes identified. S. enteritidis (n = 4) was the most prevalent serovar, along with S. Kentucky and S. Hadar (n = 3), followed by S. Heidelberg, S. Manhattan and S. Virchow (n = 2), whereas S. Dublin, S. Typhimurium and S. Albany were found only once. Thirteen isolates were resistant to at least one antimicrobial agent. Of these, six were resistant to at least three different antimicrobial classes. Salmonella serovar Kentucky isolates were resistant to fluoroquinolones with ciprofloxacin  $ MIC \\geq 8 \\, mg/L $ . Six risk indicators were identified as potentially related to the Salmonella status of layer houses.",
+            "block_bbox": [
+                407,
+                647,
+                1128,
+                1033
+            ],
+            "block_id": 19,
+            "block_order": 13,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "© 2011 Elsevier Ltd. All rights reserved.",
+            "block_bbox": [
+                855,
+                1032,
+                1125,
+                1052
+            ],
+            "block_id": 20,
+            "block_order": 14,
+            "group_id": 20
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 1. Introduction",
+            "block_bbox": [
+                80,
+                1105,
+                204,
+                1126
+            ],
+            "block_id": 21,
+            "block_order": 15,
+            "group_id": 21
+        },
+        {
+            "block_label": "text",
+            "block_content": "Non-typhoid Salmonella is a major bacterial pathogen and the second cause of food-borne diseases in Europe and worldwide (Bouwknegt et al., 2004; Collard et al., 2007; EFSA, 2007a). In France, Salmonella was isolated from 64% of food-borne outbreaks between 1996 and 2005. These Salmonella outbreaks were the cause of 49% of all reported cases (Delmas et al., 2006). In the United States, the Centers of Disease Control and Prevention (CDC) estimate that approximately 40,000 cases of human salmonellosis were diagnosed annually in the 1990s, and that the annual number of non-typhoidal salmonellosis cases was about 1.4 million (Voetsch et al., 2004). In addition to the health consequences, human Salmonella infections have a significant financial impact. A study in the Netherlands estimated the costs of Salmonella infections in 1999 at € 4 million (Van den Brandhof, de Wit, de Wit, & Van Duynhoven, 2004). An American study (Bryan & Doyle, 1995) estimated that the costs per human salmonellosis case range from approximately US $ 40 for uncomplicated cases to US$ 4.6 million for those ending with hospitalization and death. There are no accurate data on Salmonella prevalence in developing countries.",
+            "block_bbox": [
+                78,
+                1146,
+                591,
+                1339
+            ],
+            "block_id": 22,
+            "block_order": 16,
+            "group_id": 22
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                614,
+                1105,
+                1127,
+                1315
+            ],
+            "block_id": 23,
+            "block_order": 17,
+            "group_id": 22
+        },
+        {
+            "block_label": "text",
+            "block_content": "One of the most common sources of human gastroenteritis is the consumption of Salmonella-infected poultry products, especially eggs and poultry meat (EFSA, 2009). S. Enteritidis is, together with S. Typhimurium, the most commonly isolated serotype in human cases of salmonellosis in Europe (EFSA, 2007a; WHO, 2006), and contaminated eggs still remain the biggest source of infection from",
+            "block_bbox": [
+                613,
+                1315,
+                1128,
+                1443
+            ],
+            "block_id": 24,
+            "block_order": 18,
+            "group_id": 24
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "* Corresponding author at: Ecole Nationale Vétérinaire d'Alfort, 7 avenue du Général de Gaulle, 94704 Maisons-Alfort Cedex, France. Tel.: +33 143967123; fax: +33 143967055.",
+            "block_bbox": [
+                79,
+                1369,
+                591,
+                1421
+            ],
+            "block_id": 25,
+            "block_order": null,
+            "group_id": 25
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "E-mail address: ymillemann@vet-alfort.fr (Y. Millemann).",
+            "block_bbox": [
+                103,
+                1421,
+                446,
+                1441
+            ],
+            "block_id": 26,
+            "block_order": null,
+            "group_id": 26
+        },
+        {
+            "block_label": "footer",
+            "block_content": "0963-9969/$ – see front matter © 2011 Elsevier Ltd. All rights reserved. doi:10.1016/j.foodres.2011.05.027",
+            "block_bbox": [
+                79,
+                1455,
+                512,
+                1492
+            ],
+            "block_id": 27,
+            "block_order": null,
+            "group_id": 27
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9442762136459351,
+                "coordinate": [
+                    457.7479248046875,
+                    70.1775894165039,
+                    749.81396484375,
+                    91.44684600830078
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9550081491470337,
+                "coordinate": [
+                    83.57826232910156,
+                    122.35391235351562,
+                    205.3594207763672,
+                    231.26416015625
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9323156476020813,
+                "coordinate": [
+                    456.2669372558594,
+                    124.1397933959961,
+                    757.7164306640625,
+                    145.21414184570312
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8863751888275146,
+                "coordinate": [
+                    84.82896423339844,
+                    234.89584350585938,
+                    205.99168395996094,
+                    260.47686767578125
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9533272981643677,
+                "coordinate": [
+                    423.7817687988281,
+                    170.8977813720703,
+                    788.966552734375,
+                    202.1461639404297
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9431700110435486,
+                "coordinate": [
+                    364.39349365234375,
+                    235.46240234375,
+                    847.6338500976562,
+                    256.7805480957031
+                ]
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.949023425579071,
+                "coordinate": [
+                    1008.6292114257812,
+                    111.24283599853516,
+                    1122.910400390625,
+                    256.6208801269531
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9580669403076172,
+                "coordinate": [
+                    79.923583984375,
+                    329.8873596191406,
+                    976.95556640625,
+                    364.5517272949219
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9712288975715637,
+                "coordinate": [
+                    78.93197631835938,
+                    378.71051025390625,
+                    1013.4730224609375,
+                    432.23541259765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9191561937332153,
+                "coordinate": [
+                    80.30455017089844,
+                    441.65972900390625,
+                    495.72381591796875,
+                    460.260986328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8922755122184753,
+                "coordinate": [
+                    80.29226684570312,
+                    459.0679626464844,
+                    1047.1317138671875,
+                    478.4991149902344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8630228638648987,
+                "coordinate": [
+                    80.63916015625,
+                    475.8244323730469,
+                    1002.0125732421875,
+                    495.1285705566406
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9453157186508179,
+                "coordinate": [
+                    81.919189453125,
+                    494.22344970703125,
+                    1125.0751953125,
+                    529.23291015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9037449955940247,
+                "coordinate": [
+                    80.65460205078125,
+                    528.87841796875,
+                    870.6080932617188,
+                    547.0400390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8639287352561951,
+                "coordinate": [
+                    81.42495727539062,
+                    545.8294677734375,
+                    808.8165283203125,
+                    565.1783447265625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9424371123313904,
+                "coordinate": [
+                    80.9196548461914,
+                    610.242919921875,
+                    277.3244323730469,
+                    629.8984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9605987071990967,
+                "coordinate": [
+                    80.31442260742188,
+                    648.38818359375,
+                    247.59548950195312,
+                    702.357177734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9692496061325073,
+                "coordinate": [
+                    80.33236694335938,
+                    719.2078857421875,
+                    231.03884887695312,
+                    858.1619873046875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.932500958442688,
+                "coordinate": [
+                    410.555419921875,
+                    610.087158203125,
+                    546.7412109375,
+                    630.110107421875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9904006123542786,
+                "coordinate": [
+                    407.878662109375,
+                    647.7843017578125,
+                    1128.0965576171875,
+                    1033.1656494140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9428064227104187,
+                "coordinate": [
+                    855.1070556640625,
+                    1032.22998046875,
+                    1125.4346923828125,
+                    1052.74755859375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9344450831413269,
+                "coordinate": [
+                    80.96730041503906,
+                    1105.3486328125,
+                    204.09828186035156,
+                    1126.470703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877327680587769,
+                "coordinate": [
+                    78.75299072265625,
+                    1146.7139892578125,
+                    591.484619140625,
+                    1339.0792236328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884384274482727,
+                "coordinate": [
+                    614.143310546875,
+                    1105.7518310546875,
+                    1127.877685546875,
+                    1315.7938232421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9864813089370728,
+                "coordinate": [
+                    613.8466796875,
+                    1315.599365234375,
+                    1128.2685546875,
+                    1443.627685546875
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9684457182884216,
+                "coordinate": [
+                    79.95758056640625,
+                    1369.7913818359375,
+                    591.3482055664062,
+                    1421.6375732421875
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8444951772689819,
+                "coordinate": [
+                    103.84007263183594,
+                    1421.690673828125,
+                    446.5230712890625,
+                    1441.584228515625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9018627405166626,
+                "coordinate": [
+                    79.25131225585938,
+                    1455.7109375,
+                    512.4403076171875,
+                    1492.8916015625
+                ]
+            }
+        ]
+    }
+}

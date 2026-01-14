@@ -1,0 +1,721 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bouzidi2012.pdf",
+    "page_index": 3,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "900",
+            "block_bbox": [
+                63,
+                72,
+                92,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "N. Bouzidi et al. / Food Research International 45 (2012) 897–904",
+            "block_bbox": [
+                394,
+                70,
+                778,
+                90
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Detailed overview of Salmonella isolation from samples (feces, dust swabs, surface swabs, feed, water) collected from 18 laying-hen flocks in two Algerian regions.</div>\n",
+            "block_bbox": [
+                62,
+                127,
+                573,
+                165
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Flock no.</td><td colspan=\"4\">N positive/ samples analyzed at hen age</td></tr><tr><td style='text-align: center;'>22-31 week</td><td style='text-align: center;'>47-60 week</td><td style='text-align: center;'>70-86 week</td><td style='text-align: center;'>Salmonella serovars found in positive samples</td></tr><tr><td style='text-align: center;'>1 $ ^{a} $</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>2 $ ^{a} $</td><td style='text-align: center;'>3/61 $ ^{b} $</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>1/61 $ ^{c} $</td><td style='text-align: center;'>S. Enteritidis</td></tr><tr><td style='text-align: center;'>3</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>2/61</td><td style='text-align: center;'>S. Manhattan</td></tr><tr><td style='text-align: center;'>4</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>5 $ ^{a} $</td><td style='text-align: center;'>1/61 $ ^{b} $</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>1/61 $ ^{c} $</td><td style='text-align: center;'>S. Virchow</td></tr><tr><td style='text-align: center;'>6</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>N.A</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>7</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>2/61</td><td style='text-align: center;'>S. Kentucky; S. Typhimurium</td></tr><tr><td style='text-align: center;'>8</td><td style='text-align: center;'>N.A</td><td style='text-align: center;'>N.A</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>9</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>3/61</td><td style='text-align: center;'>S. Heidleberg; S. Kentucky</td></tr><tr><td style='text-align: center;'>10 $ ^{a} $</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>11</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>1/61</td><td style='text-align: center;'>S. Kentucky</td></tr><tr><td style='text-align: center;'>12</td><td style='text-align: center;'>N.A</td><td style='text-align: center;'>N.A</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>13</td><td style='text-align: center;'>N.A</td><td style='text-align: center;'>N.A</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>14</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'>1/57</td><td style='text-align: center;'>S. Dublin</td></tr><tr><td style='text-align: center;'>15</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'>0/61</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>16</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>17</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'>0/57</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>18</td><td style='text-align: center;'>1/57</td><td style='text-align: center;'>3/57</td><td style='text-align: center;'>DEP</td><td style='text-align: center;'>S. Hadar; S. Albany</td></tr></table>",
+            "block_bbox": [
+                66,
+                169,
+                570,
+                556
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "N.A: No Access. Restricted house access by farmers for only one or 2 sampling visits. DEP: the henhouse was depopulated when hens reached 66 weeks old.",
+            "block_bbox": [
+                62,
+                561,
+                566,
+                596
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{a} $  Four henhouses sampled at the end of lay for a first flocks and at the beginning and the middle of lay in the subsequent flocks reared in the same henhouses.",
+            "block_bbox": [
+                62,
+                596,
+                573,
+                631
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{b} $  Presence of Salmonella at the beginning of laying in the second flock housed in the same layer buildings.",
+            "block_bbox": [
+                63,
+                631,
+                573,
+                664
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{c} $  Samples were collected from the previous flock at the end of its laying period.",
+            "block_bbox": [
+                70,
+                664,
+                553,
+                684
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "and 5, respectively, Table 1): in feces from the first flocks  $ (n=2) $  and in dust samples in subsequent flocks in the same houses  $ (n=4) $ .",
+            "block_bbox": [
+                61,
+                732,
+                573,
+                776
+            ],
+            "block_id": 8,
+            "block_order": 1,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Thirteen isolates were resistant to at least one antimicrobial. Twelve isolates exhibited resistance to nalidixic acid. Six isolates",
+            "block_bbox": [
+                61,
+                776,
+                573,
+                817
+            ],
+            "block_id": 9,
+            "block_order": 2,
+            "group_id": 9
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Sources and antibiotic resistance patterns of isolated serovars.</div>\n",
+            "block_bbox": [
+                63,
+                867,
+                433,
+                887
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Source</td><td colspan=\"4\">All positive flocks (8/18)</td></tr><tr><td style='text-align: center;'>No. of samples analyzed</td><td style='text-align: center;'>No. of samples tested positive</td><td style='text-align: center;'>Serovars identified</td><td style='text-align: center;'>Resistance pattern</td></tr><tr><td style='text-align: center;'>Feces</td><td style='text-align: center;'>1610</td><td style='text-align: center;'>13 (0.80%)</td><td style='text-align: center;'>S. Enteritidis (n = 1)S. Virchow (n = 1)S. Kentucky (n = 3)S. Heidelberg (n = 2)S. Hadar (n = 3)</td><td style='text-align: center;'>[Na]susceptible3 [A-CF-S-SXT-CN-T-Na-OFX-ENR][NA]2 [A-CF-S-T-Na]1 [S-T-Na]2 Susceptible[Na]2 [Na]1 Susceptible</td></tr><tr><td style='text-align: center;'>Dust from cage</td><td style='text-align: center;'>322</td><td style='text-align: center;'>4 (1.24%)</td><td style='text-align: center;'>S. Manhattan (n = 2)S. Albany (n = 1)S. Enteritidis (n = 3)</td><td style='text-align: center;'>1 Susceptible</td></tr><tr><td style='text-align: center;'>Water</td><td style='text-align: center;'>250</td><td style='text-align: center;'>2 (0.80%)</td><td style='text-align: center;'>S. Virchow (n = 1)S. Dublin (n = 1)S. Typhimurium (n = 1)</td><td style='text-align: center;'>1 Susceptible1 Susceptible[A]</td></tr></table>",
+            "block_bbox": [
+                63,
+                890,
+                570,
+                1417
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "No Salmonella-positive sample for pools of feed and surface swabs samples. Ciprofloxacin MIC≥8  $ \\mu $ g/mL.",
+            "block_bbox": [
+                62,
+                1421,
+                513,
+                1457
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "A — ampicillin, S — streptomycin, T — tetracycline, CN — Gentamicin, Na — nalidixic acid, OFX — ofloxacin, ENR — enrofloxacin, CF — cephalothin, SXT — cotrimoxazole.",
+            "block_bbox": [
+                61,
+                1457,
+                572,
+                1493
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "were resistant to at least three different antibiotic classes. All three S. Kentucky and two isolates of S. Hadar were resistant to ampicillin, tetracycline and streptomycin, these five isolates being resistant to cephalotin too. The three S. Kentucky isolates were also resistant to fluoroquinolones (enrofloxacin, ofloxacin, and ciprofloxacin were tested,  $ MIC_{cipro} \\geq 8 \\, mg/L $ ). S. Typhimurium was resistant to ampicillin. S. Manhattan, S. Virchow and S. Dublin isolates were 100% susceptible to all tested antimicrobials (Table 2).",
+            "block_bbox": [
+                595,
+                109,
+                1111,
+                281
+            ],
+            "block_id": 14,
+            "block_order": 3,
+            "group_id": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 3.3. Risk indicators associated with the Salmonella status of flocks",
+            "block_bbox": [
+                597,
+                320,
+                1072,
+                342
+            ],
+            "block_id": 15,
+            "block_order": 4,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Six out of fifteen risk indicators were considered as pertinent indicators since their RR was  $ \\geq $ 2. However, none was found to be significantly related to contamination (p<0.05; Table 3), probably because of the small population. Salmonella contamination of flocks was more frequent when (i) the layer house was easily accessible (RR=3.5, CI 95%=0.5, 25; p=0.1), (ii) the buildings were not disinfected before pullets were loaded (RR=2.7, CI 95%=0.4, 16.9, p=0.2), (iii) ventilation was poor (RR=2.6, CI 95%=1.03, 6.5; p=0.08), (iv) dead hens were stored on the farms for at least 1 week (RR=2.6; CI 95%=1.0, 6.5; p=0.08), (v) we observed living or dead rodents inside the henhouse on each sampling visit (RR=2.6; CI 95%=0.8, 7.6; p=0.08), and when (vi) cages were dry cleaned only before pullets were loaded (RR=2, CI 95%=0.7, 5.3; p=0.2) (Table 3).",
+            "block_bbox": [
+                596,
+                362,
+                1110,
+                657
+            ],
+            "block_id": 16,
+            "block_order": 5,
+            "group_id": 16
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Potential risk indicators for Salmonella contamination of laying hen flocks.</div>\n",
+            "block_bbox": [
+                598,
+                765,
+                1040,
+                785
+            ],
+            "block_id": 17,
+            "block_order": null,
+            "group_id": 17
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Variables</td><td colspan=\"5\">All flocks</td></tr><tr><td style='text-align: center;'>Nb of flocks</td><td style='text-align: center;'>S+a</td><td style='text-align: center;'>RRb</td><td style='text-align: center;'>95% CIc</td><td style='text-align: center;'>p d</td></tr><tr><td style='text-align: center;'>Farm characteristics</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Presence of fence (easy access to the henhouses)</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>No</td><td style='text-align: center;'>12</td><td style='text-align: center;'>7 (58.3%)</td><td style='text-align: center;'>3.5</td><td style='text-align: center;'>0.5-25</td><td style='text-align: center;'>0.1</td></tr><tr><td style='text-align: center;'>Yes</td><td style='text-align: center;'>6</td><td style='text-align: center;'>1 (16.7%)</td><td style='text-align: center;'>1e</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Poultry house characteristics</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Ventilation system</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Poor f</td><td style='text-align: center;'>5</td><td style='text-align: center;'>4 (80%)</td><td style='text-align: center;'>2.6</td><td style='text-align: center;'>1.0-6.5</td><td style='text-align: center;'>0.08</td></tr><tr><td style='text-align: center;'>Medium-goodg</td><td style='text-align: center;'>13</td><td style='text-align: center;'>4 (30.8%)</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Biosecurity measures</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Disinfectant used for cleaning henhouse before pullets loaded</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>No</td><td style='text-align: center;'>13</td><td style='text-align: center;'>7 (53.8%)</td><td style='text-align: center;'>2.7</td><td style='text-align: center;'>0.4-16.9</td><td style='text-align: center;'>0.2</td></tr><tr><td style='text-align: center;'>Yes</td><td style='text-align: center;'>5</td><td style='text-align: center;'>1 (20%)</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Frequency of dead bird collection</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Kept on the farm at least 1 week</td><td style='text-align: center;'>5</td><td style='text-align: center;'>4 (80%)</td><td style='text-align: center;'>2.6</td><td style='text-align: center;'>1.0-6.5</td><td style='text-align: center;'>0.08</td></tr><tr><td style='text-align: center;'>Once a day</td><td style='text-align: center;'>13</td><td style='text-align: center;'>4 (30.8%)</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Rodents observed in the layer house during visit</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Yes</td><td style='text-align: center;'>7</td><td style='text-align: center;'>5 (71.4%)</td><td style='text-align: center;'>2.6</td><td style='text-align: center;'>0.8-7.6</td><td style='text-align: center;'>0.08</td></tr><tr><td style='text-align: center;'>No</td><td style='text-align: center;'>11</td><td style='text-align: center;'>3 (27.3%)</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Dry cleaning of cages before pullets loaded</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Yes</td><td style='text-align: center;'>6</td><td style='text-align: center;'>4 (66.7%)</td><td style='text-align: center;'>2</td><td style='text-align: center;'>0.7-5.3</td><td style='text-align: center;'>0.2</td></tr><tr><td style='text-align: center;'>No</td><td style='text-align: center;'>12</td><td style='text-align: center;'>4 (33.3%)</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>",
+            "block_bbox": [
+                602,
+                787,
+                1105,
+                1331
+            ],
+            "block_id": 18,
+            "block_order": null,
+            "group_id": 18
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{a} $  Number of Salmonella-infected flocks (%).",
+            "block_bbox": [
+                609,
+                1336,
+                874,
+                1354
+            ],
+            "block_id": 19,
+            "block_order": null,
+            "group_id": 19
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{b} $  Relative risk obtained by Fisher's test.",
+            "block_bbox": [
+                610,
+                1354,
+                854,
+                1371
+            ],
+            "block_id": 20,
+            "block_order": null,
+            "group_id": 20
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "Confidence interval.",
+            "block_bbox": [
+                610,
+                1371,
+                747,
+                1388
+            ],
+            "block_id": 21,
+            "block_order": null,
+            "group_id": 21
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{d} $  Fisher's test.",
+            "block_bbox": [
+                610,
+                1388,
+                703,
+                1404
+            ],
+            "block_id": 22,
+            "block_order": null,
+            "group_id": 22
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{e} $  Protective class was always considered the reference class.",
+            "block_bbox": [
+                609,
+                1404,
+                975,
+                1422
+            ],
+            "block_id": 23,
+            "block_order": null,
+            "group_id": 23
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{f} $  Static ventilation/insufficient windows so absence of fresh air associated with high temperatures inside the layer house ( $ >30\\ ^{\\circ}C $ ).",
+            "block_bbox": [
+                599,
+                1422,
+                1110,
+                1457
+            ],
+            "block_id": 24,
+            "block_order": null,
+            "group_id": 24
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{g} $  Dynamic or natural ventilation based on a sufficient number of windows/temperatures were maintained between  $ 20\\ °C-27\\ °C $ .",
+            "block_bbox": [
+                598,
+                1457,
+                1109,
+                1493
+            ],
+            "block_id": 25,
+            "block_order": null,
+            "group_id": 25
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8993383646011353,
+                "coordinate": [
+                    63.92684555053711,
+                    72.4443130493164,
+                    92.7403564453125,
+                    88.72100067138672
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9440400004386902,
+                "coordinate": [
+                    394.82391357421875,
+                    70.95687866210938,
+                    778.2079467773438,
+                    90.72506713867188
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9565138220787048,
+                "coordinate": [
+                    62.09552001953125,
+                    127.61711120605469,
+                    573.26611328125,
+                    165.40232849121094
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.42548224329948425,
+                "coordinate": [
+                    128.2375946044922,
+                    200.36959838867188,
+                    152.00599670410156,
+                    216.71200561523438
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.42642852663993835,
+                "coordinate": [
+                    77.39918518066406,
+                    245.1982421875,
+                    94.01264953613281,
+                    261.4476623535156
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.454412579536438,
+                "coordinate": [
+                    197.78338623046875,
+                    200.91485595703125,
+                    221.89956665039062,
+                    217.56857299804688
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9863474369049072,
+                "coordinate": [
+                    66.44869995117188,
+                    169.12786865234375,
+                    570.264404296875,
+                    556.488037109375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9501094222068787,
+                "coordinate": [
+                    62.74116516113281,
+                    561.67919921875,
+                    566.071044921875,
+                    596.8431396484375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9490962624549866,
+                "coordinate": [
+                    62.65071105957031,
+                    596.0390625,
+                    573.8006591796875,
+                    631.365234375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9601843357086182,
+                "coordinate": [
+                    63.15080261230469,
+                    631.2954711914062,
+                    573.6312255859375,
+                    664.9060668945312
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.952357828617096,
+                "coordinate": [
+                    70.86067199707031,
+                    664.3031005859375,
+                    553.5989990234375,
+                    684.744384765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9692577719688416,
+                "coordinate": [
+                    61.41290283203125,
+                    732.9686279296875,
+                    573.2260131835938,
+                    776.1529541015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9606530666351318,
+                "coordinate": [
+                    61.32550048828125,
+                    776.198486328125,
+                    573.3412475585938,
+                    817.86767578125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8905227780342102,
+                "coordinate": [
+                    63.352142333984375,
+                    867.76416015625,
+                    433.7097473144531,
+                    887.749267578125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886084794998169,
+                "coordinate": [
+                    63.89154052734375,
+                    890.30224609375,
+                    570.3077392578125,
+                    1417.119384765625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9498775601387024,
+                "coordinate": [
+                    62.30029296875,
+                    1421.010498046875,
+                    513.303955078125,
+                    1457.400634765625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9195260405540466,
+                "coordinate": [
+                    61.76470947265625,
+                    1457.2413330078125,
+                    572.799072265625,
+                    1493.7059326171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9860849380493164,
+                "coordinate": [
+                    595.9010009765625,
+                    109.83609008789062,
+                    1111.01220703125,
+                    281.05523681640625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8141394257545471,
+                "coordinate": [
+                    655.4354248046875,
+                    215.8223419189453,
+                    742.2537841796875,
+                    237.5544891357422
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9543830752372742,
+                "coordinate": [
+                    597.7164306640625,
+                    320.106689453125,
+                    1072.2852783203125,
+                    342.9393310546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9863177537918091,
+                "coordinate": [
+                    596.064697265625,
+                    362.04766845703125,
+                    1110.6640625,
+                    657.5518188476562
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.922946572303772,
+                "coordinate": [
+                    598.4713134765625,
+                    765.3157958984375,
+                    1040.074951171875,
+                    785.0311279296875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.43892911076545715,
+                "coordinate": [
+                    904.748046875,
+                    821.3926391601562,
+                    935.10595703125,
+                    838.8667602539062
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5059700608253479,
+                "coordinate": [
+                    1066.413818359375,
+                    820.6156005859375,
+                    1087.572998046875,
+                    841.9290771484375
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9865238070487976,
+                "coordinate": [
+                    602.603759765625,
+                    787.958251953125,
+                    1105.0643310546875,
+                    1331.8388671875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9224038124084473,
+                "coordinate": [
+                    609.7548217773438,
+                    1336.0797119140625,
+                    874.3855590820312,
+                    1354.5333251953125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9145231246948242,
+                "coordinate": [
+                    610.4854736328125,
+                    1354.45751953125,
+                    854.0904541015625,
+                    1371.954345703125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9101611971855164,
+                "coordinate": [
+                    610.30859375,
+                    1371.927978515625,
+                    747.4599609375,
+                    1388.303466796875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8888572454452515,
+                "coordinate": [
+                    610.5880737304688,
+                    1388.232421875,
+                    703.1394653320312,
+                    1404.857421875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9322141408920288,
+                "coordinate": [
+                    609.1649780273438,
+                    1404.843505859375,
+                    975.5927124023438,
+                    1422.977294921875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9554204940795898,
+                "coordinate": [
+                    599.616455078125,
+                    1422.13818359375,
+                    1110.132080078125,
+                    1457.90185546875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9631549715995789,
+                "coordinate": [
+                    598.1673583984375,
+                    1457.56884765625,
+                    1109.7764892578125,
+                    1493.18408203125
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+Table 5 Breakpoint values of antimicrobial agents according to CLSI, 2011 and phenotypic antimicrobial susceptibility profiles of E. coli isolates used in this study
+
+
+
+<table><tr><td rowspan="2">Antibiotic class</td><td rowspan="2">Antimicrobial agent</td><td rowspan="2">Conc. (μg)</td><td colspan="3">Zone diameter (9)</td><td colspan="8">E. coli (21)</td><td colspan="4">Resistance rate</td></tr><tr><td colspan="3"></td><td colspan="3">Poultry (15)</td><td colspan="2">Beef (6)</td><td colspan="3">Total (21)</td><td>Poultry</td><td>Beef</td><td>Total</td><td></td></tr><tr><td></td><td></td><td></td><td>R</td><td>I</td><td>S</td><td>R</td><td>I</td><td>S</td><td>R</td><td>I</td><td>S</td><td>R</td><td>I</td><td>S</td><td>%</td><td>%</td><td>%</td></tr><tr><td rowspan="2">Penicillin</td><td>Amoxicillin-clavulanic acid</td><td>20</td><td>≤ 13</td><td>14-17</td><td>≥ 18</td><td>10</td><td>4</td><td>1</td><td>3</td><td>3</td><td>-</td><td>13</td><td>7</td><td>1</td><td>66.7</td><td>50.0</td><td>61.9</td></tr><tr><td>Ampicillin</td><td>10</td><td>≤ 13</td><td>14-16</td><td>≥ 17</td><td>12</td><td>2</td><td>1</td><td>3</td><td>3</td><td>-</td><td>15</td><td>5</td><td>1</td><td>80.0</td><td>50.0</td><td>71.4</td></tr><tr><td rowspan="4">Cephalosporin</td><td>Cefotaxime</td><td>30</td><td>≤ 22</td><td>23-25</td><td>≥ 26</td><td>6</td><td>7</td><td>2</td><td>1</td><td>3</td><td>2</td><td>7</td><td>10</td><td>4</td><td>40.0</td><td>16.7</td><td>33.3</td></tr><tr><td>Cefpodoxime</td><td>20</td><td>≤ 17</td><td>18-20</td><td>≥ 21</td><td>3</td><td>12</td><td>-</td><td>2</td><td>4</td><td>-</td><td>5</td><td>16</td><td>-</td><td>20.0</td><td>33.3</td><td>23.8</td></tr><tr><td>Ceftazidime</td><td>30</td><td>≤ 17</td><td>18-20</td><td>≥ 21</td><td>5</td><td>9</td><td>1</td><td>-</td><td>6</td><td>-</td><td>5</td><td>15</td><td>1</td><td>33.3</td><td>0</td><td>23.8</td></tr><tr><td>Ceftriaxone</td><td>30</td><td>≤ 19</td><td>20-22</td><td>≥ 23</td><td>3</td><td>5</td><td>7</td><td>1</td><td>3</td><td>2</td><td>4</td><td>8</td><td>9</td><td>20.0</td><td>16.7</td><td>19.0</td></tr><tr><td rowspan="2">Miscellaneous</td><td>Chloramphenicol</td><td>30</td><td>≤ 12</td><td>13-17</td><td>≥ 18</td><td>3</td><td>9</td><td>3</td><td>1</td><td>1</td><td>4</td><td>4</td><td>10</td><td>7</td><td>20.0</td><td>16.7</td><td>19.0</td></tr><tr><td>Colistin</td><td>10</td><td>≤ 11</td><td>12-13</td><td>≥ 14</td><td>-</td><td>1</td><td>14</td><td>-</td><td>-</td><td>6</td><td>-</td><td>1</td><td>20</td><td>-</td><td>-</td><td>-</td></tr><tr><td rowspan="3">Fluoroquinolone</td><td>Ciprofloxacin</td><td>5</td><td>≤ 15</td><td>16-20</td><td>≥ 21</td><td>4</td><td>3</td><td>8</td><td>2</td><td>2</td><td>2</td><td>6</td><td>5</td><td>10</td><td>26.7</td><td>33.3</td><td>28.6</td></tr><tr><td>Enrofloxacin</td><td>5</td><td>≤ 17</td><td>18-20</td><td>≥ 21</td><td>2</td><td>5</td><td>8</td><td>1</td><td>4</td><td>1</td><td>3</td><td>9</td><td>9</td><td>13.3</td><td>16.7</td><td>14.3</td></tr><tr><td>Nalidixic acid</td><td>30</td><td>≤ 13</td><td>14-18</td><td>≥ 19</td><td>5</td><td>12</td><td>3</td><td>1</td><td>2</td><td>3</td><td>6</td><td>14</td><td>6</td><td>33.3</td><td>16.7</td><td>28.6</td></tr><tr><td>Aminoglycoside</td><td>Streptomycin</td><td>10</td><td>≤ 11</td><td>12-14</td><td>≥ 15</td><td>9</td><td>5</td><td>1</td><td>4</td><td>2</td><td>-</td><td>13</td><td>7</td><td>1</td><td>60.0</td><td>66.7</td><td>61.9</td></tr><tr><td>Tetracycline</td><td>Tetracycline</td><td>30</td><td>≤ 11</td><td>12-14</td><td>≥ 15</td><td>12</td><td>3</td><td>-</td><td>5</td><td>1</td><td>-</td><td>17</td><td>4</td><td>-</td><td>80.0</td><td>83.3</td><td>81.0</td></tr><tr><td>Sulphonamide</td><td>Trimethoprim/sulphamethoxazole</td><td>25</td><td>≤ 4</td><td>3</td><td>≥ 2</td><td>10</td><td>2</td><td>3</td><td>3</td><td>-</td><td>3</td><td>17</td><td>2</td><td>6</td><td>66.7</td><td>50.0</td><td>81.0</td></tr></table>
+
+S sensitive, / intermediate, R resistant
+
+break points according to Clinical and Laboratory Standards Institute  $ [21] $ .
+
+The antimicrobial susceptibility of colistin was determined by disc diffusion susceptibility testing using colistin discs (Oxoid) containing 10  $ \mu $ g. The disc zone diameters was interpreted according to previous report [22].
+
+## Molecular detection of antimicrobial resistance associated genes
+
+Escherichia coli and S. enterica isolates were tested for β-lactamase-encoding genes  $ bla_{TEM} $ ,  $ bla_{SHV} $ ,  $ bla_{CTX-M} $ ,  $ bla_{OXA} $  and  $ bla_{CMY} $  by PCR using universal primers for the corresponding gene families (Table 3) as described previously [23]. PCR amplification was also used for screening of plasmid-mediated quinolone resistance genes qnrA, qnrB and qnrS.
+
+For detection of variants of  $ bla_{TEM} $ ,  $ bla_{SHV} $ ,  $ bla_{CTX-M} $ ,  $ bla_{OXA} $  and  $ bla_{CMY} $  amplified PCR fragments were purified from agarose gels using Nucleospin Gel Extraction Kit (Macherey–Nagel, Düren, Germany). The products were sequenced and the sequencing results were analyzed using BLAST (http://blast.ncbi.nlm.nih.gov/blast.cgi).
+
+Colistin resistance associated gene mcr-1 was identified using a PCR assay (Table 3) as described by Liu et al. $ ^{[24]} $ . PCR for detection of carbapenemases blaOXA-23 gene was performed using OXA-23-F and OXA-23-R (Table 3). PCR reaction and conditions were performed according to Braun et al. $ ^{[25]} $ .
+
+
+
+## Detection and sequencing of class 1 and class 2 integrons
+
+PCR assays for detection of class 1 and class 2 integrons were performed using primers given in Table 3 and yielded PCR fragments that were purified from agarose gels using Nucleospin Gel Extraction Kit (Macherey–Nagel, Düren, Germany). The products were sequenced in Genome Centre, Gifu University, Japan. The sequencing results were analyzed using BLAST (http://blast.ncbi.nlm.nih.gov/blast.cgi).
+
+## Results
+
+Out of 180 examined samples 15 S. enterica (8.3%) (7 from poultry and 8 from beef) (Table 1) as well as 21 E. coli (11.7%) (15 from poultry and 6 from beef) (Table 2) were isolated and identified using bacteriological methods and biochemical characterization.
+
+#### Serological characterization of S. enterica and E. coli
+
+Fifteen isolated S. enterica were typed as 9 S. enterica serovar Typhimurium (60.0%; 3 from chicken and 6 from beef), 3 S. enterica Paratyphi A (20.0%; 2 from chickens and 1 from beef), 2 S. enterica serovar Enteritidis (13.3%; 1 from chicken and 1 from beef) and 1 S. enterica serovar Kentucky (6.7%) from chicken sample (Table 1).

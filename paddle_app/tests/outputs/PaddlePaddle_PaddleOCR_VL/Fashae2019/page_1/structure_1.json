@@ -1,0 +1,448 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Fashae2019.pdf",
+    "page_index": 0,
+    "page_count": 11,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Original Article",
+            "block_bbox": [
+                99,
+                131,
+                286,
+                162
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Antimicrobial susceptibility and serovars of Salmonella from chickens and humans in Ibadan, Nigeria",
+            "block_bbox": [
+                95,
+                188,
+                1095,
+                254
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Kayode Fashae $ ^{1} $ , Folasade Ogunsola $ ^{3} $ , Frank M. Aarestrup $ ^{2} $ , Rene S. Hendriksen $ ^{2} $ ",
+            "block_bbox": [
+                94,
+                279,
+                977,
+                310
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{1} $ Department of Microbiology, University of Ibadan, Nigeria",
+            "block_bbox": [
+                96,
+                334,
+                620,
+                359
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{2} $ WHO Collaborating Centre for Antimicrobial Resistance in Food-borne Pathogens and EU Community Reference Laboratory for Antimicrobial Resistance, National Food Institute, Technical University of Denmark, Kgs. Lyngby, Denmark\n\n $ ^{3} $ Department of Medical Microbiology and Parasitology, University of Lagos, Nigeria",
+            "block_bbox": [
+                95,
+                358,
+                1110,
+                426
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                96,
+                427,
+                842,
+                453
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Abstract",
+            "block_bbox": [
+                96,
+                478,
+                186,
+                500
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Background: This study determines the prevalence and antibiotic resistance of Salmonella serovars from humans and chickens in Ibadan, Nigeria, in 2004-2007.\n\nMethodology: A total of 991 blood samples were collected from patients in 2004 to 2005 and 641 fecal samples were collected from poultry farms in 2007. All Salmonella isolates were serotyped and tested for antimicrobial susceptibility.\n\nResults: Thirty-nine (4%) Salmonella isolates were obtained from human blood and 70 (11%) from chicken fecal samples. The human isolates revealed nine different serovars; 82% were non-typhoidal Salmonella and 18% were (S. Typhi). The majority of serovars from humans were S. Enteritidis (33%), S. Dublin (18%), and S. Typhimurium (18%). Resistance to chloramphenicol, sulfamethoxazole, trimethoprim, and ampicillin ranged from 36% to 59% for the human isolates.\n\nEight different serovars were obtained from chickens; S. Virchow (71%) predominated. A high frequency (87%) of reduced susceptibility to ciprofloxacin was observed among the chicken isolates. A high frequency of resistance to tetracycline (93%), nalidixic acid (81%), and sulfamethoxazole (87%) was observed. Rare serovars such as S. Apapa, S. Mouschaui, S. Jukestown, S. Oritamerin, and S. Onireke were isolated from both humans and chickens. Identical serovars were not found among human and chicken isolates.\n\nConclusions: This study indicates that chickens are not a reservoir of Salmonella causing bacteraemia among humans in Ibadan, Nigeria. Studies locating the reservoirs responsible for invasive salmonellosis in humans are needed. Controls and targeted interventions against S. Virchow and the frequent occurrence of antimicrobial resistance in chickens should be initiated to prevent the spread of this serovar.",
+            "block_bbox": [
+                94,
+                501,
+                1127,
+                814
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Key words: Salmonella, Nigeria, antimicrobial resistance, human, chicken, bacteriaemia, plasmid mediated quinoline resistance",
+            "block_bbox": [
+                95,
+                832,
+                1039,
+                855
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "J Infect Dev Ctries 2010; 4(8):484-494.",
+            "block_bbox": [
+                95,
+                881,
+                388,
+                903
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "(Received 04 February 2010 – Accepted 05 May 2010)",
+            "block_bbox": [
+                95,
+                921,
+                457,
+                943
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Copyright © 2010 Fashae et al. This is an open-access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+            "block_bbox": [
+                93,
+                960,
+                1124,
+                1001
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I ntroduction",
+            "block_bbox": [
+                95,
+                1027,
+                232,
+                1050
+            ],
+            "block_id": 12,
+            "block_order": 12,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonella enterica is an important food-borne pathogen that is currently divided into 2,587 serotypes $ ^{[1]} $ . The typhoidal Salmonella serovars are host-restricted human pathogens and include Salmonella enterica serotype Typhi and S. Paratyphi $ ^{[2]} $ . Non-typhoidal Salmonella (NTS) are zoonotic agents and a wide variety of animals have been identified as reservoirs $ ^{[3-5]} $ . Poultry are considered as one of the most common vehicles of human salmonellosis $ ^{[6]} $ .",
+            "block_bbox": [
+                93,
+                1052,
+                580,
+                1305
+            ],
+            "block_id": 13,
+            "block_order": 13,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonellosis is often associated with gastroenteritis, which is usually self-limiting. In some cases, particularly in children, the elderly, and immunocompromised patients, Salmonella infection can lead to invasive and focal infections that can be severe  $ [7] $ . The ability of Salmonella to cause invasive infection varies with the serovar, the age of patient, and region. S. Typhi and S. Paratyphi A are highly invasive for both children and adults. Certain serovars of NTS, such as S. Choleraesuis, S. Dublin, and S. Virchow, have higher abilities than other serovars to cause invasive salmonellosis  $ [8-10] $ . In sub-Saharan Africa, NTS invasive infections are a public health concern for infants, young children, and young adults suffering from malnutrition, malaria, and HIV infection  $ [11-13] $ . Most human infections are caused by a limited number of serovars, which may vary from country to country and over time. The predominant serovars in some African countries include S. Enteritidis, S. Typhimurium, S. Concord, and S. Isangi  $ [10,12-16] $ .",
+            "block_bbox": [
+                92,
+                1305,
+                581,
+                1431
+            ],
+            "block_id": 14,
+            "block_order": 14,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                639,
+                1027,
+                1129,
+                1433
+            ],
+            "block_id": 15,
+            "block_order": 15,
+            "group_id": 14
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9307801723480225,
+                "coordinate": [
+                    99.11678314208984,
+                    131.4842987060547,
+                    286.1470031738281,
+                    162.5176239013672
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9755914211273193,
+                "coordinate": [
+                    95.1124267578125,
+                    188.1995849609375,
+                    1095.3837890625,
+                    254.66781616210938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.944719672203064,
+                "coordinate": [
+                    94.75143432617188,
+                    279.24725341796875,
+                    977.0015869140625,
+                    310.400390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.92281174659729,
+                "coordinate": [
+                    96.6920166015625,
+                    334.8737487792969,
+                    620.814697265625,
+                    359.1805114746094
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9611075520515442,
+                "coordinate": [
+                    95.60665893554688,
+                    358.68145751953125,
+                    1110.6717529296875,
+                    426.80316162109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9350115060806274,
+                "coordinate": [
+                    96.8660888671875,
+                    427.5628356933594,
+                    842.2534790039062,
+                    453.5326843261719
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9135405421257019,
+                "coordinate": [
+                    96.98085021972656,
+                    478.861328125,
+                    186.5019989013672,
+                    500.7850341796875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.7106186151504517,
+                "coordinate": [
+                    94.4232177734375,
+                    584.343505859375,
+                    1127.0032958984375,
+                    667.987060546875
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.720719575881958,
+                "coordinate": [
+                    94.25146484375,
+                    501.7167053222656,
+                    1127.9617919921875,
+                    814.4742431640625
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.7634608149528503,
+                "coordinate": [
+                    93.81024169921875,
+                    666.9403686523438,
+                    1127.50927734375,
+                    751.3186645507812
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.8306064009666443,
+                "coordinate": [
+                    93.9681396484375,
+                    749.851806640625,
+                    1127.2044677734375,
+                    814.10498046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9397575855255127,
+                "coordinate": [
+                    95.13668823242188,
+                    832.7083740234375,
+                    1039.1248779296875,
+                    855.4210205078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9405033588409424,
+                "coordinate": [
+                    95.03793334960938,
+                    881.0150146484375,
+                    388.7577209472656,
+                    903.080810546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9452092051506042,
+                "coordinate": [
+                    95.37687683105469,
+                    921.65673828125,
+                    457.49700927734375,
+                    943.676025390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9579031467437744,
+                "coordinate": [
+                    93.3089599609375,
+                    960.9049682617188,
+                    1124.8975830078125,
+                    1001.2066040039062
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9417069554328918,
+                "coordinate": [
+                    95.26718139648438,
+                    1027.252685546875,
+                    232.81704711914062,
+                    1050.471435546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883604049682617,
+                "coordinate": [
+                    93.3773193359375,
+                    1052.6319580078125,
+                    580.8927612304688,
+                    1305.1866455078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9859371781349182,
+                "coordinate": [
+                    92.9222412109375,
+                    1305.92578125,
+                    581.1449584960938,
+                    1431.80712890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887412190437317,
+                "coordinate": [
+                    639.047607421875,
+                    1027.514404296875,
+                    1129.3421630859375,
+                    1433.480712890625
+                ]
+            }
+        ]
+    }
+}

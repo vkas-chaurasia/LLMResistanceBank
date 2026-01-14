@@ -1,0 +1,583 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Nguyen2016.pdf",
+    "page_index": 3,
+    "page_count": 9,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Nguyen et al. Gut Pathog (2016) 8:39",
+            "block_bbox": [
+                108,
+                62,
+                356,
+                85
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 4 of 9",
+            "block_bbox": [
+                1000,
+                64,
+                1081,
+                85
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 1 List of primers and primer sequences used for detection of antimicrobial resistance genes</div>\n",
+            "block_bbox": [
+                107,
+                173,
+                895,
+                196
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Antibiotic</td><td style='text-align: center;'>Method</td><td style='text-align: center;'>Primer</td><td style='text-align: center;'>Sequence (5′-3′)</td><td style='text-align: center;'>Amplicon length (bp)</td><td style='text-align: center;'>Reference</td></tr><tr><td rowspan=\"2\">Erythromycin</td><td style='text-align: center;'>MAMA-PCR $ ^{a} $</td><td style='text-align: center;'>23SRNA-F ERY2075-R ERY2074-R</td><td style='text-align: center;'>TTA GCT AAT GTT GCC CGT ACC G TAG TAA AGG TCC ACG GGGTCG C AGT AAA GGT CCA CGG GGT CTG G</td><td style='text-align: center;'>485</td><td style='text-align: center;'>[17]</td></tr><tr><td style='text-align: center;'>PCR-RFLP $ ^{a} $</td><td style='text-align: center;'>F2-campy-23S R2-campy-23S</td><td style='text-align: center;'>AAT TGA TGG GGT TAG CAT TAG C CAA CAA TGG CTC ATA TAC AACTGG</td><td style='text-align: center;'>316</td><td style='text-align: center;'>[20]</td></tr><tr><td rowspan=\"2\">Ciprofloxacin</td><td style='text-align: center;'>MAMA-PCR $ ^{b} $</td><td style='text-align: center;'>CampyMAMAgyrA1 CampyMAMAgyrA5</td><td style='text-align: center;'>TTT TTA GCA AAG ATT CTG AT CAA AGC ATC ATA AAC TGC AA</td><td style='text-align: center;'>265</td><td style='text-align: center;'>[19]</td></tr><tr><td style='text-align: center;'>MAMA-PCR $ ^{c} $</td><td style='text-align: center;'>GZgyrACcoli3F CanpyMAMAgyrA8</td><td style='text-align: center;'>TAT GAG CGA TAT TAT CGG TC TAA GGC ATC GTA AAC AGC CA</td><td style='text-align: center;'>192</td><td style='text-align: center;'>[24]</td></tr><tr><td rowspan=\"3\">Tetracycline</td><td style='text-align: center;'>tet(O) PCR</td><td style='text-align: center;'>DMT 1 DMT 2</td><td style='text-align: center;'>GGC GTT TTG TTT ATG TGC G ATG GAC AAC CCG ACA GAA GC</td><td style='text-align: center;'>559</td><td style='text-align: center;'>[25]</td></tr><tr><td style='text-align: center;'>tet(A) PCR</td><td style='text-align: center;'>Tet(A)-F Tet(A)-R</td><td style='text-align: center;'>GTG AAA CCC AAC ATA CCC C GAA GGC AAG CAG GAT GTA G</td><td style='text-align: center;'>888</td><td style='text-align: center;'>[18]</td></tr><tr><td style='text-align: center;'>tet(A) PCR</td><td style='text-align: center;'>tet-A-1 tet-A-2</td><td style='text-align: center;'>GCT CAC GTT GAC GCA GGA AAG ATC GTC ATT GTC CGT TAC</td><td style='text-align: center;'>486</td><td style='text-align: center;'>This study</td></tr></table>",
+            "block_bbox": [
+                107,
+                200,
+                1078,
+                555
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{a} $  23S rRNA gene mutation",
+            "block_bbox": [
+                109,
+                562,
+                273,
+                582
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{b} $  gyrA gene mutation Campylobacter jejuni",
+            "block_bbox": [
+                108,
+                584,
+                369,
+                605
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "c gyrA gene mutation Campylobacter coli",
+            "block_bbox": [
+                108,
+                607,
+                358,
+                628
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "JX891463 and JX891464)). Briefly, primers tet-A-1 and tet-A-2 (Table 1; Jena Bioscience GmbH) were used with the following PCR programme: An initial denaturation at 96 °C for 60 s was followed by 35 cycles of denaturation (96 °C for 15 s), annealing (49 °C for 60 s) and extension (72 °C for 30 s). PCR was terminated by final extension at 72 °C for 60 s. The PCR resulted in a 486 bp product.",
+            "block_bbox": [
+                105,
+                662,
+                585,
+                830
+            ],
+            "block_id": 7,
+            "block_order": 1,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "All PCR products were analyzed by electrophoresis on 1.5 % agarose gels, staining with ethidium bromide and visualization under UV light.",
+            "block_bbox": [
+                106,
+                831,
+                584,
+                904
+            ],
+            "block_id": 8,
+            "block_order": 2,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## DNA sequencing",
+            "block_bbox": [
+                107,
+                926,
+                251,
+                950
+            ],
+            "block_id": 9,
+            "block_order": 3,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "PCR products obtained by tet(A) PCRs were sequenced by cycle sequencing with BigDye Terminator v1.1 Cycle Sequencing Kit (Applied Biosystems, Darmstadt, Germany) according to the instructions of the manufacturer. In addition to the amplification primers of the Tet(A)-F/R fragment tet-A-A (5'-AAT TTT CTT CAA ATA AGG-3') and tet-A-B (5'-GTC ATT CTT ATA TTA AGT GG-3') were used as sequencing primers. Sequencing products were analyzed with an ABI PRISM 3130 genetic analyzer.",
+            "block_bbox": [
+                105,
+                950,
+                585,
+                1170
+            ],
+            "block_id": 10,
+            "block_order": 4,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## MALDI-TOF mass spectrometry",
+            "block_bbox": [
+                107,
+                1191,
+                363,
+                1214
+            ],
+            "block_id": 11,
+            "block_order": 5,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Cultured bacteria were suspended in 300  $ \\mu $ l of bi-distilled water and mixed with 900 ml of ethanol (Carl Roth GmbH). Further treatment of samples and measurement were described by El-Ashker et al. [30].",
+            "block_bbox": [
+                105,
+                1214,
+                585,
+                1312
+            ],
+            "block_id": 12,
+            "block_order": 6,
+            "group_id": 12
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Results",
+            "block_bbox": [
+                107,
+                1333,
+                185,
+                1356
+            ],
+            "block_id": 13,
+            "block_order": 7,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I dentification of bacteria",
+            "block_bbox": [
+                107,
+                1359,
+                313,
+                1381
+            ],
+            "block_id": 14,
+            "block_order": 8,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "In total, 58 isolates suspected as Campylobacter were recovered from faeces and cloacal swabs of chicken flocks in Kenya. After storage in skimmed milk medium and transportation to Germany only 40 of these isolates could be re-cultivated. Four C. coli and 31 C. jejuni were identified by mPCR (Table 2). Five other isolates were identified by MALDI-TOF mass spectrometry as members of genera Bacillus, Staphylococcus, Ochrobactrum as well as two Bordetella isolates.",
+            "block_bbox": [
+                106,
+                1382,
+                586,
+                1456
+            ],
+            "block_id": 15,
+            "block_order": 9,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                662,
+                1083,
+                805
+            ],
+            "block_id": 16,
+            "block_order": 10,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Eighteen skimmed milk tubes contained Campylobacter DNA  $ [14\\ C.\\ coli,\\ 3\\ C.\\ jejuni\\ and\\ one\\ sample\\ harboured\\ both\\ C.\\ coli\\ and\\ C.\\ jejuni\\ (Table\\ 2)] $ .",
+            "block_bbox": [
+                602,
+                806,
+                1082,
+                881
+            ],
+            "block_id": 17,
+            "block_order": 11,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial susceptibility profiles and multidrug resistance",
+            "block_bbox": [
+                602,
+                902,
+                1013,
+                948
+            ],
+            "block_id": 18,
+            "block_order": 12,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "The results of antimicrobial susceptibility testing of C. jejuni and C. coli isolates and the rate of resistance to seven antimicrobial agents are given in Tables 3 and 4, respectively. The C. jejuni isolates showed a high rate of resistance to nalidixic acid, tetracycline and ciprofloxacin with 77.4, 71.0 and 71.0 %, respectively. Low resistance rates were detected for gentamicin and chloramphenicol, both with 25.8 % of the isolates. For the low number of C. coli isolates (n = 4) a similar pattern was observed. Only two isolates were susceptible to all tested antimicrobial agents, one isolate was resistant to all tested antibiotics.",
+            "block_bbox": [
+                601,
+                950,
+                1083,
+                1215
+            ],
+            "block_id": 19,
+            "block_order": 13,
+            "group_id": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "The multidrug resistance profiles of 31 C. jejuni isolates are shown in Table 5. Multidrug resistance to three or more classes of antibiotics was found in 19 isolates (61.3 %) and was observed in a range between 5.3 and 26.3 %.",
+            "block_bbox": [
+                601,
+                1215,
+                1083,
+                1312
+            ],
+            "block_id": 20,
+            "block_order": 14,
+            "group_id": 20
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Molecular biological detection of antibiotic resistance determinants",
+            "block_bbox": [
+                602,
+                1334,
+                1039,
+                1380
+            ],
+            "block_id": 21,
+            "block_order": 15,
+            "group_id": 21
+        },
+        {
+            "block_label": "text",
+            "block_content": "DNA of 35 viable Campylobacter isolates and of 18 non-growing samples was investigated by PCR to detect antibiotic resistance. Mismatch amplification mutation assay",
+            "block_bbox": [
+                601,
+                1382,
+                1083,
+                1456
+            ],
+            "block_id": 22,
+            "block_order": 16,
+            "group_id": 22
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9459652304649353,
+                "coordinate": [
+                    108.43167877197266,
+                    62.53285598754883,
+                    356.1114807128906,
+                    85.26164245605469
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9092456102371216,
+                "coordinate": [
+                    1000.467529296875,
+                    64.10399627685547,
+                    1081.54443359375,
+                    85.90178680419922
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9475408792495728,
+                "coordinate": [
+                    107.12167358398438,
+                    173.51441955566406,
+                    895.96728515625,
+                    196.86326599121094
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9883407354354858,
+                "coordinate": [
+                    107.30105590820312,
+                    200.6671142578125,
+                    1078.6771240234375,
+                    555.972412109375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9150506854057312,
+                "coordinate": [
+                    109.40180969238281,
+                    562.3338012695312,
+                    273.94854736328125,
+                    582.6476440429688
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9124473929405212,
+                "coordinate": [
+                    108.49259948730469,
+                    584.94677734375,
+                    369.679931640625,
+                    605.874267578125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9134553670883179,
+                "coordinate": [
+                    108.95413970947266,
+                    607.9044189453125,
+                    358.5726623535156,
+                    628.9219970703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886515736579895,
+                "coordinate": [
+                    105.83203125,
+                    662.4619140625,
+                    585.8939819335938,
+                    830.338623046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9792062044143677,
+                "coordinate": [
+                    106.21226501464844,
+                    831.4287109375,
+                    584.929931640625,
+                    904.1878662109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9358264803886414,
+                "coordinate": [
+                    107.675537109375,
+                    926.946533203125,
+                    251.4205322265625,
+                    950.080078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.98777836561203,
+                "coordinate": [
+                    105.58674621582031,
+                    950.3612670898438,
+                    585.8328857421875,
+                    1170.39599609375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9467551112174988,
+                "coordinate": [
+                    107.5331039428711,
+                    1191.00146484375,
+                    363.2123107910156,
+                    1214.0263671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9826394319534302,
+                "coordinate": [
+                    105.95068359375,
+                    1214.718505859375,
+                    585.4275512695312,
+                    1312.68017578125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9209969639778137,
+                "coordinate": [
+                    107.72576904296875,
+                    1333.7266845703125,
+                    185.15634155273438,
+                    1356.4407958984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9378408789634705,
+                "coordinate": [
+                    107.50750732421875,
+                    1359.18212890625,
+                    313.89013671875,
+                    1381.66552734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9773687124252319,
+                "coordinate": [
+                    106.17645263671875,
+                    1382.477783203125,
+                    586.0128784179688,
+                    1456.938720703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988008975982666,
+                "coordinate": [
+                    601.7154541015625,
+                    662.9373779296875,
+                    1083.31201171875,
+                    805.5762939453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9799373745918274,
+                "coordinate": [
+                    602.4593505859375,
+                    806.5556640625,
+                    1082.84033203125,
+                    881.139892578125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9717543125152588,
+                "coordinate": [
+                    602.6649169921875,
+                    902.34375,
+                    1013.8021240234375,
+                    948.923095703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886364340782166,
+                "coordinate": [
+                    601.384765625,
+                    950.8895263671875,
+                    1083.93359375,
+                    1215.1348876953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9838655591011047,
+                "coordinate": [
+                    601.9140625,
+                    1215.237548828125,
+                    1083.127197265625,
+                    1312.87109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9716387391090393,
+                "coordinate": [
+                    602.399169921875,
+                    1334.900634765625,
+                    1039.994140625,
+                    1380.968505859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9789464473724365,
+                "coordinate": [
+                    601.6998291015625,
+                    1382.409423828125,
+                    1083.5162353515625,
+                    1456.903076171875
+                ]
+            }
+        ]
+    }
+}

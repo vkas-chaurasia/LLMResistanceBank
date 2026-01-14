@@ -1,0 +1,367 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_1.pdf",
+    "page_index": 6,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                55,
+                169,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "ARGs with Staphylococci Chicken Meat",
+            "block_bbox": [
+                857,
+                54,
+                1104,
+                75
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Staphylococcus spp.</td><td rowspan=\"2\">Phenotypic resistance combination pattern</td><td rowspan=\"2\">n = antibiotics</td><td rowspan=\"2\">n = classes</td><td colspan=\"5\">Resistance genes</td></tr><tr><td style='text-align: center;'>mecA</td><td style='text-align: center;'>gyrA</td><td style='text-align: center;'>grlA</td><td style='text-align: center;'>gyrB</td><td style='text-align: center;'>cfr</td></tr><tr><td rowspan=\"3\">S. hominus</td><td style='text-align: center;'>P, OX, CN, E, DA, C, TET</td><td style='text-align: center;'>7</td><td style='text-align: center;'>6</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>ND</td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, TET, SXT</td><td style='text-align: center;'>8</td><td style='text-align: center;'>6</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, C, TET, VAN, SXT</td><td style='text-align: center;'>10</td><td style='text-align: center;'>8</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td></tr><tr><td rowspan=\"2\">S. schleiferi</td><td style='text-align: center;'>P, OX, MET, CN, E, DA, TET, SXT</td><td style='text-align: center;'>8</td><td style='text-align: center;'>6</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, TET, SXT, CIP</td><td style='text-align: center;'>9</td><td style='text-align: center;'>7</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>ND</td></tr><tr><td style='text-align: center;'>S. cohnii</td><td style='text-align: center;'>P, OX, CN, E, DA, TET, SXT</td><td style='text-align: center;'>7</td><td style='text-align: center;'>6</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td></tr><tr><td style='text-align: center;'>S. lentus</td><td style='text-align: center;'>P, OX, MET, SAM, CN, E, DA, C, TE, VA, SXT, CIP</td><td style='text-align: center;'>12</td><td style='text-align: center;'>9</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>+</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>+</td></tr></table>",
+            "block_bbox": [
+                83,
+                149,
+                1102,
+                447
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "C, Chloramphenicol; CIP, Ciprofloxacin; CN, Gentamycin; DA, Clindamycin; E, Erythromycin; MET, Methicillin; OX, Oxacillin; P, Penicillin; SAM, Ampicillin-sulbactam; SXT, Sulfamethoxazole/Trimethoprim; TE, Tetracycline; VA, Vancomycin; ND, not detected.",
+            "block_bbox": [
+                83,
+                454,
+                1103,
+                492
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "to multiple clinically important antimicrobial classes (Table 4). In addition, it was noticed that 49/50 Staphylococcus isolates were MDR (non-susceptible to  $ \\geq $ 1 agent in  $ \\geq $ 3 antimicrobial classes) while 1/10 of the S. hyicus did not apply to this as it was only resistant to two classes of antibiotics although the number of antibiotics were five (P, OX, MET, SAM, and SXT). S. lentus was the only species to be PDR as it was resistant to the 12 antibiotics (P, OX, MET, SAM, CN, E, DA, C, TE, VA, SXT, and CIP) which represented nine classes and consequently, the remaining 48 Staphylococcus isolates were XDR as they were resistant to  $ \\geq $ 1 agent in all but  $ \\leq $ 2 classes (Table 4).",
+            "block_bbox": [
+                82,
+                532,
+                585,
+                786
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antimicrobial Resistance Genes",
+            "block_bbox": [
+                83,
+                805,
+                457,
+                830
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Of the 50 Staphylococcus isolates, two of the CPS species (2/3 S. aureus; 4/10 S. hyicus) were identified positive for mecA (6/50) while six out of the seven CNS species expressed the mecA gene (4/13 S. epidermedius; S. lugdunensis 4/15; S. haemolyticus 1/1; S. hominus 2/3; S. schleiferi 1/2 and S. lentus 1/1) (Table 4). With the exception of 1/8 S. lugdunensis isolates which was susceptible to oxacillin, mecA-positive, four Staphylococcus isolates (3/10 S. hyicus; 1/1 S. intermedius) were resistant to ciprofloxacin, gentamicin, erythromycin, methicillin, oxacillin, penicillin, sulfamethoxazole/trimethoprim, and vancomycin (Table 4). Forty seven out of the fifty isolates (47/50) were resistant to penicillin and tetracycline, while only one was resistant to chloramphenicol. Methicillin-resistant non-Staphylococcus aureus (MRNSA) isolates were resistant to nine of the 12 antimicrobials on the panel, including one to gentamicin.",
+            "block_bbox": [
+                81,
+                832,
+                585,
+                1176
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Interestingly, two observations were recorded: (1) one of the three S. aureus did not carry the mecA gene and was not even phenotypically characterized as MRS (Table 5); and (2) the resistance gene mecA was present in the S. lugdunensis isolate (1/8) and which was phenotypically characterized as methicillin-susceptible non-Staphylococcus aureus (MSNSA) but at the same time phenotypically oxacillin resistant (Table 4). The resistance gene tested mecA was detected in 16/26 methicillin-resistant non-Staphylococcus aureus (MRNSA) isolates (Table 5), while cfr was not detected in any of the isolates (Table 4). Of the three MSSA isolates, two carried the gyrA gene.",
+            "block_bbox": [
+                82,
+                1176,
+                585,
+                1432
+            ],
+            "block_id": 7,
+            "block_order": 4,
+            "group_id": 7
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 5 | Prevalence of mecA gene in chicken meat samples.</div>\n",
+            "block_bbox": [
+                605,
+                544,
+                1023,
+                566
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Staphylococcus spp. (n = isolates)</td><td rowspan=\"2\">n = of MRS</td><td colspan=\"2\">Precence of mecA gene</td><td rowspan=\"2\">n = of MSS</td><td colspan=\"2\">Precence of mecA gene</td></tr><tr><td style='text-align: center;'>n=</td><td style='text-align: center;'>%</td><td style='text-align: center;'>n=</td><td style='text-align: center;'>%</td></tr><tr><td colspan=\"7\">COAGULASE POSITIVE</td></tr><tr><td style='text-align: center;'>S. aureus (n = 3)</td><td style='text-align: center;'>3</td><td style='text-align: center;'>2</td><td style='text-align: center;'>66.7</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>S. hyicus (n = 10)</td><td style='text-align: center;'>6</td><td style='text-align: center;'>4</td><td style='text-align: center;'>66.7</td><td style='text-align: center;'>4</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>S. intermedius (n = 1)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td colspan=\"7\">COAGULASE NEGATIVE</td></tr><tr><td style='text-align: center;'>S. epidermedius (n = 13)</td><td style='text-align: center;'>7</td><td style='text-align: center;'>4</td><td style='text-align: center;'>57.1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>S. lugdunensis (n = 15)</td><td style='text-align: center;'>7</td><td style='text-align: center;'>3</td><td style='text-align: center;'>0</td><td style='text-align: center;'>8</td><td style='text-align: center;'>1</td><td style='text-align: center;'>12.5</td></tr><tr><td style='text-align: center;'>S. haemolyticus (n = 1)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>100</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>S. hominus (n = 3)</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>100</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>S. schleiferi (n = 2)</td><td style='text-align: center;'>2</td><td style='text-align: center;'>1</td><td style='text-align: center;'>50</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>S. cohnii (n = 1)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>S. lentus (n = 1)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>100</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Total (n = 50)</td><td style='text-align: center;'>29 (58%)</td><td style='text-align: center;'>18</td><td style='text-align: center;'>62.1</td><td style='text-align: center;'>21 (42%)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>3.5</td></tr></table>",
+            "block_bbox": [
+                604,
+                573,
+                1103,
+                1015
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "and one carried the gyrB gene (Table 4). The 50 isolates of Staphylococcus species namely: aureus, hyicus, simulans, lugdunensis, hominus, hemolyticus, epidermidis, intermedius, and S. sciuri were non-cfr-carriers. Our susceptibility testing showed that, all non-cfr-carrying staphylococci (23/50) were resistant to the 12 antibiotics tested in the present with varying degrees. Of the 50 isolates, 40/50 isolates were gentamicin-resistant, 37/50 were oxacillin resistant while only 16/50 were ciprofloxacin-resistant. The results of antimicrobial susceptibility testing indicated that the non-cfr-carrying CNS exhibited also expanded resistance to antimicrobial agents other than those included in the cfr-mediated PhLOPSA phenotype (Table 4) [The Cfr rRNA Methyltransferase confers resistance to several classes of antibiotics (phenicols, lincosamides, oxazolidinones, pleuromutilins, and streptogramin A; PhLOPSA phenotype)]. It was possible to conclude that 25/34 of the MR-NSA strains",
+            "block_bbox": [
+                602,
+                1061,
+                1107,
+                1432
+            ],
+            "block_id": 10,
+            "block_order": 5,
+            "group_id": 10
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1480,
+                365,
+                1501
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "number",
+            "block_content": "7",
+            "block_bbox": [
+                587,
+                1481,
+                602,
+                1499
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "footer",
+            "block_content": "November 2016 | Volume 7 | Article 1846",
+            "block_bbox": [
+                850,
+                1480,
+                1104,
+                1501
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9185515642166138,
+                "coordinate": [
+                    85.51214599609375,
+                    55.889801025390625,
+                    169.05145263671875,
+                    74.33088684082031
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9416154026985168,
+                "coordinate": [
+                    857.63525390625,
+                    54.95042037963867,
+                    1104.5291748046875,
+                    75.36674499511719
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9810055494308472,
+                "coordinate": [
+                    83.7506103515625,
+                    149.57867431640625,
+                    1102.7662353515625,
+                    447.36468505859375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9047278761863708,
+                "coordinate": [
+                    83.31283569335938,
+                    454.6376953125,
+                    1103.6917724609375,
+                    492.833251953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882006645202637,
+                "coordinate": [
+                    82.01885986328125,
+                    532.1966552734375,
+                    585.572021484375,
+                    786.1307373046875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9461550712585449,
+                "coordinate": [
+                    83.59652709960938,
+                    805.5087890625,
+                    457.6354064941406,
+                    830.8466796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888802766799927,
+                "coordinate": [
+                    81.92906188964844,
+                    832.37939453125,
+                    585.4312744140625,
+                    1176.905029296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988301694393158,
+                "coordinate": [
+                    82.04383850097656,
+                    1176.770263671875,
+                    585.8478393554688,
+                    1432.939208984375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8903555870056152,
+                "coordinate": [
+                    605.8541259765625,
+                    544.9122314453125,
+                    1023.18505859375,
+                    566.5845947265625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9833166003227234,
+                "coordinate": [
+                    604.8482666015625,
+                    573.1156005859375,
+                    1103.957763671875,
+                    1015.2376708984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887528419494629,
+                "coordinate": [
+                    602.0047607421875,
+                    1061.6090087890625,
+                    1107.31201171875,
+                    1432.1163330078125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9336225390434265,
+                "coordinate": [
+                    85.00843811035156,
+                    1480.724365234375,
+                    365.08984375,
+                    1501.441162109375
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8403885364532471,
+                "coordinate": [
+                    587.6875610351562,
+                    1481.7144775390625,
+                    602.3143920898438,
+                    1499.2347412109375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9360217452049255,
+                "coordinate": [
+                    850.412841796875,
+                    1480.2685546875,
+                    1104.22607421875,
+                    1501.0947265625
+                ]
+            }
+        ]
+    }
+}

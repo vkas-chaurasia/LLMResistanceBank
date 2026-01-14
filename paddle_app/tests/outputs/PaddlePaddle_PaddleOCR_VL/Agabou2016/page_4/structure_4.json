@@ -1,0 +1,221 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Agabou2016.pdf",
+    "page_index": 3,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "230",
+            "block_bbox": [
+                98,
+                64,
+                130,
+                83
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Eur J Clin Microbiol Infect Dis (2016) 35:227–234",
+            "block_bbox": [
+                746,
+                63,
+                1091,
+                85
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 1 Resistance profiles of  $ E.\\ coli $  isolated from poultry (P), their farmers (F) and patients (C)</div>\n",
+            "block_bbox": [
+                96,
+                110,
+                268,
+                215
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Antibiotics</td><td colspan=\"3\">Origin of isolates</td><td colspan=\"3\">P</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>Poultry (n=70) n (%)</td><td style='text-align: center;'>Farmers (n=70) n (%)</td><td style='text-align: center;'>Clinical samples (n=94) n (%)</td><td style='text-align: center;'>P vs F</td><td style='text-align: center;'>P vs C</td><td style='text-align: center;'>F vs C</td></tr><tr><td style='text-align: center;'>Amoxicillin</td><td style='text-align: center;'>55 (78.5)</td><td style='text-align: center;'>10 (14.3)</td><td style='text-align: center;'>93 (98.9)</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Ticarcillin</td><td style='text-align: center;'>55 (78.5)</td><td style='text-align: center;'>10 (14.3)</td><td style='text-align: center;'>93 (98.9)</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Piperacillin</td><td style='text-align: center;'>3 (4.3)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>92 (97.8)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Amoxicillin/clavulanic acid</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>76 (80.8)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Ticarcillin/clavulanic acid</td><td style='text-align: center;'>2 (2.9)</td><td style='text-align: center;'>1 (1.4)</td><td style='text-align: center;'>83 (88.3)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Piperacillin/tazobactam</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (1.4)</td><td style='text-align: center;'>8 (8.5)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>Cefalotin</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>88 (93.6)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Cefamandole</td><td style='text-align: center;'>3 (4.3)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>90 (95.7)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Ceftazidime</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>78 (82.9)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Cefotaxime</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>87 (92.5)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Cefepime</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>76 (80.8)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Cefoxitin</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>17 (18.1)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Cefixime</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>82 (87.2)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Aztreonam</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>84 (89.3)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Mecillinam</td><td style='text-align: center;'>16 (22.8)</td><td style='text-align: center;'>3 (4.3)</td><td style='text-align: center;'>68 (72.3)</td><td style='text-align: center;'>0.002</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Moxalactam</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>Ertapenem</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>1 (1.1)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>Imipenem</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>Meropenem</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>Amikacin</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>4 (4.2)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>Netilmicin</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>29 (30.8)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Tobramycin</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>62 (65.9)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Gentamicin</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>54 (57.4)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Nalidixic acid</td><td style='text-align: center;'>62 (88.7)</td><td style='text-align: center;'>11 (15.7)</td><td style='text-align: center;'>75 (79.7)</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Ofloxacin</td><td style='text-align: center;'>56 (80)</td><td style='text-align: center;'>8 (11.4)</td><td style='text-align: center;'>74 (78.7)</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Ciprofloxacin</td><td style='text-align: center;'>36 (51.4)</td><td style='text-align: center;'>4 (5.7)</td><td style='text-align: center;'>70 (74.4)</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>0.003</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Minocycline</td><td style='text-align: center;'>8 (11.4)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>32 (34.1)</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>0.001</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Cotrimoxazole</td><td style='text-align: center;'>58 (82.8)</td><td style='text-align: center;'>9 (12.9)</td><td style='text-align: center;'>80 (85.1)</td><td style='text-align: center;'>&lt;0.001</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>&lt;0.001</td></tr><tr><td style='text-align: center;'>Nitrofurantoin</td><td style='text-align: center;'>2 (2.9)</td><td style='text-align: center;'>2 (2.9)</td><td style='text-align: center;'>2 (2.1)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>Fosfomycin</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr><tr><td style='text-align: center;'>Colistin</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>0 (0)</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td><td style='text-align: center;'>NS</td></tr></table>",
+            "block_bbox": [
+                293,
+                114,
+                1092,
+                1050
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "and fecal samples were almost identical to resistant isolates from geographically linked chickens, whereas drug-susceptible human  $ E.\\ coli $  strains were genetically distinct from avian ones, suggesting a possible dissemination via the poultry.  $ E.\\ coli $  strains could also be transmitted from poultry to humans through meat consumption and environmental contamination with manure or faeces of wild or domestic birds [21, 22]. Another route of antimicrobial-resistant  $ E.\\ coli $  entry into the community is through occupational exposure to  $ E.\\ coli $  from live-animal contact in the broiler chicken industry [23]. This had been confirmed by our findings, as we observed clonality between chicken and chicken farmers’ strains, and between the latter and human pathogenic ones.\n\nThe sporadic nature and the appearance of new pathogenic  $ E.\\ coli $  strains by virtue of novel STs suggests that these strains may be commensal that have acquired the antibiotic resistance encoding plasmids (especially ESBL) [24]. This is in agreement with our findings, as we observed clonality between a  $ bla_{CTX-M-15}^{+} $  ExPEC strain and one chicken-farmer commensal strain and another  $ bla_{CTX-M-15}^{+} $  ExPEC strain with two chicken commensal ones (Fig. 1). Acquisition of resistance genes may also account for the differences in drug resistance between our clonal avian–human strains and clonal commensal–pathogenic strains, as the drug selection pressure in clinical environments is the major cause of the accumulation of resistance determinants against antibiotics. According to",
+            "block_bbox": [
+                94,
+                1108,
+                583,
+                1435
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                604,
+                1109,
+                1095,
+                1436
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 4
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_98_1469_181_1496.jpg\" alt=\"Image\" width=\"6%\" /></div>\n",
+            "block_bbox": [
+                98,
+                1469,
+                181,
+                1496
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8929081559181213,
+                "coordinate": [
+                    98.79010009765625,
+                    64.42063903808594,
+                    130.39459228515625,
+                    83.13386535644531
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9359063506126404,
+                "coordinate": [
+                    746.307373046875,
+                    63.045494079589844,
+                    1091.628662109375,
+                    85.3982162475586
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9479917883872986,
+                "coordinate": [
+                    96.22576904296875,
+                    110.879150390625,
+                    268.9500732421875,
+                    215.01556396484375
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896601438522339,
+                "coordinate": [
+                    293.96368408203125,
+                    114.11508178710938,
+                    1092.402099609375,
+                    1050.5338134765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885574579238892,
+                "coordinate": [
+                    94.66207885742188,
+                    1108.93212890625,
+                    583.644287109375,
+                    1435.9501953125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7004193663597107,
+                "coordinate": [
+                    609.6035766601562,
+                    1234.9439697265625,
+                    776.5972290039062,
+                    1258.9893798828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884583353996277,
+                "coordinate": [
+                    604.6259765625,
+                    1109.0545654296875,
+                    1095.455078125,
+                    1436.1927490234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7854888439178467,
+                "coordinate": [
+                    789.6884765625,
+                    1259.8177490234375,
+                    892.505126953125,
+                    1284.2459716796875
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.8952849507331848,
+                "coordinate": [
+                    98.20198059082031,
+                    1469.962890625,
+                    181.6676788330078,
+                    1496.9228515625
+                ]
+            }
+        ]
+    }
+}

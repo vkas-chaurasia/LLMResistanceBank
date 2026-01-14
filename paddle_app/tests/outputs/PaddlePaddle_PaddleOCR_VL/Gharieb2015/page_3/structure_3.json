@@ -1,0 +1,271 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Gharieb2015.pdf",
+    "page_index": 2,
+    "page_count": 11,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Gharieb et al. Gut Pathog (2015) 7:34",
+            "block_bbox": [
+                108,
+                65,
+                357,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 3 of 11",
+            "block_bbox": [
+                992,
+                66,
+                1080,
+                89
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "diarrhoeic children in Gambia  $ [14] $  and this confirms the zoonotic importance of the former serotypes.",
+            "block_bbox": [
+                106,
+                174,
+                584,
+                226
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Antibiotic susceptibility testing",
+            "block_bbox": [
+                107,
+                248,
+                366,
+                272
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "All Salmonella isolates were tested for their susceptibility towards antimicrobial drugs (Table 2). The results highlighted the higher resistance of the isolates to erythromycin and tetracycline (100 %, each), followed by amoxicillin-clavulanic acid (91.7 %), trimethoprim-sulfamethoxazole (83.3 %), streptomycin, nalidixic acid, ampicillin-sulbactam (75 %, each), gentamycin, ampicillin (66.7 %, each), chloramphenicol (58.3 %), ciprofloxacin (25 %) and ceftriaxone (16.7 %). This isn't surprising because these antibiotics are cheap, easily affordable and commonly used in humans and poultry without prescription. In poultry, these drugs are used either for therapeutic purposes or as growth promoters added to the feed leading to the development of resistance in the enteric bacterial flora of poultry. Subsequently the pathogenic bacteria such as Salmonella may acquire resistance from this enteric flora and transfer this resistance to human's strains through food chain leading to the emergence of MDR Salmonella strains that constitute a public health risk and potentially affect the efficacy of drug treatment in humans. It was obvious from Table 2 that 100 % of Salmonella spp. isolated from poultry meat were resistant to each of erythromycin and tetracycline, 9 (90 %) were resistant to amoxicillin-clavulanic acid, 8 (80 %) showing resistance to trimethoprim-sulfamethoxazole, 7 (70 %) exhibiting resistance to each of streptomycin, ampicillin-sulbactam, nalidixic acid and gentamycin. Moreover, the lower resistance rates to chloramphenicol (50 %), ciprofloxacin (30 %) and ceftriaxone (10 %) were observed. Nearly similar resistance rate to ampicillin, streptomycin, nalidixic acid, tetracycline and trimethoprim-sulfamethoxazole was recorded in Salmonella spp. isolated from chicken meat in Pakistan [15]. On the contrary, the lower resistance rate to ceftriaxone and ciprofloxacin corroborates with others in India [11].",
+            "block_bbox": [
+                105,
+                271,
+                586,
+                972
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                600,
+                175,
+                1082,
+                320
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Table 2 also showed that all Salmonella isolates of human origin were resistant to ampicillin, erythromycin, streptomycin, tetracycline, ampicillin-sulbactam, trimethoprim-sulfamethoxazole, chloramphenicol, nalidixic acid and amoxicillin-clavulanic acid. Conversely, the resistance to ceftriaxone and gentamycin was found in 50 % of the isolates. On the other hand, none of the isolates was resistant to ciprofloxacin. Consistent with our results, a higher resistance rate (100 %) to ampicillin, chloramphenicol, streptomycin, trimethoprim-sulfamethoxazole and tetracyclines was recorded in S. Typhimurium strains isolated from diarrhoeic patients in Kenya [16]. Another worrisome situation in this study is that, 50 % of Salmonella isolates from diarrhoeic patients were resistant to ceftriaxone and gentamycin. This is of particular concern because the extended spectrum cephalosporins such as ceftriaxone are the antibiotics of choice for treatment of invasive salmonellosis in children and the emergence of resistance toward these drugs could be attributed to inappropriate use of them in treatment of Salmonella infections in humans. The higher susceptibility of S. Typhimurium isolated from human source to ciprofloxacin (100 %) in this study may be due to discriminate use of this drug because it is relatively expensive, not easily affordable to all people, not sold in private pharmacies without prescription. This result corroborates the findings of other investigators in Kenya.",
+            "block_bbox": [
+                600,
+                320,
+                1085,
+                972
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 2 Antibiogram of Salmonella serovars isolated from poultry meat and diarrhoeic patients</div>\n",
+            "block_bbox": [
+                106,
+                1017,
+                877,
+                1043
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Sources/serovars</td><td colspan=\"12\">Antibiotic (concentration  $ \\mu $ g)</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>A (10)</td><td style='text-align: center;'>E (15)</td><td style='text-align: center;'>S (10)</td><td style='text-align: center;'>Cx (5)</td><td style='text-align: center;'>T (30)</td><td style='text-align: center;'>Co (30)</td><td style='text-align: center;'>As (20)</td><td style='text-align: center;'>Sxt (25)</td><td style='text-align: center;'>C (30)</td><td style='text-align: center;'>Na (30)</td><td style='text-align: center;'>G (10)</td><td style='text-align: center;'>Amc (30)</td></tr><tr><td style='text-align: center;'>Chicken meat (7)</td><td style='text-align: center;'>4 (57.1)</td><td style='text-align: center;'>7 (100)</td><td style='text-align: center;'>5 (71.4)</td><td style='text-align: center;'>2 (28.6)</td><td style='text-align: center;'>7 (100)</td><td style='text-align: center;'>1 (14.3)</td><td style='text-align: center;'>5 (71.4)</td><td style='text-align: center;'>6 (85.7)</td><td style='text-align: center;'>4 (57.1)</td><td style='text-align: center;'>5 (71.4)</td><td style='text-align: center;'>6 (85.7)</td><td style='text-align: center;'>6 (85.7)</td></tr><tr><td style='text-align: center;'>S. Typhimurium (5)</td><td style='text-align: center;'>2 (20)</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>4 (80)</td><td style='text-align: center;'>2 (40)</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>1 (20)</td><td style='text-align: center;'>4 (80)</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>3 (60)</td><td style='text-align: center;'>4 (80)</td><td style='text-align: center;'>5 (100)</td><td style='text-align: center;'>4 (80)</td></tr><tr><td style='text-align: center;'>S. Kiel (1)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (100)</td></tr><tr><td style='text-align: center;'>S. Rubislaw (1)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (100)</td></tr><tr><td style='text-align: center;'>Duck meat (3)</td><td style='text-align: center;'>2 (66.7)</td><td style='text-align: center;'>3 (100)</td><td style='text-align: center;'>2 (66.7)</td><td style='text-align: center;'>1 (33.3)</td><td style='text-align: center;'>3 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (66.7)</td><td style='text-align: center;'>2 (66.7)</td><td style='text-align: center;'>1 (33.3)</td><td style='text-align: center;'>2 (66.7)</td><td style='text-align: center;'>1 (33.3)</td><td style='text-align: center;'>3 (100)</td></tr><tr><td style='text-align: center;'>S. Derby (1)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (100)</td></tr><tr><td style='text-align: center;'>Untypable (2)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>1 (50)</td><td style='text-align: center;'>1 (50)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>1 (50)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>1 (50)</td><td style='text-align: center;'>2 (100)</td></tr><tr><td style='text-align: center;'>Total (10)</td><td style='text-align: center;'>6 (60)</td><td style='text-align: center;'>10 (100)</td><td style='text-align: center;'>7 (70)</td><td style='text-align: center;'>3 (30)</td><td style='text-align: center;'>10 (100)</td><td style='text-align: center;'>1 (10)</td><td style='text-align: center;'>7 (70)</td><td style='text-align: center;'>8 (80)</td><td style='text-align: center;'>5 (50)</td><td style='text-align: center;'>7 (70)</td><td style='text-align: center;'>7 (70)</td><td style='text-align: center;'>9 (90)</td></tr><tr><td style='text-align: center;'>Human (2) S. Typhimurium</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>1 (50)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>2 (100)</td><td style='text-align: center;'>1 (50)</td><td style='text-align: center;'>2 (100)</td></tr><tr><td style='text-align: center;'>Total sensitive (%)</td><td style='text-align: center;'>2 (16.7)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (16.7)</td><td style='text-align: center;'>4 (33.3)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>4 (33.3)</td><td style='text-align: center;'>1 (8.3)</td><td style='text-align: center;'>2 (16.7)</td><td style='text-align: center;'>2 (16.7)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2 (16.7)</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Total intermediate (%)</td><td style='text-align: center;'>2 (16.7)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1 (8.3)</td><td style='text-align: center;'>5 (41.7)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>6 (50)</td><td style='text-align: center;'>2 (16.7)</td><td style='text-align: center;'>0</td><td style='text-align: center;'>3 (25)</td><td style='text-align: center;'>3 (25)</td><td style='text-align: center;'>2 (16.7)</td><td style='text-align: center;'>1 (8.3)</td></tr><tr><td style='text-align: center;'>Total resistant (%)</td><td style='text-align: center;'>8 (66.7)</td><td style='text-align: center;'>12 (100)</td><td style='text-align: center;'>9 (75)</td><td style='text-align: center;'>3 (25)</td><td style='text-align: center;'>12 (100)</td><td style='text-align: center;'>2 (16.7)</td><td style='text-align: center;'>9 (75)</td><td style='text-align: center;'>10 (83.3)</td><td style='text-align: center;'>7 (58.3)</td><td style='text-align: center;'>9 (75)</td><td style='text-align: center;'>8 (66.7)</td><td style='text-align: center;'>11 (91.7)</td></tr></table>",
+            "block_bbox": [
+                107,
+                1047,
+                1079,
+                1412
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "A Ampicillin, E Erythromycin, S Streptomycin, Cx Ciprofloxacin, T Tetracycline, Co Ceftriaxone, As Ampicillin-Sulbactam, Sxt Trimethoprim-Sulfamethoxazole, C Chloramphenicol, Na Nalidixic acid, G Gentmycin, Amc Amoxicillin-Clavulanic acid",
+            "block_bbox": [
+                106,
+                1418,
+                1026,
+                1456
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9404417872428894,
+                "coordinate": [
+                    108.40621185302734,
+                    65.16825866699219,
+                    357.0336608886719,
+                    87.95375061035156
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9018916487693787,
+                "coordinate": [
+                    992.05615234375,
+                    66.57907104492188,
+                    1080.100830078125,
+                    89.6368408203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9693130850791931,
+                "coordinate": [
+                    106.01713562011719,
+                    174.82269287109375,
+                    584.5349731445312,
+                    226.33270263671875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9366931319236755,
+                "coordinate": [
+                    107.43821716308594,
+                    248.84677124023438,
+                    366.24578857421875,
+                    272.0722961425781
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988887369632721,
+                "coordinate": [
+                    105.17283630371094,
+                    271.64959716796875,
+                    586.782958984375,
+                    972.0623168945312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872786998748779,
+                "coordinate": [
+                    600.90234375,
+                    175.26565551757812,
+                    1082.9959716796875,
+                    320.36334228515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888398051261902,
+                "coordinate": [
+                    600.853759765625,
+                    320.34454345703125,
+                    1085.135498046875,
+                    972.9921264648438
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9492459297180176,
+                "coordinate": [
+                    106.55255126953125,
+                    1017.552001953125,
+                    877.9588012695312,
+                    1043.094970703125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9865199327468872,
+                "coordinate": [
+                    107.0020751953125,
+                    1047.5633544921875,
+                    1079.1793212890625,
+                    1412.5050048828125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8906179666519165,
+                "coordinate": [
+                    106.7762451171875,
+                    1418.57568359375,
+                    1026.8232421875,
+                    1456.50634765625
+                ]
+            }
+        ]
+    }
+}

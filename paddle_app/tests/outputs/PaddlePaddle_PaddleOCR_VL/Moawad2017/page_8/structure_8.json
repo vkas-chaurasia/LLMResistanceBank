@@ -1,0 +1,644 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Moawad2017.pdf",
+    "page_index": 7,
+    "page_count": 13,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Moawad et al. Gut Pathog (2017) 9:57",
+            "block_bbox": [
+                108,
+                62,
+                361,
+                84
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 8 of 13",
+            "block_bbox": [
+                992,
+                63,
+                1080,
+                85
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 7 Phenotypic resistance and resistance determinants found in E. coli isolates in this study</div>\n",
+            "block_bbox": [
+                107,
+                173,
+                876,
+                196
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Source</td><td style='text-align: center;'>E. coli serotype</td><td style='text-align: center;'>Resistance phenotype</td><td style='text-align: center;'>Resistance genes/class 1 integron</td></tr><tr><td style='text-align: center;'>Poultry</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>O1</td><td style='text-align: center;'>STR, TET</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>O18</td><td style='text-align: center;'>AMP, CIP, CPD, NAL, STR, TET, T/S</td><td style='text-align: center;'>qnrA, qnrB</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>O18</td><td style='text-align: center;'>AMC, AMP, CHL, CIP, CRO, CTX, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $ , bla $ _{\\text{OXA-1}} $ , qnrA, qnrB</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>O78</td><td style='text-align: center;'>AMC, AMP, CAZ, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $ , bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>O119</td><td style='text-align: center;'>AMC, AMP, CAZ, CTX, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-14}} $ , bla $ _{\\text{TEM-104}} $</td></tr><tr><td style='text-align: center;'>Fresh poultry meat</td><td style='text-align: center;'>O20</td><td style='text-align: center;'>AMC, AMP, CPD, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M1}} $ , bla $ _{\\text{OXA-1}} $ , bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh poultry organs (liver)</td><td style='text-align: center;'>O18</td><td style='text-align: center;'>AMC, AMP, CAZ, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $ , bla $ _{\\text{TEM-104}} $ , qnrA, qnrB, dfrA1-orf</td></tr><tr><td style='text-align: center;'>Fresh poultry organs (liver)</td><td style='text-align: center;'>O126</td><td style='text-align: center;'>AMP, CTX, STR</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $</td></tr><tr><td style='text-align: center;'>Fresh poultry organs (gizzard)</td><td style='text-align: center;'>O20</td><td style='text-align: center;'>AMC, AMP, STR, T/S</td><td style='text-align: center;'>bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Fresh poultry organs (liver)</td><td style='text-align: center;'>O145</td><td style='text-align: center;'>CAZ, TET</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>Frozen poultry meat</td><td style='text-align: center;'>O1</td><td style='text-align: center;'>CTX, NAL, TET</td><td style='text-align: center;'>qnrA, qnrB</td></tr><tr><td style='text-align: center;'>Frozen poultry meat</td><td style='text-align: center;'>O18</td><td style='text-align: center;'>AMC, AMP, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{OXA-1}} $ , bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Frozen poultry</td><td style='text-align: center;'>O78</td><td style='text-align: center;'>AMC, AMP, CPD</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Frozen poultry meat</td><td style='text-align: center;'>O146</td><td style='text-align: center;'>AMC, AMP, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{TEM-1}} $</td></tr><tr><td style='text-align: center;'>Frozen organ poultry</td><td style='text-align: center;'>O78</td><td style='text-align: center;'>AMC, AMP, CAZ, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-14}} $ , bla $ _{\\text{TEM-1}} $ , qnrA, qnrB, dfrA15</td></tr><tr><td style='text-align: center;'>Beef</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>O119</td><td style='text-align: center;'>CPD</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>Fresh beef meat</td><td style='text-align: center;'>O158</td><td style='text-align: center;'>CPD, TET</td><td style='text-align: center;'>-</td></tr><tr><td style='text-align: center;'>Fresh beef organs (liver)</td><td style='text-align: center;'>O78</td><td style='text-align: center;'>AMC, AMP, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $ , bla $ _{\\text{TEM-104}} $ , qnrA, qnrB, dfrA1, dfrA1-orf</td></tr><tr><td style='text-align: center;'>Frozen beef meat</td><td style='text-align: center;'>O103</td><td style='text-align: center;'>STR, TET</td><td style='text-align: center;'>bla $ _{\\text{CTX-M-1}} $</td></tr><tr><td style='text-align: center;'>Frozen beef meat</td><td style='text-align: center;'>O126</td><td style='text-align: center;'>AMC, AMP, CIP, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{TEM-1}} $ , qnrA, qnrB</td></tr><tr><td style='text-align: center;'>Frozen beef meat</td><td style='text-align: center;'>O158</td><td style='text-align: center;'>AMC, AMP, STR, TET, T/S</td><td style='text-align: center;'>bla $ _{\\text{TEM-1}} $</td></tr></table>",
+            "block_bbox": [
+                108,
+                198,
+                1078,
+                874
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "AMC amoxycillin–clavulanic acid, AMP ampicillin, CAZ ceftazidime, CPD cefpodoxime, CRO chloramphenicol, CTX cefotaxime, ENR enrofloxacin, NAL nalidixic acid, STR streptomycin, TET tetracycline, T/S trimethoprim/sulphamethoxazole",
+            "block_bbox": [
+                107,
+                876,
+                1073,
+                914
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "A (qnrA), while 3 (20.0%), 2 (13.3%) and 1 (6.7%) of S. enterica serovars possessed qnrB,  $ bla_{CMY} $  and qnrS genes, respectively.  $ bla_{OXA} $  associated with resistance to ampicillin and cephalothin and  $ bla_{SHV} $  associated with plasmid-mediated ampicillin resistance were not found in any isolate.",
+            "block_bbox": [
+                106,
+                948,
+                584,
+                1091
+            ],
+            "block_id": 5,
+            "block_order": 1,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "In E. coli isolates, 5 of 8 screened resistance-associated genes were detected by PCR (Table 7). Eleven (52.4%) out of 21 isolates harboured  $ bla_{TEM} $  (1 and 104), while  $ bla_{CTX-M} $  (1 and 14) was detected in 9 isolates (42.9%). Seven isolates (33.3%) carried qnrA and qnrB and in three isolates (14.3%)  $ bla_{OXA-1} $  was detected. Genes  $ bla_{CMY} $ ,  $ bla_{SHV} $  and qnrS were not detected in any of the E. coli isolates.",
+            "block_bbox": [
+                106,
+                1092,
+                585,
+                1260
+            ],
+            "block_id": 6,
+            "block_order": 2,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Plasmid-mediated colistin resistance gene mcr-1 and carbapenemase resistance gene blaOXA-23 were not identified neither in S. enterica nor in E. coli isolates using PCR assay.",
+            "block_bbox": [
+                106,
+                1260,
+                585,
+                1359
+            ],
+            "block_id": 7,
+            "block_order": 3,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## I ntegron gene cassettes and DNA sequencing",
+            "block_bbox": [
+                107,
+                1381,
+                478,
+                1404
+            ],
+            "block_id": 8,
+            "block_order": 4,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Class 1 integron was detected in two isolates of S. Typhimurium using PCR (Table 6). The inserted gene cassettes identified three types of antimicrobial resistance genes associated with class 1 integron: dihydrofolate reductase types (dfrA15 and dfrA17) which confer resistance to trimethoprim, and aminoglycoside adenyltransferase type aadA2 that confers resistance to streptomycin and spectinomycin.",
+            "block_bbox": [
+                106,
+                1405,
+                584,
+                1454
+            ],
+            "block_id": 9,
+            "block_order": 5,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                602,
+                948,
+                1082,
+                1092
+            ],
+            "block_id": 10,
+            "block_order": 6,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Three E. coli isolates of serotypes O18, O78 and O78 were harbouring class 1 integron (Table 7). The inserted gene cassettes identified three types of class 1 integron. The identified antimicrobial resistance genes were dihydrofolate reductase types; dfrA1, dfrA15 and dfrA1-orf which confer resistance to trimethoprim.",
+            "block_bbox": [
+                602,
+                1092,
+                1082,
+                1236
+            ],
+            "block_id": 11,
+            "block_order": 7,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "All S. enterica and E. coli isolates were negative for class 2 integrons.",
+            "block_bbox": [
+                603,
+                1236,
+                1081,
+                1285
+            ],
+            "block_id": 12,
+            "block_order": 8,
+            "group_id": 12
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Discussion",
+            "block_bbox": [
+                602,
+                1307,
+                713,
+                1331
+            ],
+            "block_id": 13,
+            "block_order": 9,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "Salmonellosis and Salmonella infections considered as critical threats to human and animal health. In this study, the prevalence of S. enterica serovars in chicken and beef meat was 8.3%, which was considerably lower than incidence rates that reported in Ethiopia (12.0% in raw",
+            "block_bbox": [
+                601,
+                1332,
+                1083,
+                1455
+            ],
+            "block_id": 14,
+            "block_order": 10,
+            "group_id": 14
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9476850628852844,
+                "coordinate": [
+                    108.8906478881836,
+                    62.53404235839844,
+                    361.3233337402344,
+                    84.68917846679688
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9111026525497437,
+                "coordinate": [
+                    992.5031127929688,
+                    63.952022552490234,
+                    1080.890869140625,
+                    85.55410766601562
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9506411552429199,
+                "coordinate": [
+                    107.30526733398438,
+                    173.11019897460938,
+                    876.0474853515625,
+                    196.90011596679688
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40496399998664856,
+                "coordinate": [
+                    433.4206848144531,
+                    315.0159912109375,
+                    744.18994140625,
+                    336.3555908203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9030815362930298,
+                "coordinate": [
+                    775.3081665039062,
+                    315.94134521484375,
+                    967.0361938476562,
+                    337.76397705078125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9227152466773987,
+                "coordinate": [
+                    775.66845703125,
+                    341.2105407714844,
+                    893.191162109375,
+                    363.1523742675781
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9163501262664795,
+                "coordinate": [
+                    775.8304443359375,
+                    365.16107177734375,
+                    910.8453369140625,
+                    386.64117431640625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9346070885658264,
+                "coordinate": [
+                    775.817138671875,
+                    389.17938232421875,
+                    943.3988037109375,
+                    410.56231689453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8501589894294739,
+                "coordinate": [
+                    775.8927001953125,
+                    412.47216796875,
+                    1037.4715576171875,
+                    434.73370361328125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.989254355430603,
+                "coordinate": [
+                    108.20828247070312,
+                    198.59896850585938,
+                    1078.5928955078125,
+                    874.1871337890625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8984645009040833,
+                "coordinate": [
+                    775.7417602539062,
+                    455.4978332519531,
+                    838.7904663085938,
+                    476.9869079589844
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8763328194618225,
+                "coordinate": [
+                    775.6253662109375,
+                    480.597900390625,
+                    827.232177734375,
+                    501.9315185546875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9159072637557983,
+                "coordinate": [
+                    775.64599609375,
+                    569.9783935546875,
+                    882.0343017578125,
+                    592.3743896484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8708829879760742,
+                "coordinate": [
+                    775.8123779296875,
+                    619.5684814453125,
+                    827.4991455078125,
+                    640.9561767578125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9137030243873596,
+                "coordinate": [
+                    775.6019287109375,
+                    642.1836547851562,
+                    1015.04443359375,
+                    665.3241577148438
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5517840385437012,
+                "coordinate": [
+                    775.0228271484375,
+                    756.837646484375,
+                    1078.6099853515625,
+                    780.2041015625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8506239056587219,
+                "coordinate": [
+                    775.5006103515625,
+                    800.087890625,
+                    838.6673583984375,
+                    821.418212890625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7498550415039062,
+                "coordinate": [
+                    775.628173828125,
+                    823.6865234375,
+                    901.19580078125,
+                    845.8802490234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8755255341529846,
+                "coordinate": [
+                    775.484130859375,
+                    848.7899169921875,
+                    827.4373779296875,
+                    870.21630859375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.949251651763916,
+                "coordinate": [
+                    107.0380859375,
+                    876.6536865234375,
+                    1073.021484375,
+                    914.4241943359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876469373703003,
+                "coordinate": [
+                    106.00791931152344,
+                    948.2056884765625,
+                    584.3095703125,
+                    1091.5294189453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9089755415916443,
+                "coordinate": [
+                    217.94125366210938,
+                    997.972412109375,
+                    277.0301818847656,
+                    1020.5579833984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8995131850242615,
+                "coordinate": [
+                    388.19512939453125,
+                    974.3927001953125,
+                    447.45916748046875,
+                    997.1468505859375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.914118230342865,
+                "coordinate": [
+                    340.0243835449219,
+                    1021.9893798828125,
+                    397.2881164550781,
+                    1045.1871337890625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5185737609863281,
+                "coordinate": [
+                    111.04399108886719,
+                    1166.0634765625,
+                    145.29783630371094,
+                    1189.05029296875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8670057058334351,
+                "coordinate": [
+                    310.27923583984375,
+                    1141.699462890625,
+                    371.36676025390625,
+                    1164.829345703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877937436103821,
+                "coordinate": [
+                    106.72784423828125,
+                    1092.6826171875,
+                    585.2601928710938,
+                    1260.75
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8853224515914917,
+                "coordinate": [
+                    519.505859375,
+                    1142.5860595703125,
+                    578.707275390625,
+                    1166.0238037109375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8863253593444824,
+                "coordinate": [
+                    176.7145233154297,
+                    1214.4034423828125,
+                    245.8589630126953,
+                    1237.6153564453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6527529358863831,
+                "coordinate": [
+                    423.235595703125,
+                    1214.114501953125,
+                    545.8067016601562,
+                    1237.920654296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9840998649597168,
+                "coordinate": [
+                    106.61775207519531,
+                    1260.9456787109375,
+                    585.919921875,
+                    1359.1456298828125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9532134532928467,
+                "coordinate": [
+                    107.34303283691406,
+                    1381.3270263671875,
+                    478.93597412109375,
+                    1404.4854736328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.970476508140564,
+                "coordinate": [
+                    106.428466796875,
+                    1405.0732421875,
+                    584.859130859375,
+                    1454.34228515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874663949012756,
+                "coordinate": [
+                    602.179931640625,
+                    948.8597412109375,
+                    1082.2535400390625,
+                    1092.1793212890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876788258552551,
+                "coordinate": [
+                    602.055908203125,
+                    1092.1773681640625,
+                    1082.9283447265625,
+                    1236.6136474609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9717069268226624,
+                "coordinate": [
+                    603.0594482421875,
+                    1236.845458984375,
+                    1081.8258056640625,
+                    1285.8984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9296295642852783,
+                "coordinate": [
+                    602.8922119140625,
+                    1307.6361083984375,
+                    713.19873046875,
+                    1331.0533447265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852787256240845,
+                "coordinate": [
+                    601.3499755859375,
+                    1332.060302734375,
+                    1083.6171875,
+                    1455.036865234375
+                ]
+            }
+        ]
+    }
+}

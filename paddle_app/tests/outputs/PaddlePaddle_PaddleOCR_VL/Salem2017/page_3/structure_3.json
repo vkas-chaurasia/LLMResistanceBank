@@ -1,0 +1,389 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Salem2017.pdf",
+    "page_index": 2,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "R. Ben Salem et al. / Journal of Infection and Public Health 10 (2017) 855–860",
+            "block_bbox": [
+                377,
+                69,
+                835,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "857",
+            "block_bbox": [
+                1102,
+                70,
+                1131,
+                86
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "312 nm UV light and the images were taken with Gel Doc TM XR (Bio-Rad).",
+            "block_bbox": [
+                78,
+                107,
+                592,
+                151
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Results",
+            "block_bbox": [
+                79,
+                192,
+                148,
+                213
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Amongst the 77 S. Enteritidis isolates, resistances to nalidixic acid, ampicillin, sulfonamides and streptomycin were observed in 20 (26%), five (6.5%), three (3.9%) and one (1.3%) isolates, respectively. In addition, a single isolate showed intermediate susceptibility to ciprofloxacin, but resistances to cefotaxime, cefoxitin, chloramphenicol, gentamicin, tobramycin and trimethoprim were not detected (Table 1). Overall, 51 isolates (66.2%) were susceptible to all antimicrobials tested while only 26 (33.8%) were resistant to one or more compounds. The genes responsible for the observed resistances are shown in Table 1. Sulfonamide resistance was encoded by sul1 or sul3, detected in one and two isolates, respectively. The streptomycin-resistant isolate harbored the strB gene but was negative for strA. The  $ bla_{TEM-1-like} $  and  $ bla_{SHV} $  genes were found in four and one of the ampicillin resistant isolates, respectively. The gene intI1, encoding the integrase of class 1 integrons, was not detected in the sul1- or sul3-positive S. Enteritidis isolates. Two mutations in the gyrA gene, changing Asp87 (GAC) to Tyr (TAC) and Asp87 (GAC) to Asn (AAC) were identified as responsible for nalidixic acid resistance in three and two of the isolates tested, respectively. In four other cases, mutations in the QRDR of gyrA were not detected; thus further research will be needed to establish the genetic basis of their resistance. With regard to PMQR genes, qnrB was present in the single isolate with intermediate susceptibility to ciprofloxacin (1.3%), while qnrA, qnrS and  $ aac(6')-Ib-cr $  genes were not observed. By combining resistant-phenotypes and genes involved, a total of seven profiles (R1 to R7) were identified (Table 1).",
+            "block_bbox": [
+                78,
+                233,
+                593,
+                800
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "The presence or absence of ten virulence genes was investigated in the panel of 77 S. Enteritidis isolates by PCR amplification with specific primer pairs (Table 1). The orgA, ssaQ, mgtC, siid (spi4_D) and sopB, selected as markers of SPI1 to SPI5, and the spvC used as indicator of the virulence plasmid of S. Enteritidis, were found in all isolates. The prophage-associated sopE1, gipA and sodC genes were detected in 75 (97.4%), 74 (96.1%) and 37 (48%) isolates, respectively. The bcfC fimbrial gene was present in 75 (97.4%) isolates. Overall, we observed six distinct virulence profiles (V). The V1 profile that included all tested genes was found in 34 (44.1%) isolates; the V2 profile lacking the sodC1 gene was found in 36 (46.8%) isolates; the V3, V4 and V5 profiles lacking bcfC, sopE plus sodC1 and sodC1 plus gipA, respectively, were each shown by two isolates; and the V6 profile lacking gipA was represented by a single isolate.",
+            "block_bbox": [
+                78,
+                799,
+                593,
+                1093
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Six plasmid patterns (P1–P6) were found in the present study (Fig. 1A; Table 1). All except one isolate harbored a plasmid of ca. 60 Kb, which is the size expected for the virulence plasmid of S. Enteritidis. This plasmid appeared either alone (67 isolates; 87%; P1 profile) or together with one or more additional plasmids ranging in size from ca. 2 Kb up to 80 Kb (profiles P2–P5, with two, five, one and one isolates, respectively). The remaining isolate carried a single plasmid of ca. 90 Kb (profile P6).",
+            "block_bbox": [
+                78,
+                1092,
+                593,
+                1260
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Altogether, 19 combinations of resistance, virulence and plasmid profiles were identified (Table 1). The most frequent combination (35.1%) corresponded to susceptible isolates (R0), carrying all virulence genes tested (V1) and containing the virulence plasmid alone (P1). Isolates positive for the virulence plasmid, lacking sodC1 and being either susceptible (23.4%) or resistant to nalidixic acid (15.6%) were also very common. The genetic relatedness of 36 isolates covering different combinations of resistance, virulence and plasmid profiles, were investigated by PFGE. Four closely related pulsotypes, named X1–X4, were found (Fig. 1B; Table 1). The major pulsotype was X1 that encompassed 29 isolates, while X2, X3 and X4 included only one, two and four isolates, respectively. X1 was associated with isolates of different origin (healthy and sick chickens as well as environmental samples) and with diverse resistance, virulence and plasmid profiles.",
+            "block_bbox": [
+                78,
+                1259,
+                593,
+                1492
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                616,
+                108,
+                1132,
+                194
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Discussion",
+            "block_bbox": [
+                619,
+                233,
+                713,
+                254
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "In this study, 77 S. Enteritidis isolates recovered in Tunisia from chicken facilities (healthy and sick animals as well as the farm environment) during a period of five years were examined for antimicrobial susceptibility and the genetic basis of the observed resistances. More than half of the isolates were susceptible to all antimicrobials tested, which is consistent with other studies indicating that antimicrobial drug resistance is uncommon in S. Enteritidis  $ [23–25] $ . In the present study, a low incidence of streptomycin, ampicillin and sulfonamides resistance (1.3%, 3.9% and 6.5%, respectively), and a relatively high level of nalidixic acid resistance (26%) were observed. The spread of sulfonamides resistance in Enterobacteriaceae including S. enterica is largely due to the frequent location of sul1 and sul3 genes in class 1 integrons, which often contain gene cassettes encoding resistance also to other antimicrobials. Although these genes were identified as responsible for sulfonamides resistance in the S. Enteritidis isolates from Tunisia, neither intI1 nor any gene cassette characteristically associated with class 1 integrons, were detected  $ [26] $ . However, the presence of defective class 1 integrons cannot be ruled out.",
+            "block_bbox": [
+                616,
+                274,
+                1133,
+                673
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Resistance to quinolones has increasingly been reported in Enterobacteriaceae from animal and human origin worldwide. Particularly, poultry-derived S. Enteritidis isolates have been shown to be highly resistant to nalidixic acid, probably due to the widespread use of quinolones in poultry production systems  $ [27] $ . Antimicrobial agents used to be widely administered in animal husbandry for growth promotion, a practice now banned in many countries, but still common in others. In Tunisia it was banned since 1999, although the law is not enforced. Unfortunately, official documents about the use of antimicrobials in Tunisian avian husbandry are not available. However, according to veterinarians and farmers, florfenicol (fenicol), ofloxacin (second generation fluoroquinolone) and doxycycline (tetracycline) are commonly administered in avian farms to treat some infections, specifically chronic respiratory diseases, colibacillosis or necrotic enteritis. These antimicrobials are sometimes excessively applied with a concurrent lack of bacteriological analysis. Thus, a better control of antimicrobial usage in chicken production systems in Tunisia is required.",
+            "block_bbox": [
+                616,
+                673,
+                1132,
+                1051
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Quinolone resistance is usually associated with alterations in the gyrA gene which encodes the A subunit of the target DNA gyrase. In fact, Asp87 to Tyr or Asp87 to Asn mutations were found in the gyrA genes of five isolates tested, these being the most common mutations associated with nalidixic acid resistance in S. Enteritidis  $ [23,28,29] $ . A single isolate carried the qnrB gene, but none of the isolates was positive for qnrA, qnrS and  $ aac(6^{\\prime})-Ib-cr $  genes. This is consistent with a low-level rate of dissemination of PMQR among chicken-associated isolates of S. Enteritidis in Tunisia. In fact, PMQR genes (qnrA, qnrB, qnrS and  $ aac(6^{\\prime})-Ib-cr $ ) have been previously reported in only five out of 113 nalidixic acid resistant isolates of this serotype (4.4%) recovered from different food sources, but mainly from chicken, during the 2008–2011 period in Tunisia  $ [6] $ . The frequency of nalidixic acid resistance reported in the latter study (31.4%) was close to the value obtained for the 2009–2013 period reported herein (26%).",
+            "block_bbox": [
+                616,
+                1050,
+                1132,
+                1385
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The 77 S. Enteritidis isolates were further characterized according to virulotype and plasmid content, which resulted in six profiles each. Nearly half of the isolates (44%) shared the same virulotype (V1), which included all virulence genes tested. These genes were selected as markers of regions known to be highly conserved (SPIs).",
+            "block_bbox": [
+                616,
+                1385,
+                1132,
+                1491
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9430782794952393,
+                "coordinate": [
+                    377.2158203125,
+                    69.2154541015625,
+                    835.1002197265625,
+                    88.59747314453125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8865005373954773,
+                "coordinate": [
+                    1102.0858154296875,
+                    70.21168518066406,
+                    1131.0565185546875,
+                    86.70353698730469
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9674201011657715,
+                "coordinate": [
+                    78.59158325195312,
+                    107.99246215820312,
+                    592.7784423828125,
+                    151.76119995117188
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9127710461616516,
+                "coordinate": [
+                    79.90240478515625,
+                    192.37705993652344,
+                    148.3826904296875,
+                    213.3394012451172
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883376955986023,
+                "coordinate": [
+                    78.155517578125,
+                    233.217529296875,
+                    593.8863525390625,
+                    800.3494873046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6358966827392578,
+                "coordinate": [
+                    363.06646728515625,
+                    487.34130859375,
+                    452.14794921875,
+                    507.39599609375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5765804052352905,
+                "coordinate": [
+                    489.48358154296875,
+                    487.0190124511719,
+                    539.2265014648438,
+                    506.5648498535156
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883865714073181,
+                "coordinate": [
+                    78.45858764648438,
+                    799.7510986328125,
+                    593.2791748046875,
+                    1093.3323974609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874983429908752,
+                "coordinate": [
+                    78.7020263671875,
+                    1092.965087890625,
+                    593.0368041992188,
+                    1260.108642578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879806637763977,
+                "coordinate": [
+                    78.07186889648438,
+                    1259.6309814453125,
+                    593.7086181640625,
+                    1492.3255615234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.98189777135849,
+                "coordinate": [
+                    616.7921142578125,
+                    108.20375061035156,
+                    1132.7139892578125,
+                    194.61061096191406
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.923119843006134,
+                "coordinate": [
+                    619.148193359375,
+                    233.05242919921875,
+                    713.81005859375,
+                    254.53585815429688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882721304893494,
+                "coordinate": [
+                    616.550048828125,
+                    274.8775634765625,
+                    1133.46484375,
+                    673.6239013671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988465428352356,
+                "coordinate": [
+                    616.5260009765625,
+                    673.6912841796875,
+                    1132.927734375,
+                    1051.2911376953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885071516036987,
+                "coordinate": [
+                    616.3040771484375,
+                    1050.579345703125,
+                    1132.822265625,
+                    1385.817626953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9831550121307373,
+                "coordinate": [
+                    616.344970703125,
+                    1385.17919921875,
+                    1132.646728515625,
+                    1491.6044921875
+                ]
+            }
+        ]
+    }
+}

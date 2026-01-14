@@ -1,0 +1,599 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bouzidi2012.pdf",
+    "page_index": 2,
+    "page_count": 8,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "N. Bouzidi et al. / Food Research International 45 (2012) 897–904",
+            "block_bbox": [
+                411,
+                71,
+                795,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "899",
+            "block_bbox": [
+                1097,
+                72,
+                1126,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "One pool of seven samples was collected on swabs from cages, and 1 pool of seven surface samples was collected from different places in each henhouse, such as walls, water and feeding equipment.",
+            "block_bbox": [
+                78,
+                110,
+                590,
+                173
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "For technical and economic reasons, during the first visit, we used cotton-tipped swabs for environmental samples. The cotton-tipped swab was moistened with sterile water and used to swab 5–10 cm of cage surfaces, beneath and inside empty cages or troughs under nipple lines. The cotton-tipped swabs were also used to wipe 20 cm $ ^{2} $  of feeding and watering equipment. For this, each layer house was divided into seven subsections, with three cotton-tipped swabs for each subsection.",
+            "block_bbox": [
+                78,
+                174,
+                591,
+                320
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "During the second sampling period, four drag swabs (AES Chemunex, Combourg, France) were used to collect dust from seven cages in various places within each henhouse. Each swab was sufficiently absorbent to collect the dust and dry manure from the surfaces beneath and inside two empty cages per swab.",
+            "block_bbox": [
+                78,
+                321,
+                591,
+                424
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Three drag swabs were also used to swab a  $ 0.5 \\, m^{2} $  surface area of feeding equipment and approximately  $ 30 \\, cm^{2} $  per swab of henhouse walls. One pool of four samples of feed and one pool of four samples of water were collected from flocks with 2400 to 3100 hens. Four 5 g subsamples of feed were collected from feeders, and four 5 mL sub-samples of water were collected from nipples and reservoirs. For flocks with 4800 to 7200 hens, six 5 g sub-samples of feed and six 5 mL sub-samples of water were collected from feeders, nipples or reservoirs.",
+            "block_bbox": [
+                78,
+                424,
+                591,
+                592
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Samples were taken from different places on each sampling visit. The pooled samples were placed individually in sterile recipients or sterile plastic pouches. Gloves were changed between each collection of pooled samples. The samples were transported to the laboratory in an icebox with freezer packs within 2 h of collection. Bacteriological analysis was usually initiated on the day of sampling but sometimes stored in the fridge at  $ 4^{\\circ} $ C for analysis the following day.",
+            "block_bbox": [
+                77,
+                592,
+                591,
+                741
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.5. Bacteriological analysis of samples",
+            "block_bbox": [
+                79,
+                759,
+                361,
+                782
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "The bacteriological analysis of samples was carried out according to standard norm ISO 6579: 2002 (ISO (Comité international de normalisation AW/9), 2002). Twenty five grams of each pooled feces and feed sample was weighed before adding 225 mL of buffered peptone water (BPW) (Merck, Darmstadt, Germany). Each pool of drag swabs used to sample dust and surfaces was immersed separately in 100 mL BPW per swab. Each cotton-tipped swab was placed in 9 mL BPW, and 25 mL water samples were placed in sterile bags containing 225 mL buffered peptone water. Pooled feces and feed samples were mixed in a Stomacher bag for 1 min. All the samples were incubated for  $ 18 \\pm 2 $  h at  $ 37^{\\circ} $ C. Two milliliters of this pre-enrichment broth was then used to inoculate a 20 mL Mueller-Kauffmann tetrathionate-Novobiocin (MKTTn) broth (AES Chemunex, Combourg, France) and 100  $ \\mu $ L of the pre-enrichment broth was used to inoculate 10 mL Rappaport-Vassiliadis broth (Biokar, Beauvais, France). Both media were incubated for 24 h at 37 and  $ 42^{\\circ} $ C respectively. Following incubation, one loopful from each selective enrichment tube was streaked over two selective media – Hektoen and Xylose Lysine Deoxycholate agar plates (AES Chemunex, Combourg, France) – prior to incubation at  $ 37^{\\circ} $ C for 18 to 24 h. Two typical colonies of Salmonella were confirmed by biochemical assays on Triple Sugar Iron (Biokar, Beauvais, France) and APl20E strips (BioMerieux, Marcy l'Etoile, France). Salmonella isolates were then serotyped by a slide agglutination test with polyvalent O and H antiserum (Bio-Rad, Marne la coquette, France). The Kauffmann–White scheme was used to serotype the different isolates (Popoff, 2001).",
+            "block_bbox": [
+                77,
+                801,
+                592,
+                1368
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 2.6. Antibiotic resistance analysis",
+            "block_bbox": [
+                79,
+                1387,
+                321,
+                1409
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antimicrobial susceptibility was tested by the disk diffusion method on Mueller-Hinton agar (Bio-Rad) in accordance with the Clinical and Laboratory Standards Institute (CLSI) standard (CLSI, 2006). The antimicrobial agents tested were ampicillin (10  $ \\mu $ g), amoxicillin + clavulanic acid (20, 10  $ \\mu $ g), cephalothin (30  $ \\mu $ g), cefotaxime (30  $ \\mu $ g), ceftazidime (30  $ \\mu $ g), sulphonamides (300  $ \\mu $ g), cotrimoxazole (1.25/23.75  $ \\mu $ g), gentamicin (10  $ \\mu $ g), streptomycin (10  $ \\mu $ g), kanamycin (30  $ \\mu $ g), tetracycline (30  $ \\mu $ g), chloramphenicol (30  $ \\mu $ g), nalidixic acid (30  $ \\mu $ g), ofloxacin (5  $ \\mu $ g) and enrofloxacin (5  $ \\mu $ g). Zone diameters were read using the automated Osiris scanner (Bio-Rad), interpreted as per CLSI guidelines (CLSI, 2009). Escherichia coli ATCC 25922 was used as quality-control organism.",
+            "block_bbox": [
+                78,
+                1428,
+                591,
+                1494
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                613,
+                110,
+                1128,
+                302
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "2.7. Statistical analyses for factors associated with Salmonella flock contamination",
+            "block_bbox": [
+                614,
+                326,
+                1127,
+                370
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Data were analyzed using Epi-Info $ ^{\\circledR} $  software (Epi Info 3.5.1, Centers for disease control and prevention (CDC), Atlanta, Freeware). Only univariate analyses were performed due to the small sample. Links between a certain factor and the presence of Salmonella did not therefore take into account potential confounders as multivariate regression models do. However, univariate associations suggest risk indicators, and are a preliminary but necessary step in the investigation of risk factors for any disease. Statistical analyses were limited to Fisher's Exact tests and calculation of Relative Risks (RR) with their 95% confidence intervals in order to quantify the relationship between each factor and the Salmonella status of laying-hen flocks. Discrepancies may exist between p-values and 95% confidence interval boundaries because Fisher's Exact test is a non-parametric test and 95% confidence intervals are calculated using a parametric method. The significance of associations is based on Fisher's Exact test, and not on the presence or absence of 1 in the confidence intervals. Only factors with a  $ RR \\geq 2 $  are presented. All tests were two-tailed and p-values < 0.05 were considered significant.",
+            "block_bbox": [
+                613,
+                389,
+                1129,
+                768
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 3. Results",
+            "block_bbox": [
+                616,
+                794,
+                698,
+                815
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 3.1. Salmonella prevalence",
+            "block_bbox": [
+                615,
+                836,
+                810,
+                858
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "Eight of the 18 flocks tested positive for Salmonella spp. Table 1 gives a detailed overview of the laying-hen flocks sampled. Salmonella contamination was higher at the end of the laying period than at the beginning or middle. The 70- to 86-wk-old hens had the highest prevalence of Salmonella (7/17, 41.17%), followed by the 22- to 31-wk-old hens, which had a prevalence of 20% (3/15). Salmonella prevalence was lowest halfway through laying (47–60 week) with 7.14% (1/14). Furthermore, of the three layer houses tested positive at the beginning of laying, Salmonella had been isolated at the end of laying in the previous two flocks reared in the same layer houses. However, no statistical analysis on the association of Salmonella prevalence and the hens' three age classes could be performed because of the relatively small number of flocks sampled.",
+            "block_bbox": [
+                613,
+                878,
+                1128,
+                1150
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "The number of positive samples within flocks was very low. Only 19 out of 2754 samples analyzed tested positive for Salmonella. Thirteen isolates (0.80%) were recovered from the 1610 feces samples and four (1.24%) from the 322 dust samples. Salmonella was also isolated from two (0.80%) out of 250 water samples (Table 2).",
+            "block_bbox": [
+                613,
+                1150,
+                1128,
+                1257
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "#### 3.2. Serovars encountered and antimicrobial resistance patterns",
+            "block_bbox": [
+                616,
+                1282,
+                1073,
+                1304
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "The serotyping of 19 Salmonella strains revealed nine serovars from eight positive flocks, but no clearly dominant serovar emerged. One serovar was isolated in five positive flocks, and two serovars were isolated in three other flocks (Table 1). The six most prevalent serovars were S. Enteritidis (n=4), S. Kentucky (n=3), S. Hadar (n=3), S. Virchow (n=2), S. Heidelberg (n=2) and S. Manhattan (n=2) (Table 2). S. Enteritidis and S. Virchow were each recovered from two successive flocks reared in the same two houses (flocks no. 2).",
+            "block_bbox": [
+                613,
+                1324,
+                1128,
+                1494
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9391009211540222,
+                "coordinate": [
+                    411.92498779296875,
+                    71.31491088867188,
+                    795.9524536132812,
+                    90.26034545898438
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.888407289981842,
+                "coordinate": [
+                    1097.760009765625,
+                    72.61803436279297,
+                    1126.00927734375,
+                    88.76525115966797
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9799484014511108,
+                "coordinate": [
+                    78.93215942382812,
+                    110.6142578125,
+                    590.74609375,
+                    173.711181640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872245788574219,
+                "coordinate": [
+                    78.44558715820312,
+                    174.16741943359375,
+                    591.62109375,
+                    320.128173828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855814576148987,
+                "coordinate": [
+                    78.55288696289062,
+                    321.1412353515625,
+                    591.3800048828125,
+                    424.9549560546875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.526669442653656,
+                "coordinate": [
+                    427.3334655761719,
+                    424.29339599609375,
+                    478.6330261230469,
+                    444.16387939453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878870248794556,
+                "coordinate": [
+                    78.0924072265625,
+                    424.54254150390625,
+                    591.8670043945312,
+                    592.5709838867188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871103763580322,
+                "coordinate": [
+                    77.86761474609375,
+                    592.851318359375,
+                    591.7744140625,
+                    741.222900390625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9417665004730225,
+                "coordinate": [
+                    79.78910827636719,
+                    759.7999267578125,
+                    361.28656005859375,
+                    782.0052490234375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4458279609680176,
+                "coordinate": [
+                    295.214599609375,
+                    1011.6402587890625,
+                    342.079833984375,
+                    1030.7034912109375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5515320897102356,
+                "coordinate": [
+                    378.1463623046875,
+                    1010.625,
+                    421.1558837890625,
+                    1030.15576171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886511564254761,
+                "coordinate": [
+                    77.798583984375,
+                    801.3150634765625,
+                    592.5509643554688,
+                    1368.6851806640625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5499824285507202,
+                "coordinate": [
+                    546.1158447265625,
+                    1115.844482421875,
+                    587.1387939453125,
+                    1134.646728515625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.591436505317688,
+                "coordinate": [
+                    402.1224060058594,
+                    1199.604248046875,
+                    444.0618591308594,
+                    1219.179931640625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9356014132499695,
+                "coordinate": [
+                    79.84269714355469,
+                    1387.3642578125,
+                    321.61126708984375,
+                    1409.15673828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9751200675964355,
+                "coordinate": [
+                    78.35491943359375,
+                    1428.726318359375,
+                    591.2449340820312,
+                    1494.374755859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879612326622009,
+                "coordinate": [
+                    613.0743408203125,
+                    110.29695892333984,
+                    1128.16552734375,
+                    302.2304992675781
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6898882985115051,
+                "coordinate": [
+                    614.3343505859375,
+                    326.9228515625,
+                    1127.8653564453125,
+                    370.3924560546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884423613548279,
+                "coordinate": [
+                    613.1634521484375,
+                    389.003662109375,
+                    1129.0968017578125,
+                    768.6806640625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9190729856491089,
+                "coordinate": [
+                    616.2305908203125,
+                    794.4684448242188,
+                    698.0841064453125,
+                    815.6652221679688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9331879019737244,
+                "coordinate": [
+                    615.88134765625,
+                    836.2556762695312,
+                    810.894775390625,
+                    858.7158813476562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883477091789246,
+                "coordinate": [
+                    613.7410888671875,
+                    878.4630126953125,
+                    1128.17822265625,
+                    1150.2100830078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9830203652381897,
+                "coordinate": [
+                    613.862060546875,
+                    1150.4666748046875,
+                    1128.106201171875,
+                    1257.7767333984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9421417713165283,
+                "coordinate": [
+                    616.0994873046875,
+                    1282.4052734375,
+                    1073.79931640625,
+                    1304.6474609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865410923957825,
+                "coordinate": [
+                    613.5814208984375,
+                    1324.105712890625,
+                    1128.6556396484375,
+                    1494.34521484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.44264930486679077,
+                "coordinate": [
+                    767.65283203125,
+                    1430.2337646484375,
+                    820.29345703125,
+                    1449.6116943359375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.45848557353019714,
+                "coordinate": [
+                    995.744384765625,
+                    1409.2470703125,
+                    1048.1727294921875,
+                    1428.6455078125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4405378997325897,
+                "coordinate": [
+                    933.2998657226562,
+                    1430.2373046875,
+                    985.4028930664062,
+                    1450.110107421875
+                ]
+            }
+        ]
+    }
+}

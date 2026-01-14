@@ -1,0 +1,247 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Gharieb2015.pdf",
+    "page_index": 5,
+    "page_count": 11,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Gharieb et al. Gut Pathog (2015) 7:34",
+            "block_bbox": [
+                109,
+                65,
+                356,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 6 of 11",
+            "block_bbox": [
+                992,
+                67,
+                1079,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_215_190_974_536.jpg\" alt=\"Image\" width=\"63%\" /></div>\n",
+            "block_bbox": [
+                215,
+                190,
+                974,
+                536
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Fig. 3 Agarose gel electrophoresis showing an amplification of sopB gene (517 bp) in Salmonella isolates from poultry meat and humans. Lane N: negative control (sopB $ ^{-} $  Salmonella strain), lane L: DNA ladder (100 bp), lane P: Positive control (sopB $ ^{+} $  Salmonella strain), lane 1: sopB $ ^{-} $  (S. Derby, duck), lane 2: sopB $ ^{-} $  (S. Kiel, chicken), lanes 3, 7: sopB $ ^{+} $  (untypable, duck), lane 4: sopB $ ^{-} $  (S. Rubislaw, chicken), lanes 5: sopB $ ^{-} $  (S. Typhimurium, chicken), lane 6: sopB $ ^{+} $  (S. Typhimurium, chicken), lanes 8, 9: sopB $ ^{+} $  (S. Typhimurium, humans), lane 10, 11, 12: sopB $ ^{-} $  (S. Typhimurium, chicken)</div>\n",
+            "block_bbox": [
+                117,
+                543,
+                1040,
+                627
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_214_690_974_1037.jpg\" alt=\"Image\" width=\"63%\" /></div>\n",
+            "block_bbox": [
+                214,
+                690,
+                974,
+                1037
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Fig. 4 Agarose gel electrophoresis showing an amplification of stn gene (617 bp) in Salmonella isolates from poultry meat and humans. Lane N: negative control (stn $ ^{-} $  Salmonella strain), lane L: DNA ladder (100 bp), lane P: Positive control (stn $ ^{+} $  Salmonella strain), lane 1: stn $ ^{-} $  (S. Derby, duck), lane 2: stn $ ^{-} $  (S. Kiel, chicken), lanes 3,7: stn $ ^{-} $  (untypable, duck), lane 4: stn $ ^{-} $  (S. Rubislaw, chicken), lanes 5,6,10,11,12: stn $ ^{-} $  (S. Typhimurium, chicken), lane 8: stn $ ^{-} $  (S. Typhimurium, humans), lane 9: stn $ ^{+} $  (S. Typhimurium, humans)</div>\n",
+            "block_bbox": [
+                117,
+                1043,
+                1048,
+                1126
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "sensitive to streptomycin and this could be attributed to point mutations in the  $ aac(3) $ -Id gene of S. Derby [24] and frame shift mutation in S. Typhimurium [25, 26]. Nucleotide sequence analysis revealed point mutations in the  $ aac(3) $ -Id gene of S. Derby leading to the amino acid changes at codon 36 (glutamine CAG→proline CCG), codon 166,172 (arginine AGA→threonine ACA), codon 187 (arginine CGA→CTA leucine) and codon 189 (cysteine TGC→arginine CGC). C-to-T transition at position 208 of the deduced polypeptide resulted in a leucine to phenylalanine substitution and A to C transversion at codon 214 resulted in asparagine to histidine substitution. Silent mutation was recorded only at nucleotide 138 and didn't result in amino acid substitution (CCA→CCG, both are proline). Moreover, sequence analysis of aadA7 gene showed frame shift mutation due to additional cytosine at position 969 of the deposited sequence of S. Typhimurium from chicken.",
+            "block_bbox": [
+                105,
+                1176,
+                585,
+                1442
+            ],
+            "block_id": 6,
+            "block_order": 1,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                602,
+                1177,
+                1081,
+                1344
+            ],
+            "block_id": 7,
+            "block_order": 2,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "In the present study, only one isolate of S. Typhimurium from human was found to harbor class I integrons of 650, 750 and 1600 bp. Sequence analysis of 650 bp revealed the presence of gene cassette containing aadA4.",
+            "block_bbox": [
+                602,
+                1345,
+                1082,
+                1442
+            ],
+            "block_id": 8,
+            "block_order": 3,
+            "group_id": 8
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9384065866470337,
+                "coordinate": [
+                    109.23880004882812,
+                    65.52264404296875,
+                    356.4747009277344,
+                    87.20266723632812
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8954068422317505,
+                "coordinate": [
+                    992.443359375,
+                    67.02726745605469,
+                    1079.714599609375,
+                    88.75852966308594
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9857514500617981,
+                "coordinate": [
+                    215.14315795898438,
+                    190.26629638671875,
+                    974.3385009765625,
+                    536.938720703125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9730882048606873,
+                "coordinate": [
+                    117.5633544921875,
+                    543.6357421875,
+                    1040.3153076171875,
+                    627.29541015625
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9841887950897217,
+                "coordinate": [
+                    214.88873291015625,
+                    690.546630859375,
+                    974.5192260742188,
+                    1037.143798828125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9738575220108032,
+                "coordinate": [
+                    117.7752685546875,
+                    1043.54248046875,
+                    1048.4708251953125,
+                    1126.85546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988057017326355,
+                "coordinate": [
+                    105.83882141113281,
+                    1176.9453125,
+                    585.7318725585938,
+                    1442.634521484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869171380996704,
+                "coordinate": [
+                    602.5052490234375,
+                    1177.076904296875,
+                    1081.8660888671875,
+                    1344.640869140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9807333946228027,
+                "coordinate": [
+                    602.35693359375,
+                    1345.19775390625,
+                    1082.5972900390625,
+                    1442.81298828125
+                ]
+            }
+        ]
+    }
+}

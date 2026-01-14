@@ -1,0 +1,411 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bounar-Kechih2012.pdf",
+    "page_index": 4,
+    "page_count": 7,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "ANTIBIOGRAM AND PLASMID PROFILES OF SALMONELLA",
+            "block_bbox": [
+                326,
+                53,
+                896,
+                76
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "1183",
+            "block_bbox": [
+                1090,
+                53,
+                1137,
+                75
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_87_93_593_303.jpg\" alt=\"Image\" width=\"41%\" /></div>\n",
+            "block_bbox": [
+                87,
+                93,
+                593,
+                303
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Figure 1. Plasmid profiles of transconjugants: 1: Com1; 5:  $ \\lambda $  gene digested by Hind III; 10: Escherichia coli K $ _{12} $ Nal; 11: E. coli C $ _{600} $ Rif. Transconjugants: 2: 24 (TCY, SSS, TMP) NAL; 3: 36 (TCY, SSS, TMP) NAL; 4: 44 (K) NAL; 6: 41 (TCY) NAL; 7: 37 (TCY) NAL; 8: 52 (TCY) NAL; 9: 75 (TCY) NAL; 12: 21 (TCY, SSS, TMP) NAL. TCY: tetracycline; SSS: sulphonamides; TMP: trimethoprim; NAL: nalidixic acid; K: kanamycin.</div>\n",
+            "block_bbox": [
+                82,
+                324,
+                597,
+                460
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "et al. (2009) but refuted by those of Uyttendaele et al. (1998) in Belgium and Foley et al. (2008) in the USA, who have ranked it among the 6 most common serotypes. The study of the distribution of Salmonella serotypes within 4 wilayahs taught us about their dynamic expansion across the adjacent wilayahs, or even their possible spread in the national territory. Bouira was the wilayah that counted most of the serotypes, with a high prevalence of Salmonella Enteritidis, Salmonella Heidelberg, and Salmonella Typhimurium. Bejaia had less diversity than that recorded in Bouira; the predominant serotypes were Salmonella Albany, Salmonella Heidelberg, and Salmonella Infantis. Although Tizi-Ouzou and Boumerdes had only 15 and 16 strains, diversity was observed with a predominance of Salmonella Albany and Salmonella Heidelberg, respectively. The homogeneous distribution of all serotypes in the study's area could be the consequence of the uncontrolled movement of poultry products.",
+            "block_bbox": [
+                81,
+                483,
+                599,
+                944
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Resistance of Antimicrobial Agents Tested",
+            "block_bbox": [
+                83,
+                961,
+                583,
+                990
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "There is a positive correlation between antimicrobial use and bacterial resistance rates; indeed, each exposure eliminates the susceptible bacteria and promotes the growth of resistant strains (Jaecklin, 2002; Fluit, 2005). Even though the treatment of avian salmonellosis is banned in Algeria by ministerial order (JORA, 2003), the high rate of antimicrobial resistance that we recorded (53%) could be explained by the indiscriminate use of these drugs for therapeutic, prophylactic purposes or as growth promoters. Our result was significantly higher than that reported by Al-Bahry et al. (2007; 23.7%) and lower than that recorded by Elgroud et al. (2008; 80%) and that reported by the PICRA (2006; 63%). Multidrug resistance observed in our study was also described by Bornert (2000) and Al-Bahry et al. (2007). Moreover, resistance was found for 6 of the 9 antimicrobial classes tested. The observed resistance to first generation quinolones (nalidixic acid) was the most frequent. This is likely due to their repeated use in poultry production. Fortunately, there is no resistance to fluoroquinolones tested (ciprofloxacin, enrofloxacin, levofloxacin) as reported by McKenzie and Nadeau (2006). These results corroborate several international studies (Heurtin-Le Corre et al. 1999; San Martin et al., 2005; PICRA, 2006). Salmonella isolates were found to be resistant to ciprofloxacin in previous French (Brisabois et al., 1997) and Algerian studies (Elgroud et al., 2009; Bouzidi et al., 2011), which is more worrying as fluoroquinolones should be reserved for the treatment of invasive human salmonellosis (Davies et al., 1999). Although furans have been removed from the Algerian nomenclature, we recorded a high rate of resistance to nitrofurantoines. This result was lower than that noted in 2004 in Poland by Wasyl and Hoszowski (2004; 48.2%). The rates of resistance to cyclines reported by several authors were higher than those we recorded and ranged from 20 to 91% (Brisabois et al., 1997; Dinh Nam Lâm et al., 2000; McKenzie and Nadeau, 2006; PICRA, 2006). As for sulphonamides, our result was higher than that reported by the national monitoring network to antimicrobial resistance (7%; Aboun, 2005) and lower than that noted by Brisabois et al.",
+            "block_bbox": [
+                83,
+                1002,
+                598,
+                1053
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                620,
+                91,
+                1141,
+                1056
+            ],
+            "block_id": 7,
+            "block_order": 4,
+            "group_id": 6
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 3. Determination of incompatibility groups and plasmid profiles of Salmonella strains that transferred resistance markers $ ^{1} $ </div>\n",
+            "block_bbox": [
+                83,
+                1109,
+                1111,
+                1134
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Salmonella serotype</td><td style='text-align: center;'>n12</td><td style='text-align: center;'>Resistance profile3</td><td style='text-align: center;'>n24</td><td style='text-align: center;'>Transferred resistance</td><td style='text-align: center;'>Incompatibility group</td><td style='text-align: center;'>DNA extraction</td></tr><tr><td rowspan=\"2\">Heidelberg</td><td rowspan=\"2\">19</td><td style='text-align: center;'>AMP, TCY, NAL</td><td style='text-align: center;'>1</td><td style='text-align: center;'>(AMP)Rif</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>/</td></tr><tr><td style='text-align: center;'>TCY</td><td style='text-align: center;'>1</td><td style='text-align: center;'>TCY(NAL)</td><td style='text-align: center;'>Com1</td><td style='text-align: center;'>+</td></tr><tr><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>5</td><td style='text-align: center;'>SXT, TMP, SSS, TCY</td><td style='text-align: center;'>1</td><td style='text-align: center;'>(TCY, SSS, TMP)NAL</td><td style='text-align: center;'>Com1</td><td style='text-align: center;'>+</td></tr><tr><td rowspan=\"2\">Blockley</td><td rowspan=\"2\">3</td><td rowspan=\"2\">TCY</td><td rowspan=\"2\">2</td><td style='text-align: center;'>(TCY)NAL</td><td style='text-align: center;'>Com1</td><td style='text-align: center;'>+</td></tr><tr><td style='text-align: center;'>(TCY)NAL</td><td style='text-align: center;'>Com1</td><td style='text-align: center;'>+</td></tr><tr><td rowspan=\"3\">Hadar</td><td rowspan=\"3\">3</td><td style='text-align: center;'>AMP, TCY, NAL</td><td style='text-align: center;'>3</td><td style='text-align: center;'>(AMP)Rif</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>/</td></tr><tr><td rowspan=\"2\">TCY</td><td rowspan=\"2\">K</td><td style='text-align: center;'>TCY(NAL)</td><td style='text-align: center;'>Com1</td><td style='text-align: center;'>+</td></tr><tr><td style='text-align: center;'>K(NAL)</td><td style='text-align: center;'>ND</td><td style='text-align: center;'>/</td></tr><tr><td style='text-align: center;'>Livingstone</td><td style='text-align: center;'>1</td><td style='text-align: center;'>TCY, SSS, TMP, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>(TCY, SSS, TMP)NAL</td><td style='text-align: center;'>Com1</td><td style='text-align: center;'>NV</td></tr><tr><td style='text-align: center;'>Indiana</td><td style='text-align: center;'>2</td><td style='text-align: center;'>TCY, SSS, TMP, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>(TCY, SSS, TMP)NAL</td><td style='text-align: center;'>Com1</td><td style='text-align: center;'>+</td></tr><tr><td style='text-align: center;'>Newport</td><td style='text-align: center;'>1</td><td style='text-align: center;'>AMP, TCY, NAL</td><td style='text-align: center;'>1</td><td style='text-align: center;'>(AMP, TCY)Rif</td><td style='text-align: center;'>F1me</td><td style='text-align: center;'>NE</td></tr></table>",
+            "block_bbox": [
+                84,
+                1137,
+                1133,
+                1402
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{1} $ ND: not determined; NV: not visualized; NE: no extract.",
+            "block_bbox": [
+                100,
+                1404,
+                516,
+                1426
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{2} $ n1: number of donor strains on which tests conjugation were performed.",
+            "block_bbox": [
+                99,
+                1427,
+                622,
+                1449
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{3} $ AMP: ampicillin; TCY: tetracycline, NAL: nalidixic acid; FT: nitrofurantoin; SXT: cotrimoxazole, TMP: trimethoprim; SSS: sulphonamides, K: kanamycin.",
+            "block_bbox": [
+                83,
+                1449,
+                1138,
+                1489
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{4} $ n2: number of strains that transferred one or more resistance markers.",
+            "block_bbox": [
+                99,
+                1489,
+                610,
+                1513
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9453145861625671,
+                "coordinate": [
+                    326.6086730957031,
+                    53.22013854980469,
+                    896.48974609375,
+                    76.97714233398438
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9044773578643799,
+                "coordinate": [
+                    1090.02197265625,
+                    53.29954528808594,
+                    1137.251220703125,
+                    75.350830078125
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9843654632568359,
+                "coordinate": [
+                    87.98199462890625,
+                    93.5072250366211,
+                    593.1992797851562,
+                    303.2037658691406
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5962877869606018,
+                "coordinate": [
+                    392.7052307128906,
+                    345.458984375,
+                    450.5836486816406,
+                    365.61346435546875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9743078947067261,
+                "coordinate": [
+                    82.94088745117188,
+                    324.4651184082031,
+                    597.75439453125,
+                    460.0985412597656
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5787653923034668,
+                "coordinate": [
+                    533.6512451171875,
+                    345.01141357421875,
+                    592.404052734375,
+                    365.78118896484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889416098594666,
+                "coordinate": [
+                    81.79147338867188,
+                    483.7438659667969,
+                    599.7374267578125,
+                    944.829833984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9454416632652283,
+                "coordinate": [
+                    83.71766662597656,
+                    961.5186767578125,
+                    583.2427978515625,
+                    990.51123046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9666363000869751,
+                "coordinate": [
+                    83.56356811523438,
+                    1002.005126953125,
+                    598.696533203125,
+                    1053.59130859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884582161903381,
+                "coordinate": [
+                    620.810791015625,
+                    91.78292846679688,
+                    1141.210693359375,
+                    1056.1951904296875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9519270658493042,
+                "coordinate": [
+                    83.74395751953125,
+                    1109.6025390625,
+                    1111.401611328125,
+                    1134.06787109375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7459561228752136,
+                "coordinate": [
+                    254.53390502929688,
+                    1162.8193359375,
+                    284.6800842285156,
+                    1185.34423828125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6976087093353271,
+                "coordinate": [
+                    525.1473388671875,
+                    1163.7548828125,
+                    554.9932861328125,
+                    1185.07861328125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9859069585800171,
+                "coordinate": [
+                    84.03399658203125,
+                    1137.74169921875,
+                    1133.70556640625,
+                    1402.09912109375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.926798403263092,
+                "coordinate": [
+                    100.7552490234375,
+                    1404.632080078125,
+                    516.634521484375,
+                    1426.471435546875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9292181730270386,
+                "coordinate": [
+                    99.17803955078125,
+                    1427.0494384765625,
+                    622.1458129882812,
+                    1449.5438232421875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9129358530044556,
+                "coordinate": [
+                    83.669189453125,
+                    1449.182373046875,
+                    1138.105712890625,
+                    1489.238037109375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9355359077453613,
+                "coordinate": [
+                    99.40045166015625,
+                    1489.264404296875,
+                    610.0338134765625,
+                    1513.014892578125
+                ]
+            }
+        ]
+    }
+}

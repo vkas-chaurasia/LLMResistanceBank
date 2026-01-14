@@ -1,0 +1,450 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bernadette2012.pdf",
+    "page_index": 0,
+    "page_count": 5,
+    "width": 1201,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Hindawi Publishing Corporation\nInternational Journal of Microbiology\nVolume 2012, Article ID 150612, 5 pages\ndoi:10.1155/2012/150612",
+            "block_bbox": [
+                95,
+                84,
+                363,
+                163
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "text",
+            "block_content": "Research Article",
+            "block_bbox": [
+                97,
+                267,
+                325,
+                302
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Prevalence and Antimicrobial Resistance of Thermophilic Campylobacter Isolated from Chicken in Côte d'Ivoire",
+            "block_bbox": [
+                96,
+                312,
+                978,
+                394
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Goualié Gblossi Bernadette, $ ^{1,2} $  Akpa Eric Essoh, $ ^{1} $  Kakou-N'Gazoa Elise Solange, $ ^{2} $  Guessennd Natalie, $ ^{2} $  Bakayoko Souleymane, $ ^{2} $  Niamké Lamine Sébastien, $ ^{1} $  and Dosso Mireille $ ^{2} $ ",
+            "block_bbox": [
+                166,
+                454,
+                947,
+                537
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{1} $  Laboratoire de Biotechnologies, Filière Biochimie-Microbiologie, Unité de Formation et de Recherche en Biosciences, Université de Cocody-Abidjan, 01 BP 582, Abidjan, Cote d’Ivoire\n\n $ ^{2} $  Institut Pasteur de Côte d’Ivoire, 01 BP 490, Abidjan, Cote d’Ivoire",
+            "block_bbox": [
+                168,
+                552,
+                981,
+                618
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Correspondence should be addressed to Goualié Gblossi Bernadette, bettygoualie@yahoo.fr",
+            "block_bbox": [
+                167,
+                632,
+                831,
+                656
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Received 12 April 2012; Accepted 24 September 2012",
+            "block_bbox": [
+                167,
+                668,
+                555,
+                692
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Academic Editor: Hugh W. Morgan",
+            "block_bbox": [
+                168,
+                705,
+                431,
+                728
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Copyright © 2012 Goualié Gblossi Bernadette et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+            "block_bbox": [
+                166,
+                742,
+                1103,
+                808
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Thermophilic Campylobacteris are major causes of gastroenteritis in human. The main risk factor of infection is consumption of contaminated or by cross-contaminated poultry meat. In Côte d'Ivoire, gastroenteritis is usually observed but no case of human campylobacteriosis has been formally reported to date. The aims of this study were to determine prevalence and antimicrobial resistance of Campylobacter jejuni and Campylobacter coli isolated from chickens ceaca in commercial slaughter in Abidjan. Between May and November 2009, one hundred and nineteen (119) chicken caeca samples were collected and analyzed by passive filtration method followed by molecular identification (PCR). From these 119 samples, 76 (63.8%) were positive to Campylobacter tests. Among the positive colonies, 51.3% were C. jejuni and 48.7% were C. coli. Of the 39 C. jejuni isolates, 79.5%, 38.5%, 17.9%, 10.3%, and 7.7% were, respectively, resistant, to nalidixic acid, ciprofloxacin, amoxicillin, erythromycin, and gentamicin. Among the 37 isolates of C. coli, 78.4%, 43.2%, 13.5%, 8.1%, and 0% were resistant, respectively, to the same antibiotics. In conclusion, we reported in this study the presence of high Campylobacter contamination of the studied chickens. Molecular identification of the bacteria was performed and determination of high resistance to antimicrobials of the fluoroquinolone family was revealed.",
+            "block_bbox": [
+                166,
+                820,
+                1104,
+                1057
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### 1. Introduction",
+            "block_bbox": [
+                98,
+                1127,
+                258,
+                1152
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Campylobacter bacteria are Gram negative, curved, highly mobile, and microaerophilic. Thermophilic Campylobacter species, particularly Campylobacter jejuni and Campylobacter coli, have been recognized as a major cause of acute bacterial gastroenteritis in humans since 1970 and it is estimated that Campylobacter spp. are responsible for 400–500 millions cases of diarrhea each year worldwide  $ [1–4] $ . In developing countries, incidence of children under 5 years old is estimated to 40 000 cases for 100 000 persons per year  $ [5, 6] $  and according to World Health Organization (WHO) this incidence is underestimated.",
+            "block_bbox": [
+                94,
+                1169,
+                586,
+                1420
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Unpasteurized milk, water, and foods of animal origin are potential sources of contaminations  $ [7–9] $ , but the major risk factor for campylobacteriosis for humans is the consumption of undercooked poultry and the handling of raw poultry  $ [9–16] $ .",
+            "block_bbox": [
+                95,
+                1419,
+                586,
+                1491
+            ],
+            "block_id": 12,
+            "block_order": 12,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                611,
+                1129,
+                1100,
+                1176
+            ],
+            "block_id": 13,
+            "block_order": 13,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Most Campylobacter infections do not need to be treated with antimicrobial agents. However, in a subset of patients Campylobacter may cause severe complications and increased risk for death and therefore requires treatment  $ [17–19] $ .",
+            "block_bbox": [
+                611,
+                1179,
+                1102,
+                1274
+            ],
+            "block_id": 14,
+            "block_order": 14,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "When clinical treatment is necessary, fluoroquinolones (Ciprofloxacin, e.g.) or macrolides (Erythromycin) are currently used because of their large spectra activity on enteric pathogens  $ [20, 21] $ .",
+            "block_bbox": [
+                611,
+                1277,
+                1102,
+                1373
+            ],
+            "block_id": 15,
+            "block_order": 15,
+            "group_id": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "However, antimicrobial drug resistance in Campylobacter infections has increased dramatically in many countries during the 1990s. This emergence of strains resistance to antimicrobials provoked controversy over the use of antimicrobials in animal food production  $ [22, 23] $ .",
+            "block_bbox": [
+                610,
+                1374,
+                1104,
+                1491
+            ],
+            "block_id": 16,
+            "block_order": 16,
+            "group_id": 16
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9622423052787781,
+                "coordinate": [
+                    95.86500549316406,
+                    84.68621826171875,
+                    363.20025634765625,
+                    163.54193115234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9551586508750916,
+                "coordinate": [
+                    97.23001098632812,
+                    267.5426025390625,
+                    325.91729736328125,
+                    302.5863037109375
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9775457978248596,
+                "coordinate": [
+                    96.5853271484375,
+                    312.66009521484375,
+                    978.6046142578125,
+                    394.3294677734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.973640501499176,
+                "coordinate": [
+                    166.40127563476562,
+                    454.871826171875,
+                    947.39501953125,
+                    537.1622924804688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8970453143119812,
+                "coordinate": [
+                    168.33282470703125,
+                    552.7100830078125,
+                    981.1642456054688,
+                    618.9737548828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4633101224899292,
+                "coordinate": [
+                    168.53030395507812,
+                    595.4988403320312,
+                    645.8018798828125,
+                    619.3300170898438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9407350420951843,
+                "coordinate": [
+                    167.525390625,
+                    632.0521850585938,
+                    831.5040893554688,
+                    656.2788696289062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9396080374717712,
+                "coordinate": [
+                    167.968505859375,
+                    668.3878173828125,
+                    555.1004638671875,
+                    692.1810302734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9425967931747437,
+                "coordinate": [
+                    168.58102416992188,
+                    705.177978515625,
+                    431.0710144042969,
+                    728.950927734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9734989404678345,
+                "coordinate": [
+                    166.68344116210938,
+                    742.44775390625,
+                    1103.8048095703125,
+                    808.31396484375
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9834073185920715,
+                "coordinate": [
+                    166.7677001953125,
+                    820.9041748046875,
+                    1104.416748046875,
+                    1057.3182373046875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.946810781955719,
+                "coordinate": [
+                    98.23145294189453,
+                    1127.5003662109375,
+                    258.96392822265625,
+                    1152.9144287109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884001016616821,
+                "coordinate": [
+                    94.83258056640625,
+                    1169.4222412109375,
+                    586.365478515625,
+                    1420.1690673828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9792634844779968,
+                "coordinate": [
+                    95.33914184570312,
+                    1419.77978515625,
+                    586.1710205078125,
+                    1491.21630859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9706719517707825,
+                "coordinate": [
+                    611.7674560546875,
+                    1129.185791015625,
+                    1100.9898681640625,
+                    1176.724365234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9843626022338867,
+                "coordinate": [
+                    611.046875,
+                    1179.514892578125,
+                    1102.336669921875,
+                    1274.375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9829119443893433,
+                "coordinate": [
+                    611.26025390625,
+                    1277.4375,
+                    1102.372314453125,
+                    1373.060546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846599102020264,
+                "coordinate": [
+                    610.087890625,
+                    1374.601806640625,
+                    1104.695556640625,
+                    1491.440185546875
+                ]
+            }
+        ]
+    }
+}

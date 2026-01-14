@@ -1,0 +1,1373 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Daka2012.pdf",
+    "page_index": 5,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Daka et al. Annals of Clinical Microbiology and Antimicrobials 2012, 11:26 http://www.ann-clinmicrob.com/content/11/1/26",
+            "block_bbox": [
+                108,
+                65,
+                599,
+                105
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 6 of 6",
+            "block_bbox": [
+                997,
+                66,
+                1080,
+                85
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Authors' contribution",
+            "block_bbox": [
+                109,
+                180,
+                256,
+                197
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "DD developed proposal and secured financial support, data collection, laboratory working, analysis of the result, finalizing whole manuscript for publication. SG, read the manuscript and corrected the paper, DY, read the manuscript and laboratory work. All authors read and approved the final manuscript.",
+            "block_bbox": [
+                108,
+                198,
+                571,
+                288
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Acknowledgement",
+            "block_bbox": [
+                110,
+                312,
+                238,
+                328
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "We would like to thank the Research Council of Addis Ababa University for providing the financial support and Hawassa University, College of Medicine and Health sciences for practical arrangements regarding laboratory work.",
+            "block_bbox": [
+                107,
+                329,
+                577,
+                385
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Author details",
+            "block_bbox": [
+                110,
+                402,
+                208,
+                418
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{1} $ Hawassa University College of Medicine and Health sciences, Hawassa, Ethiopia.  $ ^{2} $ Addis Ababa University College of Medicine, Addis Ababa, Ethiopia.",
+            "block_bbox": [
+                109,
+                420,
+                583,
+                456
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Received: 25 May 2012 Accepted: 20 August 2012",
+            "block_bbox": [
+                109,
+                474,
+                431,
+                491
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Published: 17 September 2012",
+            "block_bbox": [
+                109,
+                492,
+                309,
+                509
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## References",
+            "block_bbox": [
+                110,
+                533,
+                186,
+                550
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "1. Diekema DJ, Pfaller MA, Schmitz FJ, et al: Survey of infections due to Staphylococcus species: frequency of occurrence and antimicrobial susceptibility of isolates collected in the United States, Canada, Latin America, Europe, and the Western Pacific region for the SENTRY Antimicrobial Surveillance Program, 1997–1999. Clin Infect Dis 2001, 32(2):S114–S132.",
+            "block_bbox": [
+                111,
+                553,
+                556,
+                657
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "2. Brook I, Frazier EH: Clinical features and aerobic and anaerobic microbiological characteristics of cellulites. Arch Surg 1995, 130:786–792.",
+            "block_bbox": [
+                110,
+                661,
+                570,
+                695
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "3. Hoen B, Alla F, Selton-Suty C, et al: Changing profile of infective endocarditis: results of a 1-year survey in France. JAMA 2002, 288:75–81.",
+            "block_bbox": [
+                111,
+                697,
+                570,
+                731
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "4. Javaloyas M, Garcia-Somoza D, Gudiol F: Epidemiology and prognosis of bacteremia: a 10-years study in a community hospital. Scand J Infect Dis 2002, 34:436–441.",
+            "block_bbox": [
+                111,
+                733,
+                570,
+                783
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "5. Weinstein MP, Towns ML, Quartey SM, et al: The clinical significance of positive blood cultures in the 1990s: a prospective comprehensive evaluation of the microbiology, epidemiology, and outcome of bacteremia and fungemia in adults. Clin Infect Dis 1997, 24:584–602.",
+            "block_bbox": [
+                111,
+                787,
+                557,
+                855
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "6. Mahon CR, Larsen HS: Staphylococcus aureus. In Textbook of diagnostic microbiology. Edited by Mahon CR, Manuseilis G Jr. New York: WB Saunders Company; 1995:325–330.",
+            "block_bbox": [
+                110,
+                859,
+                556,
+                910
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "7. Matsunaga T, Kamata S, Kakiichi N, Uchida K: Characteristics of Staphylococcus aureus isolated from peracute, acute and chronic bovine mastitis. J Vet Med Sci 1993, 55:297–300.",
+            "block_bbox": [
+                110,
+                913,
+                576,
+                964
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "8. Larsen HD, Sloth KH, Elsberg C, et al: The dynamics of Staphylococcus aureus intramammary infections in nine Danish dairy herds. Vet Microbiol 2000, 71:89–101.",
+            "block_bbox": [
+                110,
+                967,
+                578,
+                1018
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "9. Onasanya A, Mignouna HD, Thottappilly G: Genetic fingerprinting and phylogenetic diversity of Staphylococcus aureus isolates from Nigeria. Afr J Biotech 2003, 2(8):246–250.",
+            "block_bbox": [
+                111,
+                1021,
+                578,
+                1071
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "10. Kalsoom F, Syed NHS, Farzana J: Antibiotic resistance pattern against various isolates of Staphylococcus aureus from raw milk samples. J Res Sci 2004, 15:145–151.",
+            "block_bbox": [
+                112,
+                1075,
+                581,
+                1125
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "11. Sears PM, McCarthy KK: Management and treatment of staphylococcal mastitis. Vet Clin North Am Food Anim Pract 2003, 19:171–185.",
+            "block_bbox": [
+                112,
+                1128,
+                560,
+                1162
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "12. Brouillette E, Malouin F: The pathogenesis and control of Staphylococcus aureus-induced mastitis: Study models in the mouse. Microbes Infect 2005, 7:560–568.",
+            "block_bbox": [
+                113,
+                1164,
+                571,
+                1216
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "13. Shitandi A, Sternesjö Å: Prevalence of multidrug resistant Staphylococcus aureus in milk from large and small-scale producers in Kenya. J Dairy Sci 2004, 87:4145–4149.",
+            "block_bbox": [
+                112,
+                1218,
+                573,
+                1269
+            ],
+            "block_id": 23,
+            "block_order": 22,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "14. Rychlik I, Gregorova D, Hradecka H: Distribution and function of plasmids in Salmonella enterica. Vet Microbiol 2006, 112(1):1–10.",
+            "block_bbox": [
+                112,
+                1272,
+                573,
+                1306
+            ],
+            "block_id": 24,
+            "block_order": 23,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "15. Petinaki E, Miriagou V, Hatzi F, Kontos F, Maniati M, Maniatis AN: Bacterial resistance study group. Survey of methicillin-resistant coagulase-negative Staphylococcus aureus in the hospitals of central Greece. Int J Antimicrob Agents 2001, 18:563–566.",
+            "block_bbox": [
+                112,
+                1309,
+                570,
+                1377
+            ],
+            "block_id": 25,
+            "block_order": 24,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "16. Waage S, Bjorland J, Caugant DA, et al: Spread of Staphylococcus aureus resistant to penicillin and tetracycline within and between dairy herds. Epidemiol Infect 2002, 129:193–202.",
+            "block_bbox": [
+                112,
+                1380,
+                568,
+                1431
+            ],
+            "block_id": 26,
+            "block_order": 25,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "17. Zhanel GG, Hisanaga TL, Laing NM, et al: Antibiotic resistance in outpatient urinary isolates: Final results from the North American Urinary",
+            "block_bbox": [
+                112,
+                1434,
+                582,
+                1469
+            ],
+            "block_id": 27,
+            "block_order": 26,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Tract Infection Collaborative Alliance (NAUTICA). Int J Antimicrob Agents 2005, 26:380–388.",
+            "block_bbox": [
+                636,
+                180,
+                1062,
+                214
+            ],
+            "block_id": 28,
+            "block_order": 27,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "18. Pesavento G, Ducci B, Comodo N, Lo Nostro A: Antimicrobial resistance profile of Staphylococcus aureus isolated from raw meat: A research for methicillin resistant Staphylococcus aureus (MRSA). Food Cont 2007, 18(3):196–200.",
+            "block_bbox": [
+                608,
+                217,
+                1064,
+                285
+            ],
+            "block_id": 29,
+            "block_order": 28,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "19. Evenson ML, Hinds MW, Bernstein RS, Bergdoll MS: Estimation of human dose of staphylococcal enterotoxin A from large outbreak of staphylococcal food poisoning involving chocolate milk. Int J Food Microbiol 1988, 7:311–316.",
+            "block_bbox": [
+                608,
+                288,
+                1060,
+                357
+            ],
+            "block_id": 30,
+            "block_order": 29,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "20. Cruikshank R, Duguid JP, Marmoin BP, Swain RH: Medical microbiology. 12th edition. New York: Longman Group Limited; 1975:34.",
+            "block_bbox": [
+                608,
+                360,
+                1072,
+                394
+            ],
+            "block_id": 31,
+            "block_order": 30,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "21. Kirby WMM, Bauer AW, Sherris JC, Turck M: Antibiotic susceptibility testing by single disc method. Am J Clin Pathol 1966, 45:4.",
+            "block_bbox": [
+                608,
+                396,
+                1073,
+                431
+            ],
+            "block_id": 32,
+            "block_order": 31,
+            "group_id": 32
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "22. Ateba CN, Bezuidenhout CC: Characterisation of Escherichia coli O157 strains from humans, cattle and pigs in the North-West Province, South Africa. Int J Food Microbiol 2008, 128:181–188.",
+            "block_bbox": [
+                607,
+                433,
+                1069,
+                484
+            ],
+            "block_id": 33,
+            "block_order": 32,
+            "group_id": 33
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "23. Moneoang MS, Bezuidenhout CC: Characterization of enterococci and E. coli isolated from commercial and communal pigs from Mafikeng in the North West Province, South Africa. Afr J Microbiol Res 2009, 3(3):88–96.",
+            "block_bbox": [
+                608,
+                487,
+                1073,
+                538
+            ],
+            "block_id": 34,
+            "block_order": 33,
+            "group_id": 34
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "24. National Committee for Clinical Laboratory Standards (NCCLS): Performance standards for antimicrobial disk and dilution susceptibility tests for bacteria isolated from animals. Approved standard M13-A. Wayne: NCCL; 1999.",
+            "block_bbox": [
+                608,
+                541,
+                1071,
+                593
+            ],
+            "block_id": 35,
+            "block_order": 34,
+            "group_id": 35
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "25. Rota C, Yanguela J, Blanco D, Carraminana JJ, Arino A, Herrera A: High prevalence of multiple resistances to antibiotics in 144 Listeria isolates from Spanish dairy and meat products. J Food Prot 1996, 59:938–943.",
+            "block_bbox": [
+                607,
+                595,
+                1063,
+                646
+            ],
+            "block_id": 36,
+            "block_order": 35,
+            "group_id": 36
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "26. Lee HJ: Methicillin (Oxacillin)-resistant Staphylococcus aureus strains isolated from major food animals and their potential transmission to humans. Appl Environ Microbiol 2003, 69:6489–6494.",
+            "block_bbox": [
+                608,
+                649,
+                1053,
+                700
+            ],
+            "block_id": 37,
+            "block_order": 36,
+            "group_id": 37
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "27. Gündoğan N, Citak S, Turan E: Slime production, DNase activity and antibiotic resistance of Staphylococcus aureus isolated from raw milk, pasteurized milk and ice cream samples. Food Cont 2006, 17:389–392.",
+            "block_bbox": [
+                607,
+                703,
+                1055,
+                755
+            ],
+            "block_id": 38,
+            "block_order": 37,
+            "group_id": 38
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "28. Ateba CN, Mbewe M, Moneoang MS, Bezuidenhout CC: Antibiotic-resistant Staphylococcus aureus isolated from milk in the Mafikeng Area, North West province, South Africa. S Afr J Sci 2010, 106(11/12):243.",
+            "block_bbox": [
+                608,
+                757,
+                1075,
+                808
+            ],
+            "block_id": 39,
+            "block_order": 38,
+            "group_id": 39
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "29. Pace JL, Yang G: Glycopeptides: Update on an old successful antibiotic class. Biochem Pharm 2006, 71:968–980.",
+            "block_bbox": [
+                608,
+                810,
+                1060,
+                844
+            ],
+            "block_id": 40,
+            "block_order": 39,
+            "group_id": 40
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "30. Mark EJ, Karlowsky JA, Draghi DC, Thornsberry C, Sahm DF, Nathwani D: Epidemiology and antibiotic susceptibility of bacteria causing skin and soft tissue infections in the USA and Europe: A guide to appropriate antimicrobial therapy. Int J Antimicrob Agents 2003, 22:406–419.",
+            "block_bbox": [
+                607,
+                846,
+                1063,
+                916
+            ],
+            "block_id": 41,
+            "block_order": 40,
+            "group_id": 41
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "31. Gündoğan N, Citak S, Yucel N, Devren A: A note on the incidence and antibiotic resistance of Staphylococcus aureus isolated from meat and chicken samples. Meat Sci 2005, 69:807–810.",
+            "block_bbox": [
+                607,
+                919,
+                1056,
+                970
+            ],
+            "block_id": 42,
+            "block_order": 41,
+            "group_id": 42
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "32. Hideaki H, Yoshio Y, Syuichi N, Isao H, Ariaki N, Keisuke S: Method for detecting beta-lactam antibiotic induced Vancomycin resistant MRSA (BIVR). Int J Antimicrob Agents 2004, 23:1–5.",
+            "block_bbox": [
+                608,
+                973,
+                1055,
+                1025
+            ],
+            "block_id": 43,
+            "block_order": 42,
+            "group_id": 43
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "### doi:10.1186/1476-0711-11-26",
+            "block_bbox": [
+                615,
+                1045,
+                800,
+                1062
+            ],
+            "block_id": 44,
+            "block_order": 43,
+            "group_id": 44
+        },
+        {
+            "block_label": "text",
+            "block_content": "Cite this article as: Daka et al.: Antibiotic-resistance Staphylococcus aureus isolated from cow's milk in the Hawassa area, South Ethiopia. Annals of Clinical Microbiology and Antimicrobials 2012 11:26.",
+            "block_bbox": [
+                614,
+                1063,
+                1042,
+                1115
+            ],
+            "block_id": 45,
+            "block_order": 44,
+            "group_id": 45
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Submit your next manuscript to BioMed Central and take full advantage of:",
+            "block_bbox": [
+                640,
+                1214,
+                1048,
+                1256
+            ],
+            "block_id": 46,
+            "block_order": 45,
+            "group_id": 46
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Convenient online submission",
+            "block_bbox": [
+                640,
+                1280,
+                849,
+                1297
+            ],
+            "block_id": 47,
+            "block_order": 46,
+            "group_id": 47
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Thorough peer review",
+            "block_bbox": [
+                640,
+                1306,
+                800,
+                1322
+            ],
+            "block_id": 48,
+            "block_order": 47,
+            "group_id": 48
+        },
+        {
+            "block_label": "text",
+            "block_content": "• No space constraints or color figure charges",
+            "block_bbox": [
+                640,
+                1330,
+                937,
+                1347
+            ],
+            "block_id": 49,
+            "block_order": 48,
+            "group_id": 49
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Immediate publication on acceptance",
+            "block_bbox": [
+                640,
+                1356,
+                896,
+                1372
+            ],
+            "block_id": 50,
+            "block_order": 49,
+            "group_id": 50
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Inclusion in PubMed, CAS, Scopus and Google Scholar",
+            "block_bbox": [
+                640,
+                1380,
+                1000,
+                1397
+            ],
+            "block_id": 51,
+            "block_order": 50,
+            "group_id": 51
+        },
+        {
+            "block_label": "text",
+            "block_content": "• Research which is freely available for redistribution",
+            "block_bbox": [
+                640,
+                1404,
+                985,
+                1420
+            ],
+            "block_id": 52,
+            "block_order": 51,
+            "group_id": 52
+        },
+        {
+            "block_label": "text",
+            "block_content": "Submit your manuscript at www.biomedcentral.com/submit",
+            "block_bbox": [
+                641,
+                1449,
+                839,
+                1479
+            ],
+            "block_id": 53,
+            "block_order": 52,
+            "group_id": 53
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_903_1448_1050_1477.jpg\" alt=\"Image\" width=\"12%\" /></div>\n",
+            "block_bbox": [
+                903,
+                1448,
+                1050,
+                1477
+            ],
+            "block_id": 54,
+            "block_order": null,
+            "group_id": 54
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9457553625106812,
+                "coordinate": [
+                    108.57281494140625,
+                    65.89372253417969,
+                    599.4170532226562,
+                    105.38359069824219
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.917951226234436,
+                "coordinate": [
+                    997.2169799804688,
+                    66.3725814819336,
+                    1080.614013671875,
+                    85.6949234008789
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9450953602790833,
+                "coordinate": [
+                    109.41177368164062,
+                    180.225341796875,
+                    256.0079650878906,
+                    197.0003662109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9798821210861206,
+                "coordinate": [
+                    108.02052307128906,
+                    198.11148071289062,
+                    571.2724609375,
+                    288.48602294921875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9396734833717346,
+                "coordinate": [
+                    110.06651306152344,
+                    312.6024169921875,
+                    238.13868713378906,
+                    328.8123779296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9737879633903503,
+                "coordinate": [
+                    107.93380737304688,
+                    329.9449768066406,
+                    577.060791015625,
+                    385.3599548339844
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9358891248703003,
+                "coordinate": [
+                    110.48951721191406,
+                    402.6514892578125,
+                    208.29148864746094,
+                    418.6239013671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9642205834388733,
+                "coordinate": [
+                    109.1922607421875,
+                    420.2441101074219,
+                    583.4950561523438,
+                    456.5570373535156
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7361825704574585,
+                "coordinate": [
+                    109.40704345703125,
+                    474.2606201171875,
+                    431.82958984375,
+                    491.440673828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8185785412788391,
+                "coordinate": [
+                    109.86198425292969,
+                    492.37664794921875,
+                    309.67694091796875,
+                    509.53936767578125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9161852598190308,
+                "coordinate": [
+                    110.60453796386719,
+                    533.9807739257812,
+                    186.6498260498047,
+                    550.6123657226562
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9793375730514526,
+                "coordinate": [
+                    111.78620910644531,
+                    553.1593627929688,
+                    556.0556030273438,
+                    657.3261108398438
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9647904634475708,
+                "coordinate": [
+                    110.62315368652344,
+                    661.2977294921875,
+                    570.1384887695312,
+                    695.2401123046875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.954841673374176,
+                "coordinate": [
+                    111.03120422363281,
+                    697.9620971679688,
+                    570.9669799804688,
+                    731.5874633789062
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9754629731178284,
+                "coordinate": [
+                    111.15045166015625,
+                    733.6668701171875,
+                    570.9716186523438,
+                    783.696044921875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9780429601669312,
+                "coordinate": [
+                    111.08758544921875,
+                    787.0916748046875,
+                    557.5297241210938,
+                    855.59521484375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.97651606798172,
+                "coordinate": [
+                    110.95928955078125,
+                    859.302734375,
+                    556.3795166015625,
+                    910.0902099609375
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9903940558433533,
+                "coordinate": [
+                    109.1329345703125,
+                    550.95703125,
+                    575.1615600585938,
+                    1469.182861328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9761050939559937,
+                "coordinate": [
+                    110.53082275390625,
+                    913.2562255859375,
+                    576.0939331054688,
+                    964.4132080078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9777705073356628,
+                "coordinate": [
+                    110.969970703125,
+                    967.7119140625,
+                    578.822265625,
+                    1018.628173828125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9775322675704956,
+                "coordinate": [
+                    111.04945373535156,
+                    1021.7093505859375,
+                    578.89892578125,
+                    1071.8597412109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9780504703521729,
+                "coordinate": [
+                    112.50567626953125,
+                    1075.0653076171875,
+                    581.4522094726562,
+                    1125.3704833984375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9702478647232056,
+                "coordinate": [
+                    112.83399963378906,
+                    1128.7822265625,
+                    560.3568115234375,
+                    1162.60791015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9766545295715332,
+                "coordinate": [
+                    113.14573669433594,
+                    1164.998046875,
+                    571.7845458984375,
+                    1216.0654296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.978007972240448,
+                "coordinate": [
+                    112.68861389160156,
+                    1218.546142578125,
+                    573.5283203125,
+                    1269.519775390625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9706575274467468,
+                "coordinate": [
+                    112.37127685546875,
+                    1272.751708984375,
+                    573.2101440429688,
+                    1306.5078125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9766460061073303,
+                "coordinate": [
+                    112.63661193847656,
+                    1309.1793212890625,
+                    570.4031982421875,
+                    1377.6942138671875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9776697754859924,
+                "coordinate": [
+                    112.98353576660156,
+                    1380.936279296875,
+                    568.072021484375,
+                    1431.982666015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9684720039367676,
+                "coordinate": [
+                    112.73931884765625,
+                    1434.7437744140625,
+                    582.9324340820312,
+                    1469.9415283203125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9694017767906189,
+                "coordinate": [
+                    636.3408203125,
+                    180.58778381347656,
+                    1062.796630859375,
+                    214.7299346923828
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9737553000450134,
+                "coordinate": [
+                    608.3463134765625,
+                    217.107666015625,
+                    1064.9835205078125,
+                    285.6000671386719
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9765757322311401,
+                "coordinate": [
+                    608.65380859375,
+                    288.8284912109375,
+                    1060.076904296875,
+                    357.5357666015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9695642590522766,
+                "coordinate": [
+                    608.0657958984375,
+                    360.3433837890625,
+                    1072.258056640625,
+                    394.9014892578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.967744767665863,
+                "coordinate": [
+                    608.044189453125,
+                    396.7005615234375,
+                    1073.574951171875,
+                    431.4659423828125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9756553769111633,
+                "coordinate": [
+                    607.7518310546875,
+                    433.3953857421875,
+                    1069.7723388671875,
+                    484.428466796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9767301678657532,
+                "coordinate": [
+                    608.0125732421875,
+                    487.32989501953125,
+                    1073.3292236328125,
+                    538.3914184570312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9762776494026184,
+                "coordinate": [
+                    608.1781005859375,
+                    541.551025390625,
+                    1071.3280029296875,
+                    593.080322265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9746911525726318,
+                "coordinate": [
+                    607.73974609375,
+                    595.15234375,
+                    1063.5888671875,
+                    646.996337890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9754104614257812,
+                "coordinate": [
+                    608.14306640625,
+                    649.6326904296875,
+                    1053.0025634765625,
+                    700.8109130859375
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9881471991539001,
+                "coordinate": [
+                    605.7161865234375,
+                    177.96142578125,
+                    1069.28076171875,
+                    1025.27197265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9736774563789368,
+                "coordinate": [
+                    607.7900390625,
+                    703.46337890625,
+                    1055.9713134765625,
+                    755.02587890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9765138030052185,
+                "coordinate": [
+                    608.00146484375,
+                    757.7454833984375,
+                    1075.8033447265625,
+                    808.2818603515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9671444892883301,
+                "coordinate": [
+                    608.14013671875,
+                    810.8148803710938,
+                    1060.74560546875,
+                    844.4244995117188
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9771446585655212,
+                "coordinate": [
+                    607.9671630859375,
+                    846.8882446289062,
+                    1063.3519287109375,
+                    916.7222290039062
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9767923951148987,
+                "coordinate": [
+                    607.6121826171875,
+                    919.32958984375,
+                    1056.1573486328125,
+                    970.762451171875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9756524562835693,
+                "coordinate": [
+                    608.0257568359375,
+                    973.3043212890625,
+                    1055.7669677734375,
+                    1025.209716796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7428080439567566,
+                "coordinate": [
+                    615.7778930664062,
+                    1045.1953125,
+                    800.7642211914062,
+                    1062.6201171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.688291609287262,
+                "coordinate": [
+                    614.7152099609375,
+                    1063.7431640625,
+                    1042.4261474609375,
+                    1115.4501953125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7452694177627563,
+                "coordinate": [
+                    640.7572021484375,
+                    1214.109130859375,
+                    1048.5570068359375,
+                    1256.264892578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9496414065361023,
+                "coordinate": [
+                    640.3211669921875,
+                    1280.6336669921875,
+                    849.5782470703125,
+                    1297.3526611328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9445533752441406,
+                "coordinate": [
+                    640.6969604492188,
+                    1306.226806640625,
+                    800.6483764648438,
+                    1322.395751953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9479166269302368,
+                "coordinate": [
+                    640.6062622070312,
+                    1330.9307861328125,
+                    937.0391235351562,
+                    1347.7945556640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9486690759658813,
+                "coordinate": [
+                    640.8846435546875,
+                    1356.26611328125,
+                    896.0545654296875,
+                    1372.143798828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9459851980209351,
+                "coordinate": [
+                    640.7891845703125,
+                    1380.57568359375,
+                    1000.9141845703125,
+                    1397.05419921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9380847215652466,
+                "coordinate": [
+                    640.7628173828125,
+                    1404.35400390625,
+                    985.2171630859375,
+                    1420.9482421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8827566504478455,
+                "coordinate": [
+                    641.4718627929688,
+                    1449.9736328125,
+                    839.2828979492188,
+                    1479.115966796875
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.8185010552406311,
+                "coordinate": [
+                    903.76025390625,
+                    1448.289794921875,
+                    1050.521240234375,
+                    1477.909912109375
+                ]
+            }
+        ]
+    }
+}

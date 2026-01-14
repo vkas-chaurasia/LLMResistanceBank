@@ -1,0 +1,391 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_2.pdf",
+    "page_index": 6,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                56,
+                168,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Meat MSSA, MRSA, MS-NSA, MR-NSA",
+            "block_bbox": [
+                856,
+                54,
+                1104,
+                74
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 4 | Multidrug resistance patterns among MRSA isolates from local beef retail meat.</div>\n",
+            "block_bbox": [
+                85,
+                123,
+                689,
+                143
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Number of resistant Antibiotics</td><td style='text-align: center;'>Antibiotics</td><td style='text-align: center;'>Number of species</td><td style='text-align: center;'>Total number of species (27)</td><td style='text-align: center;'>%</td></tr><tr><td style='text-align: center;'>4</td><td style='text-align: center;'>P, VA, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>3.5</td></tr><tr><td rowspan=\"5\">6</td><td style='text-align: center;'>P, CN, E, DA, VA, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td><td style='text-align: center;'>22</td></tr><tr><td style='text-align: center;'>CN, E, DA, TE, C, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, CN, DA, VA, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, DA, SXT</td><td style='text-align: center;'>2</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"4\">7</td><td style='text-align: center;'>P, CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td><td style='text-align: center;'>15</td></tr><tr><td style='text-align: center;'>P, OX, CN, DA, VA, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, DA, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, SAM, CN, DA, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"3\">8</td><td style='text-align: center;'>P, OX, MET, CN, DA, TE, VA, SXT</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td><td style='text-align: center;'>15</td></tr><tr><td style='text-align: center;'>P, MET, CN, E, DA, TE, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>2</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td rowspan=\"3\">9</td><td style='text-align: center;'>P, OX, CN, E, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td><td style='text-align: center;'>15</td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>2</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, TE, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>10</td><td style='text-align: center;'>P, OX, MET, CN, E, DA, TE, VA, C, SXT</td><td style='text-align: center;'>2</td><td style='text-align: center;'>2</td><td style='text-align: center;'>7</td></tr><tr><td rowspan=\"3\">11</td><td style='text-align: center;'>P, OX, MET, SAM, CN, E, DA, TE, VA, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'>5</td><td style='text-align: center;'>19</td></tr><tr><td style='text-align: center;'>P, OX, MET, CN, E, DA, TE, VA, C, SXT, CIP</td><td style='text-align: center;'>3</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>P, OX, MET, SAM, CN, E, DA, VA, C, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>12</td><td style='text-align: center;'>P, OX, MET, SAM, CN, E, DA, TE, VA, C, SXT, CIP</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>3.5</td></tr></table>",
+            "block_bbox": [
+                84,
+                151,
+                1104,
+                832
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "C, Chloramphenicol; CIP, Ciprofloxacin; CN, Gentamycin; DA, Clindamycin; E, Erythromycin; MET, Methicillin; OX, Oxacillin; P, Penicillin; SAM, Ampicillin-sulbactam; SXT, Sulfamethoxazole/Trimethoprim; TE, Tetracycline; VA, Vancomycin.",
+            "block_bbox": [
+                83,
+                840,
+                1104,
+                878
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "occurrence of MRS from beef meat is not uncommon (Table 6). Raw beef meat sold across the Great Cairo zone, contains 66.7% of MRS (18/27), with highest prevalence was reported in S. aureus (6/9, 66.7%), while the MRS non-S. aureus strains 12/18 (66.7%) from which S. hyicus (6/10, 60%), S. intermedius (1/3, 33.3%), S. schleiferi subsp. coagulans (4/4, 100%), and S. lentus (1/1, 100%) were MRS.",
+            "block_bbox": [
+                82,
+                918,
+                583,
+                1078
+            ],
+            "block_id": 5,
+            "block_order": 1,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Survey of Methicillin, Oxacillin, and Ciprofloxacin Resistance",
+            "block_bbox": [
+                83,
+                1110,
+                490,
+                1165
+            ],
+            "block_id": 6,
+            "block_order": 2,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "As seen in Table 3, the distribution of oxacillin among the non-S. aureus (CNS) isolates was quite broad (14/18, 77.8%). The overall frequency of ciprofloxacin resistance among non-S. aureus (CNS) was 44.4% (8/18), while that among methicillin-resistant non-S. aureus (MRCNS) was 61.1% (11/18), higher, as expected, than that for methicillin-susceptible non-S. aureus (MSCNS) 33.3% (6/18). The distribution of S. aureus and non-S. aureus ciprofloxacin susceptibilities as a function of methicillin-susceptibilities in addition to the mecA resistance determinant which is responsible for the methicillin resistance, is recorded in Table 6.",
+            "block_bbox": [
+                82,
+                1166,
+                585,
+                1420
+            ],
+            "block_id": 7,
+            "block_order": 3,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## DISCUSSION",
+            "block_bbox": [
+                606,
+                913,
+                763,
+                939
+            ],
+            "block_id": 8,
+            "block_order": 4,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "The non-S. aureus species that have been isolated in the present investigation were recorded as relevant in their ability to produce human infections (S. lentus, Stepanovic et al., 2003; S. hyicus, Casanova et al., 2011; S. schleiferi subsp. coagulans, Davis et al., 2013; and S. intermedius, Koci et al., 2015).",
+            "block_bbox": [
+                603,
+                960,
+                1105,
+                1073
+            ],
+            "block_id": 9,
+            "block_order": 5,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "Humans are at a risk of being infected with resistant foodborne bacteria via the food chain (Khan et al., 2000; Pesavento et al., 2007) from reservoir animals (de Jong et al., 2009; Ewers et al., 2009; O'Keefe et al., 2010; Marshall and Levy, 2011). A previous research (Waters et al., 2011) has suggested that, when buying meat at any butcher shop, supermarket or local grocery shop, is an equally likely chance of it being contaminated with drug-resistant bacteria. The WHO has revealed a report on the global serious threat of antibiotic resistant strains of bacterial pathogens occurring currently in every locality of the world with no limitations and to affect everybody, at any age and in any country (CDC, 2013).",
+            "block_bbox": [
+                602,
+                1074,
+                1106,
+                1350
+            ],
+            "block_id": 10,
+            "block_order": 6,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "In animals, comparison of resistance rates to antimicrobials can geographically vary among internationally and nationally according to the antimicrobial usage regime (Harada and Asai,",
+            "block_bbox": [
+                603,
+                1350,
+                1106,
+                1420
+            ],
+            "block_id": 11,
+            "block_order": 7,
+            "group_id": 11
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1481,
+                364,
+                1501
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "number",
+            "block_content": "7",
+            "block_bbox": [
+                587,
+                1481,
+                602,
+                1498
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "footer",
+            "block_content": "February 2016 | Volume 7 | Article 222",
+            "block_bbox": [
+                868,
+                1480,
+                1103,
+                1500
+            ],
+            "block_id": 14,
+            "block_order": null,
+            "group_id": 14
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9215964674949646,
+                "coordinate": [
+                    85.96122741699219,
+                    56.25983428955078,
+                    168.5689239501953,
+                    74.0738754272461
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9425133466720581,
+                "coordinate": [
+                    856.1231689453125,
+                    54.87309265136719,
+                    1104.2403564453125,
+                    74.51814270019531
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9394594430923462,
+                "coordinate": [
+                    85.13424682617188,
+                    123.15409851074219,
+                    689.4503173828125,
+                    143.5410614013672
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9900661706924438,
+                "coordinate": [
+                    84.0184326171875,
+                    151.45223999023438,
+                    1104.7548828125,
+                    832.1734619140625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9247937202453613,
+                "coordinate": [
+                    83.69741821289062,
+                    840.728759765625,
+                    1104.3092041015625,
+                    878.573974609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867894053459167,
+                "coordinate": [
+                    82.88330078125,
+                    918.4993896484375,
+                    583.9594116210938,
+                    1078.714111328125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9690378308296204,
+                "coordinate": [
+                    83.63679504394531,
+                    1110.993408203125,
+                    490.2681884765625,
+                    1165.109130859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883374571800232,
+                "coordinate": [
+                    82.5333251953125,
+                    1166.5048828125,
+                    585.6929931640625,
+                    1420.42724609375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9423896670341492,
+                "coordinate": [
+                    606.292724609375,
+                    913.4295654296875,
+                    763.59228515625,
+                    939.9613037109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986431896686554,
+                "coordinate": [
+                    603.2750244140625,
+                    960.277099609375,
+                    1105.7314453125,
+                    1073.6334228515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888045191764832,
+                "coordinate": [
+                    602.566162109375,
+                    1074.69091796875,
+                    1106.7236328125,
+                    1350.520263671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9791064262390137,
+                "coordinate": [
+                    603.473876953125,
+                    1350.6845703125,
+                    1106.275634765625,
+                    1420.9677734375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.934990644454956,
+                "coordinate": [
+                    85.32969665527344,
+                    1481.08642578125,
+                    364.61480712890625,
+                    1501.160888671875
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8453377485275269,
+                "coordinate": [
+                    587.9428100585938,
+                    1481.96728515625,
+                    602.0402221679688,
+                    1498.98974609375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.936145007610321,
+                "coordinate": [
+                    868.38623046875,
+                    1480.591796875,
+                    1103.15185546875,
+                    1500.9794921875
+                ]
+            }
+        ]
+    }
+}

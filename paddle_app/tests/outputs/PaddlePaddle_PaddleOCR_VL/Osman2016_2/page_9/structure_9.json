@@ -1,0 +1,415 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_2.pdf",
+    "page_index": 8,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                56,
+                168,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Meat MSSA, MRSA, MS-NSA, MR-NSA",
+            "block_bbox": [
+                855,
+                54,
+                1104,
+                74
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">TABLE 6 | Prevalence of mecA gene in beef samples (n = 27).</div>\n",
+            "block_bbox": [
+                85,
+                122,
+                492,
+                143
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Staphylococcus spp. (n = isolates)</td><td rowspan=\"2\">n = of MRS</td><td colspan=\"2\">Presence of mecA gene</td><td rowspan=\"2\">n = of MSS</td></tr><tr><td style='text-align: center;'>n =</td><td style='text-align: center;'>%</td></tr><tr><td style='text-align: center;'>S. aureus (n = 9)</td><td style='text-align: center;'>6</td><td style='text-align: center;'>5</td><td style='text-align: center;'>55.6</td><td style='text-align: center;'>3</td></tr><tr><td style='text-align: center;'>S. hyicus (n = 10)</td><td style='text-align: center;'>6</td><td style='text-align: center;'>3</td><td style='text-align: center;'>50</td><td style='text-align: center;'>4</td></tr><tr><td style='text-align: center;'>S. intermedius (n = 3)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>100</td><td style='text-align: center;'>2</td></tr><tr><td style='text-align: center;'>S. schleiferi subsp. coagulans (n = 4)</td><td style='text-align: center;'>4</td><td style='text-align: center;'>2</td><td style='text-align: center;'>50</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>S. lentus (n = 1)</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td></tr><tr><td style='text-align: center;'>Total</td><td style='text-align: center;'>18</td><td style='text-align: center;'>11</td><td style='text-align: center;'>68.8</td><td style='text-align: center;'>11</td></tr></table>",
+            "block_bbox": [
+                84,
+                151,
+                581,
+                427
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "MRS, methicillin resistant Staphylococcus.",
+            "block_bbox": [
+                84,
+                437,
+                328,
+                455
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "MSS, methicillin susceptible Staphylococcus.",
+            "block_bbox": [
+                84,
+                455,
+                342,
+                474
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Chajęcka-Wierzchowska et al. (2015) who displayed that, all methicillin resistant staphylococci harbored mecA gene but in consonance with the investigation outcomes of Martineau et al. (2000), Lee et al. (2004), and Guran and Kahya (2015), who indicated the occurrence of staphylococci strains resistant to methicillin or/and oxacillin in the absence of the mecA gene. The reason behind this variable expression could be related to the hyperproduction of β-lactamase type A (Martineau et al., 2000) and/or cellular growth conditions according to Lee et al. (2004). Globally, there are considerable discrepancies between different countries in the MRSA prevalence rate on beef meat (Normanno et al., 2007; van Loo et al., 2007a,b; Chan et al., 2008; Pu et al., 2009; Lim et al., 2010; Weese, 2010; Weese et al., 2010; Bhargava et al., 2011; Chua et al., 2011; Hanson et al., 2011; Dalhoff, 2012; O'Brien et al., 2012; Buyukcangaz et al., 2013; Jackson et al., 2013; Nnachi et al., 2014; WHO, 2014).",
+            "block_bbox": [
+                82,
+                533,
+                584,
+                900
+            ],
+            "block_id": 6,
+            "block_order": 1,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "The animals are the first reservoirs for CNS bearing the cfr resistance gene which endows resistance to phenicols, lincosamides, oxazolidinones, pleuromutilins, and streptogramin A antibiotics (PhLOPS $ _{A} $  of phenotype) and some macrolides (Kehreenberg et al., 2005). An interesting and fortunate observation was that, we detected the gene cfr in 22.2% (2/9) of the S. aureus isolates, a rate which was lower than the detection rates of food animal samples in previous studies (Wang et al., 2012; Zeng et al., 2014) while the non-S. aureus isolates did not carry this gene. The cfr multiresistance gene is usually found in isolates of human origin (Chen et al., 2013; Cui et al., 2013) and persistence in retail meat (LaMarre et al., 2011). The insignificant detection rate found in this study (2/27, 7.4%), indicated the negligible opportunity of the cfr to be spread through contaminated meat with Staphylococci in the local market by consumers in Egypt, the diminished possibility of this gene to enter the food cycle, and the chance of additional distribution of cfr from an animal reservoir to S. aureus, MRSA or any other staphylococcal species associated with colonization and infection in humans (Witte and Cuny, 2011) is abolished. Timely detection and targeted prevention of further dissemination of MRSA present on retail beef meat and the cfr gene becomes justified in order to preserve efficacy of linezolid due to its importance and preference in the treatment of staphylococcal infections (Witte and Cuny, 2011).",
+            "block_bbox": [
+                81,
+                901,
+                586,
+                1432
+            ],
+            "block_id": 7,
+            "block_order": 2,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                603,
+                121,
+                1104,
+                166
+            ],
+            "block_id": 8,
+            "block_order": 3,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Fluoroquinolones (FQs) are antibiotics effective against a wide range of organisms (Oliphant and Green, 2002) and having a role in the chemotherapy and postexposure prophylaxis for organisms, that could be used in biologic warfare. The extensive use of FQs has led to the springing up of FQ-resistant S. aureus, especially among MRSA strains (Oliphant and Green, 2002) in the QRDRs of the gyrA, gyrB, grlA, and grlB genes (Hooper, 2002; Oliphant and Green, 2002; Redgrave et al., 2014; Parkinson et al., 2015). Gade and Qazi (2013) signified that, ciprofloxacin can no longer be used as an empirical therapy against MRSA infections to be replaced by vancomycin as the alternative drug to which we are in dispute as we recorded a 77.8% resistance in the MRSA. It should be noted that, the access to any available literature on any information concerning the gyrA, gyrB, grlA, and grlB genes in meat was not available.",
+            "block_bbox": [
+                602,
+                167,
+                1107,
+                511
+            ],
+            "block_id": 9,
+            "block_order": 4,
+            "group_id": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "The contamination of carcasses with MRSA can occur via several means: (i) improper agricultural practices, (ii) use of impotable water for agricultural irrigation, (iii) the use of improperly disinfected appliances used in the food industry, (iv) unsuitable temperatures during storage and transportation, (v) poor food handling procedures, (vi) lack of rodent and/or insect control (FDA, 2012; WHO, 2012), (vii) through the butchers tools which are suitable vehicles for transmission (de Boer et al., 2009), (viii) on the meat display table, to buyers and vice versa (Emele et al., 1995). The environmental contamination of the slaughterhouse, processing appliances or operative hands in these facilities with MRSA could result in a cross-contagion process to the meat (Wertheim et al., 2004; Alexandra et al., 2011), and consequently conceal the importance of the association between on-farm antibiotic use and contamination of the meat with MRSA. The most important outcome of our investigation was the alarming finding that, most of the MRSA and NSA-MR isolated from retail meat in the Egyptian market were  $ >50\\% $  resistant to clinically important antimicrobials (sulfamethoxazole/trimethoprim, clindamycin, gentamycin, penicillin, oxacillin, vancomycin, tetracycline, methicillin, ciprofloxacin, and erythromycin in descending order) imposing a severe threat to public health of the Egyptians. In addition, the prevalence rate of the MRSA and NSA-MR isolated from retail meat collected from sale outlets reflected an indication to the level of exposure of the consumers to these pathogens (Wagenaar et al., 2007).",
+            "block_bbox": [
+                601,
+                511,
+                1109,
+                1155
+            ],
+            "block_id": 10,
+            "block_order": 5,
+            "group_id": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## CONCLUSIONS",
+            "block_bbox": [
+                605,
+                1197,
+                792,
+                1225
+            ],
+            "block_id": 11,
+            "block_order": 6,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "To the best of our knowledge, the extent of a similar research topic has not been tackled in Egypt. In addition, the strength of our study lies in the fact that, previous researches on S. aureus isolated from foodstuffs were merely screened for the mecA gene, while in our investigation a selective enrichment of MRSA was adopted to be followed by a PCR technique for the identification for the presence of mecA gene. Also, we included in our investigation samples collected from three different geographic",
+            "block_bbox": [
+                601,
+                1244,
+                1108,
+                1432
+            ],
+            "block_id": 12,
+            "block_order": 7,
+            "group_id": 12
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1480,
+                364,
+                1501
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "number",
+            "block_content": "9",
+            "block_bbox": [
+                587,
+                1482,
+                602,
+                1499
+            ],
+            "block_id": 14,
+            "block_order": null,
+            "group_id": 14
+        },
+        {
+            "block_label": "footer",
+            "block_content": "February 2016 | Volume 7 | Article 222",
+            "block_bbox": [
+                868,
+                1480,
+                1103,
+                1500
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9203594326972961,
+                "coordinate": [
+                    85.60340881347656,
+                    56.123722076416016,
+                    168.74778747558594,
+                    74.15036010742188
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9417945146560669,
+                "coordinate": [
+                    855.7685546875,
+                    54.6290283203125,
+                    1104.479736328125,
+                    74.59471130371094
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9378006458282471,
+                "coordinate": [
+                    85.18777465820312,
+                    122.91484069824219,
+                    492.9246520996094,
+                    143.20396423339844
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9846717715263367,
+                "coordinate": [
+                    84.26712036132812,
+                    151.93600463867188,
+                    581.0589599609375,
+                    427.7868957519531
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9095823764801025,
+                "coordinate": [
+                    84.88138580322266,
+                    437.40478515625,
+                    328.3303527832031,
+                    455.589111328125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8922017216682434,
+                "coordinate": [
+                    84.67353820800781,
+                    455.99627685546875,
+                    342.65020751953125,
+                    474.38616943359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888862371444702,
+                "coordinate": [
+                    82.52459716796875,
+                    533.872802734375,
+                    584.5894165039062,
+                    900.8546142578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889505505561829,
+                "coordinate": [
+                    81.94993591308594,
+                    901.19775390625,
+                    586.21484375,
+                    1432.9091796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.972873330116272,
+                "coordinate": [
+                    603.4854736328125,
+                    121.81568908691406,
+                    1104.5091552734375,
+                    166.6826629638672
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988990068435669,
+                "coordinate": [
+                    602.399169921875,
+                    167.6221160888672,
+                    1107.4017333984375,
+                    511.21575927734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889898300170898,
+                "coordinate": [
+                    601.812255859375,
+                    511.2374267578125,
+                    1109.0,
+                    1155.428466796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9360475540161133,
+                "coordinate": [
+                    605.01220703125,
+                    1197.64794921875,
+                    792.2705078125,
+                    1225.1982421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987537682056427,
+                "coordinate": [
+                    601.8909912109375,
+                    1244.8046875,
+                    1108.0296630859375,
+                    1432.833984375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9354808330535889,
+                "coordinate": [
+                    85.22142028808594,
+                    1480.93408203125,
+                    364.8731689453125,
+                    1501.242919921875
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8480619192123413,
+                "coordinate": [
+                    587.3946533203125,
+                    1482.0517578125,
+                    602.3499755859375,
+                    1499.00634765625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9366670250892639,
+                "coordinate": [
+                    868.049560546875,
+                    1480.497314453125,
+                    1103.5455322265625,
+                    1500.996337890625
+                ]
+            }
+        ]
+    }
+}

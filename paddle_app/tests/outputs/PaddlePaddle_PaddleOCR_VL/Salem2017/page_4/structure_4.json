@@ -1,0 +1,536 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Salem2017.pdf",
+    "page_index": 3,
+    "page_count": 6,
+    "width": 1588,
+    "height": 1191,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "858",
+            "block_bbox": [
+                1498,
+                60,
+                1516,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 1</div>\n",
+            "block_bbox": [
+                97,
+                222,
+                152,
+                238
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Resistance properties, virulotypes, plasmid profiles and XbaI-PFGE profiles of Salmonella enterica serotype Enteritidis from chicken and farm environmental samples.</div>\n",
+            "block_bbox": [
+                97,
+                238,
+                1107,
+                258
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>R&lt;sup&gt;a&lt;/sup&gt; (N&lt;sup&gt;b&lt;/sup&gt;)</td><td style='text-align: center;'>Phenotype&lt;sup&gt;c&lt;/sup&gt;</td><td style='text-align: center;'>Genotype (N&lt;sup&gt;b&lt;/sup&gt;)</td><td style='text-align: center;'>V&lt;sup&gt;d&lt;/sup&gt; (N&lt;sup&gt;b&lt;/sup&gt;)</td><td style='text-align: center;'>Detected virulence genes</td><td style='text-align: center;'>RV&lt;sup&gt;e&lt;/sup&gt;</td><td style='text-align: center;'>P&lt;sup&gt;f&lt;/sup&gt; (N&lt;sup&gt;b&lt;/sup&gt;)</td><td style='text-align: center;'>RVP&lt;sup&gt;g&lt;/sup&gt; (N&lt;sup&gt;b&lt;/sup&gt;)</td><td style='text-align: center;'>R1&lt;sup&gt;h&lt;/sup&gt; (O&lt;sup&gt;i&lt;/sup&gt;)</td><td style='text-align: center;'>X&lt;sup&gt;i&lt;/sup&gt;</td></tr><tr><td rowspan=\"6\">R0 (51)</td><td rowspan=\"6\"></td><td rowspan=\"6\"></td><td style='text-align: center;'>V1 (28)</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC</td><td style='text-align: center;'>R0V1</td><td style='text-align: center;'>P1 (27)</td><td style='text-align: center;'>R0V1P1 (27)</td><td style='text-align: center;'>432I (HCk)</td><td style='text-align: center;'>X1</td></tr><tr><td rowspan=\"3\">V2 (20)</td><td rowspan=\"3\">orgA-ssaQ-mgtC-siiD-sopB-sopE1-gipA-bcfC-spvC</td><td rowspan=\"3\">R0V2</td><td style='text-align: center;'>P4</td><td style='text-align: center;'>R0V1P4</td><td style='text-align: center;'>49I (HCk)</td><td style='text-align: center;'>X1</td></tr><tr><td style='text-align: center;'>P1 (18)</td><td style='text-align: center;'>R0V2P1 (18)</td><td style='text-align: center;'>816/09lit (Fenv)</td><td style='text-align: center;'>X1</td></tr><tr><td style='text-align: center;'>P2</td><td style='text-align: center;'>R0V2P2</td><td style='text-align: center;'>1990Dv (Fenv)</td><td style='text-align: center;'>X3</td></tr><tr><td style='text-align: center;'>V3</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-spvC</td><td style='text-align: center;'>R0V3</td><td style='text-align: center;'>P6</td><td style='text-align: center;'>R0V2P6</td><td style='text-align: center;'>198/09Dv3 (Fenv)</td><td style='text-align: center;'>X3</td></tr><tr><td style='text-align: center;'>V5 (2)</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-sopE1-bcfC-spvC</td><td style='text-align: center;'>R0V5</td><td style='text-align: center;'>P1</td><td style='text-align: center;'>R0V3P1</td><td style='text-align: center;'>510/09 (Fenv)</td><td style='text-align: center;'>X1</td></tr><tr><td rowspan=\"7\">R1 (17)</td><td rowspan=\"7\">NAL</td><td style='text-align: center;'>GAC/AAC (Asp87Asn)</td><td rowspan=\"2\">V1 (3)</td><td rowspan=\"2\">orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC</td><td rowspan=\"2\">R1V1</td><td style='text-align: center;'>P1 (2)</td><td style='text-align: center;'>R1V1P1 (2)</td><td style='text-align: center;'>728/09Dch (Fenv)</td><td style='text-align: center;'>X1</td></tr><tr><td style='text-align: center;'>ni</td><td style='text-align: center;'>P2</td><td style='text-align: center;'>R1V1P2</td><td style='text-align: center;'>Ssp1 (HCk)</td><td style='text-align: center;'>X4</td></tr><tr><td style='text-align: center;'>GAC/TAC (Asp87Tyr)</td><td rowspan=\"3\">V2 (12)</td><td rowspan=\"3\">orgA-ssaQ-mgtC-siiD-sopB-sopE1-gipA-bcfC-spvC</td><td rowspan=\"3\">R1V2</td><td rowspan=\"3\">P1 (12)</td><td rowspan=\"3\">R1V2P1 (12)</td><td rowspan=\"3\">ST2 (HCk)</td><td rowspan=\"3\">X1</td></tr><tr><td rowspan=\"2\">GAC/AAC (Asp87Asn)</td></tr><tr></tr><tr><td style='text-align: center;'>GAC/TAC (Asp87Tyr)</td><td style='text-align: center;'>V3</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-spvC</td><td style='text-align: center;'>R1V3</td><td style='text-align: center;'>P1</td><td style='text-align: center;'>R1V3P1</td><td style='text-align: center;'>312I (HCk)</td><td style='text-align: center;'>X1</td></tr><tr><td style='text-align: center;'>ni</td><td style='text-align: center;'>V6</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-bcfC-spvC</td><td style='text-align: center;'>R1V6</td><td style='text-align: center;'>P1</td><td style='text-align: center;'>R1V6P1</td><td style='text-align: center;'>685/09lit (Fenv)</td><td style='text-align: center;'>X1</td></tr><tr><td rowspan=\"2\">R2 (3)</td><td rowspan=\"2\">AMP</td><td style='text-align: center;'>bla&lt;sub&gt;TEM-1-like&lt;/sub&gt;(2)</td><td rowspan=\"2\">V2 (3)</td><td rowspan=\"2\">orgA-ssaQ-mgtC-siiD-sopB-sopE1-gipA-bcfC-spvC</td><td rowspan=\"2\">R2V2</td><td rowspan=\"2\">P3 (3)</td><td rowspan=\"2\">R2V2P3 (3)</td><td rowspan=\"2\">11/013 (SCk)</td><td rowspan=\"2\">X1</td></tr><tr><td style='text-align: center;'>bla&lt;sub&gt;SHV&lt;/sub&gt;</td></tr><tr><td style='text-align: center;'>R3</td><td style='text-align: center;'>STR</td><td style='text-align: center;'>strB</td><td style='text-align: center;'>V1</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC</td><td style='text-align: center;'>R3V1</td><td style='text-align: center;'>P1</td><td style='text-align: center;'>R3V1P1</td><td style='text-align: center;'>58/013 (SCk)</td><td style='text-align: center;'>X1</td></tr><tr><td rowspan=\"2\">R4 (2)</td><td rowspan=\"2\">SUL</td><td rowspan=\"2\">sul3</td><td style='text-align: center;'>V1</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC</td><td style='text-align: center;'>R4V1</td><td style='text-align: center;'>P1</td><td style='text-align: center;'>R4V1P1</td><td style='text-align: center;'>238S (HCk)</td><td style='text-align: center;'>X1</td></tr><tr><td style='text-align: center;'>V2</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-sopE1-gipA-bcfC-spvC</td><td style='text-align: center;'>R4V2</td><td style='text-align: center;'>P1</td><td style='text-align: center;'>R4V2P1</td><td style='text-align: center;'>539W (HCk)</td><td style='text-align: center;'>X1</td></tr><tr><td style='text-align: center;'>R5</td><td style='text-align: center;'>AMP-NAL</td><td style='text-align: center;'>bla&lt;sub&gt;TEM-1-like&lt;/sub&gt;(GAC/AAC (Asp87Asn)</td><td style='text-align: center;'>V4</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-gipA-bcfC-spvC</td><td style='text-align: center;'>R5V4</td><td style='text-align: center;'>P3</td><td style='text-align: center;'>R5V4P3</td><td style='text-align: center;'>1024E (Fenv)</td><td style='text-align: center;'>X4</td></tr><tr><td style='text-align: center;'>R6</td><td style='text-align: center;'>SUL-NAL</td><td style='text-align: center;'>sul1-ni</td><td style='text-align: center;'>V1</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC</td><td style='text-align: center;'>R6V1</td><td style='text-align: center;'>P3</td><td style='text-align: center;'>R6V1P3</td><td style='text-align: center;'>595/09Dch (Fenv)</td><td style='text-align: center;'>X1</td></tr><tr><td style='text-align: center;'>R7</td><td style='text-align: center;'>AMP-NAL-CIP&lt;sup&gt;l&lt;/sup&gt;</td><td style='text-align: center;'>bla&lt;sub&gt;TEM-1-like&lt;/sub&gt;-ni-qnrB</td><td style='text-align: center;'>V4</td><td style='text-align: center;'>orgA-ssaQ-mgtC-siiD-sopB-gipA-bcfC-spvC</td><td style='text-align: center;'>R7V4</td><td style='text-align: center;'>P5</td><td style='text-align: center;'>R7V4P5</td><td style='text-align: center;'>1025E (Fenv)</td><td style='text-align: center;'>X4</td></tr></table>",
+            "block_bbox": [
+                101,
+                261,
+                1475,
+                727
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "+, positive and −, negative for the indicated gene; ni, not identified.",
+            "block_bbox": [
+                99,
+                732,
+                515,
+                750
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{a} $  Resistance profile.",
+            "block_bbox": [
+                109,
+                750,
+                240,
+                768
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{b} $  Number of isolates when more than one.",
+            "block_bbox": [
+                109,
+                769,
+                379,
+                787
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{c} $  AMP, ampicillin; CIP, ciprofloxacin; I, intermediate susceptibility; NAL, nalidixic acid; STR, streptomycin; SUL, sulfonamides.",
+            "block_bbox": [
+                109,
+                787,
+                884,
+                807
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{d} $  V. Virulence profile.",
+            "block_bbox": [
+                110,
+                806,
+                250,
+                825
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "RV, combined Resistance and Virulence profile.",
+            "block_bbox": [
+                110,
+                824,
+                417,
+                843
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "P. Plasmid profile.",
+            "block_bbox": [
+                112,
+                843,
+                239,
+                862
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "RVP, combined Resistance, Virulence and Plasmid profile.",
+            "block_bbox": [
+                110,
+                861,
+                479,
+                880
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{h} $  RI. Representative Isolate.",
+            "block_bbox": [
+                110,
+                880,
+                287,
+                899
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "i O, Origin; HcK, Healthy Chicken; SCk, Sick Chicken; Fenv, Farm environment.",
+            "block_bbox": [
+                110,
+                899,
+                592,
+                919
+            ],
+            "block_id": 13,
+            "block_order": null,
+            "group_id": 13
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "X, Xbal-pulsed-field gel electrophoresis profile.",
+            "block_bbox": [
+                110,
+                918,
+                417,
+                937
+            ],
+            "block_id": 14,
+            "block_order": null,
+            "group_id": 14
+        },
+        {
+            "block_label": "aside_text",
+            "block_content": "R. Ben Salem et al./ Journal of Infection and Public Health 10 (2017) 855–860",
+            "block_bbox": [
+                1496,
+                355,
+                1518,
+                810
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8922734260559082,
+                "coordinate": [
+                    1498.4769287109375,
+                    60.87328338623047,
+                    1516.9373779296875,
+                    88.9015121459961
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5570485591888428,
+                "coordinate": [
+                    97.92475891113281,
+                    222.4354705810547,
+                    152.7232208251953,
+                    238.81446838378906
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9327728152275085,
+                "coordinate": [
+                    97.13916015625,
+                    238.37655639648438,
+                    1107.0806884765625,
+                    258.23199462890625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9854791164398193,
+                "coordinate": [
+                    101.68341064453125,
+                    261.44140625,
+                    1475.578125,
+                    727.4996337890625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.901333749294281,
+                "coordinate": [
+                    99.7603759765625,
+                    732.0712280273438,
+                    515.641357421875,
+                    750.1198120117188
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9016146063804626,
+                "coordinate": [
+                    109.47504425048828,
+                    750.95751953125,
+                    240.81732177734375,
+                    768.93701171875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8939516544342041,
+                "coordinate": [
+                    109.44767761230469,
+                    769.137451171875,
+                    379.17669677734375,
+                    787.0635986328125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8466224670410156,
+                "coordinate": [
+                    109.467041015625,
+                    787.09521484375,
+                    884.505859375,
+                    807.3641357421875
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9149949550628662,
+                "coordinate": [
+                    110.46759033203125,
+                    806.85400390625,
+                    250.6964111328125,
+                    825.302734375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9028221368789673,
+                "coordinate": [
+                    110.63441467285156,
+                    824.8900146484375,
+                    417.421875,
+                    843.9046630859375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9157528281211853,
+                "coordinate": [
+                    112.56888580322266,
+                    843.4805908203125,
+                    239.06448364257812,
+                    862.1468505859375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8927103281021118,
+                "coordinate": [
+                    110.10653686523438,
+                    861.8109130859375,
+                    479.0458068847656,
+                    880.7838134765625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.911493718624115,
+                "coordinate": [
+                    110.48538208007812,
+                    880.7613525390625,
+                    287.61212158203125,
+                    899.1739501953125
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7876855134963989,
+                "coordinate": [
+                    110.866943359375,
+                    899.5888671875,
+                    592.1840209960938,
+                    919.111083984375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8488432765007019,
+                "coordinate": [
+                    110.85601806640625,
+                    918.820556640625,
+                    417.43096923828125,
+                    937.660888671875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7420350313186646,
+                "coordinate": [
+                    1300.484130859375,
+                    346.6669921875,
+                    1397.858642578125,
+                    363.6466064453125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8090034127235413,
+                "coordinate": [
+                    1301.20751953125,
+                    363.9831237792969,
+                    1389.490234375,
+                    380.8884582519531
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8619952201843262,
+                "coordinate": [
+                    1300.9638671875,
+                    381.0984802246094,
+                    1408.435791015625,
+                    397.9453430175781
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8707926869392395,
+                "coordinate": [
+                    1300.484375,
+                    398.06011962890625,
+                    1385.1708984375,
+                    414.72625732421875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8946444988250732,
+                "coordinate": [
+                    1300.4361572265625,
+                    415.0885009765625,
+                    1408.5938720703125,
+                    432.59564208984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8792904615402222,
+                "coordinate": [
+                    1300.1282958984375,
+                    433.2490539550781,
+                    1389.2821044921875,
+                    450.0711364746094
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5367677211761475,
+                "coordinate": [
+                    1300.1904296875,
+                    450.46429443359375,
+                    1373.048583984375,
+                    467.18084716796875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.42058658599853516,
+                "coordinate": [
+                    1300.394287109375,
+                    552.5900268554688,
+                    1397.04443359375,
+                    570.4336547851562
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.598627507686615,
+                "coordinate": [
+                    1301.08447265625,
+                    672.7269287109375,
+                    1379.45458984375,
+                    689.9822998046875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8094451427459717,
+                "coordinate": [
+                    1301.18408203125,
+                    689.7077026367188,
+                    1408.70166015625,
+                    707.7940063476562
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.706485390663147,
+                "coordinate": [
+                    1301.076171875,
+                    707.066162109375,
+                    1380.9287109375,
+                    724.793212890625
+                ]
+            },
+            {
+                "cls_id": 2,
+                "label": "aside_text",
+                "score": 0.9182528257369995,
+                "coordinate": [
+                    1496.081787109375,
+                    355.9613037109375,
+                    1518.003173828125,
+                    810.39697265625
+                ]
+            }
+        ]
+    }
+}

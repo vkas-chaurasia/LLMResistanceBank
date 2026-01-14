@@ -1,0 +1,304 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Salem2017.pdf",
+    "page_index": 4,
+    "page_count": 6,
+    "width": 1191,
+    "height": 1588,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "R. Ben Salem et al. / Journal of Infection and Public Health 10 (2017) 855–860",
+            "block_bbox": [
+                377,
+                69,
+                834,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "859",
+            "block_bbox": [
+                1102,
+                70,
+                1131,
+                86
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">A</div>\n",
+            "block_bbox": [
+                172,
+                110,
+                198,
+                136
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">B</div>\n",
+            "block_bbox": [
+                566,
+                109,
+                589,
+                135
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_174_136_1037_780.jpg\" alt=\"Image\" width=\"72%\" /></div>\n",
+            "block_bbox": [
+                174,
+                136,
+                1037,
+                780
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Fig. 1. Plasmid (A) and XbaI-pulsed-field gel electrophoresis (B) profiles of Salmonella enterica serotype Enteritidis isolates recovered from chicken samples in Tunisia (2009–2013). (A) Lanes C1 and C2, plasmids obtained from Escherichia coli 39R861 (NCTC 50192) and V517 (NCTC 50193) used as size standards for undigested DNA; lanes P1 to P6, plasmid profiles; Chr, chromosomal DNA. (B) lane B, XbaI-digested DNA of Salmonella enterica serovar Braenderup H9812 used as size standard; lanes X1 to X4, XbaI-PFGE profiles.</div>\n",
+            "block_bbox": [
+                79,
+                798,
+                1131,
+                870
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "and virulence plasmid) or variable (prophages and fimbrial operons) in S. Enteritidis. It is well known that prophages play a key role in the evolution of pathogenic bacteria such as S. enterica  $ [11] $ , leading to genotypic and phenotypic diversity even between isolates of the same serotype. Fimbriae also contribute to bacterial diversity and are considered to be important for host adaptation. Accordingly, all isolates tested here were positive for targets located on SPIs and for spvC, while the observed variations were related to the gipA, sodC1 and sopE1 genes, carried by prophages Gifsy-1, Gifsy-2 and a cryptic  $ \\lambda $ -like phage in S. Enteritidis, as well as to the bcfC fimbrial gene  $ [11,12,30] $ . The least frequent virulence target was sodC1, found in less than half of the isolates, while the frequency of all other variable genes was  $ \\geq95\\% $ . The gene sodC1 encodes a periplasmic Cu-Zn superoxide dismutase that promotes survival of S. Typhimurium in macrophages  $ [31] $ . In contrast to the present study, high and low frequencies were respectively reported for sodC1 and gipA in S. Enteritidis isolates from different sources (human, poultry and food) in nine European countries  $ [21,32] $ . This raises the interesting possibility of geographical variations between Europe and North Africa, but similar variations have not been observed within Europe  $ [21] $ .",
+            "block_bbox": [
+                78,
+                897,
+                592,
+                1338
+            ],
+            "block_id": 6,
+            "block_order": 1,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "As mentioned above, the spvC gene was detected in all isolates analyzed in the present study, although S. Enteritidis isolates lacking the virulence plasmid have occasionally been reported  $ [20,21,23,33] $ . It should be noted that all except one of the isolates carried a 60 Kb plasmid, which is the size expected for the virulence plasmid. The remaining isolate contained a ca. 90 Kb plasmid which may have originated from the smaller version, as the isolate was positive for spvC. In fact, larger derivatives of the virulence plasmid, most carrying multiple resistance genes, have previously been reported in clinical isolates of S. Enteritidis  $ [20,34,35] $ . However, the Tunisian isolate harboring the 90 Kb plasmid was pan-susceptible, so the role of the DNA which was possibly acquired remains unknown. In S. Enteritidis, plasmids of different sizes (ca. 7, 40, 90 and 100 Kb) have been implicated in the spread of the  $ bla_{TEM-1} $  gene for ampicillin resistance  $ [23,36] $ . In this study, all ampicillin resistant isolates carried a 40 Kb plasmid where the  $ bla_{TEM-1} $  gene could be located. Similarly, PMQR genes have been found on plasmids of variable size and incompatibility groups, indicating that multiple plasmids are responsible for the worldwide spread of these genes  $ [37] $ . Together with 60 Kb and 40 Kb plasmids, several small plasmids, ranging in size from 2 to 6 Kb, were detected in the single qnrB-positive isolate identified in this study, which was additionally resistant to ampicillin.",
+            "block_bbox": [
+                78,
+                1337,
+                593,
+                1485
+            ],
+            "block_id": 7,
+            "block_order": 2,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                616,
+                897,
+                1132,
+                1232
+            ],
+            "block_id": 8,
+            "block_order": 3,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "XbaI-PFGE analysis conducted for representative isolates identified four closely or possibly related pulsotypes, according to the criteria of Tenover et al.  $ [38] $ , with a clear predominance of one of them (X1). This pulsotype was previously associated with human isolates recovered from diarrheagenic stool samples in Tunisia, as well as from feces and other clinical samples in different countries  $ [5,20,39] $ . Interestingly, X1 isolates exhibited different resistance, virulence and plasmid patterns, suggesting that mobile genetic elements, particularly prophages and plasmids, are playing an active role in the evolution of S. Enteritidis circulating in chicken farms in Tunisia.",
+            "block_bbox": [
+                616,
+                1232,
+                1133,
+                1464
+            ],
+            "block_id": 9,
+            "block_order": 4,
+            "group_id": 9
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9441866874694824,
+                "coordinate": [
+                    377.46527099609375,
+                    69.03340148925781,
+                    834.9959106445312,
+                    88.75709533691406
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8894405961036682,
+                "coordinate": [
+                    1102.4398193359375,
+                    70.23623657226562,
+                    1131.4766845703125,
+                    86.65805053710938
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5938458442687988,
+                "coordinate": [
+                    172.83993530273438,
+                    110.0142822265625,
+                    198.47824096679688,
+                    136.33407592773438
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8913610577583313,
+                "coordinate": [
+                    174.8743896484375,
+                    138.73892211914062,
+                    533.0997924804688,
+                    783.8245849609375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5719438195228577,
+                "coordinate": [
+                    566.536376953125,
+                    109.33209228515625,
+                    589.0045166015625,
+                    135.21878051757812
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.5009931325912476,
+                "coordinate": [
+                    174.67587280273438,
+                    136.323974609375,
+                    1037.8255615234375,
+                    780.8679809570312
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.929725170135498,
+                "coordinate": [
+                    543.6497802734375,
+                    138.972900390625,
+                    1037.71240234375,
+                    782.056640625
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9706624746322632,
+                "coordinate": [
+                    79.341796875,
+                    798.744873046875,
+                    1131.20068359375,
+                    870.67529296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885197281837463,
+                "coordinate": [
+                    78.67190551757812,
+                    897.214111328125,
+                    592.8909912109375,
+                    1338.124267578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986294686794281,
+                "coordinate": [
+                    78.4888916015625,
+                    1337.59716796875,
+                    593.27978515625,
+                    1485.74853515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885060787200928,
+                "coordinate": [
+                    616.8040771484375,
+                    897.0574951171875,
+                    1132.416015625,
+                    1232.9442138671875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4205020070075989,
+                "coordinate": [
+                    622.0106201171875,
+                    1088.3349609375,
+                    683.1337890625,
+                    1108.1279296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879745244979858,
+                "coordinate": [
+                    616.5501708984375,
+                    1232.28857421875,
+                    1133.0653076171875,
+                    1464.343017578125
+                ]
+            }
+        ]
+    }
+}

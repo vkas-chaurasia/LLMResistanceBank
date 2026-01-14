@@ -1,0 +1,583 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Nguyen2016.pdf",
+    "page_index": 6,
+    "page_count": 9,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Nguyen et al. Gut Pathog (2016) 8:39",
+            "block_bbox": [
+                108,
+                62,
+                356,
+                85
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "Page 7 of 9",
+            "block_bbox": [
+                1000,
+                64,
+                1081,
+                86
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "antibiotic resistance as modification of the antibiotic by aminoglycoside-modifying enzymes (AphA, AadE, Sat), enzymatic inactivation of the antibiotic by  $ \\beta $ -lactamase and modification of the DNA gyrase target, mutations in 23S rRNA genes were included for aminoglycosides, beta-lactams, fluoroquinolones, macrolides and tetracyclines, respectively [48, 49]. The multidrug efflux pump CmeABC has been involved in the resistance mechanisms of C. jejuni and C. coli to tetracyclines, fluoroquinolones, macrolides and beta-lactams [49].",
+            "block_bbox": [
+                106,
+                173,
+                585,
+                413
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Molecular biological methods were used for detection of antibiotic resistance determinants either using DNA isolated from cultures or that of non-cultured bacteria  $ [27, 37] $ . All isolates of this study which were resistant to ciprofloxacin carried a mutation of the amino acid 86 of the gyrA resulting in a change from threonine to isoleucine. This mutation was detected also in 3 DNA samples extracted from skimmed milk. The MAMA–PCR protocol allowed the detection of the gyrA mutation and PCR–RFLP was confirming the mutation from (ACA to ATA) of amino acid 86. This result was in agreement with previous reports showing that both methods are simple, reliable, rapid tools that can be used as screening methods  $ [27, 37] $ . In Campylobacter, resistance to erythromycin is chemosomally encoded by an alteration of the 23S rRNA gene. High level resistance to erythromycin is caused by mutations at position 2074 and/or 2075 of the domain V of this gene. In this study the mutations were neither detected by MAMA–PCR nor by PCR–RFLP.",
+            "block_bbox": [
+                106,
+                413,
+                586,
+                869
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "The tet(O) gene is known to be responsible for tetracycline resistance in Campylobacter isolates  $ [29] $ . In this study, only 54.5 % of the tetracycline resistant isolates harboured the tet(O) gene. The tet(A) gene also plays a role in resistance to tetracycline  $ [22] $ . The efflux gene tet(A) is coding for an approximately 46 kDa membrane-bound efflux protein for membrane-associated proteins and is involved in the export of tetracycline from the cell  $ [50] $ . In this study, using the recommended primers for tet(A) amplification  $ [18] $  PCR products of 696 bp instead of 888 bp were obtained. DNA sequencing of amplicons and database search resulted in 99.0 % homology to a partial putative integral membrane protein and a putative periplasmic protein. Hence, a new PCR assay based on tet(A) gene sequences for C. jejuni (acc. no. JX891464) and C. coli (acc. no. JX891463) was developed. Parameters such as limit of detection, limit of quantification, PCR efficiency and specificity were considered during an in-house validation process. Amplicon length was 486 and the amplicons were sequenced to confirm the identity. The tet(A) gene was much more frequently identified in the Kenyan Campylobacter isolates than tet(O) (35 vs 13).",
+            "block_bbox": [
+                105,
+                869,
+                587,
+                1398
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "To the best of our knowledge this is the first report on the status of antibiotic susceptibility of thermophilic Campylobacter from chicken in Kenya. High level of resistance to ciprofloxacin, erythromycin and nalidixic acid as well as multidrug resistance was detected previously in Kenya. In Kenya, this problem is reported to be caused by the increasing rate of unregulated over-the-counter sale without prescriptions of these antibiotics, mainly to humans self-treatment of suspected infections and to a lesser extent for use in animals  $ [51] $ . These findings also demonstrate the potential for antibiotic-resistant bacteria to spread through the food chain from animals treated with antibiotics for humans. Such misuse and overuse may have resulted in the selection of resistant mutants or acquisition of antibiotic resistance genes from other organisms through the process of genetic exchange.",
+            "block_bbox": [
+                106,
+                1397,
+                586,
+                1447
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                601,
+                173,
+                1084,
+                510
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "It is recommendable that a long-term local surveillance programme is adopted for monitoring changes in resistance among Campylobacter isolates. Efforts to establish at least a National Laboratory with facilities for performing phenotyping and genotyping methods is highly recommended. Emphasis should be given on educational advertising to reduce the input of antibiotics in animal breeding to minimize the potential hazard for humans.",
+            "block_bbox": [
+                602,
+                510,
+                1083,
+                704
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Authors' contributions",
+            "block_bbox": [
+                604,
+                716,
+                759,
+                735
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "TNMN, HH, JN, HE, HT and HMH participated in the conception and design of the study. TNMN, HH, JN, JM and HE performed farm and laboratory work. TNMN, HH, JN, HE, HT, HN and HMH analysed the data and wrote the manuscript. All authors contributed to the analysis and supported the manuscript discussion. All authors read and approved the final manuscript.",
+            "block_bbox": [
+                601,
+                734,
+                1067,
+                829
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Author details",
+            "block_bbox": [
+                604,
+                842,
+                706,
+                861
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": " $ ^{1} $  Hung Vuong University, Phu Tho, Vietnam.  $ ^{2} $  Friedrich-Loeffler-Institut, Institute of Bacterial Infections and Zoonoses, Jena, Germany.  $ ^{3} $  Institute of Poultry Diseases, Free University Berlin, Berlin, Germany.  $ ^{4} $  Centre for Microbiology Research (CMR), Kenya Medical Research Institute, Nairobi, Kenya.  $ ^{5} $  Department of Poultry Diseases, Faculty of Veterinary Medicine, Kafrelsheikh University, Kafrelsheikh, Egypt.",
+            "block_bbox": [
+                602,
+                859,
+                1074,
+                972
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Acknowledgements",
+            "block_bbox": [
+                604,
+                987,
+                743,
+                1006
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The authors thank Byrgit Hofmann and Ronald Ng'etich for excellent technical assistance.",
+            "block_bbox": [
+                602,
+                1004,
+                1077,
+                1043
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Competing interests",
+            "block_bbox": [
+                604,
+                1058,
+                746,
+                1078
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "The authors declare that they have no competing interests.",
+            "block_bbox": [
+                603,
+                1076,
+                964,
+                1098
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Availability of data and material",
+            "block_bbox": [
+                604,
+                1112,
+                820,
+                1131
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "The data supporting the findings of this study are contained within the manuscript.",
+            "block_bbox": [
+                603,
+                1131,
+                1037,
+                1170
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Ethics approval and consent to participate",
+            "block_bbox": [
+                603,
+                1184,
+                886,
+                1204
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "This study was carried out in strict accordance with the recommendations of the National Guidelines on the Care and Use of Animals in Research, Education and Training in Kenya, Consortium for National Health Research (CNHR) which complies with the international laws and regulations regarding ethical considerations, transport, housing and experimental use of animals in research.",
+            "block_bbox": [
+                602,
+                1203,
+                1081,
+                1297
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Funding",
+            "block_bbox": [
+                603,
+                1310,
+                668,
+                1330
+            ],
+            "block_id": 20,
+            "block_order": 19,
+            "group_id": 20
+        },
+        {
+            "block_label": "text",
+            "block_content": "This study was supported by Friedrich–Loeffler-Institut, Institute of Bacterial Infections and Zoonoses, Germany and Vietnam Ministry of Agriculture and Rural Development.\n\nReceived: 9 June 2016 Accepted: 12 August 2016 Published online: 27 August 2016",
+            "block_bbox": [
+                602,
+                1328,
+                1064,
+                1386
+            ],
+            "block_id": 21,
+            "block_order": 20,
+            "group_id": 21
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                602,
+                1399,
+                924,
+                1443
+            ],
+            "block_id": 22,
+            "block_order": 21,
+            "group_id": 21
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.945621907711029,
+                "coordinate": [
+                    108.56442260742188,
+                    62.41765594482422,
+                    356.00616455078125,
+                    85.47399139404297
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9101147055625916,
+                "coordinate": [
+                    1000.8023071289062,
+                    64.14229583740234,
+                    1081.27490234375,
+                    86.0159683227539
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877919554710388,
+                "coordinate": [
+                    106.02900695800781,
+                    173.4884033203125,
+                    585.7784423828125,
+                    413.73095703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882732033729553,
+                "coordinate": [
+                    106.023193359375,
+                    413.8171691894531,
+                    586.5615234375,
+                    869.931884765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879468083381653,
+                "coordinate": [
+                    105.58566284179688,
+                    869.821533203125,
+                    587.0743408203125,
+                    1398.415283203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9625970721244812,
+                "coordinate": [
+                    106.80622863769531,
+                    1397.9481201171875,
+                    586.8484497070312,
+                    1447.8814697265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884418249130249,
+                "coordinate": [
+                    601.7166748046875,
+                    173.29339599609375,
+                    1084.0340576171875,
+                    510.6356201171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873251914978027,
+                "coordinate": [
+                    602.140625,
+                    510.90032958984375,
+                    1083.58935546875,
+                    704.1749877929688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9332031607627869,
+                "coordinate": [
+                    604.03759765625,
+                    716.2550048828125,
+                    759.9345703125,
+                    735.3892822265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.976620078086853,
+                "coordinate": [
+                    601.8668212890625,
+                    734.220703125,
+                    1067.6016845703125,
+                    829.607666015625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9276267886161804,
+                "coordinate": [
+                    604.5732421875,
+                    842.5584716796875,
+                    706.730224609375,
+                    861.7464599609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9773811101913452,
+                "coordinate": [
+                    602.3212890625,
+                    859.59765625,
+                    1074.7890625,
+                    972.552734375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9304682016372681,
+                "coordinate": [
+                    604.587158203125,
+                    987.057861328125,
+                    743.603271484375,
+                    1006.054931640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9555981159210205,
+                "coordinate": [
+                    602.9112548828125,
+                    1004.2442626953125,
+                    1077.1785888671875,
+                    1043.6922607421875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9226511716842651,
+                "coordinate": [
+                    604.6580810546875,
+                    1058.9063720703125,
+                    746.1126708984375,
+                    1078.0555419921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9272893071174622,
+                "coordinate": [
+                    603.4549560546875,
+                    1076.78515625,
+                    964.8616943359375,
+                    1098.35791015625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9285993576049805,
+                "coordinate": [
+                    604.1705322265625,
+                    1112.894287109375,
+                    820.604736328125,
+                    1131.939697265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9498955011367798,
+                "coordinate": [
+                    603.0557861328125,
+                    1131.5543212890625,
+                    1037.1112060546875,
+                    1170.4417724609375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.934761643409729,
+                "coordinate": [
+                    603.9007568359375,
+                    1184.9783935546875,
+                    886.0225830078125,
+                    1204.4339599609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9761679768562317,
+                "coordinate": [
+                    602.00146484375,
+                    1203.4112548828125,
+                    1081.132568359375,
+                    1297.3831787109375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9049460291862488,
+                "coordinate": [
+                    603.8763427734375,
+                    1310.431396484375,
+                    668.0509033203125,
+                    1330.298095703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9638844132423401,
+                "coordinate": [
+                    602.510498046875,
+                    1328.615234375,
+                    1064.03955078125,
+                    1386.403076171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8827989101409912,
+                "coordinate": [
+                    602.7518310546875,
+                    1399.7325439453125,
+                    924.39404296875,
+                    1443.0562744140625
+                ]
+            }
+        ]
+    }
+}

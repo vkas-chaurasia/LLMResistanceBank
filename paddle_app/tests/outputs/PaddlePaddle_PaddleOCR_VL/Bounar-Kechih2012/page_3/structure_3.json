@@ -1,0 +1,306 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Bounar-Kechih2012.pdf",
+    "page_index": 2,
+    "page_count": 7,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "ANTIBIOGRAM AND PLASMID PROFILES OF SALMONELLA",
+            "block_bbox": [
+                326,
+                53,
+                896,
+                76
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "number",
+            "block_content": "1181",
+            "block_bbox": [
+                1090,
+                53,
+                1135,
+                75
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "The study of the antimicrobial resistance performed on 100 Salmonella strains revealed a resistance to 8 of them from 6 different classes. Fifty-three percent of the strains showed resistance to at least one antimicrobial, among which 15.09% were multiresistant. Forty-seven percent of strains were susceptible to all antimicrobials tested. The resistance to quinolones was the most frequent (58.49%) and included 94.74% of the resistant strains of the prevalent serotype in our study (Table 2). The plasmid transfer assay was performed on 53 strains with resistance to  $ \\beta $ -lactams (4%), aminoglycosides (2%), tetracyclines (15%), sulphonamides (13%), nitrofurans (19%), and to quinolones (47%). In total, 11 strains have transferred one or several resistance markers, of which the most frequent were ampicillin, tetracycline, cotrimoxazole, sulphonamides, and kanamycin. The tetracycline character was present in 72.72% of transconjugants, those of the sulphonamides and  $ \\beta $ -lactams in 27.27% each, and that of the aminoglycosides in 9.09%. The compatibility test revealed incompatibility groups of plasmids in Com1 and F1me classes (Table 3). The plasmid DNA analysis resulted in a molecular weight that is greater than 100 kb (Figure 1).",
+            "block_bbox": [
+                81,
+                91,
+                599,
+                672
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## DISCUSSION",
+            "block_bbox": [
+                262,
+                695,
+                419,
+                723
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Geographical Distribution of Salmonella Serotypes",
+            "block_bbox": [
+                84,
+                740,
+                388,
+                798
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Bouira was characterized by the most important number of isolated strains because most avian samples were from this region, which has more than one-thousand poultry farms. Salmonella Heidelberg prevailed in our study. Our results were supported by the study of Barnhart et al. (1991) in Northern Ireland, on 42 poultry samples (56.5%), and that of Mammina et al. (2003) in Italy, on laying hens and the environment of chicken farms (20.3%). Whereas in a national study, Salmonella Heidelberg represents only 1.81% (Elgroud et al., 2009). This serotype is among the 3 most common cases of human salmonellosis in Canada and one of the 5 most prevalent in the USA, according to the Canadian integrated program for monitoring of the antimicrobial resistance (PICRA, 2006). According to this program, international comparisons of human data from 2000 to 2004 indicated that Salmonella Heidelberg was more common in North America, whereas Mammina et al. (2003) have shown that this serotype was responsible for only a small proportion of human infection in Italy. According to Usera et al. (1999) and the report of the European Community (EFSA, 2007), Salmonella Enteritidis was the most frequently reported, with prevalences of 46.1 and 42%, respectively, and these are higher than those we have recorded. Our present result is higher than that recorded by Elgroud et al. (2008; 3.63%). The isolation frequency of Salmonella Infantis and Salmonella Albany was comparable to that given in Austria by Berghold and Kornschober (2002). Similarly, the rate that we recorded for Salmonella Typhimurium was comparable to that reported by Elgroud et al. (2009) and by Van Immerseel et al. (2005) in poultry farms in Europe between 1991 and 2000 but higher than that noted by these same authors in 2003. The registered prevalence for Salmonella Blockley was lower than that found in Saudi Arabia (al-Nakhli et al., 1999). Salmonella Hadar, identified in 5% of our strains, was the predominant serotype in Italy (Uyttendaele et al., 1998) and Senegal (Cardinale et al., 2005). Salmonella Pullorum, which has no impact on public health, as related to host species has been eradicated from poultry farms in several developed countries, such as the USA and Canada. The declaration of pullorosis in our farms could cause major economic losses, such as those observed from the thirties to the sixties (Villate, 2001). In our study, Salmonella Newport and Salmonella Montevideo were isolated with a very low prevalence. These results are corroborated by the study of Elgroud",
+            "block_bbox": [
+                82,
+                811,
+                599,
+                1031
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                620,
+                90,
+                1140,
+                1032
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">Table 1. Distribution of Salmonella serotypes isolated from Gallus gallus on 4 wilayas of the center of Algeria $ ^{1} $ </div>\n",
+            "block_bbox": [
+                209,
+                1077,
+                1010,
+                1122
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7
+        },
+        {
+            "block_label": "table",
+            "block_content": "\n<table border=1 style='margin: auto; width: max-content;'><tr><td rowspan=\"2\">Salmonella serotype</td><td colspan=\"4\">Wilaya (n) $ ^{2} $</td><td rowspan=\"2\">Total (%)</td></tr><tr><td style='text-align: center;'>Bouira</td><td style='text-align: center;'>Bejaïa</td><td style='text-align: center;'>Boumerdès</td><td style='text-align: center;'>Tizi-Ouzou</td></tr><tr><td style='text-align: center;'>Heidelberg</td><td style='text-align: center;'>9</td><td style='text-align: center;'>4</td><td style='text-align: center;'>8</td><td style='text-align: center;'>3</td><td style='text-align: center;'>24</td></tr><tr><td style='text-align: center;'>Enteritidis</td><td style='text-align: center;'>15</td><td style='text-align: center;'>2</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>20</td></tr><tr><td style='text-align: center;'>Albany</td><td style='text-align: center;'>5</td><td style='text-align: center;'>6</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td><td style='text-align: center;'>16</td></tr><tr><td style='text-align: center;'>Typhimurium</td><td style='text-align: center;'>7</td><td style='text-align: center;'>2</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>9</td></tr><tr><td style='text-align: center;'>Blockley</td><td style='text-align: center;'>3</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td></tr><tr><td style='text-align: center;'>Infantis</td><td style='text-align: center;'>1</td><td style='text-align: center;'>3</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>6</td></tr><tr><td style='text-align: center;'>Hadar</td><td style='text-align: center;'>3</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>5</td></tr><tr><td style='text-align: center;'>Livingstone</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>2</td><td style='text-align: center;'>5</td></tr><tr><td style='text-align: center;'>Pullorum</td><td style='text-align: center;'>2</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>4</td></tr><tr><td style='text-align: center;'>Indiana</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>2</td></tr><tr><td style='text-align: center;'>Kedougou</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>Newport</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>Montevideo</td><td style='text-align: center;'>1</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>0</td><td style='text-align: center;'>1</td></tr><tr><td style='text-align: center;'>Total (%)</td><td style='text-align: center;'>48</td><td style='text-align: center;'>21</td><td style='text-align: center;'>16</td><td style='text-align: center;'>15</td><td style='text-align: center;'>100</td></tr></table>",
+            "block_bbox": [
+                210,
+                1123,
+                1008,
+                1463
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{1} $ Bold numbers indicate the strains by serotype that prevailed in each wilaya.",
+            "block_bbox": [
+                226,
+                1467,
+                776,
+                1489
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ ^{2}n= $  number of serotypes.",
+            "block_bbox": [
+                226,
+                1489,
+                419,
+                1512
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9460358619689941,
+                "coordinate": [
+                    326.63250732421875,
+                    53.0802001953125,
+                    896.2908325195312,
+                    76.76846313476562
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9071741700172424,
+                "coordinate": [
+                    1090.243896484375,
+                    53.18379211425781,
+                    1135.53369140625,
+                    75.46261596679688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884577393531799,
+                "coordinate": [
+                    81.94845581054688,
+                    91.20086669921875,
+                    599.470703125,
+                    672.3093872070312
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9417471289634705,
+                "coordinate": [
+                    262.39337158203125,
+                    695.56103515625,
+                    419.59124755859375,
+                    723.095947265625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9636958241462708,
+                "coordinate": [
+                    84.26242065429688,
+                    740.0538330078125,
+                    388.6099548339844,
+                    798.6707763671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877498745918274,
+                "coordinate": [
+                    82.57049560546875,
+                    811.2081298828125,
+                    599.7205200195312,
+                    1031.953857421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884842038154602,
+                "coordinate": [
+                    620.7301025390625,
+                    90.7921142578125,
+                    1140.9036865234375,
+                    1032.8870849609375
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9595093131065369,
+                "coordinate": [
+                    209.03927612304688,
+                    1077.1885986328125,
+                    1010.677490234375,
+                    1122.1158447265625
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6107264757156372,
+                "coordinate": [
+                    646.5142822265625,
+                    1133.115478515625,
+                    677.203125,
+                    1156.904296875
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9870753884315491,
+                "coordinate": [
+                    210.51693725585938,
+                    1123.27783203125,
+                    1008.7650146484375,
+                    1463.691162109375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9322927594184875,
+                "coordinate": [
+                    226.59906005859375,
+                    1467.006103515625,
+                    776.6439208984375,
+                    1489.976318359375
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.887355387210846,
+                "coordinate": [
+                    226.59690856933594,
+                    1489.60693359375,
+                    419.9388427734375,
+                    1512.20556640625
+                ]
+            }
+        ]
+    }
+}

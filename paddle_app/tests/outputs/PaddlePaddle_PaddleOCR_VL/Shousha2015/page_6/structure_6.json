@@ -1,0 +1,1133 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Shousha2015.pdf",
+    "page_index": 5,
+    "page_count": 7,
+    "width": 1170,
+    "height": 1566,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Phage Transfer of Antibiotic Resistance in Chicken Meat",
+            "block_bbox": [
+                749,
+                65,
+                1091,
+                83
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "text",
+            "block_content": "present, this is not extensively used for disinfection. It is thus highly likely that phages survive under routine conditions of disinfection not only in the food industry.",
+            "block_bbox": [
+                75,
+                130,
+                575,
+                195
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "Our results show for the first time that generalized transduction without the need for homologous recombination is a neglected but nevertheless efficient way to transfer antimicrobial resistance to  $ E.\\ coli $  in different environments, including in food of animal origin. This conclusion has important consequences for hygiene, sanitation, and public health when it is important to combat antimicrobial resistance.",
+            "block_bbox": [
+                74,
+                196,
+                576,
+                349
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## ACKNOWLEDGMENTS",
+            "block_bbox": [
+                76,
+                369,
+                258,
+                388
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Amira Shousha was granted a Vetmeduni Success Scholarship from the University of Veterinary Medicine, Vienna, Austria, to perform this study. Nattakarn Awaiwanont was funded by the Technologiestipendien Südostasien in the framework of ASEA-UNINET, granted by the OeAD (Austrian Agency for International Cooperation in Education & Research), financed by the Austrian Federal Ministry for Science and Research.",
+            "block_bbox": [
+                75,
+                397,
+                575,
+                536
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "We thank Stefan Hertwig for discussions and Graham Tebb for critical reading of and suggestions on the manuscript.",
+            "block_bbox": [
+                76,
+                537,
+                575,
+                579
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## REFERENCES",
+            "block_bbox": [
+                77,
+                594,
+                185,
+                613
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "1. Laube H, Friese A, von Salviati C, Guerra B, Käsbohrer A, Kreienbrock L, Roesler U. 2013. Longitudinal monitoring of extended-spectrum-beta-lactamase/AmpC-producing Escherichia coli at German broiler chicken fattening farms. Appl Environ Microbiol 79:4815–4820. http://dx.doi.org/10.1128/AEM.00856-13.",
+            "block_bbox": [
+                87,
+                621,
+                574,
+                708
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "2. Bronzwaer S, Lönnroth A, Haigh R. 2004. The European Community strategy against antimicrobial resistance. Euro Surveill 9(1):pii=441. http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=441.",
+            "block_bbox": [
+                86,
+                711,
+                574,
+                763
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "3. Vogt D, Overesch G, Endimiani A, Collaud A, Thomann A, Perreten V. 2014. Occurrence and genetic characteristics of third-generation cephalosporin-resistant Escherichia coli in Swiss retail meat. Microb Drug Resist 20:485–494. http://dx.doi.org/10.1089/mdr.2013.0210.",
+            "block_bbox": [
+                86,
+                766,
+                574,
+                835
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "4. European Food Safety Authority, European Centre for Disease Prevention and Control. 2015. EU summary report on antimicrobial resistance in zoonotic and indicator bacteria from humans, animals and food in 2013. EFSA J 13:4036. http://dx.doi.org/10.2903/j.efsa.2015.4036.",
+            "block_bbox": [
+                87,
+                838,
+                574,
+                907
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "5. Ibekwe AM, Murinda SE, Graves AK. 2011. Genetic diversity and antimicrobial resistance of Escherichia coli from human and animal sources uncovers multiple resistances from human sources. PLoS One 6:e20819. http://dx.doi.org/10.1371/journal.pone.0020819.",
+            "block_bbox": [
+                86,
+                909,
+                574,
+                979
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "6. Kruse H, Sørum H. 1994. Transfer of multiple drug resistance plasmids between bacteria of diverse origins in natural microenvironments. Appl Environ Microbiol 60:4015–4021.",
+            "block_bbox": [
+                86,
+                982,
+                574,
+                1033
+            ],
+            "block_id": 12,
+            "block_order": 12,
+            "group_id": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "7. Mayrhofer S, Paulsen P, Smulders FJM, Hilbert F. 2006. Antimicrobial resistance in commensal Escherichia coli isolated from muscle foods as related to the veterinary use of antimicrobial agents in food-producing animals in Austria. Microb Drug Resist 12:278–283. http://dx.doi.org/10.1089/mdr.2006.12.278.",
+            "block_bbox": [
+                86,
+                1035,
+                575,
+                1122
+            ],
+            "block_id": 13,
+            "block_order": 13,
+            "group_id": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "8. Gunell M, Webber MA, Kotilainen P, Lilly AJ, Caddick JM, Jalava J, Huovinen P, Siitonen A, Hakanen AJ, Piddock LJV. 2009. Mechanisms of resistance in nontyphoidal Salmonella enterica strains exhibiting a nonclassical quinolone resistance phenotype. Antimicrob Agents Chemother 53:3832–3836. http://dx.doi.org/10.1128/AAC.00121-09.",
+            "block_bbox": [
+                86,
+                1125,
+                575,
+                1213
+            ],
+            "block_id": 14,
+            "block_order": 14,
+            "group_id": 14
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "9. Woodford N, Ellington MJ. 2007. The emergence of antibiotic resistance by mutation. Clin Microbiol Infect 13:5–18. http://dx.doi.org/10.1111/j.1469-0691.2006.01492.x.",
+            "block_bbox": [
+                85,
+                1216,
+                574,
+                1266
+            ],
+            "block_id": 15,
+            "block_order": 15,
+            "group_id": 15
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "10. Mempel M, Feucht H, Ziebuhr W, Endres M, Laufs R, Grüter L. 1994. Lack of mecA transcription in slime-negative phase variants of methicillin-resistant Staphylococcus epidermidis. Antimicrob Agents Chemother 38:1251–1255. http://dx.doi.org/10.1128/AAC.38.6.1251.",
+            "block_bbox": [
+                80,
+                1269,
+                574,
+                1339
+            ],
+            "block_id": 16,
+            "block_order": 16,
+            "group_id": 16
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "11. Mah TF. 2012. Biofilm-specific antibiotic resistance. Future Microbiol 7:1061–1072. http://dx.doi.org/10.2217/fmb.12.76.",
+            "block_bbox": [
+                79,
+                1341,
+                574,
+                1375
+            ],
+            "block_id": 17,
+            "block_order": 17,
+            "group_id": 17
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "12. Boerlin P, Reid-Smith RJ. 2008. Antimicrobial resistance: its emergence and transmission. Anim Health Res Rev 9:115–126. http://dx.doi.org/10.1017/S146625230800159X.",
+            "block_bbox": [
+                79,
+                1378,
+                574,
+                1428
+            ],
+            "block_id": 18,
+            "block_order": 18,
+            "group_id": 18
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "13. Martinez JL, Fajardo A, Garmendia L, Hernandez A, Linares JF, Mar-",
+            "block_bbox": [
+                78,
+                1431,
+                574,
+                1448
+            ],
+            "block_id": 19,
+            "block_order": 19,
+            "group_id": 19
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "tínez-Solano L, Sánchez MB. 2009. A global view of antibiotic resistance. FEMS Microbiol Rev 33:44–65. http://dx.doi.org/10.1111/j.1574-6976.2008.00142.x.",
+            "block_bbox": [
+                619,
+                132,
+                1090,
+                184
+            ],
+            "block_id": 20,
+            "block_order": 20,
+            "group_id": 20
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "14. Wiedenbeck J, Cohan FM. 2011. Origins of bacterial diversity through horizontal genetic transfer and adaptation to new ecological niches. FEMS Microbiol Rev 35:957–976. http://dx.doi.org/10.1111/j.1574-6976.2011.00292.x.",
+            "block_bbox": [
+                595,
+                187,
+                1090,
+                257
+            ],
+            "block_id": 21,
+            "block_order": 21,
+            "group_id": 21
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "15. Normark BH, Normark S. 2002. Evolution and spread of antibiotic resistance. J Intern Med 252:91–106. http://dx.doi.org/10.1046/j.1365-2796.2002.01026.x.",
+            "block_bbox": [
+                595,
+                260,
+                1090,
+                311
+            ],
+            "block_id": 22,
+            "block_order": 22,
+            "group_id": 22
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "16. Volkova VV, Lu Z, Besser T, Gröhn YT. 2014. Modeling the infection dynamics of bacteriophages in enteric Escherichia coli: estimating the contribution of transduction to antimicrobial gene spread. Appl Environ Microbiol 80:4350–4362. http://dx.doi.org/10.1128/AEM.00446-14.",
+            "block_bbox": [
+                596,
+                315,
+                1090,
+                386
+            ],
+            "block_id": 23,
+            "block_order": 23,
+            "group_id": 23
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "17. Fineran PC, Petty NK, Salmond GPC. 2009. Transduction: host DNA transfer by bacteriophages, p 666–679. In Schaechter M (ed), The desk encyclopedia of microbiology. Elsevier Academic Press, San Diego, CA.",
+            "block_bbox": [
+                595,
+                388,
+                1090,
+                442
+            ],
+            "block_id": 24,
+            "block_order": 24,
+            "group_id": 24
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "18. Hendrix RW, Smith MCM, Burns RN, Ford ME, Hatfull GF. 1999. Evolutionary relationships among diverse bacteriophages and prophages: all the world's a phage. Proc Natl Acad Sci U S A 96:2192–2197. http://dx.doi.org/10.1073/pnas.96.5.2192.",
+            "block_bbox": [
+                595,
+                443,
+                1090,
+                514
+            ],
+            "block_id": 25,
+            "block_order": 25,
+            "group_id": 25
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "19. Schwarzer D, Buettner FFR, Browning C, Nazarov S, Rabsch W, Bethe A, Oberbeck A, Bowman VD, Stummeyer K, Mühlenhoff M, Leiman PG, Gerardy-Schahn R. 2012. A multivalent adsorption apparatus explains the broad host range of phage phi92: a comprehensive genomic and structural analysis. J Virol 86:10384–10398. http://dx.doi.org/10.1128/JVI.00801-12.",
+            "block_bbox": [
+                595,
+                516,
+                1091,
+                622
+            ],
+            "block_id": 26,
+            "block_order": 26,
+            "group_id": 26
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "20. Evans TJ, Crow MA, Williamson NR, Orme W, Thomson NR, Komitopoulou E, Salmond GPC. 2010. Characterization of a broad-host-range flagellum-dependent phage that mediates high-efficiency generalized transduction in, and between, Serratia and Pantoea. Microbiology 156:240–247. http://dx.doi.org/10.1099/mic.0.032797-0.",
+            "block_bbox": [
+                594,
+                625,
+                1091,
+                715
+            ],
+            "block_id": 27,
+            "block_order": 27,
+            "group_id": 27
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "21. Weitz JS, Poisot T, Meyer JR, Flores CO, Valverde S, Sullivan MB, Hochberg ME. 2013. Phage-bacteria infection networks. Trends Microbiol 21:82–91. http://dx.doi.org/10.1016/j.tim.2012.11.003.",
+            "block_bbox": [
+                594,
+                717,
+                1090,
+                770
+            ],
+            "block_id": 28,
+            "block_order": 28,
+            "group_id": 28
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "22. Zhang Z, Kottadiel VI, Vafabakhsh R, Dai L, Chemla YR, Ha T, Rao VB. 2011. A promiscuous DNA packaging machine from bacteriophage T4. PLoS Biol 9:e1000592. http://dx.doi.org/10.1371/journal.pbio.1000592.",
+            "block_bbox": [
+                594,
+                772,
+                1091,
+                843
+            ],
+            "block_id": 29,
+            "block_order": 29,
+            "group_id": 29
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "23. Schmieder R, Edwards R. 2012. Insights into antibiotic resistance through metagenomic approaches. Future Microbiol 7:73–89. http://dx.doi.org/10.2217/fmb.11.135.",
+            "block_bbox": [
+                594,
+                846,
+                1091,
+                898
+            ],
+            "block_id": 30,
+            "block_order": 30,
+            "group_id": 30
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "24. EUCAST. 2010. Antimicrobial susceptibility testing. http://www.eucast.org/ast_of_bacteria/.",
+            "block_bbox": [
+                594,
+                900,
+                1091,
+                935
+            ],
+            "block_id": 31,
+            "block_order": 31,
+            "group_id": 31
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "25. International Organization for Standardization. 2000. Water quality—detection and enumeration of bacteriophages. Part 2. Enumeration of somatic coliphages. ISO 10705-2:2000. International Organization for Standardization, Geneva, Switzerland.",
+            "block_bbox": [
+                594,
+                937,
+                1092,
+                1008
+            ],
+            "block_id": 32,
+            "block_order": 32,
+            "group_id": 32
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "26. Groisman EA. 1991. In vivo genetic engineering with bacteriophage Mu. Methods Enzymol 204:180–212. http://dx.doi.org/10.1016/0076-6879(91)04010-L.",
+            "block_bbox": [
+                594,
+                1010,
+                1090,
+                1062
+            ],
+            "block_id": 33,
+            "block_order": 33,
+            "group_id": 33
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "27. Sacher A. 2008. Ph.D. thesis. Veterinärmedizinischen Universität Wien, Vienna, Austria.",
+            "block_bbox": [
+                594,
+                1065,
+                1090,
+                1099
+            ],
+            "block_id": 34,
+            "block_order": 34,
+            "group_id": 34
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "28. Schmieger H, Schicklmaier P. 1999. Transduction of multiple drug resistance of Salmonella enterica serovar typhimurium DT104. FEMS Microbiol Lett 170:251–256. http://dx.doi.org/10.1111/j.1574-6968.1999.tb13381.x.",
+            "block_bbox": [
+                595,
+                1102,
+                1090,
+                1172
+            ],
+            "block_id": 35,
+            "block_order": 35,
+            "group_id": 35
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "29. Milić N, Milanović M, Grujić Letić N, Sekulić MT, Radonić J, Mihajlović I, Miloradov MV. 2013. Occurrence of antibiotics as emerging contaminant substances in aquatic environment. Int J Environ Health Res 23:296–310. http://dx.doi.org/10.1080/09603123.2012.733934.",
+            "block_bbox": [
+                594,
+                1175,
+                1090,
+                1246
+            ],
+            "block_id": 36,
+            "block_order": 36,
+            "group_id": 36
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "30. Zhang J, Chang VWC, Giannis A, Wang J-Y. 2013. Removal of cytostatic drugs from aquatic environment: a review. Sci Total Environ 445-446:281–298. http://dx.doi.org/10.1016/j.scitotenv.2012.12.061.",
+            "block_bbox": [
+                595,
+                1248,
+                1090,
+                1301
+            ],
+            "block_id": 37,
+            "block_order": 37,
+            "group_id": 37
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "31. Balcazar JL. 2014. Bacteriophages as vehicles for antibiotic resistance genes in the environment. PLoS Pathog 10:e1004219. http://dx.doi.org/10.1371/journal.ppat.1004219.",
+            "block_bbox": [
+                594,
+                1303,
+                1090,
+                1356
+            ],
+            "block_id": 38,
+            "block_order": 38,
+            "group_id": 38
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "32. Colomer-Lluch M, Imamovic L, Jofre J, Muniesa M. 2011. Bacteriophages carrying antibiotic resistance genes in fecal waste from cattle, pigs, and poultry. Antimicrob Agents Chemother 55:4908–4911. http://dx.doi.org/10.1128/AAC.00535-11.",
+            "block_bbox": [
+                594,
+                1358,
+                1090,
+                1428
+            ],
+            "block_id": 39,
+            "block_order": 39,
+            "group_id": 39
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "33. Colomer-Lluch M, Jofre J, Muniesa M. 2011. Antibiotic resistance genes",
+            "block_bbox": [
+                594,
+                1431,
+                1091,
+                1448
+            ],
+            "block_id": 40,
+            "block_order": 40,
+            "group_id": 40
+        },
+        {
+            "block_label": "footer",
+            "block_content": "July 2015 Volume 81 Number 14",
+            "block_bbox": [
+                77,
+                1495,
+                294,
+                1512
+            ],
+            "block_id": 41,
+            "block_order": null,
+            "group_id": 41
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Applied and Environmental Microbiology",
+            "block_bbox": [
+                459,
+                1495,
+                709,
+                1512
+            ],
+            "block_id": 42,
+            "block_order": null,
+            "group_id": 42
+        },
+        {
+            "block_label": "footer",
+            "block_content": "aem.asm.org",
+            "block_bbox": [
+                966,
+                1496,
+                1044,
+                1512
+            ],
+            "block_id": 43,
+            "block_order": null,
+            "group_id": 43
+        },
+        {
+            "block_label": "number",
+            "block_content": "4605",
+            "block_bbox": [
+                1055,
+                1496,
+                1090,
+                1511
+            ],
+            "block_id": 44,
+            "block_order": null,
+            "group_id": 44
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9490073323249817,
+                "coordinate": [
+                    749.968994140625,
+                    65.33982849121094,
+                    1091.3863525390625,
+                    83.28230285644531
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9817743301391602,
+                "coordinate": [
+                    75.26826477050781,
+                    130.6089630126953,
+                    575.1049194335938,
+                    195.60459899902344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867011904716492,
+                "coordinate": [
+                    74.93309020996094,
+                    196.79652404785156,
+                    576.8759155273438,
+                    349.9696044921875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9444838166236877,
+                "coordinate": [
+                    76.95313262939453,
+                    369.52606201171875,
+                    258.60687255859375,
+                    388.56488037109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867839813232422,
+                "coordinate": [
+                    75.77362060546875,
+                    397.7806396484375,
+                    575.684326171875,
+                    536.2789306640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9689009785652161,
+                "coordinate": [
+                    76.17756652832031,
+                    537.7345581054688,
+                    575.4804077148438,
+                    579.3106079101562
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.929948091506958,
+                "coordinate": [
+                    77.6568832397461,
+                    594.0157470703125,
+                    185.77792358398438,
+                    613.493896484375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9804792404174805,
+                "coordinate": [
+                    87.10430908203125,
+                    621.4401245117188,
+                    574.9117431640625,
+                    708.3164672851562
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9761143922805786,
+                "coordinate": [
+                    86.61801147460938,
+                    711.822998046875,
+                    574.22216796875,
+                    763.543212890625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9808838367462158,
+                "coordinate": [
+                    86.35371398925781,
+                    766.089599609375,
+                    574.1829833984375,
+                    835.55322265625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9811846613883972,
+                "coordinate": [
+                    87.10752868652344,
+                    838.26611328125,
+                    574.69482421875,
+                    907.047119140625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9808146953582764,
+                "coordinate": [
+                    86.71092224121094,
+                    909.626220703125,
+                    574.691162109375,
+                    979.470703125
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.990290105342865,
+                "coordinate": [
+                    81.78689575195312,
+                    619.6060791015625,
+                    576.1866455078125,
+                    1445.7579345703125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9781454801559448,
+                "coordinate": [
+                    86.41241455078125,
+                    982.0518798828125,
+                    574.7754516601562,
+                    1033.1947021484375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9821244478225708,
+                "coordinate": [
+                    86.41122436523438,
+                    1035.6546630859375,
+                    575.1285400390625,
+                    1122.2615966796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9820928573608398,
+                "coordinate": [
+                    86.15277099609375,
+                    1125.139892578125,
+                    575.0294799804688,
+                    1213.565185546875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9773455858230591,
+                "coordinate": [
+                    85.67071533203125,
+                    1216.0390625,
+                    574.281494140625,
+                    1266.4306640625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9803922772407532,
+                "coordinate": [
+                    80.22113037109375,
+                    1269.504638671875,
+                    574.1382446289062,
+                    1339.235107421875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.969353437423706,
+                "coordinate": [
+                    79.840576171875,
+                    1341.618896484375,
+                    574.0455322265625,
+                    1375.686279296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9771062731742859,
+                "coordinate": [
+                    79.81597900390625,
+                    1378.162841796875,
+                    574.7431030273438,
+                    1428.326904296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9427524209022522,
+                "coordinate": [
+                    78.70759582519531,
+                    1431.459228515625,
+                    574.1344604492188,
+                    1448.727783203125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9756080508232117,
+                "coordinate": [
+                    619.714111328125,
+                    132.45364379882812,
+                    1090.2867431640625,
+                    184.64779663085938
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9786359667778015,
+                "coordinate": [
+                    595.5262451171875,
+                    187.34515380859375,
+                    1090.3067626953125,
+                    257.00592041015625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9768952131271362,
+                "coordinate": [
+                    595.8011474609375,
+                    260.5838317871094,
+                    1090.5665283203125,
+                    311.9358215332031
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9804782271385193,
+                "coordinate": [
+                    596.2137451171875,
+                    315.178466796875,
+                    1090.8380126953125,
+                    386.15911865234375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.977863609790802,
+                "coordinate": [
+                    595.68359375,
+                    388.4666442871094,
+                    1090.826171875,
+                    442.2268981933594
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9798137545585632,
+                "coordinate": [
+                    595.91552734375,
+                    443.57086181640625,
+                    1090.29296875,
+                    514.1307983398438
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9823592305183411,
+                "coordinate": [
+                    595.9130859375,
+                    516.4096069335938,
+                    1091.01904296875,
+                    622.6707153320312
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.981692910194397,
+                "coordinate": [
+                    594.10009765625,
+                    625.932861328125,
+                    1091.1336669921875,
+                    715.09912109375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.978339672088623,
+                "coordinate": [
+                    594.6029052734375,
+                    717.4110107421875,
+                    1090.8109130859375,
+                    770.3707275390625
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.9916770458221436,
+                "coordinate": [
+                    592.8984375,
+                    132.308837890625,
+                    1092.81591796875,
+                    1446.108154296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9807238578796387,
+                "coordinate": [
+                    594.603515625,
+                    772.255615234375,
+                    1091.1549072265625,
+                    843.2861328125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.977580189704895,
+                "coordinate": [
+                    594.7034912109375,
+                    846.4060668945312,
+                    1091.3646240234375,
+                    898.6691284179688
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9705928564071655,
+                "coordinate": [
+                    594.55712890625,
+                    900.6510620117188,
+                    1091.1240234375,
+                    935.9642944335938
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9801708459854126,
+                "coordinate": [
+                    594.4796142578125,
+                    937.88427734375,
+                    1092.4398193359375,
+                    1008.6552734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9768224954605103,
+                "coordinate": [
+                    594.718994140625,
+                    1010.6525268554688,
+                    1090.381103515625,
+                    1062.607177734375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9696130156517029,
+                "coordinate": [
+                    594.86376953125,
+                    1065.324951171875,
+                    1090.064208984375,
+                    1099.639404296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9801992774009705,
+                "coordinate": [
+                    595.28759765625,
+                    1102.3212890625,
+                    1090.712890625,
+                    1172.30029296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9805712699890137,
+                "coordinate": [
+                    594.77783203125,
+                    1175.2447509765625,
+                    1090.720458984375,
+                    1246.5662841796875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9791231155395508,
+                "coordinate": [
+                    595.03271484375,
+                    1248.52294921875,
+                    1090.7420654296875,
+                    1301.6103515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9771141409873962,
+                "coordinate": [
+                    594.7978515625,
+                    1303.81689453125,
+                    1090.6712646484375,
+                    1356.14404296875
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9810256361961365,
+                "coordinate": [
+                    594.44970703125,
+                    1358.4921875,
+                    1090.4140625,
+                    1428.23974609375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9457170963287354,
+                "coordinate": [
+                    594.435302734375,
+                    1431.40283203125,
+                    1091.260498046875,
+                    1448.783203125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9327830076217651,
+                "coordinate": [
+                    77.57905578613281,
+                    1495.8245849609375,
+                    294.6768798828125,
+                    1512.3228759765625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9339286684989929,
+                "coordinate": [
+                    459.42755126953125,
+                    1495.692626953125,
+                    709.2426147460938,
+                    1512.555419921875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9205428957939148,
+                "coordinate": [
+                    966.134033203125,
+                    1496.759033203125,
+                    1044.66552734375,
+                    1512.298095703125
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9092841148376465,
+                "coordinate": [
+                    1055.96923828125,
+                    1496.28076171875,
+                    1090.78955078125,
+                    1511.65771484375
+                ]
+            }
+        ]
+    }
+}

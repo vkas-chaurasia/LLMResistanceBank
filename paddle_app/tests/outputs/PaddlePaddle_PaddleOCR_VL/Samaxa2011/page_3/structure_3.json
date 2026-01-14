@@ -1,0 +1,455 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Samaxa2011.pdf",
+    "page_index": 2,
+    "page_count": 6,
+    "width": 1224,
+    "height": 1584,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "J. Food Prot., Vol. 75, No. 4",
+            "block_bbox": [
+                114,
+                44,
+                310,
+                64
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "SALMONELLA FROM RAW SAUSAGES",
+            "block_bbox": [
+                728,
+                44,
+                1013,
+                63
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "number",
+            "block_content": "639",
+            "block_bbox": [
+                1079,
+                43,
+                1113,
+                62
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "TACTG-3') as documented by Bansal et al. (4) were synthesized by Inqaba Biotechnology Industries (Hatfield, South Africa), and the PCR reagents including the Taq polymerase were from Fermentas (Life Sciences, Pretoria, South Africa). A PCR mix was prepared containing 0.2 mM concentrations of each deoxynucleoside triphosphate, 250 nM concentrations of the primers, 2.0 mM MgCl $ _{2} $ , and 1 U of Taq polymerase, and the mix was made up to 50  $ \\mu $ l with sterile double-distilled water. The PCR was carried out with Gene Amp 2400 PCR system (Applied Biosystems, Singapore). The amplification conditions were as described by Bansal et al. (4), with an initial denaturation for 5 min at 94°C followed by 30 cycles of 30 s at 94°C, 20 s at 55°C, and 30 s at 72°C. After the last cycle, the PCR tubes were incubated at 72°C for 7 min and then held at 4°C. The PCR products were analyzed by gel electrophoresis with a 1.2% agarose gel in 1 × Tris-EDTA-acetate buffer at 60 V for 60 min. The gel was stained with 0.1% ethidium bromide, and electrophoresis products were visualized and images captured using the Syngene Gene Genius BioImaging System (Cambridge, UK).",
+            "block_bbox": [
+                111,
+                105,
+                602,
+                506
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antimicrobial susceptibility testing. Individual Salmonella colonies were aseptically suspended in 3 ml of sterile saline (aqueous 0.45% NaCl, wt/vol, pH 5.0 to 7.2), and the optical density was measured with the Densichek system (bioMérieux) with an optimum turbidity of 0.6 McFarland units. Colonies were then analyzed for antibiotic susceptibility using the VITEK 2 automated system with AST cards from bioMérieux South Africa. Each card included the following antibiotics: amikacin, amoxicillin-clavulanic acid, ampicillin, aztreonam, cefepime, cefotaxime, cefoxitin, ceftazidime, cefuroxime, ciprofloxacin, colistin, ertapenem, gentamicin, imipenem, meropenem, nitrofurantoin, piperacillin-tazobactam, tigecycline, tombramycin, and trimethoprim-sulfamethoxazole. Salmonella Typhimurium ATCC 14028 and Escherichia coli ATCC 25922 were also included as quality control organisms for determining MICs.",
+            "block_bbox": [
+                111,
+                523,
+                602,
+                858
+            ],
+            "block_id": 4,
+            "block_order": 2,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Statistical analysis. The Salmonella detection data for the four sausages types were analyzed using the Statistical Package for Social Sciences (SPSS 12.0, SPSS, Chicago, IL). The Pearson chi-square test was used to evaluate differences in the proportion of Salmonella culture-positive sausages among the four meat types.",
+            "block_bbox": [
+                112,
+                874,
+                602,
+                989
+            ],
+            "block_id": 5,
+            "block_order": 3,
+            "group_id": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## RESULTS",
+            "block_bbox": [
+                309,
+                1006,
+                407,
+                1029
+            ],
+            "block_id": 6,
+            "block_order": 4,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Microbiological quality of sausages. The sanitation, freshness, extent of contamination, and level of temperature abuse of food can be assessed by determining the aerobic mesophilic bacterial count of samples. In this study, 85% of the pork, 89% of the beef, 81% of the chicken, and 86% of the mutton sausages had counts above  $ 10^{6} $  CFU/g (Fig. 1). Of these contaminated sausages, 62% of pork, 70% of beef, 25% of mutton, and 46% of chicken sausages had mesophilic aerobic counts  $ >10^{7} $  CFU/g. Few of the samples (11 to 22%) had counts  $ <10^{5} $  CFU/g.",
+            "block_bbox": [
+                111,
+                1041,
+                601,
+                1286
+            ],
+            "block_id": 7,
+            "block_order": 5,
+            "group_id": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "Prevalence of salmonellae in sausages. Sixty-five of the 300 samples were positive for Salmonella by both the conventional culture method and the PCR assay. Salmonella was more often observed in chicken samples (27.8% of samples tested) than in the other types. Mutton had the lowest prevalence of Salmonella contamination (15.5%), closely followed by pork, at 17.9% (Table 1). However, the prevalences in all four sausage types were not significantly different based on the Pearson chi-square test (P < 0.05).",
+            "block_bbox": [
+                111,
+                1303,
+                602,
+                1522
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "chart",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_chart_box_630_104_1114_428.jpg\" alt=\"Image\" width=\"39%\" /></div>\n",
+            "block_bbox": [
+                630,
+                104,
+                1114,
+                428
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "<div style=\"text-align: center;\">FIGURE 1. Distribution of mean aerobic mesophilic bacterial counts for different sausage types.</div>\n",
+            "block_bbox": [
+                626,
+                438,
+                1115,
+                485
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Serotyping of all the 65 Salmonella isolates indicated that Salmonella enterica subsp. salamae serotype (II) was the most frequently isolated serotype (35.4% of all isolates). This serotype was isolated in all the four sausage types. S. enterica subsp. salamae II was predominantly found in beef; in all other meat types its prevalence was less than 8%. Salmonella enterica subsp. enterica serotype Muenchen was the second most prevalent serotype (30.8%) and was found in all sausage types except beef. This serotype occurred at a higher level in chicken sausages (20%) than in mutton and beef sausages. Salmonella Thompson and Salmonella Anatum were more prevalent than the other eight serotypes of S. enterica subsp. enterica, which were sporadically isolated (Table 2). Overall, the less frequently isolated serotypes represented 13.8% of all Salmonella isolates recovered.",
+            "block_bbox": [
+                624,
+                508,
+                1117,
+                896
+            ],
+            "block_id": 11,
+            "block_order": 7,
+            "group_id": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "Antibiotic resistance of Salmonella isolates. When the 65 Salmonella isolates were subjected to antibiotic susceptibility testing, all were resistant to four common aminoglycoside antibiotics: amikacin, cefuroxime, gentamicin, and tombramycin (resistance profile: AN, CXM, GM, TM). This particular resistance profile formed the core template from which other resistance patterns were derived. Variability was attained by permutation involving the addition of not more than three antibiotics, for a total of 12 antibiotic resistance patterns. Resistance was limited to amoxicillin, nitrofurantoin, trimethoprim, ampicillin, and cefoxitin from the 16 remaining antibiotics that were used for testing.",
+            "block_bbox": [
+                625,
+                914,
+                1117,
+                1229
+            ],
+            "block_id": 12,
+            "block_order": 8,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "The AN, CXM, GM, TM resistance antibiogram was the most predominant in all four types of sausages, comprising 90% of all Salmonella isolates from beef, 71% from pork, 63% from mutton, and 35% of chicken sausages. Although beef and chicken sausages both had the highest numbers of Salmonella isolates (20 each), the isolates from chicken had the most diverse antibiotic resistant patterns, with all eight patterns, compared with beef, which only had three resistance patterns (Table 3). Salmonella Muenchen had the greatest diversity of antibiotic resistance, with all but one resistance pattern represented. Although S. enterica subsp. salamae II was the",
+            "block_bbox": [
+                624,
+                1229,
+                1118,
+                1523
+            ],
+            "block_id": 13,
+            "block_order": 9,
+            "group_id": 13
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.939216673374176,
+                "coordinate": [
+                    114.79259490966797,
+                    44.843162536621094,
+                    310.93853759765625,
+                    64.13597106933594
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9372425079345703,
+                "coordinate": [
+                    728.3271484375,
+                    44.217552185058594,
+                    1013.42138671875,
+                    63.746177673339844
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8926867842674255,
+                "coordinate": [
+                    1079.177734375,
+                    43.11872863769531,
+                    1113.71923828125,
+                    62.31150817871094
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4595955014228821,
+                "coordinate": [
+                    171.95823669433594,
+                    348.0556945800781,
+                    212.0475311279297,
+                    368.8158264160156
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883784651756287,
+                "coordinate": [
+                    111.964599609375,
+                    105.17143249511719,
+                    602.5125122070312,
+                    506.36517333984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5514419674873352,
+                "coordinate": [
+                    486.53509521484375,
+                    216.99484252929688,
+                    538.7158813476562,
+                    237.99752807617188
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.406392365694046,
+                "coordinate": [
+                    578.7730712890625,
+                    327.060302734375,
+                    597.3275146484375,
+                    346.8353271484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886013865470886,
+                "coordinate": [
+                    111.9976806640625,
+                    523.3377075195312,
+                    602.6734619140625,
+                    858.4776000976562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9826881289482117,
+                "coordinate": [
+                    112.35928344726562,
+                    874.4599609375,
+                    602.947998046875,
+                    989.3006591796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.914979875087738,
+                "coordinate": [
+                    309.15606689453125,
+                    1006.4803466796875,
+                    407.47894287109375,
+                    1029.9322509765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874041080474854,
+                "coordinate": [
+                    111.76568603515625,
+                    1041.138916015625,
+                    601.9645385742188,
+                    1286.047607421875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.47007906436920166,
+                "coordinate": [
+                    435.69091796875,
+                    1160.6385498046875,
+                    466.4049072265625,
+                    1184.4110107421875
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.538590669631958,
+                "coordinate": [
+                    330.57586669921875,
+                    1232.649658203125,
+                    375.53228759765625,
+                    1255.384033203125
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5713040828704834,
+                "coordinate": [
+                    317.3284606933594,
+                    1257.53173828125,
+                    364.2499694824219,
+                    1280.474609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871625304222107,
+                "coordinate": [
+                    111.71163940429688,
+                    1303.213623046875,
+                    602.8797607421875,
+                    1522.103271484375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6353829503059387,
+                "coordinate": [
+                    493.45477294921875,
+                    1495.875,
+                    583.0907592773438,
+                    1518.0478515625
+                ]
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9822551012039185,
+                "coordinate": [
+                    630.2811279296875,
+                    104.22531127929688,
+                    1114.1285400390625,
+                    428.8499450683594
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9699733853340149,
+                "coordinate": [
+                    626.74365234375,
+                    438.4495849609375,
+                    1115.855712890625,
+                    485.0345458984375
+                ]
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.40283045172691345,
+                "coordinate": [
+                    629.624267578125,
+                    605.3484497070312,
+                    648.718994140625,
+                    626.7322387695312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883318543434143,
+                "coordinate": [
+                    624.8616943359375,
+                    508.0997314453125,
+                    1117.736083984375,
+                    896.85791015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884539246559143,
+                "coordinate": [
+                    625.0726318359375,
+                    914.993408203125,
+                    1117.4576416015625,
+                    1229.34521484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9880450367927551,
+                "coordinate": [
+                    624.651611328125,
+                    1229.52734375,
+                    1118.37060546875,
+                    1523.037841796875
+                ]
+            }
+        ]
+    }
+}

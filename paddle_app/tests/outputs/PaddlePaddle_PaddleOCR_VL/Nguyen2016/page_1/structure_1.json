@@ -1,0 +1,498 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Nguyen2016.pdf",
+    "page_index": 0,
+    "page_count": 9,
+    "width": 1191,
+    "height": 1582,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Nguyen et al. Gut Pathog (2016) 8:39\nDOI 10.1186/s13099-016-0121-5",
+            "block_bbox": [
+                107,
+                62,
+                355,
+                104
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "Gut Pathogens",
+            "block_bbox": [
+                870,
+                64,
+                1082,
+                103
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "RESEARCH",
+            "block_bbox": [
+                119,
+                180,
+                261,
+                208
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Open Access",
+            "block_bbox": [
+                923,
+                178,
+                1075,
+                208
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "# Antimicrobial resistance of Campylobacter isolates from small scale and backyard chicken in Kenya",
+            "block_bbox": [
+                107,
+                237,
+                951,
+                391
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_971_217_1081_260.jpg\" alt=\"Image\" width=\"9%\" /></div>\n",
+            "block_bbox": [
+                971,
+                217,
+                1081,
+                260
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Tuan Ngoc Minh Nguyen $ ^{1,2,3,*} $ , Helmut Hotzel $ ^{2} $ , John Njeru $ ^{2,4} $ , Joyce Mwituria $ ^{4} $ , Hosny El-Adawy $ ^{2,5} $ , Herbert Tomaso $ ^{2} $ , Heinrich Neubauer $ ^{2} $  and Hafez M. Hafez $ ^{3} $ ",
+            "block_bbox": [
+                105,
+                405,
+                956,
+                464
+            ],
+            "block_id": 6,
+            "block_order": 4,
+            "group_id": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Abstract",
+            "block_bbox": [
+                120,
+                522,
+                209,
+                548
+            ],
+            "block_id": 7,
+            "block_order": 5,
+            "group_id": 7
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Background: Thermophilic Campylobacter species are a major cause of bacterial foodborne diarrhoea in humans worldwide. Poultry and their products are the predominant source for human campylobacteriosis. Resistance of Campylobacter to antibiotics is increasing worldwide, but little is known about the antibiotic resistance in Campylobacter isolated from chicken in Kenya. In this study, 35 suspected Campylobacter strains isolated from faeces and cloacal swabs of chicken were tested for their susceptibility to seven antibiotics using a broth microdilution assay and molecular biological investigations.",
+            "block_bbox": [
+                118,
+                551,
+                1063,
+                700
+            ],
+            "block_id": 8,
+            "block_order": 6,
+            "group_id": 8
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Results: Overall, DNA of thermophilic Campylobacter was identified in 53 samples by PCR (34 C. jejuni, 18 C. coli and one mix of both species) but only 35 Campylobacter isolates (31 C. jejuni and 4 C. coli) could be re-cultivated after transportation to Germany. Isolates were tested for their susceptibility to antibiotics using a broth microdilution assay. Additionally, molecular biological detection of antibiotic resistance genes was carried out. C. jejuni isolates showed a high rate of resistance to nalidixic acid, tetracycline and ciprofloxacin of 77.4, 71.0 and 71.0%, respectively. Low resistance (25.8%) was detected for gentamicin and chloramphenicol. Multidrug resistance in C. jejuni could be detected in 19 (61.3%) isolates. Resistance pattern of C. coli isolates was comparable. Resistance to ciprofloxacin was confirmed by MAMA–PCR and PCR–RFLP in all phenotypically resistant isolates. The tet(O) gene was detected only in 54.5% of tetracycline resistant C. jejuni isolates. The tet(A) gene, which is also responsible for tetracycline resistance, was found in 90.3% of C. jejuni and in all C. coli isolates. Thirteen phenotypically erythromycin-resistant isolates could not be characterised by using PCR–RFLP and MAMA–PCR.",
+            "block_bbox": [
+                117,
+                701,
+                1067,
+                970
+            ],
+            "block_id": 9,
+            "block_order": 7,
+            "group_id": 9
+        },
+        {
+            "block_label": "abstract",
+            "block_content": "Conclusions: To the best of our knowledge, this study is the first report about resistance to antibiotics in thermophilic Campylobacter originating from chicken in Kenya. Campylobacter spp. show a high level of resistance to ciprofloxacin, nalidixic acid and tetracycline but also a remarkable one to chloramphenicol and gentamicin and they are multidrug resistant. Resistance to antibiotics is a global public health concern. In Kenya, resistance surveillance needs further attention in the future. Efforts to establish at least a National Laboratory with facilities for performing phenotypic and genotypic characterization of thermophilic Campylobacter is highly recommended.",
+            "block_bbox": [
+                117,
+                972,
+                1059,
+                1120
+            ],
+            "block_id": 10,
+            "block_order": 8,
+            "group_id": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "Keywords: Campylobacter, Antibiotic resistance, Microdilution, Chicken, Kenya",
+            "block_bbox": [
+                119,
+                1123,
+                760,
+                1150
+            ],
+            "block_id": 11,
+            "block_order": 9,
+            "group_id": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## Background",
+            "block_bbox": [
+                108,
+                1195,
+                228,
+                1219
+            ],
+            "block_id": 12,
+            "block_order": 10,
+            "group_id": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "Thermophilic Campylobacter (C.) species have become the most frequent cause of bacterial gastroenteritis in humans worldwide  $ [1] $ . Campylobacteriosis exceeds the total number of those caused by Salmonella, Shigella, and Escherichia coli O157:H7 in humans, recently  $ [2] $ . Campylobacter infections are normally self-limiting in adults but can cause diarrhoea or even mortality in children in developing as well as in developed countries  $ [3, 4] $ .",
+            "block_bbox": [
+                107,
+                1220,
+                584,
+                1271
+            ],
+            "block_id": 13,
+            "block_order": 11,
+            "group_id": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                602,
+                1195,
+                1082,
+                1364
+            ],
+            "block_id": 14,
+            "block_order": 12,
+            "group_id": 13
+        },
+        {
+            "block_label": "footnote",
+            "block_content": " $ ^{*} $ Correspondence: tuan.nguyen@fli.de; minhtuannn@hvu.edu.vn\n $ ^{2} $  Friedrich-Loeffler-Institut, Institute of Bacterial Infections and Zoonoses, Jena, Germany",
+            "block_bbox": [
+                108,
+                1304,
+                549,
+                1358
+            ],
+            "block_id": 15,
+            "block_order": null,
+            "group_id": 15
+        },
+        {
+            "block_label": "footnote",
+            "block_content": "Full list of author information is available at the end of the article",
+            "block_bbox": [
+                107,
+                1357,
+                501,
+                1378
+            ],
+            "block_id": 16,
+            "block_order": null,
+            "group_id": 16
+        },
+        {
+            "block_label": "footer_image",
+            "block_content": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_footer_image_box_109_1406_337_1453.jpg\" alt=\"Image\" width=\"19%\" /></div>\n",
+            "block_bbox": [
+                109,
+                1406,
+                337,
+                1453
+            ],
+            "block_id": 17,
+            "block_order": null,
+            "group_id": 17
+        },
+        {
+            "block_label": "footer",
+            "block_content": "© 2016 The Author(s). This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
+            "block_bbox": [
+                354,
+                1402,
+                1064,
+                1488
+            ],
+            "block_id": 18,
+            "block_order": null,
+            "group_id": 18
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9513267278671265,
+                "coordinate": [
+                    107.24546813964844,
+                    62.075130462646484,
+                    355.441162109375,
+                    104.6900634765625
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.92946857213974,
+                "coordinate": [
+                    870.703369140625,
+                    64.87789154052734,
+                    1082.280517578125,
+                    103.62834930419922
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8190045356750488,
+                "coordinate": [
+                    119.33708190917969,
+                    180.20404052734375,
+                    261.9615478515625,
+                    208.76492309570312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7699116468429565,
+                "coordinate": [
+                    923.03662109375,
+                    178.98379516601562,
+                    1075.939453125,
+                    208.16482543945312
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9742603898048401,
+                "coordinate": [
+                    107.14260864257812,
+                    237.09738159179688,
+                    951.517333984375,
+                    391.8039855957031
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.5996252298355103,
+                "coordinate": [
+                    971.444091796875,
+                    217.31253051757812,
+                    1081.22607421875,
+                    260.5214538574219
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9702599048614502,
+                "coordinate": [
+                    105.7828369140625,
+                    405.50140380859375,
+                    956.8480224609375,
+                    464.21563720703125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9126442670822144,
+                "coordinate": [
+                    120.76958465576172,
+                    522.2682495117188,
+                    209.2001953125,
+                    548.1627807617188
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9746778607368469,
+                "coordinate": [
+                    118.18405151367188,
+                    551.7894897460938,
+                    1063.357177734375,
+                    700.6448364257812
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9803418517112732,
+                "coordinate": [
+                    117.52536010742188,
+                    701.380859375,
+                    1067.0474853515625,
+                    970.4097900390625
+                ]
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9819921255111694,
+                "coordinate": [
+                    117.83395385742188,
+                    972.5625,
+                    1059.741455078125,
+                    1120.4423828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9434586763381958,
+                "coordinate": [
+                    119.64263916015625,
+                    1123.5313720703125,
+                    760.115966796875,
+                    1150.2154541015625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9338018298149109,
+                "coordinate": [
+                    108.7042465209961,
+                    1195.723876953125,
+                    228.26016235351562,
+                    1219.796630859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.967137336730957,
+                "coordinate": [
+                    107.05421447753906,
+                    1220.293212890625,
+                    584.6275024414062,
+                    1271.516357421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852530360221863,
+                "coordinate": [
+                    602.50244140625,
+                    1195.1611328125,
+                    1082.752685546875,
+                    1364.455078125
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.5918522477149963,
+                "coordinate": [
+                    108.6689453125,
+                    1303.304931640625,
+                    507.01104736328125,
+                    1324.334716796875
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.7290181517601013,
+                "coordinate": [
+                    108.1314697265625,
+                    1304.02783203125,
+                    549.3584594726562,
+                    1358.1064453125
+                ]
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.7591181397438049,
+                "coordinate": [
+                    107.90797424316406,
+                    1357.541015625,
+                    501.0869140625,
+                    1378.4638671875
+                ]
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.9566295742988586,
+                "coordinate": [
+                    109.66829681396484,
+                    1406.1268310546875,
+                    337.4012756347656,
+                    1453.8726806640625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9664849638938904,
+                "coordinate": [
+                    354.18902587890625,
+                    1402.619384765625,
+                    1064.70556640625,
+                    1488.307373046875
+                ]
+            }
+        ]
+    }
+}

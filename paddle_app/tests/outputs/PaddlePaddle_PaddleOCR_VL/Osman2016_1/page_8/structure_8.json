@@ -1,0 +1,343 @@
+{
+    "input_path": "/cluster/home/chaurvik/LLMResistanceBank/data/pdf/Osman2016_1.pdf",
+    "page_index": 7,
+    "page_count": 12,
+    "width": 1191,
+    "height": 1560,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": true,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ]
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Osman et al.",
+            "block_bbox": [
+                85,
+                56,
+                168,
+                74
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0
+        },
+        {
+            "block_label": "header",
+            "block_content": "ARGs with Staphylococci Chicken Meat",
+            "block_bbox": [
+                857,
+                55,
+                1104,
+                75
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "were potentially methicillin resistant. However, these results were evidently different from those obtained by PCR, in which the gene mecA was detected in only 16/47 of the CNSA isolates (Table 5).",
+            "block_bbox": [
+                82,
+                122,
+                584,
+                213
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "## DISCUSSION",
+            "block_bbox": [
+                84,
+                235,
+                243,
+                261
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "In previous investigations, the frequency of  $ S.\\ aureus $  in the chicken meat was found to be 33.3% in The Netherlands, 4% in Egypt, 22.7% in Switzerland and 65% in Japan (Schraft et al., 1992; Bakr et al., 2004; Kitai et al., 2005). The authors traced back the source of contamination to particular slaughterhouses in Switzerland while in Egypt poor hygienic and sanitary conditions in addition to the contaminated butchers and meat handlers during the process of slaughtering and evisceration of the bird (Kluytmans et al., 1995; Kitai et al., 2005) could be the main cause for the 50% prevalence recorded in the present investigation.",
+            "block_bbox": [
+                82,
+                282,
+                584,
+                511
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "The coexistence of two subpopulations (one susceptible and the other resistant) within a culture of staphylococci could hinder an explicit detection of oxacillin/methicillin resistance (Bannerman, 2003). All cells in a culture may carry the genetic information for resistance, but only a small number may express the resistance in vitro. This phenomenon is termed heteroresistance and occurs in staphylococci resistant to penicillinase-stable penicillins, such as oxacillin. Cells expressing heteroresistance grow more slowly than the oxacillin-susceptible population and may be missed at temperatures above  $ 35^{\\circ} $ C. This is why CLSI recommends incubating isolates being tested against oxacillin for a full 24 h before reading (CLSI, 2013). Oxacillin maintains its activity during storage better than methicillin and is more likely to detect heteroresistant strains. Previously, Petrelli et al. (2008) found a significant correlation between oxacillin resistance and resistance to erythromycin, clindamycin, gentamycin and ciprofloxacin, which is in queue with our findings; but on evaluating our results, penicillin and tetracycline resistance were also found to be significantly correlated with oxacillin resistance. It should be noted that, widespread veterinary usage of the fluoroquinolones, particularly in Europe, has been implicated (CVM, 2009; CVM/FDA, 2015) and that being a second-generation fluoroquinolone, is on the World Health Organization's List of Essential Medicines and the most important medications needed in a basic health system (WHO, 2015). Fearfully, this could lead to a rapid and sudden evolution of resistance to ciprofloxacin and other fluoroquinolones, even during a course of treatment. This documentation is consistent with antecedent investigations and substantiates the allegations of MRSA causing healthcare-associated infections as being MDR to the traditionally prescribed drugs (erythromycin, clindamycin, fluoroquinolones, and tetracycline), while strains inducing community-associated infections are generally solely resistant to  $ \\beta $ -lactam agents, erythromycin while feasibly fluoroquinolone resistant (Oliveira and de Lencastre, 2002).",
+            "block_bbox": [
+                82,
+                512,
+                585,
+                1314
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "Since 1996, MRSA strains with decreased susceptibility to vancomycin and strains fully resistant to vancomycin have been reported (CDC, 2013) a fact which should be taken into consideration in the Egyptian community as we detected a 20% resistance to vancomycin. Methicillin resistant Staphylococcus aureus (MRSA) and vancomycin resistant Staphylococcus aureus (VRSA) are some of the prominent pathogens that cause a wide variety of infections in humans and animals (Venkatesh et al., 2006; van Loo et al., 2007; Plata et al., 2009; Cuny et al., 2010; Gould, 2010; Grundmann et al., 2010). It should be emphasized that the present investigation highlights the importance of a sustainable surveillance program for any signs of vancomycin resistance emergence in Egypt concerning the medical and veterinary health condition in conjunction to typing and origin of the isolates. An increase in the cases of incompetent antibiotic treatment and mortality rates in avian disease (Han et al., 2013) is a common outcome of methicillin resistance, generating critical community health concern. Considering the limited options disease medication caused by MDR staphylococcal species, it is worrisome that CNS resistant to broad-spectrum antibiotics have been introduced in the community through the food chain. Regarding the CNS identified in this study, S. cohnii and S. lentus have been signified to yield enterotoxins (Podkowik et al., 2013).",
+            "block_bbox": [
+                83,
+                1314,
+                585,
+                1431
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                602,
+                122,
+                1107,
+                534
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "Batista et al. (2013) have shown that oxacillin is more sensitive for predicting methicillin resistance, since 100% of isolates containing the mecA gene were phenotypically resistant to oxacillin, whereas only 13.3% were resistant to cefoxitin. Thus, the test using cefoxitin may not accurately reflect the phenotypic resistance of CNS, which has also been observed by other authors (Frigatto et al., 2005; Hung et al., 2011). To avoid misinterpretation, the detection of the mecA gene (the commonest gene that imparts oxacillin resistance in staphylococci) by nucleic acid amplification tests, such as the PCR, is currently considered the criterion standard for identification of MRSA strains (Zhang et al., 2004, 2008; Bagcigil et al., 2007; Zaraket et al., 2007), but this has not yet been established for CNS. The risk of transmission of resistance genes by horizontal interspecies transfer was clear and has been described by others (Bloemendaal et al., 2010; von Wintersdorff et al., 2016).",
+            "block_bbox": [
+                602,
+                535,
+                1107,
+                924
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "Foodborne pathogens, such as MRSA have become a global problem after being in North America, Europe and Asia. MRSA in chicken meat showed its highest prevalence from Germany (37.2%) (Feßler et al., 2011) followed by Netherlands (16.0%) (de Boer et al., 2009). On the other hand, low levels of MRSA in chicken meat were recorded in Japan (Kitai et al., 2005), Jordan (Quddoumi et al., 2006) to reach 0.3% in Korea (Lim et al., 2010) and 0% in Austraí (Zarfel et al., 2014). There are also reports of now the fourth phase has also been started which shows evidences that both animal and human MRSA has been detected on meat. Studies in Japan and Korea reported human MRSA from chicken meat (Lee, 2003; Kitai et al., 2005). Taiwanese study reported MRSA in chicken carcasses (Lin et al., 2009). MRSA have also been detected from the foods, such as meat products and raw chicken meat (Vanderhaeghen et al., 2010). Regardless of the ongoing endorsed methodologies for the MRSA susceptibility testing, Lee et al. (2004) demonstrated a variance in the phenotypic expression of resistance being affected by the cellular growth conditions and that several MRSA isolates which were phenotypically resistant to oxacillin, did not encode the mecA gene. MRSA can be found worldwide and Doyle et al. (2011) summarized the global survival results in raw meats,",
+            "block_bbox": [
+                602,
+                924,
+                1107,
+                1432
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Frontiers in Microbiology | www.frontiersin.org",
+            "block_bbox": [
+                85,
+                1481,
+                364,
+                1500
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10
+        },
+        {
+            "block_label": "number",
+            "block_content": "8",
+            "block_bbox": [
+                587,
+                1482,
+                602,
+                1499
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11
+        },
+        {
+            "block_label": "footer",
+            "block_content": "November 2016 | Volume 7 | Article 1846",
+            "block_bbox": [
+                850,
+                1480,
+                1104,
+                1500
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9200507998466492,
+                "coordinate": [
+                    85.53431701660156,
+                    56.053932189941406,
+                    168.8553924560547,
+                    74.36019134521484
+                ]
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9411054253578186,
+                "coordinate": [
+                    857.73828125,
+                    55.27940368652344,
+                    1104.4287109375,
+                    75.04830932617188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978861391544342,
+                "coordinate": [
+                    82.98905944824219,
+                    122.59780883789062,
+                    584.5309448242188,
+                    213.69247436523438
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9409229755401611,
+                "coordinate": [
+                    84.74400329589844,
+                    235.58401489257812,
+                    243.2333526611328,
+                    261.8145446777344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879385828971863,
+                "coordinate": [
+                    82.894775390625,
+                    282.41015625,
+                    584.742919921875,
+                    511.984130859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885199666023254,
+                "coordinate": [
+                    82.67039489746094,
+                    512.0457763671875,
+                    585.348388671875,
+                    1314.5809326171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9830385446548462,
+                "coordinate": [
+                    83.19769287109375,
+                    1314.767333984375,
+                    585.4014892578125,
+                    1431.51171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885163307189941,
+                "coordinate": [
+                    602.52197265625,
+                    122.81214904785156,
+                    1107.1082763671875,
+                    534.74755859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887857437133789,
+                "coordinate": [
+                    602.683349609375,
+                    535.3545532226562,
+                    1107.822509765625,
+                    924.1387329101562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887278079986572,
+                "coordinate": [
+                    602.135009765625,
+                    924.7908935546875,
+                    1107.9840087890625,
+                    1432.2462158203125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9313985109329224,
+                "coordinate": [
+                    85.34214782714844,
+                    1481.397705078125,
+                    364.72808837890625,
+                    1500.985107421875
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.846228837966919,
+                "coordinate": [
+                    587.6109008789062,
+                    1482.277587890625,
+                    602.3274536132812,
+                    1499.120361328125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.93120276927948,
+                "coordinate": [
+                    850.6475830078125,
+                    1480.849853515625,
+                    1104.0574951171875,
+                    1500.659912109375
+                ]
+            }
+        ]
+    }
+}

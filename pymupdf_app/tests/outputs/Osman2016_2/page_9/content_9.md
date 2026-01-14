@@ -1,0 +1,143 @@
+Osman et al. Meat MSSA, MRSA, MS-NSA, MR-NSA
+
+
+
+TABLE 6 | Prevalence of mecA gene in beef samples (n = 27).
+
+
+Staphylococcus spp. n = of MRS Presence of n = of MSS
+(n = isolates) mecA gene
+
+
+n = %
+
+
+S. aureus (n = 9) 6 5 55.6 3
+
+
+S. hyicus (n = 10) 6 3 50 4
+
+
+S. intermedius (n = 3) 1 1 100 2
+
+
+S. schleiferi subsp. 4 2 50 0
+coagulans (n = 4)
+
+
+S. lentus (n = 1) 1 0 0 0
+
+
+Total 18 11 68.8 11
+
+
+MRS, methicillin resistant Staphylococcus.
+MSS, methicillin susceptible Staphylococcus.
+
+
+Chaj˛ecka-Wierzchowska et al. (2015) who displayed that, all
+methicillin resistant staphylococci harbored mecA gene but in
+consonance with the investigation outcomes of Martineau et al.
+(2000), Lee et al. (2004), and Guran and Kahya (2015), who
+indicated the occurrence of staphylococci strains resistant to
+methicillin or/and oxacillin in the absence of the mecA gene. The
+reason behind this variable expression could be related to the
+hyperproduction of β-lactamase type A (Martineau et al., 2000)
+and/or cellular growth conditions according to Lee et al. (2004).
+Globally, there are considerable discrepancies between different
+countries in the MRSA prevalence rate on beef meat (Normanno
+et al., 2007; van Loo et al., 2007a,b; Chan et al., 2008; Pu et al.,
+2009; Lim et al., 2010; Weese, 2010; Weese et al., 2010; Bhargava
+et al., 2011; Chua et al., 2011; Hanson et al., 2011; Dalhoff, 2012;
+O’Brien et al., 2012; Buyukcangaz et al., 2013; Jackson et al., 2013;
+Nnachi et al., 2014; WHO, 2014).
+The animals are the first reservoirs for CNS bearing the
+cfr resistance gene which endows resistance to phenicols,
+lincosamides, oxazolidinones, pleuromutilins, and streptogramin
+A antibiotics (PhLOPSA of phenotype) and some macrolides
+(Kehrenberg et al., 2005). An interesting and fortunate
+observation was that, we detected the gene cfr in 22.2% (2/9) of
+the S. aureus isolates, a rate which was lower than the detection
+rates of food animal samples in previous studies (Wang et al.,
+2012; Zeng et al., 2014) while the non-S. aureus isolates did not
+carry this gene. The cfr multiresistance gene is usually found in
+isolates of human origin (Chen et al., 2013; Cui et al., 2013) and
+persistence in retail meat (LaMarre et al., 2011). The insignificant
+detection rate found in this study (2/27, 7.4%), indicated the
+neglible opportunity of the cfr to be spread through contaminated
+meat with Staphylococci in the local market by consumers in
+Egypt, the diminished possibility of this gene to enter the food
+cycle, and the chance of additional distribution of cfr from an
+animal reservoir to S. aureus, MRSA or any other staphylococcal
+species associated with colonization and infection in humans
+(Witte and Cuny, 2011) is abolished. Timely detection and
+targeted prevention of further dissemination of MRSA present
+on retail beef meat and the cfr gene becomes justified in order to
+preserve efficacy of linezolid due to its importance and preference
+
+
+
+in the treatment of staphylococcal infections (Witte and Cuny,
+2011).
+Fluoroquinolones (FQs) are antibiotics effective against a wide
+range of organisms (Oliphant and Green, 2002) and having
+a role in the chemotherapy and postexposure prophylaxis for
+organisms, that could be used in biologic warfare. The extensive
+use of FQs has led to the springing up of FQ-resistant S. aureus,
+especially among MRSA strains (Oliphant and Green, 2002) in
+the QRDRs of the gyrA, gyrB, grlA, and grlB genes (Hooper, 2002;
+Oliphant and Green, 2002; Redgrave et al., 2014; Parkinson et al.,
+2015). Gade and Qazi (2013) signified that, ciprofloxacin can no
+longer be used as an empirical therapy against MRSA infections
+to be replaced by vancomycin as the alternative drug to which we
+are in dispute as we recorded a 77.8% resistance in the MRSA. It
+should be noted that, the access to any available literature on any
+information concerning the gyrA, gyrB, grlA, and grlB genes in
+meat was not available.
+The contamination of carcasses with MRSA can occur via
+several means: (i) improper agricultural practices, (ii) use of
+impotable water for agricultural irrigation, (iii) the use of
+improperly disinfected appliancies used in the food industry,
+(iv) unsuitable temperatures during storage and transportation,
+(v) poor food handling procedures, vi) lack of rodent and/or
+insect control (FDA, 2012; WHO, 2012), (vii) through the
+butchers tools which are suitable vehicles for transmission
+(de Boer et al., 2009), (viii) on the meat display table, to
+buyers and vice versa (Emele et al., 1995). The environmental
+contamination of the slaughter-house, processing appliances
+or operative hands in these facilities with MRSA could result
+in a cross-contagion process to the meat (Wertheim et al.,
+2004; Alexandra et al., 2011), and consequently conceal the
+importance of the association between on-farm antibiotic
+use and contamination of the meat with MRSA. The most
+important outcome of our investigation was the alarming finding
+that, most of the MRSA and NSA-MR isolated from retail
+meat in the Egyptian market were >50% resistant to clinically
+important antimicrobials (sulfamethoxazole/trimethoprim,
+clindamycin, gentamycin, peniciilin, oxacillin, vancomycin,
+tetracycline, methicillin, ciprofloxacin, and erythromycin
+in descending order) imposing a severe threat to public
+health of the Egyptians. In addition, the prevalence rate of
+the MRSA and NSA-MR isolated from retail meat collected
+from sale outlets reflected an indication to the level of
+exposure of the consumers to these pathogens (Wagenaar
+et al., 2007).
+
+
+CONCLUSIONS
+
+
+To the best of our knowledge, the extent of a similar research
+topic has not been tackled in Egypt. In addition, the strength of
+our study lies in the fact that, previous researches on S. aureus
+isolated from foodstuffs were merely screened for the mecA gene,
+while in our investigation a selective enrichment of MRSA was
+adopted to be followed by a PCR technique for the identification
+for the presence of mecA gene. Also, we included in our
+investigation samples collected from three different geographic
+
+
+
+[Frontiers in Microbiology | www.frontiersin.org](http://www.frontiersin.org/Microbiology) 9 [February 2016 | Volume 7 | Article 222](http://www.frontiersin.org/Microbiology/archive)
+
+

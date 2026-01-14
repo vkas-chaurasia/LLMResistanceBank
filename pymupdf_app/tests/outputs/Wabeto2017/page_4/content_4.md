@@ -1,0 +1,133 @@
+Wabeto et al. Journal of Health, Population and Nutrition (2017) 36:52 Page 4 of 7
+
+
+
+gentamicin-susceptible isolates were detected in 33 and 31
+samples, which were 58.91 and 55.4% respectively (Table 1)
+(Fig. 1) (Additional file 1).
+
+
+Discussion
+In this study, the contamination frequency of Salmonella
+species in raw beef was high (12.5%). The finding of this
+study was moderately higher than that of studies conducted in Modjo (8.3%) and Bishoftu (7.5%) [25, 26]. This
+difference could be due to the differences in the hygienic
+and sanitary practices in the abattoirs, the environment
+upon which the meat was slaughtered, and the water used
+in the processing of the meat. Wolaita Sodo municipal
+abattoir provides service for people residing in the town.
+Therefore, less emphasis was given to overcome the spread
+of potential pathogenic microorganisms when we compared with the referenced area. The abattoirs found in
+Modjo and Bishoftu town were export abattoirs. However,
+this study was in line with the studies conducted in Tigray
+region of Ethiopia; the Salmonella spp. prevalence was
+16.4% [27] and at Dire Dawa abattoir 17.7% [20].
+Studies conducted in different parts of Ethiopia showed
+that the prevalence of raw beef with Salmonella spp. varies
+from 5.3 to 17.7%, for instance, studies conducted in Addis
+Ababa, Bahir Dar, and Harar [28–31]. Though this study
+finding falls in the abovementioned range, there was a
+visible variation of Salmonella spp. prevalence. This might
+be because of the diversity in sampling methods, sampling
+seasons, and sampling as well as culturing techniques [32].
+In addition, sanitation within the slaughterhouse and the
+cross-contamination of carcasses by contact with intestinal
+
+
+Table 1 Antimicrobial resistance of Salmonella spp. isolated
+from raw beef samples at Wolaita Sodo municipal abattoir, 2016
+
+
+Antimicrobial Salmonella spp. isolates
+drugs
+
+S (%) I (%) R (%)
+
+
+GEN 31 (55.4%) 18 (32.1%) 7 (12.5%)
+
+
+TE 6 (10.7%) 3 (5.4%) 47 (83.9%)
+
+
+AMP 21 (37.5%) 9 (2.6%) 26 (46.4%)
+
+
+AMC 18 (32.1%) 14 (25%) 24 (42.9%)
+
+
+CIP 49 (87.5%) 3 (5.4%) 4 (7.1%)
+
+
+CHL 8 (14.3%) 19 (33.9%) 29 (51.8%)
+
+
+F 3 (5.4%) 12 (21.4%) 41 (73.2%)
+
+
+S 10 (17.9%) 9 (2.6%) 37 (66.1%)
+
+
+K 10 (17.9%)) 17 (30.4%) 29 (51.8%))
+
+
+CRO 33 (58.91%) 10 (17.9%) 13 (23.2%)
+
+
+NA 18 (32.1%) 16 (28.6%) 22 (39.3%)
+
+
+DA 17 (30.4%) 18 (32.1%) 21 (37.5%)
+
+
+Total 224 (33.3%) 148 (22.0%) 300 (44.6%)
+
+
+GEN gentamicin, TE tetracycline, AMP ampicillin, AMC amoxicillin-clavulanic
+acid, CIP ciprofloxacin, CHL chloramphenicol, F nitrofurantoin, S streptomycin,
+K kanamycin, CRO ceftriaxone, NA nalidixic acid, DA clindamycin
+
+
+
+tracts during slaughter or processing were also important
+factors [33, 34].
+With regard to the emerging of multidrug-resistant
+Salmonella, the following studies had been witnessing antimicrobial resistance of Salmonella to commonly used antimicrobials in both public health and veterinary sectors were
+increasing from time to time [35–42]. According to the
+present study, all 56 (100%) isolates were multidrug-resistant.
+This was similar with other studies conducted in Ethiopia,
+for instance, studies conducted in Jimma [35, 43] and Gondar [39, 41] and a study conducted among Ethiopian children. These studies had shown that Salmonella exhibited
+100% resistance to multidrug. Furthermore, studies carried out around the globe [44–48] supported that Salmonella isolated from food of animal sources exhibited
+resistance to multidrug. The following studies reported
+the magnitude of multidrug-resistance of Salmonella isolates respectively as follows: 16%, 50% (from raw meats),
+52%, 74.1 and 63.7% (from different types of samples), and
+71.7 and 87.82%. This difference could be antimicrobialresistant Salmonella were increasing due to the use of
+antimicrobial agents in food animals at the sub-therapeutic level or prophylactic doses, which might promote
+on-farm selection of antimicrobial-resistant strains and
+markedly increase the human health risks associated with
+consumption of contaminated meat products [36, 49, 50].
+Salmonella isolates identified from food items and
+workers from Addis Ababa were resistant to the commonly
+used antibiotics including streptomycin, ampicillin, and
+tetracycline [50]. Furthermore, resistance of Salmonella
+isolates to the commonly used antimicrobials including
+ampicillin, streptomycin, nitrofurantoin, kanamycin and
+tetracycline were 100, 66.7, 58.3, and 33.3% respectively
+
+[51]. This was in line with the previous studies conducted
+to assess ampicillin-resistant Salmonella in South India
+100% [52], Nigeria over 90% [53], and Cameroon 100%
+
+[54]. This study also indicated resistance of Salmonella
+isolates to commonly used antimicrobials including tetracycline, nitrofurantoin, streptomycin, kanamycin and ampicillin were 83.9, 73.2, 66, 50, and 46.43% respectively. A
+higher resistance rate was observed in this study when
+compared with the previous reports with the exception of
+ampicillin. In addition to this, resistance to amoxicillinclavulanic acid and nalidixic acid were 42.9 and 39.3% respectively. This difference could be due to the increasing
+rate of inappropriate utilization of antibiotics, which favors
+selection pressure that increase the advantage of maintaining resistant genes in bacteria [55, 56]. Resistance to
+amoxicillin-clavulanic acid was observed, but it was introduced in the market in the last few years. The continuing
+development of antibiotic resistance could pose pressure to
+both animals and human being. Once the amoxicillinclavulanic acid-resistant strains spread to human being, it
+might be difficult to treat with drug currently available in
+
+

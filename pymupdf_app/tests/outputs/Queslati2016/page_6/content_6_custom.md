@@ -1,0 +1,56 @@
+W. Oueslati et al. / Meat Science 119 (2016) 154–159 159
+
+
+
+[Nayak, R., Stewart, T., & Wang, R. F. (2004). Genetic diversity and virulence gene determi-](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0150)
+[nants of antibiotic-resistant Salmonella isolated from preharvest turkey production](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0150)
+[sources. International Journal of Food Microbiology, 91, 51–62.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0150)
+[Okamoto, S. A., Filho, R., & Rocha, T. S. (2009). Relation between the spvC and invA viru-](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0155)
+[lence genes and resistance of Salmonella Enteritidis. International Journal of Poultry](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0155)
+[Science, 8, 579–582.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0155)
+[Popoff, M. Y., Bockemühl, J., & Gheesling, L. L. (2001). Supplement 2001 (no. 45) to the](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0160)
+[Kauffmann–White scheme. Research in Microbiology, 154, 173–174.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0160)
+[R.T.S.R.B.A (2012). Report of the supervisory Tunisian network of bacterial resistance to an-](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0165)
+[tibiotics 2008 to 2010.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0165)
+[Rabsch, W., Tschäpe, H., & Baumler, A. J. (2001). Non-typhoidal Salmonellosis: Emerging](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0170)
+[problem. Microbes and Infection, 3, 237–247.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0170)
+[Radostits, O. M., Blood, D. C., & Hinchcliff, K. W. (2000). Diseases caused by Salmonella spp.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0175)
+[Veterinary Medicine, a textbook for the disease of cattle, sheep, pigs, goats and horses](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0175)
+[(pp. 809–826) (9th ed.). London: WB Saunders.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0175)
+[Randall, L. P., Cooles, S. W., Osborn, M. K., Piddock, L. J., & Woodward, M. J. (2004). Anti-](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0180)
+[biotic resistance genes, integrons and multiple antibiotic resistances in thirty-five se-](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0180)
+[rotypes of Salmonella enterica isolated from humans and animals in the UK. Journal of](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0180)
+[Antimicrobial Chemotherapy, 53, 208–216.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0180)
+[Rotger, R., & Casadesus, J. (1999). The virulence plasmid of Salmonella. International](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0185)
+[Microbiology, 2, 177–184.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0185)
+Scallan, E., Hoekstra, R. M., Angulo, F. J., Tauxe, R. V., Widdowson, M. -A., & Roy, S. L.
+[(2011). Foodborne illness acquired in the United States—Major pathogens.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0190)
+[Emerging Infectious Diseases, 17, 7–15.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0190)
+
+
+
+[Scharff, R. L. (2010). Health related costs from foodborne illness in USA. Washington, D. C.:](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0195)
+[Georgetown University.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0195)
+[Schwartz, D. (1993). Méthodes statistiques à l'usage des médecins et des biologistes (3ème](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0200)
+[éd.). Paris, France: Flammarion.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0200)
+[Sire, J. M., & Garin, B. (2008). Low-level resistance to ciprofloxacin in non-Typhi Salmo-](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0205)
+[nella isolates from human gastroenteritis. International Journal of Antimicrobial](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0205)
+[Agents, 31, 581–592.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0205)
+[Su, C., & Ou, J. T. (2004). Antimicrobial resistance in nontyphoid Salmonella. Clinical](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0210)
+[Infectious Diseases, 39, 546–551.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0210)
+[Turki, Y., Ouzari, H., & Ben Aissa, R. (2012). Biofilm formation, virulence gene and multi-](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0215)
+[drug resistance in Salmonella Kentucky isolated in Tunisia. Food Research](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0215)
+[International, 45, 940–946.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0215)
+[Valone, S., & Muller, V. L. (1993). Stress induction of the virulence proteins. Infection and](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0220)
+[Immunity, 61, 707–713.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0220)
+[Vieria-Pinto, M., & Tenreiro, R. (2012). Relationship between tonsils and mandibular](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0225)
+[lymph nodes concerning Salmonella sp. infection. Food Research International, 45,](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0225)
+[863–866.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0225)
+[Weill, F. X., Grimont, P., & Cloeckaert, A. (2006). Ciprofloxacin-resistance Salmonella Ken-](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0230)
+[tucky in travelers. Emerging Infectious Diseases, 12, 1611–1612.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0230)
+[Whichard, J., Gay, K., & Cooper, K. L. (2007). Human Salmonella and concurrent decreased](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0235)
+[susceptibility to quinolones. Emerging Infectious Diseases, 13, 1681–1688.](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0235)
+[WHO (2013). Salmonella (non-typhoidal). Media Centre, Fact sheet No 139, Updated Au-](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0240)
+[gust 2013..](http://refhub.elsevier.com/S0309-1740(16)30137-1/rf0240)
+
+

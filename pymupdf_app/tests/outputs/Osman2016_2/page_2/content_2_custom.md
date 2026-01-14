@@ -1,0 +1,131 @@
+Osman et al. Meat MSSA, MRSA, MS-NSA, MR-NSA
+
+
+
+INTRODUCTION
+
+
+In Egypt, since more than three millennia dating from
+the Eighteenth Dynasty chronology, the domestic cattle are
+incorporated with all types of agricultural activities in addition to
+their provision of meat, internal organs (heart, kidneys, pancreas,
+rumen, intestine), milk, cheese, ghee, skin, bone, manure, horns,
+and tendons (Conférence publique de Mlle M-Christine Lavier
+Toulon, 2000; Benderitter, 2003).
+Antimicrobial agents are widely spread and intensively
+used in the food production systems (FAO, 2015). The
+aftermath of this operation varies considerably globally as a
+result of the interaction between human (social structure) and
+animal demography (species, distribution, and density), farming
+systems, contaminated water sources, socio-economic strategies
+(manufacturing, commerce, availability of food, and animal
+fitness), and nation and world-wide trade. Although, antibiotic
+use in food animals has been concealed from the public scene yet,
+antibiotic application in meat producing animals have impacted
+on public health and has left no room for confusion after
+being scientifically documented (Conniff, 2015). In 2010, an
+announcement having a public consequential impact was made
+public by the FDA to the world in that 28.7 million pounds
+of antibiotics, which comprises 80% of the total amount of
+antibiotics utilized in the USA, were being poured down in
+the animal production industry not to medical care and that
+currently, two million people are annually sickened by resistant
+bacterial infections and that 23,000 die annually according to the
+CDC (Conniff, 2015).
+Eventually, besides tracing the use of antibiotics, the effectual
+monitoring of antimicrobial resistance is the linchpin of any
+national and international successful achievement in their
+control policy. The pivotal role of monitoring was highlighted in
+the 2001 WHO Global Strategy for Containment of antimicrobial
+resistance and on the occasion of World Health Day 2011,
+wherein resistance, antimicrobial consumption, and disease
+stress are included as prime listings. The facts and statistics
+collected can be used to implement the government’s rationale for
+introducing such radical legislation in the perfection of antibiotic
+use, to propose strategy and discern the prime concern for
+employment to provide public support regionally and globally.
+Staphylococcus aureus is a hazard because of its detrimental
+effects on animal health and its capacity for transmission from
+animals to humans and vice-versa (Peton and Le Loir, 2014).
+The isolation universality of multidrug-resistant staphylococci
+from meat samples has been perceived by several researchers
+(Santos-Sanches et al., 2000; Khan et al., 2005; Huber et al.,
+2011; Bhargava and Zhang, 2014; Chaj˛ecka-Wierzchowska
+et al., 2015; Guran and Kahya, 2015). This should be taken
+seriously, especially when the finding of Waters et al. (2011)
+documents that, close to 50 percent of meat samples tested
+from U.S. grocery stores are contaminated with the bacteria
+S. aureus and resistant to at least three classes of antibiotics.
+Methicillin-resistant strains of S. aureus (MRSA), which is
+linked to a wide range of human diseases (Köck et al., 2010;
+Fätkenheuer and Kaasch, 2014; Yaw et al., 2014), is notorious
+for its related-Nous to food contamination and its potentiality
+
+
+
+for its transmission to humans prevails. The pre-eminent
+disquiet in the European Union, has become the prevention
+and control of MRSA being ascertained as the most public
+health problem (Köck et al., 2010), an act that should be
+implemented in Egypt. Also, the high prevalence of MR-CNS
+found in livestock production (Huber et al., 2011) becomes a
+relevant consternation in view of the dispersing potentiality of
+mecA to MRSA as several coagulase negative staphylococcus
+(CNS) species, which are also non-S. aureus (NSA), can
+serve as reservoirs for mecA (Bhargava and Zhang, 2014).
+This consigned multiresistant CNS-NSA strains the intuitive
+capability to develop into an emerging problem for veterinary
+medicine.
+Although CNS have emerged as important pathogens, little is
+known about the virulence factors of these bacteria (Stepanovic
+et al., 2001). The most important virulence factor of CNS is
+assumed to be the capacity for biofilm formation and, that
+testing for biofilm production could be a useful marker for the
+pathogenicity of CNS (Stepanovic et al., 2001).
+In general, we have not come across any investigations
+involving biofilm formation, and the antibiotic resistant genes
+mecA, cfr, gyrA, gyrB, and grlA in MRSA in beef meat and
+in methicillin-resistant non-S. aureus (MR-NSA). Thereby, we
+aimed an endeavor to identify one of the main hazardous
+threat to public health, Staphylococcus species, to determine the
+generality of contamination of beef meat as a measurement for
+the exposure of consumers to MRSA and MR-NSA in retail
+beef meat in the Egyptian market, the rate of biofilm producers
+among the tested S. aureus comparable to non-S. aureus
+strains, their carriage to the antibiotic resistant genes mecA, cfr,
+gyrA, gyrB, and grlA and their consequence as a public health
+hazard.
+
+
+MATERIALS AND METHODS
+
+
+Sample Collection
+During the year 2013, 100 samples of retail whole beef were
+collected from several butchers and marts in the Great Cairo
+zone. Each sample weighing at least 500 g was aseptically
+collected with the minimum of cross-contamination and
+immediately conveyed to the laboratory to be microbiologically
+examined.
+
+
+Isolation and Identification
+To 50 g of meat samples, 100 ml of phosphate-buffered saline
+was added all in a sterile plastic bag which were vigorously
+shaken for 2 min to remove bacteria. Then 1 ml of each rinsate
+was used for isolation and detection of Staphylococcus isolates
+by the Double Enrichment method. The isolates were used for
+further culture to be consequently biochemically characterized
+as S. aureus (n = nine) and non-S. aureus (n = 18) according
+to Thorberg and Brandstrom (2000). A sub-culture of the 27
+isolates were stored at −27 [◦] C in tryptic soy broth and fetal
+calf serum [Gibco/Invitrogen Carlsbad (CA) USA] containing
+2% yeast extract (v/v) to be revitalized for phenotypic virulence
+assay, phenotypic antimicrobial resistance profile and molecular
+characterization.
+
+
+
+[Frontiers in Microbiology | www.frontiersin.org](http://www.frontiersin.org/Microbiology) 2 [February 2016 | Volume 7 | Article 222](http://www.frontiersin.org/Microbiology/archive)
+
+

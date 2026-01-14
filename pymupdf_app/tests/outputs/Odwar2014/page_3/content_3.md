@@ -1,0 +1,110 @@
+Odwar et al. BMC Research Notes 2014, 7:627 Page 3 of 8
+http://www.biomedcentral.com/1756-0500/7/627
+
+
+
+Antimicrobial susceptibility testing
+Using the Kirby-Bauer disc diffusion method [23], E. coli
+were tested for their susceptibility to 12 commonly
+used antimicrobials on disks containing; Ampicillin
+(AMP 10 μg), Amoxycillin-clavulanic acid (AMC, 30 μg),
+Tetracycline (TE 30 μg), sulphamethoxazole-trimethoprin
+(SXT 30 μg), Ciprofloxacin (CIP 5 μg), Ceftriaxone (CRO
+30 μg), Ceftazidime (CAZ 30 μg), Kanamycin (K 30 μg),
+Streptomycin (S 10 μg), Gentamicin (CN 10 μg), Nalidixic
+acid (NA 30 μg) and Chloramphenicol (C 30 μg). The
+concentrations of the antimicrobial disks were selected
+based on the internationally recognized standards and
+guidelines on antimicrobial routine testing and reporting
+on enterobacteriaceae provided by the Clinical and Laboratory Standard Institute. E. coli strain 25922 was used
+to control for bacterial growth and potency of antibiotic
+disks. Inoculated agar plates were incubated at 37°C for
+24 h. The susceptibility zones were also measured and
+interpreted according to criteria set by the Clinical and
+Laboratory Standards Institute [24].
+
+
+Bacterial DNA extraction and detection of virulence genes
+in E. coli
+DNA from the isolated E. coli as well as from 5 control
+strains was extracted following the procedures described
+by Ehrt and Schnappinger [25], with slight modifications.
+A loop full of overnight bacterial culture was suspended
+in 1 ml of sterile distilled water and then boiled for
+10 minutes at 95°C. The cell mixture was centrifuged for
+5 minutes at 14,000 rpm and supernatant was used as
+the DNA template for PCR amplification. Ten PCR
+primers were used to detect the target genes enumerating toxins in pathogenic E. coli [26]. A multiplex PCR
+system was optimized by the progressive incorporation
+of primers corresponding to the different genes and several combinations of melting temperatures, primer concentrations and DNA template concentration. PuReTaq
+ready to go PCR beads (GE Health care) were used for
+PCR. The total reaction volume in each PCR tube was
+25 μl containing 3 μl template DNA, 2 μl primer (0.2 μl
+of each primer) and 20 μ sterile PCR water. PCR was
+done under the following conditions; initial denaturation
+at 94°C for 5 minutes. This was followed by 35 cycles of
+denaturation at 94°C for 1 minute, annealing at 56°C for
+30 seconds and extension at 72°C for 1 minute. The final
+step was amplification at 72°C for 10 minutes. Amplicons were then subjected to agarose gel electrophoresis
+and viewed under UV light.
+
+
+Statistical analysis
+Statistical analysis including means, medians and standard
+deviations, was conducted by means of SPSS version 17.0
+software. To determine differences in microbial counts in
+chicken samples purchased from among the various retail
+
+
+
+outlets, ANOVA was used after converting the counts to
+base 10 logarithms. The chi-square test was used to assess
+any statistical significant association between antimicrobial resistances in the E. coli isolated with regard
+to retail outlet classification from where the raw chicken
+was purchased.
+
+
+Results
+Contamination rate and microbial count in raw retail
+chicken
+Contamination rate of chicken samples by total coliform
+bacteria was found to be 97% while contamination by E.
+coli was 78%. The average E. coli and coliform counts
+for all samples in general were observed to be above the
+acceptable range for E. coli counts as set by the Hazard
+Analysis and Critical Control Point system (HACCP),
+developed by Food and Agriculture Organization (FAO)
+and adopted by the Codex Alimentarius Commission
+(3.911 and 5.0261Log10cfu/ml respectively). According
+to this system, the acceptable food safety range is
+100 cfu/ml or less (2.000 Log10cfu/ml or less), the marginal or intermediate range is over 100 cfu/ml but not
+above 1000 cfu/ml (over 2.000 but not above 3.000
+Log10cfu/ml) and the unacceptable range is above
+1000 cfu/ml (above 3.000 Log10cfu/ml) [27]. Only 80
+(40%) out of a total 200 retail chicken samples that were
+purchased fell under the acceptable range for E. coli
+counts. 76% of samples fell under the unacceptable
+range for total coliforms. As shown in Tables 1 and 2 supermarkets had the highest percentage of samples within
+acceptable food safety ranges while average counts of samples from the rest of the retail outlets were within marginal or unacceptable counts of above 2.000 Log10cfu/ml.
+There was a statistical significant difference in the E. coli
+count (F (4,175) =16.676; MSE = 106.576; p < 0.001)
+and coliform counts (F (4,179) =18.37; MSE = 105.097;
+p < 0.001) among the outlets with supermarkets having
+the lowest E. coli and coliform count compared to the
+rest. Graphical evidence of the differences of E. coli
+and coliform counts observed in the different retail
+outlet classifications are also shown in Figures 1 and 2.
+
+
+Prevalence of antimicrobial resistant E. coli isolated from
+raw retail chicken
+Seventy five percent (117 out 156) of the E. coli isolated
+exhibited resistance to at least one of the 12 antibiotics
+tested. As seen in Table 3, prevalence of antimicrobial
+resistance was highest for tetracycline followed by
+sulphamethoxazole-trimethoprin, ampicillin and streptomycin. Only 24.5% of the isolates were fully sensitive to all
+antibiotics while 42.9% were resistant to 3 or more antibiotics especially to the above mentioned antimicrobials.
+There was no significant difference in the prevalence of
+antimicrobial resistance among the 5 classifications of
+
+

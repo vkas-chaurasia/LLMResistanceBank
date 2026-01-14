@@ -1,0 +1,132 @@
+Osman et al. Meat MSSA, MRSA, MS-NSA, MR-NSA
+
+
+
+Phenotypic Virulence Assays
+For the 27 isolated staphylococci, four virulence factors were
+evaluated (alpha, beta and delta hemolysins, cytotoxicity, and
+biofilm formation) using phenotypic tests.
+
+
+Hemolysis Pattern on Blood Agar
+The 27 tested isolates were subcultured onto 5% defibrinated
+sheep and rabbit blood (Merck, Darmstad, Germany) at 37 [◦] C for
+24 h according to the procedure of Futagawa-Saito et al. (2006) to
+obtain isolated colonies. The type of hemolysis was recorded as
+α-, β-, and double (α + β). After incubation at 37 [◦] C for 24 h the
+clear zone around the colonies was registered as positive reaction.
+Some S. aureus strains proved the presence of CAMP-like factor,
+a special hemolysin, the activity of which is revealed by streaking
+the bacterial studied strain on 5% sheep blood agar, at 8 mm
+distance perpendicularly on the β-hemolytic S. aureus ATCC
+25923 reference strain, and incubating the plate aerobically at
+37 [◦] C for 24 h. The occurrence of synergic β-haemolysis at the
+confluence of the two spot areas indicates the presence of CAMPlike factor. The S. aureus (ATCC 25923 and ATCC 49775) and
+S. intermedius Hajek (ATCC strain 49052) were used as reference
+strains.
+
+
+Cytotoxicity Assay
+The cytotoxicity assay was carried out using Vero (African green
+monkey kidney) cells in 96-well microtiter trays according to
+the protocol of Tao et al. (1999). Suspensions of each of the
+27 staphylococcal strains in distilled water were adjusted to 0.5
+McFarland standard. Then, 20 µl of bacterial suspensions were
+added to 3.5 ml of brain heart infusion broth (BBL, Becton
+Dickinson Microbiology Systems). The tubes were incubated 2
+days at 35 [◦] C, and thereafter for 2 days at room temperature. After
+centrifugation of bacterial broth cultures, 20 µl of supernatants
+were added in triplicate to 180 µl of cell culture medium. After
+incubation at 37 [◦] C, in a humid atmosphere and 5% CO2,
+the cytotoxic effect of each staphylococcal strain on the Vero
+monolayer morphology was microscopically perceived up to 5
+days.
+
+
+Biofilm Formation
+Biofilm formation assay was determined by the Christensen’s
+tube method and the Congo red agar assay (CRA) as proposed
+by Osman et al. (2015, 2016). The biofilm-producer ATCC 25923
+and the biofilm negative ATCC 12228 were used as reference
+strains.
+
+
+Phenotypic Characterization of Slime
+Production in CRA
+This method is based on the characteristic cultural morphology
+of biofilm-forming bacteria on Congo red medium. The strains
+were cultured on CRA plates, composed of brain heart infusion
+broth (BHI) (Oxoid Ltd, Hampshire, England) 37 g/l, 10 g/l
+Congo red and 50 g/l sucrose and agar No 1 (Oxoid Ltd,
+Hampshire, England) 10 g/l. The plates were subsequently
+incubated for 24 h at 37 [◦] C and overnight at room temperature.
+The production of black colonies with a dry crystalline
+consistency by the organisms was taken to indicate slime
+
+
+
+production as non-slime-producing strains develop red colonies.
+ATCC 35982, a non-slime-producing strain (−), ATCC 35983,
+a moderate slime producing strain (++), and ATCC 35984, a
+strong slime producing strain (++), served as controls.
+
+
+Investigation of Biofilm Production by
+Adherence to Borosilicate Test Tubes
+A qualitative assessment of biofilm formation was determined
+by tube assay. An overnight culture of each of the 27 isolated
+staphylococci were grown in MHB and incubated for 24 h at
+37 [◦] C. The tubes were removed and washed with phosphate buffer
+saline and dried. Tubes were stained with 0.1% crystal violet for
+10 min. Excess stain was removed and tubes were washed with
+distilled water. Tubes were then dried and observed for biofilm
+formation. Biofilm formation was considered positive when a
+visible film lined the wall and bottom of the tube. Ring formation
+at the liquid-air interface was not indicative of biofilm formation.
+The scoring for tube method was done according to the results
+of the control strains. The isolates were classified into three
+categories: Biofilm formation was considered positive when a
+visible film lined the wall and the bottom of the tube. The amount
+of biofilm formed was scored as 1-weak/none, 2-moderate, and
+3-high/strong.
+
+
+Phenotypic Antibiotic Resistance Profile
+Resistance of the 27 isolated staphylococci to 12 specific
+antibiotics ( **Table 3** ) were validated by culturing each isolate
+on Mueller-Hinton agar (MHA) supplemented with 0.5% NaCl
+and 2% for oxacillin, to obtain a fresh culture, to be determined
+by the disk diffusion method according to procedures of
+the CLSI (2012). Antimicrobials on the WHO’s critically
+important antimicrobials list (2012) were selected for testing
+according to their importance to human and animal health
+(FAO/WHO/OIE, 2008; WHO, 2009). One loopful of colony
+material was subcultured in 5 ml Mueller-Hinton broth for
+an overnight at 35 [◦] C, vortexed well and adjusted to obtain
+a turbidity comparable to that of 0.5 McFarland opacity
+standard (bioMe’rieux, Marcy 1’Etoile, France). The bacterial
+suspensions were streaked on MHA plates with a cotton swab
+and with an antibiotic disc dispenser, the discs were placed on
+the agar surface, plates were incubated at 37◦ C, the standard
+temperature used for antimicrobial susceptibility testing, for
+24 h, and the diameter of the inhibition zones was measured.
+The isolates were classified as sensitive, intermediate and
+resistant based on the diameter of the clearing zone according
+to CLSI (2012) guidelines. The antibiotic discs represented
+nine classes of antibiotics: ampicillin-sulbactam, methicillin,
+penicillin, and oxacillin (Penicillins); chloramphenicol
+(Chloramphenicols); ciprofloxacin (Florinated quinolones);
+clindamycin (Lincosamides); gentamycin (Aminoglycosides);
+erythromycine (Macrolides); sulphamethoxazole/trimethoprim
+(Sulphonamides); tetracycline (Tetracyclines); vancomycine
+(Glycopeptides). S. aureus ATCC 29213 (β-lactamase positive),
+and S. aureus ATCC 25923 (β-lactamase negative) were used
+as quality control. Multidrug resistance was reported as a
+single isolate resistant (intermediate or complete) to 3 or more
+antimicrobial classes (Waters et al., 2011). Bacteria strains
+
+
+
+[Frontiers in Microbiology | www.frontiersin.org](http://www.frontiersin.org/Microbiology) 3 [February 2016 | Volume 7 | Article 222](http://www.frontiersin.org/Microbiology/archive)
+
+

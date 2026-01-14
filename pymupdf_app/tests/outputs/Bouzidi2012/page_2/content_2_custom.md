@@ -1,0 +1,148 @@
+898 N. Bouzidi et al. / Food Research International 45 (2012) 897–904
+
+
+
+Salmonella Enteritidis for humans (De Jong & Ekdahl, 2006; Gillepsie
+et al., 2005).
+The combination of stringent hygiene measures and vaccination has
+considerably reduced vertical transmission of Salmonella infection from
+parent flocks (Van Immerseel et al., 2004) Horizontal transmission
+remains the major source of Salmonella contamination in broiler hen
+and egg productions (Chadfield, Permin, Nansen, & Bisgaard, 2001;
+Shirota, Katoh, Murase, & Otsuki, 2001). Only a few epidemiological
+studies have been carried out to investigate Salmonella infection risk
+factors in laying-hen farms. Various risk factors were identified in these
+studies, including (1) large flocks (Mollenhorst, Van Woudenbergh,
+Bokkers, & de Boer, 2005; Namata et al., 2008) (2) the age of the sampled
+hens, older hens being more likely to be contaminated by Salmonella
+(Castellan et al., 2004; Namata et al., 2008), and (3) inefficient cleaning
+and disinfection after depopulation for flock renewal (Davies & Breslin,
+2003).
+It is a common practice in modern food animal husbandry to use
+antimicrobials for both therapeutic and prophylactic purposes
+(Aarestrup, 2004; Berge, Atwill, & Sischo, 2003; EFSA, 2008). The
+subsequent emergence of antimicrobial resistance compromises
+animal health by causing therapeutic failure. Furthermore, there
+may be adverse consequences for public health because of the spread
+of antimicrobial resistance from animals to humans, leading to
+treatment failure in human infectious diseases (EFSA, 2009; Jordan
+et al., 2009).
+In Algeria, poultry and egg productions have increased substantially since the mid-1980s, supported by an incentive policy. Poultry
+production has increased from 162,000 t in 1985 to 270,000 t in 1995,
+largely due to state subsidies. It currently provides 10 kg of poultry
+meat annually per capita, and fresh egg production is self-sufficient.
+According to Algerian agricultural ministry data, egg production
+increased from an average 32,000 t in 1982 to 120,000 t in 1995
+(Anonymous, 2003). Egg consumption has also increased from 96
+eggs annually per capita to 120 in 1989 (Anonymous, 2003).
+Concomitantly, several outbreaks of salmonellosis have been
+observed in Algeria during recent years in both humans and food
+animal production, particularly poultry (Aboun et al., 2003; Ayachi,
+Alloui, Bennoune, & Kassah-Laouar, 2010). However, the public health
+consequences and economic impact of Salmonella in the Algerian
+poultry breeding sector are unknown because there are no epidemiological surveillance systems or monitoring programs for Salmonella
+infections in this country.
+The main aims of this study were therefore (i) to determine the
+prevalence of Salmonella in laying-hen flocks in 2 regions of Algeria,
+(ii) identify the serotypes present in these regions and their
+antimicrobial resistance, and finally (iii) to evaluate the risk factors
+that might influence the Salmonella contamination of laying-hen
+flocks.
+
+
+2. Material and methods
+
+
+2.1. Study design
+
+
+The study was conducted in two regions in the eastmost part of
+Algeria from March 2008 to November 2009. The list and location of
+farms were obtained from official veterinary authorities for these
+regions and through our epidemiological investigation. During these
+two years, 22 operational layer houses were studied in both regions.
+All henhouse owners were invited to participate in the study, with
+absolute anonymity guaranteed for the farmer. A positive result
+would not have any adverse consequences. In all, 18 out of 22 layer
+houses with only one laying flock participated in the study for both
+years. Two farm owners (representing four layer houses) did not wish
+to participate. Flock sizes ranged from 2400 to 7200 hens. Pullets were
+loaded when 18 weeks old. Thirteen flocks comprised Isa Brown hens
+and five comprised Hy-Line hens. No sign of disease or pathology was
+
+
+
+found on the farms. Started pullets were typically vaccinated against
+Newcastle, Marek and Gumboro diseases. None of the sampled flocks
+was vaccinated against Salmonella. In most cases, owners are not just
+farmers and consider poultry farming a secondary occupation. The
+exact number of farmers may therefore fluctuate each year depending
+on the egg market and feed price.
+All the henhouses in these regions are fitted out with conventional
+battery cages. Most of the buildings (16/18) have natural ventilation.
+Six out of 18 buildings had mixed structures: solid brick and cement
+walls, with a roof of zinc sheets. Fourteen layer houses were
+connected to the public electricity network and only four had an
+electric generator. One farmer raises his own pullets, but all the other
+farmers in these regions buy started pullets from rearing farms either
+in the same regions (7/18) or in neighboring regions (10/18). Most
+farmers obtained feed from a single public company or from five
+private organizations in these regions. The productive lifespan of
+laying hens is around 15 months.
+
+
+2.2. Time of sampling
+
+
+Samples were taken in two successive years, from May to October
+2008 and March to November 2009. Thirteen hen flocks were sampled
+three times, but layer house access difficulties resulted in two flocks
+being sampled twiceand three only once. The first visit was scheduled at
+the beginning of the laying period (pullets aged 22–31 weeks) for 15
+hen flocks, the second about halfway through laying (47–60 weeks) for
+14 flocks, and the third visit was late in the laying period, prior to
+depopulation (maximum 9 weeks before) for 17 flocks. The age of hens
+in the last henhouse sampled ranged from 70 to 86 weeks. Four
+henhouses were sampled atthe end of laying(74–82 week) for an initial
+flock and at the beginning and middle of the laying period in the
+subsequent flocks living in the same henhouses. A flock was considered
+Salmonella-positive when the bacterium was isolated from at least one
+sample in the flocks.
+
+
+2.3. Questionnaire design
+
+
+A questionnaire was filled in during an onsite interview while
+collecting samples. It was used to gather information on the general
+characteristics of laying-hen flocks, dead-bird management, control of
+rodents and other domestic animals, biosecurity measures, farm staff
+and visitors, vaccination and administration of antibiotics. Of the
+questionnaire's 95 questions, 75% were closed-ended. The visit was
+completed by filling in a questionnaire based both on personal
+observations and on information obtained from the employees in
+charge of looking after the laying-hen flocks. A supplemental Table
+includes the questionnaire's 95 questions.
+
+
+2.4. Sample collection
+
+
+A total of 2754 samples were collected over two periods. The
+following seven pooled samples were collected from each flock at
+each visit: two pools of 15 fresh feces samples from under the cages,
+one pool of five fecal samples from the cages themselves, one pool of
+seven surface swabs, one pool of seven dust swabs from inside and
+outside the cages, and two pools of feed and water samples. On each
+sampling visit, 61 samples were collected from henhouses containing
+4800 to 7200 hens, and 57 samples from henhouses containing 2400
+to 3100 hens.
+Pools of 15 fresh feces samples were collected randomly
+throughout the henhouse from the ground under the cages. To ensure
+that the samples were representative, the building was divided into
+five sectors and three fresh feces were collected from each sector.
+Each pooled feces sample weighed approximately 150 g. Fecal
+samples were scraped off the floor under the cages. These samples
+weighed approximately 50 g.
+
+

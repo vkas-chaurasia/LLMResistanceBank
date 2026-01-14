@@ -1,0 +1,866 @@
+Hindawi Publishing Corporation
+BioMed Research International
+Volume 2016, Article ID 4290506, 8 pages
+[http://dx.doi.org/10.1155/2016/4290506](http://dx.doi.org/10.1155/2016/4290506)
+
+# _Research Article_ Prevalence and Antimicrobial Resistance of Salmonella Isolated **from Animal-Origin Food Items in Gondar, Ethiopia**
+
+
+**Mebrat Ejo,** **[1]** **Legesse Garedew,** **[2]** **Zabishwork Alebachew,** **[3,4]** **and Walelgn Worku** **[4]**
+
+
+_1_ _Department of Biomedical Sciences, Faculty of Veterinary Medicine, University of Gondar, Gondar, Ethiopia_
+_2Department of Microbiology, St. Paul’s Hospital Millennium Medical College, Addis Ababa, Ethiopia_
+_3Department of Veterinary Epidemiology and Public Health, Faculty of Veterinary Medicine, University of Gondar, Gondar, Ethiopia_
+_4Institute of Public Health, College of Medicine and Health Sciences, University of Gondar, Gondar, Ethiopia_
+
+
+Correspondence should be addressed to Mebrat Ejo; drmebrat@yahoo.com
+
+
+Received 12 July 2016; Revised 18 November 2016; Accepted 23 November 2016
+
+
+Academic Editor: Ernesto S. Nakayasu
+
+
+Copyright © 2016 Mebrat Ejo et al. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+
+_Salmonella_ has been found to be the major cause of foodborne diseases and a serious public health problem in the world, with an
+increasing concern for the emergence and spread of antimicrobial-resistant strains. A cross-sectional study was conducted between
+February 2014 and December 2015 on food items of animal origin to assess the prevalence and antimicrobial resistance profiles
+of _Salmonella_ isolates using standard bacteriological methods. The overall prevalence rate of 5.5% was recorded from the total
+analyzed food items of animal origin. _Salmonella_ isolates were detected from 12% of raw meat, 8% of minced meat, 2.9% of burger
+samples, 18% of raw eggs, and 6% of raw milk. Furthermore, antimicrobial susceptibility test identified 47.6% resistant _Salmonella_
+isolates, 28.6% intermediately sensitive isolates, and 23.8% susceptible isolates. Among _Salmonella_ isolates tested, 42.6%, 28.6%, and
+14.3% were found to be relatively resistant to tetracycline, sulfamethoxazole-trimethoprim, and ampicillin, respectively, while 9.5%–
+19% were intermediately resistant to tetracycline, amoxicillin, ampicillin, cephalothin, and nitrofurantoin. Therefore, our findings
+provide the prevalence and drug resistance of _Salmonella_ from foods of animal origin and contribute information to scientists as
+well as public health researchers to minimize the prevalent and resistant foodborne _Salmonella_ species in Ethiopia.
+
+
+
+**1. Background**
+
+
+Foodborne diseases are among the most widespread global
+public health problems of recent times, and their implication
+for health and economy is increasingly recognized [1, 2].
+According to reports, every year, a huge number of people
+suffer from foodborne diseases worldwide due to contaminated food and water consumption [2, 3]. A wide range of
+pathogens play a role in foodborne disease, most of which
+have a zoonotic origin and have carriers in healthy food
+animals from which they spread to an increasing variety of
+foods of animal origin and are considered as major vehicles of
+foodborne infections [4]. Among the pathogens, _Salmonella_
+is considered the most prevalent foodborne pathogen worldwide [4, 5] and has long been recognized as an important
+zoonotic microorganism of economic significance in animals
+and humans [5], predominantly in the developing countries.
+Consumption of raw or unsafe food, cross-contamination,
+
+
+
+improper food storage, poor personal hygiene practices,
+inadequate cooling and reheating of food items, and a
+prolonged time lapse between preparing and consuming food
+items were mentioned as contributing factors to an outbreak
+of salmonellosis in humans [3, 5]. The ubiquity of _Salmonella_
+isolates creates a persistent contamination hazard in all raw
+foods [5] and also in animal-origin food products, which are
+often implicated in sporadic cases and outbreaks of human
+salmonellosis [2, 6]. Foodborne transmission is recognized
+as the major cause of _Salmonella_ infections, with many food
+sources and supplies implicated in these infections [2].
+Antibiotic-resistant _Salmonella_ infections of both human
+and animal are universal concerns, particularly in developing
+countries where the risk of infection is high because of unhygienic living conditions, close contact and sharing of houses
+between animals and humans [7], and the traditions of consumption of raw or undercooked animal-origin food items.
+There is an increasing concern with this pathogen due to the
+
+
+
+
+2 BioMed Research International
+
+
+
+emergence and spread of antibiotic-resistant and potentially
+more pathogenic strains. Antimicrobial-resistant _Salmonella_
+spp. have been isolated from different foods of animal origin
+around the world, which is attributed to the inappropriate
+use of antimicrobials as therapeutic or prophylactic agents in
+human and veterinary medicine, as well as the use of growth
+promoters in animal production [8]. _Salmonella_ strains resistant to various antimicrobial agents, particularly resistant to
+fluoroquinolones and third-generation cephalosporins, are
+considered as an emerging problem worldwide [9], resulting
+in higher morbidity and mortality rates and higher overall
+treatment costs. This may represent a public health risk by
+transfer of resistant _Salmonella_ strains to humans through
+the consumption of contaminated food and food products.
+However, the sources and transmission routes of _Salmonella_
+in developing countries are poorly understood due to the lack
+of coordinated national epidemiological surveillance systems
+
+[3].
+The incidence of foodborne _Salmonella_ infections has
+increased dramatically in Ethiopia during the past few years.
+Studies conducted in different parts of the country have
+demonstrated the presence of _Salmonella_ in human beings
+
+[6, 10, 11] and in different food animals and food products
+
+[10, 12–14]. Despite these attempts to report the prevalence
+and distribution of _Salmonella_ spp. in some food items,
+humans, and food animals in Ethiopia [10–12], the problem
+of this pathogen in foods of animal origin is still not well
+known. However, studies made elsewhere indicated that
+foods of animal origin are important sources of _Salmonella_,
+particularly among those raw food consumers. In Gondar,
+the most touristic city in Ethiopia, there is not enough information on foodborne _Salmonella_ prevalence in different food
+items such as foods from animal origin or others. Therefore,
+this study reports the presence of _Salmonella_ including its
+antimicrobial-resistant profiles in foods of animal origin in
+Gondar.
+
+
+**2. Materials and Methods**
+
+
+_2.1. Study Location._ The study was conducted in Gondar,
+which is located in the northwest of Ethiopia, 740 km away
+from the capital, Addis Ababa. The town is one of the historic
+and touristic centers in Ethiopia. The altitude of the town
+ranges from 1800 to 2200 meters above sea level. It has
+average rainfall of 1000 millimeters per annum. The annual
+average maximum and minimum temperature of the town
+are 30.7 [∘] C and 22 [∘] C, respectively, with an overall average of
+26 [∘] C. The town has relative humidity varying from 60% to
+70% during the rainy season and from 30% to 40% during the
+dry season. The human population of the town is estimated at
+214 000 inhabitants [15]. In the town, a number of people are
+involved in the public service business, including smallholder
+farming supplying food animals and animal products to the
+communities and the slaughterhouse.
+
+
+_2.2. Study Design and Sampling._ A cross-sectional study
+was conducted between February 2014 and December 2015
+to assess the prevalence of _Salmonella_ isolates and their
+antibiotic-resistant profiles from foods of animal origin in
+
+
+
+Gondar. Stratified random sampling from catering establishments and a list frame of public places were used as
+sample source according to the accessibility of animal-origin
+food items. First, we looked up the functional catering
+establishments registered in the city and then we stratified the
+public places into strata (cafeterias, hotels, restaurants, and
+pastry and retail shops) and used them as a sampling frame.
+Study foods of animal origin were selected during dining time
+using a simple random sampling method in each public place
+on proportional bases.
+
+
+_2.3. Animal-Origin Food Items._ A total of 384 animal-origin
+food samples were purchased from restaurants, hotels, cafeterias, and pastry and retail shops, including egg sandwich,
+minced and raw meat, burger patties, cottage cheese, cream
+cake, and beef pizza. In addition, raw egg and pasteurized and
+raw milk were bought from supermarkets and retail shops.
+Some of the animal-origin foods may not be considered
+“ready to eat” in all countries, as they would define “ready to
+eat” as having been processed, such as via cooking to a specific
+temperature for food safety. However, in Ethiopia, eating raw
+animal-origin foods like minced and raw beef, as well as milk,
+is a common practice. Time of sampling was scheduled at the
+beginning of the serving period (breakfast, lunch, or dinner
+time). Sterile forceps and spoons were used to transfer the
+food items from the eating plate to sampling containers. The
+collected samples were properly identified by sample type,
+date of collection, and sources and immediately transported
+to the laboratory in an ice box with freeze packs under completely sterile conditions for microbiological analysis [16].
+
+
+_2.4. Isolation and Identification of Salmonella._ Standard cultivation method recommended by the International Organization for Standardization [16] was carried out for isolation
+and identification of _Salmonella_ . Briefly, 25 gm of each food
+sample was weighed and homogenized in sterile stomacher
+bag (Stomacher 400R, Seward, England) with 225 mL of
+preenrichment buffered peptone water for 2 min. The nonselective preenriched sample, from each solid or liquid food
+sample, was mixed thoroughly and incubated overnight at
+37 [∘] C. Following incubation, 1 mL of the preenrichment broth
+was transferred to every 10 mL of tetrathionate broth (M¨ullerKaufmann, Oxoid, England), for first selective enrichment
+of _Salmonella_ growth while inhibiting other microorganisms, and incubated at 37 [∘] C for 18–24 hours. In addition,
+0.1 mL of preenrichment broth was added to 10 mL of
+Rappaport-Vassiliadis (Oxoid, England) broth for second
+selective enrichment and incubated at 41 [∘] C for 18–24 hours.
+For isolation of _Salmonella_ species, each suspected colony
+from selectively enriched medium was streaked onto selective
+xylose lysine deoxycholate (XLD) agar plates and incubated
+at 37 [∘] C for 18–24 hours. _Salmonella_ suspected colonies from
+XLD agar medium were plated onto nutrient agar (Oxoid,
+England) plates to use for biochemical confirmation.
+
+
+_2.5. Biochemical Confirmation of the Isolates._ Each identified
+colony with typical _Salmonella_ morphology was confirmed
+biochemically by inoculating into triple sugar iron (TSI)
+agar, methyl red-Voges-Proskauer (MR-VP) broth, indole
+
+
+
+
+BioMed Research International 3
+
+
+Table 1: _Salmonella_ prevalence from animal-origin food items.
+
+
+Sample type Number of samples tested Number of samples that tested positive (%)
+
+
+Burger 35 1 (2.9)
+
+Cottage cheese 20 0 (0)
+
+
+Cream cake 50 0 (0)
+
+Egg sandwich 35 0 (0)
+
+Minced meat 25 2 (8)
+
+
+Pasteurized milk 45 0 (0)
+
+Pizza 24 0 (0)
+
+
+Raw egg 50 9 (18)
+
+Raw meat 50 6 (12)
+
+Raw milk 50 3 (6)
+
+
+Total 384 21 (5.5)
+
+
+
+test, Simmons’ citrate agar, urea agar, lysine iron agar (LIA),
+and SIM medium and incubated at 37 [∘] C for 18–48 hours and
+interpreted with the International Organization for Standardization guidelines [16].
+
+
+_2.6. Antimicrobial Susceptibility Testing._ Phenotypic antimicrobial susceptibility testing on Mueller–Hinton agar (Oxoid)
+using the agar disc diffusion method [17] was conducted
+to determine the antibiotic-resistant profiles of each isolate.
+Briefly, isolates were grown in a shaking water bath at 37 [∘] C
+until obtaining a 0.5 McFarland turbidity standard. The
+bacterial suspension was then spread over the entire surface
+of Mueller–Hinton agar plates, and antibiotic disks including amoxicillin (20 mg), ampicillin (10 mg), cephalothin
+(30 mg), ceftriaxone (30 mg), gentamycin (10 mg), nalidixic
+acid (30 mg), nitrofurantoin (30 mg), sulfamethoxazoletrimethoprim (30 mg), and tetracycline (30 mg) were applied
+on the surface of the medium and incubated at 37 [∘] C for 18–
+24 hours. Following incubation, the diameters of the inhibition zone were measured in millimeters and interpreted in
+accordance with CLSI guidelines [17]. Strains were evaluated
+as susceptible, intermediate, and resistant. An isolate was
+defined as resistant if it was resistant to one or more of the
+antimicrobials. _Escherichia coli_ ATCC 25922 was used as a
+quality control and standard strain.
+
+
+_2.7. Statistical Analysis._ Statistical analysis was performed
+using SPSS Statistics 17 (SPSS Inc., USA). Descriptive
+statistics such as frequency, percentage, and/or proportion
+were applied to compute the collected data from different
+foods of animal origin and antimicrobial susceptibility test
+results.
+
+
+_2.8. Ethical Considerations._ Institutional permission to perform this study was obtained from the research and the
+ethical review committee of University of Gondar, Ethiopia.
+In addition, the research supporting letter was obtained
+from Gondar city administration and health office, Ethiopia.
+Confidentiality was ensured through the use of codes in
+records.
+
+
+
+**3. Result**
+
+
+_3.1. Prevalence._ In this study, 21 (5.5%) out of 384 samples
+were found to be positive for _Salmonella_ spp. (Table 1)
+through standard culture technique. All these isolates
+obtained from positive samples were confirmed primarily
+with the help of _Salmonella_ spp. growth and morphological
+characteristics on selective media and then with biochemical
+tests (Table S1 in Supplementary Material available online at
+[http://dx.doi.org/10.1155/2016/4290506).](http://dx.doi.org/10.1155/2016/4290506) _Salmonella_ isolates
+were detected from 6 (12%) of the raw meat samples, 2
+(8%) of the minced meat samples, 1 (2.9%) of the burger
+samples, 9 (18%) of the raw eggs, and 3 (6%) of the raw milk
+samples. However, cottage cheese, cream cake, egg sandwich,
+pasteurized milk, and pizza test samples were _Salmonella_
+negative. _Salmonella_ was recovered more frequently from
+raw meat and raw eggs than from minced meat and/or raw
+milk. Among the sample sources, samples examined from the
+butcher house and retail shops with the prevalence of 13% and
+13.3%, respectively, were the most contaminated compared
+with the others (data not shown).
+
+
+_3.2. Antimicrobial Resistance Profile._ The overall proportion
+of antimicrobial susceptibility test and the results of
+antimicrobial resistance of _Salmonella_ spp. isolated from
+raw meat, minced meat, raw eggs, and raw milk are given
+in Tables 2 and 3, respectively. Of the total 21 _Salmonella_
+isolates subjected to antimicrobial susceptibility test using
+nine different antimicrobials, a total of 10 (47.6%) _Salmonella_
+isolates were found to be resistant to one or more than one
+(multidrug) of the antimicrobials, and 6 (28.6%) isolates
+showed an intermediate sensitivity to one or more antimicrobials, and 5 (23.8%) isolates were susceptible to all tested antimicrobials. The _Salmonella_ isolate from the burger sample
+was susceptible to all tested antimicrobial agents. In relation to the total _Salmonella_ isolates tested, 42.6%, 28.6%,
+and 14.3% were found to be relatively resistant to tetracycline, sulfamethoxazole-trimethoprim, and ampicillin,
+respectively, while 9.5%–19% were intermediately resistant
+to tetracycline, amoxicillin, ampicillin, cephalothin, and
+
+
+
+
+4 BioMed Research International
+
+
+Table 2: The general proportion of antimicrobial susceptibility test among _Salmonella_ isolates.
+
+
+Antimicrobial susceptibility test
+Antimicrobials
+Susceptible (%) Intermediate (%) Resistant (%)
+Amoxicillin (AML) 16 (76.2) 3 (14.3) 2 (9.5)
+Ampicillin (AMP) 15 (71.4) 3 (14.3) 3 (14.3)
+Cephalothin (KF) 16 (76.2) 4 (19) 1 (4.8)
+Ceftriaxone (CRO) 21 (100) 0 0
+Gentamicin (CN) 19 (90.5) 0 2 (9.5)
+Nalidixic acid (NA) 19 (90.5) 0 2 (9.5)
+Nitrofurantoin (F) 15 (71.4) 4 (19) 2 (9.5)
+Sulfamethoxazole-trimethoprim (SXT) 15 (71.4) 0 6 (28.6)
+Tetracycline (TE) 10 (47.6) 2 (9.5) 9 (42.6)
+
+
+Table 3: Antimicrobial resistance profiles of _Salmonella_ isolates recovered from animal-origin food items.
+
+
+Number of resistant isolates from food samples
+Antimicrobial tested Total (𝑛= 10)
+Minced meat (𝑛= 1) Raw meat (𝑛= 3) Raw egg (𝑛= 5) Raw milk (𝑛= 1)
+
+
+Amoxicillin (AML) 1 (100) 0 1 (20) 1 (100) 3 (30)
+
+Ampicillin (AMP) 0 0 1 (20) 1 (100) 2 (20)
+
+Cephalothin (KF) 1 (100) 1 (33.3) 0 0 2 (20)
+Ceftriaxone (CRO) 0 0 0 0 0
+
+Gentamicin (CN) 0 1 (33.3) 0 0 1 (10)
+
+Nalidixic acid (NA) 0 0 2 (40) 0 2 (20)
+
+Nitrofurantoin (F) 1 (100) 1 (33.3) 2 (40) 0 4 (40)
+Sulfamethoxazoletrimethoprim 1 (100) 1 (33.3) 2 (40) 0 4 (40)
+(SXT)
+
+
+Tetracycline (TE) 1 (100) 3 (100) 4 (80) 1 (100) 9 (90)
+
+
+
+nitrofurantoin. Looking at individual antimicrobials, resistance to tetracycline and sulfamethoxazole-trimethoprim
+was frequently observed, followed by ampicillin, amoxicillin,
+gentamicin, nalidixic acid, and nitrofurantoin. Two isolates
+(20%) exhibited resistance to one antimicrobial, while eight
+(80%) were resistant to two or more tested antimicrobials
+(Table 4). In general, antimicrobial susceptibility test revealed
+that ceftriaxone, gentamicin, and nalidixic acid were the
+antimicrobials indicated as active against _Salmonella_ spp.
+isolated from this study.
+
+
+**4. Discussion**
+
+
+In the present study, the prevalence and the antimicrobial
+resistance patterns of _Salmonella_ spp. isolated from foods of
+animal origin were evaluated. The study revealed an overall
+prevalence rate of 5.5% (21 of 384) in the studied food items.
+Even though there have been some studies on _Salmonella_
+isolation in food items in Ethiopia [10, 12, 13], there has been
+no uniformity with respect to the sample type examined; as a
+result, the overall prevalence of _Salmonella_ in animal-origin
+foods may not be comparable. In the combined analysis, the
+overall prevalence of _Salmonella_ in this study was lower than
+that reported in Thailand [18] but higher than the reports in
+Morocco [19]. The difference might be the sample type and
+sample procedures and the detection methods employed for
+
+
+
+different studies. As Padungtod and Kaneene [20] described
+earlier, the rate of prevalence may also vary from experiment
+to experiment, from country to country, or from one area
+to another area within a country. There are many potential
+sources by which foods of animal origin can become contaminated; some are at the food preparation stage and others
+are in the food preparing environment. Some examples of
+contamination during food item processing and preparation
+are storage, washing, and cutting. As a public health view,
+most foodborne _Salmonella_ infections are associated with
+foods of animal origin; however, recent investigations have
+identified fruits and vegetables as the source of contamination
+for foodborne _Salmonella_ outbreaks [21]. Transport vehicles
+and processing equipment are also other examples of contamination. Unclean environment, unhygienic food handling
+practices, and water sources in public places are suggestive
+evidence of _Salmonella_ postpreparation contamination in this
+study. Water of unknown microbiological quality can also be
+an important hazard for food items [21].
+In the present study, _Salmonella_ contamination in raw
+meat samples was 12%, which was in close agreement with
+that of Ejeta et al. [13], who reported 12% from retail raw meat
+samples in Addis Ababa, Ethiopia. In Ethiopia, approximately
+15% of the meat samples were found to be positive at the retail
+level. But our finding was lower as compared to the studies
+conducted in Senegal [22] and in Iran [23]. However, the
+
+
+
+
+BioMed Research International 5
+
+
+Table 4: Distribution of antimicrobial resistance among _Salmonella_ spp. isolated from food items.
+
+
+Resistant pattern Antimicrobial profles Resistant isolates Source of food items
+
+
+Multidrug-resistant AMP, F, SXT, TE 1 Minced meat
+
+Multidrug-resistant AML, AMP, NA, TE 1 Raw egg
+
+Multidrug-resistant KF, CN, SXT, TE 1 Raw meat
+
+Multidrug-resistant AML, AMP, TE 1 Raw milk
+
+Multidrug-resistant CN, SXT, TE 1 Raw egg
+
+Multidrug-resistant F, TE 1 Raw meat
+
+Multidrug resistant NA, SXT 1 Raw egg
+
+Multidrug-resistant SXT, TE 1 Raw egg
+
+Monodrug-resistant SXT 1 Raw egg
+
+Monodrug-resistant TE 1 Raw meat
+
+
+_Note._ AML: amoxicillin; AMP: ampicillin; KF: cephalothin; CRO: ceftriaxone; CN: gentamicin; NA: nalidixic acid; F: nitrofurantoin; SXT: sulfamethoxazoletrimethoprim; TE: tetracycline.
+
+
+
+prevalence of _Salmonella_ in this study is greater than 5% in
+Thailand [24]. The variations in the prevalence could probably be due to improper handling of meat, personal hygiene
+of food handlers, improper cleaning of cutting utensils,
+and possible cross-contamination in butcher shops. Workers
+can play a significant role in spreading the contamination
+during retailing and preparation [14, 25]. Recently, Garedew
+et al. [25] proved that butcher shop premises and utensils
+sanitation and personnel’s hygiene were poor in this study
+area. There is a risk of _Salmonella_ infection if the meat is
+improperly cooked and consumed raw, or if there is crosscontamination of _Salmonella_ with other foods that are consumed raw [21]. The study also suggested that overall crosscontamination, environmental contamination, and food handler contamination might be considered as a common source
+of _Salmonella_ along the food preparation. _Salmonella_ infection can occur via cross-contamination of meat in slaughterhouses, butcher shops, and the kitchen during food preparation. Contaminated raw or undercooked red meats can serve
+as main vehicles of transmission for _Salmonella_ [11, 25].
+In our study, isolated _Salmonella_ spp. in minced meat
+were 8%, which was comparable with the previous studies
+done by Nyeleti et al. [10] (7.9%) and Zewdu and Cornelius
+
+[26] (8%) in Ethiopia. However, it was lower than that
+reported by Molla et al. [12] (12.1%) and Ejeta et al. [13]
+(14.4%). This prevalence difference might be due to variations
+of the methods used for traditional minced meat preparation for human consumption in the different geographical
+locations of the country. This is possibly due to the fact
+that minced meat is a combination of red meat parts from
+different sources that are eventually ground together [13],
+which could further magnify _Salmonella_ contamination. This
+observation can be correlated to cross-contamination during
+handling and grinding of minced meat. In Ethiopia, traditionally prepared minced meat is often eaten raw or after minimal cooking, and it may be the potential source of _Salmonella_
+infection for the public in the country. In this study, only one
+burger sample was contaminated by _Salmonella_ spp. The reason might be due to improperly cooked meat or poor personal
+hygiene of food handlers or inadequate cleaning of utensils
+
+
+
+and equipment or cross-contamination with other products
+like vegetables and fruits. Tomatoes have been indicated
+as a common food product involved in many _Salmonella_
+outbreaks [27]. On the other hand, an irregular water supply
+to most of the mass catering establishments in this study area
+made washing practices more difficult and, consequently,
+washing utensils and knives was infrequently practiced [25].
+In the category of raw eggs, we recorded a contamination
+rate of 18%. Various contamination levels were reported by
+numerous studies worldwide: 8% from chicken eggs in Dhaka
+city [28] and 24% in Nigeria [29]. Conversely, the present
+finding was higher than 0.3% in Dhaka [30]. _Salmonella_
+prevalence from eggs in this study might be explained by
+environmental contamination during storage and transportation and ineffective cleaning of eggs. Moreover, the management system in practice could also be the probable reason for
+the variation of the prevalence. Egg contamination can occur
+in the infected ovary of the hen and also through egg contact
+with fecal material or it might be due to contamination of
+eggs during their supply from chicken owners to wholesale
+and retail markets. _Salmonella_ detection from raw milk in
+the present study was comparable with a study conducted
+in Nigeria [31] and lower than 20% prevalence in Ethiopia
+
+[32]. This difference might arise from milking contamination,
+unclean equipment, and poor hygiene of milk maid and handlers. However, it is higher than the prevalence of 2.1%, which
+is found in Ethiopia [33]. As indicated by Garedew et al. [14],
+unclean environmental conditions and poor udder preparation might expose raw milk to bacterial contamination.
+No _Salmonella_ was isolated from pasteurized milk, cottage cheese, cream cake, egg sandwich, and pizza samples.
+Even though some studies reported _Salmonella_ isolation from
+pasteurized milk in Ethiopia [26], proper pasteurization of
+the milk, the good sanitary condition of the processing plant,
+and absence of contamination after pasteurization of milk
+might be possible factors for negative samples. This finding
+is also supported by Garedew et al. [14], who explained that
+by the effectiveness of pasteurization at the processing plant
+we can minimize milk contamination to a lower level along
+the path from the cow to the pasteurization plant as well as
+
+
+
+
+6 BioMed Research International
+
+
+
+during postpasteurization processing. In addition, the use of
+the right temperature for the storage of food items and ingredients used to prepare foods, clean cooking environment and
+equipment, and the good hygiene of storage and handlers are
+essential to reduce _Salmonella_ contamination. The amount
+of _Salmonella_ could have been too low to be detectable by
+cultural methods in this study.
+In the present study, the antimicrobial-resistant _Salmo-_
+_nella_ were found to be 47.6% of the total 21 _Salmonella_ isolates tested, which is lower than those in previous studies
+conducted elsewhere in Ethiopia [25]. This observed resistance profile was higher than what other studies reported in
+Ethiopia (23.5%) [26] and in Senegal (17%) [22]. However,
+our findings were lower than 83% reported in Thailand [24].
+Even though it needs a better understanding of antibiotics use
+in Ethiopia, this resistance variation might be due to indiscriminate use of antimicrobials in animal production without
+prescription in the animal health sector, which might favor
+selection pressure that increased the advantage of maintaining resistance genes in bacteria [34]. This is also supported by
+a high prevalence of _Salmonella_ reported from humans and
+different food animals, with the strains having high levels of
+drug resistance [35, 36]. Recently, the meta-analysis of animal
+_Salmonella_ isolates resistant to drugs used against human
+salmonellosis in Ethiopia also showed that food animals are
+human exposure sources of antibiotic-resistant _Salmonella_
+
+[35].
+In our study, most of the identified isolates are resistant
+to two or more antimicrobials, particularly to tetracycline
+(90%), sulfamethoxazole-trimethoprim (40%), nitrofurantoin (40%), and amoxicillin (30%). _Salmonella_ resistance in
+this finding was higher than in the previous studies done in
+Ethiopia [26, 32] and other countries [22, 24]. The remarkable rise in the occurrence of antimicrobial resistance in
+_Salmonella_ for the mentioned antibiotics was probably an
+indication of their frequent usage both in livestock and in
+public health sectors in Ethiopia. Studies conducted elsewhere in Ethiopia [35] have also indicated that the increase
+in the proportion of drug-resistant _Salmonella_ isolates could
+be due to the irrational use of antimicrobials and inappropriateness of the prescription and dispensing methods in both
+the public veterinary and private health setups of the country.
+Due to the relatively limited access and high price to get
+the newly developed cephalosporin and quinolone drugs, the
+reports of prevalence of antimicrobial-resistant _Salmonella_ to
+relatively low-priced and regularly available antibiotics are
+alarming for a low-income society living in most developing
+countries, like Ethiopia. However, it is important to note that
+these antibiotics are commonly used in veterinary medicine,
+and infections with these resistant _Salmonella_ isolates could
+lower the efficiency of antibiotic treatment. The finding of this
+study shows slightly lower resistance than the study reported
+in Nigeria (93.1%) [29]. In recent times, the frequency of
+antimicrobial drug resistance in _Salmonella_ and the number
+of drugs to which the strains are resistant have increased
+worldwide, primarily as a consequence of antimicrobial use
+in food production. Recent reports have also highlighted
+the emergence of _Salmonella_ with reduced susceptibility to
+fluoroquinolones and other drugs [9], which is associated
+
+
+
+with treatment failures and poor outcomes in human infections.
+This study has limitations. We did not serotype identified
+_Salmonella_ isolates for strain identification and characterization due to financial and lab facility constraints. In addition,
+we did not see the risk factors that might promote contamination and/or associations of _Salmonella_ with foods of animal
+origin and drug resistance profiles. Therefore, this study’s
+results should be considered as a baseline for bacteriological
+assessment of _Salmonella_ isolates from foods of animal origin,
+which will be further serotyped and confirmed as foodborne
+pathogens by future studies in the same setting including food
+items of both animal and plant origin.
+
+
+**5. Conclusion**
+
+
+This study showed that _Salmonella_ isolates were identified
+among the food items of animal origin, particularly for
+meat and its minced product, raw eggs, and raw milk.
+_Salmonella_ drug resistance was also observed for almost all
+tested antibiotics that are commonly used in both veterinary
+and human health sectors in this study area and other parts
+of Ethiopia. This bacteriological assessment of _Salmonella_
+isolates from foods of animal origin can be used as a starting
+point to improve the city’s foodborne pathogen surveillance
+system, as well as support hygiene and sanitation offices to
+assess and improve their public health and disease control
+programs. Therefore, our findings provide the prevalence and
+drug resistance of _Salmonella_ from foods of animal origin and
+contribute information to scientists as well as public health
+researchers for the development of guidelines as well as food
+safety regulations to minimize the prevalent and resistant
+foodborne _Salmonella_ species.
+
+
+**Disclosure**
+
+
+The authors are veterinary and public health professionals
+and members of the veterinary public health theme in
+subgroup of zoonosis and food safety research team at the
+University of Gondar. They are involved and interested in
+tuberculosis and foodborne zoonotic and food safety studies.
+
+
+**Competing Interests**
+
+
+The authors declare that they have no competing interests.
+
+
+**Authors’ Contributions**
+
+
+Mebrat Ejo and Legesse Garedew conceived and designed
+the experiments. Zabishwork Alebachew, Walelgn Worku,
+and Legesse Garedew performed the experiments. Mebrat
+Ejo, Zabishwork Alebachew, and Legesse Garedew analyzed
+the data. Legesse Garedew and Walelgn Worku contributed
+reagents/materials/analysis tools. Mebrat Ejo and Legesse
+Garedew wrote the paper.
+
+
+**Acknowledgments**
+
+
+The authors would like to acknowledge the University of
+Gondar, Ethiopia, for the financial support of this study.
+
+
+
+
+BioMed Research International 7
+
+
+
+They are also grateful to the staff members of the Faculty
+of Veterinary Medicine and the Institute of Public Health,
+University of Gondar, and Gondar Administration Bureau.
+In addition, they would like to appreciate the owners of
+the public catering establishments and personnel for their
+cooperation and participation in this study.
+
+
+**References**
+
+
+[1] R. S. Hendriksen, A. R. Vieira, S. Karlsmose et al., “Global monitoring of _Salmonella_ serovar distribution from the world health
+organization global foodborne infections network country data
+bank: results of quality assured laboratories from 2001 to 2007,”
+_Foodborne Pathogens and Disease_, vol. 8, no. 8, pp. 887–900,
+2011.
+
+[2] S. E. Majowicz, J. Musto, E. Scallan et al., “The global burden
+of nontyphoidal _Salmonella_ gastroenteritis,” _Clinical Infectious_
+_Diseases_, vol. 50, no. 6, pp. 882–889, 2010.
+
+[3] F. K¨aferstein, “Foodborne diseases in developing countries:
+aetiology, epidemiology and strategies for prevention,” _Interna-_
+_tional Journal of Environmental Health Research_, vol. 13, no. 1,
+pp. S161–S168, 2003.
+
+[4] F. M. S´anchez-Vargas, M. A. Abu-El-Haija, and O. G. G´omezDuarte, “ _Salmonella_ infections: an update on epidemiology,
+management, and prevention,” _Travel Medicine and Infectious_
+_Disease_, vol. 9, no. 6, pp. 263–277, 2011.
+
+[5] E. Carrasco, A. Morales-Rueda, and R. M. Garc´ıa-Gimeno,
+“Cross-contamination and recontamination by _Salmonella_ in
+foods: a review,” _Food Research International_, vol. 45, no. 2, pp.
+545–556, 2012.
+
+[6] G. Tadesse, “Prevalence of human Salmonellosis in Ethiopia: a
+systematic review and meta-analysis,” _BMC Infectious Diseases_,
+vol. 14, article no. 88, 2014.
+
+[7] N. A. Feasey, G. Dougan, R. A. Kingsley, R. S. Heyderman, and
+M. A. Gordon, “Invasive non-typhoidal salmonella disease: an
+emerging and neglected tropical disease in Africa,” _The Lancet_,
+vol. 379, no. 9835, pp. 2489–2499, 2012.
+
+[8] WHO (World Health Organization), _The Evolving Threat of_
+_Antimicrobial Resistance: Options for Action_, WHO, Geneva,
+Switzerland, 2012.
+
+[9] WHO (World Health Organization), _Antimicrobial Resistance:_
+_Global Report on Surveillance_, WHO, Geneva, Switzerland,
+2014.
+
+[10] C. Nyeleti, B. Molla, G. Hildebrandt, and J. Kleer, “The prevalence and distribution of Salmonellae in slaughter cattle, slaughterhouse personnel and minced beef in Addis Ababa (Ethiopia),” _Bulletin of Animal Health and Production in Africa_, vol.
+48, pp. 19–24, 2000.
+
+[11] L. Garedew-Kifelew, N. Wondafrash, and A. Feleke, “Identification of drug-resistant _Salmonella_ from food handlers at the
+University of Gondar, Ethiopia,” _BMC Research Notes_, vol. 7,
+article no. 545, 2014.
+
+[12] B. Molla, D. Alemayehu, and W. Salah, “Sources and distribution of Salmonella serotypes isolated from food animals, slaughterhouse personnel and retail meat products in Ethiopia: 1997–
+2002,” _Ethiopian Journal of Health Development_, vol. 17, no. 1,
+2003.
+
+[13] G. Ejeta, B. Molla, D. Alemayehu, and A. Muckle, “Salmonella
+serotypes isolated from minced meat beef, mutton and pork in
+Addis Ababa, Ethiopia,” _Revue de Medecine Veterinaire_, vol. 155,
+no. 11, pp. 547–551, 2004.
+
+
+
+
+[14] L. Garedew, A. Berhanu, D. Mengesha, and G. Tsegay, “Identification of gram-negative bacteria from critical control points of
+raw and pasteurized cow milk consumed at Gondar town and
+its suburbs, Ethiopia,” _BMC Public Health_, vol. 12, no. 1, article
+950, 2012.
+
+[15] CSA (Central Statistical Authority), “The federal democratic
+republic of ethiopia, central statistical investigatory,” Statistical
+Report, 2007.
+
+[16] International Organization for Standardization (ISO) 6579,
+_Microbiology of Food and Animal Feeding Stuff-Horizontal_
+_Method for the Detection of Salmonella_, International Organization for Standardization (ISO), Geneva, Switzerland, 4th
+edition, 2002.
+
+[17] CLSI (Clinical and Laboratory Standards Institute), _Perfor-_
+_mance for Antimicrobial Disk Susceptibility Tests; Approved the_
+_Standard_, CLSI Document M02-A11, CLSI, Wayne, Pa, USA,
+11th edition, vol. 32, no. 1, pp. 1–76, 2012.
+
+[18] S. M. Vindigni, A. Srijan, B. Wongstitwilairoong et al., “Prevalence of foodborne microorganisms in retail foods in Thailand,”
+_Foodborne Pathogens and Disease_, vol. 4, no. 2, pp. 208–215,
+2007.
+
+[19] B. Bouchrif, B. Paglietti, M. Murgia et al., “Prevalence and
+antibiotic-resistance of _Salmonella_ isolated from food in
+Morocco,” _Journal of Infection in Developing Countries_, vol. 3,
+no. 1, pp. 35–40, 2009.
+
+[20] P. Padungtod and J. B. Kaneene, “ _Salmonella_ in food animals
+and humans in northern Thailand,” _International Journal of_
+_Food Microbiology_, vol. 108, no. 3, pp. 346–354, 2006.
+
+[21] M. A. Gallegos-Robles, A. Morales-Loredo, G. Alvarez-Ojeda et [´]
+al., “PCR detection and microbiological isolation of _Salmonella_
+spp. from fresh beef and cantaloupes,” _Journal of Food Science_,
+vol. 74, no. 1, pp. M37–M40, 2009.
+
+[22] A. Stevens, Y. Kabor´e, J.-D. Perrier-Gros-Claude et al., “Prevalence and antibiotic-resistance of _Salmonella_ isolated from beef
+sampled from the slaughterhouse and from retailers in Dakar
+(Senegal),” _International Journal of Food Microbiology_, vol. 110,
+no. 2, pp. 178–186, 2006.
+
+[23] M. M. S. Dallal, M. P. Doyle, M. Rezadehbashi et al., “Prevalence
+and antimicrobial resistance profiles of _Salmonella_ serotypes,
+_Campylobacter_ and _Yersinia_ spp. isolated from retail chicken
+and beef, Tehran, Iran,” _Food Control_, vol. 21, no. 4, pp. 388–392,
+2010.
+
+[24] B. A. Gebre, “Qualitative screening of antibiotic residues and
+identification of antibiotic resistant _Salmonella_ from raw and
+ready to eat meat in Thailand,” _International Journal of Advanced_
+_Life Sciences_, vol. 5, pp. 51–64, 2012.
+
+[25] L. Garedew, Z. Hagos, Z. Addis, R. Tesfaye, and B. Zegeye,
+“Prevalence and antimicrobial susceptibility patterns of _Sal-_
+_monella_ isolates in association with hygienic status from butcher
+shops in Gondar town, Ethiopia,” _Antimicrobial Resistance and_
+_Infection Control_, vol. 4, no. 1, article 21, 2015.
+
+[26] E. Zewdu and P. Cornelius, “Antimicrobial resistance pattern of
+_Salmonella_ serotypes isolated from food items and personnel in
+Addis Ababa, Ethiopia,” _Tropical Animal Health and Production_,
+vol. 41, no. 2, pp. 241–249, 2009.
+
+[27] S. A. Bidol, E. R. Daly, R. E. Rickert et al., “Multistate outbreaks
+of _Salmonella_ infections associated with raw tomatoes eaten in
+restaurants—United States, 2005-2006,” _Morbidity and Mortal-_
+_ity Weekly Report_, vol. 56, no. 35, pp. 909–911, 2007.
+
+[28] M. M. Ahmed, M. M. Rahman, K. R. Mahbub, and M. Wahiduzzaman, “Characterization of Antibiotic Resistant _Salmonella_
+
+
+
+
+8 BioMed Research International
+
+
+spp Isolated from Chicken Eggs of Dhaka City,” _Journal of_
+_Scientific Research_, vol. 3, no. 1, pp. 191–196, 2010.
+
+[29] E. O. Ekundayo and J. C. Ezeoke, “Prevalence and antibiotic
+sensitivity profile of _Salmonella_ species in eggs and poultry
+farms in Umudike, Abia State,” _Journal of Animal and Veterinary_
+_Advances_, vol. 10, pp. 206–209, 2011.
+
+[30] K. Begum, T. A. Reza, M. Haque et al., “Isolation, identification and antibiotic resistance pattern of _Salmonella_ Spp. from
+chicken eggs, intestine and environmental samples,” _Bangladesh_
+_Pharmaceutical Journal_, vol. 13, no. 1, pp. 23–27, 2010.
+
+[31] N. S. Karshima, V. A. Pam, S. I. Bata, P. A. Dung, and N. D.
+Paman, “Isolation of _Salmonella_ species from milk and locally
+processed milk products traded for human consumption and
+associated risk factors in Kanam, Plateau State, Nigeria,” _Journal_
+_of Animal Production Advances_, vol. 3, no. 3, pp. 69–74, 2013.
+
+[32] T. Tadesse and A. Dabassa, “Prevalence and antimicrobial resistance of _Salmonella_ isolated from raw milk samples collected
+from Kersa district, Jimma Zone, Southwest Ethiopia,” _Journal_
+_of Medical Sciences_, vol. 12, no. 7, pp. 224–228, 2012.
+
+[33] T. Liyuwork, T. Biruhalem, A. Sefinew, A. Haile, S. Zufan, and
+N. Haileleul, “Prevalence and antimicrobial resistance profile
+of _Salmonella_ isolates from dairy products in Addis Ababa,
+Ethiopia,” _African Journal of Microbiology Research_, vol. 7, no.
+43, pp. 5046–5050, 2013.
+
+[34] M. Gillings, Y. Boucher, M. Labbate et al., “The evolution of
+class 1 integrons and the rise of antibiotic resistance,” _Journal_
+_of Bacteriology_, vol. 190, no. 14, pp. 5095–5100, 2008.
+
+[35] G. Tadesse, “A meta-analysis of the proportion of animal _Sal-_
+_monella_ isolates resistant to drugs used against human salmonellosis in Ethiopia,” _BMC Infectious Diseases_, vol. 15, no. 1,
+article 84, 2015.
+
+[36] B. Molla, A. Berhanu, A. Muckle et al., “Multidrug resistance
+and distribution of _Salmonella_ serovars in slaughtered pigs,”
+_Journal of Veterinary Medicine Series B: Infectious Diseases and_
+_Veterinary Public Health_, vol. 53, no. 1, pp. 28–33, 2006.
+
+

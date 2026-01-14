@@ -1,0 +1,85 @@
+FOODBORNE PATHOGENS AND DISEASE
+Volume 12, Number 5, 2015
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/fpd.2014.1882
+
+## Prevalence and Antimicrobial Resistance Profile of Staphylococcus Species in Chicken and Beef Raw Meat in Egypt
+
+
+Kamelia M. Osman, [1] Aziza M. Amer, [2] Jihan M. Badr, [3] and Aalaa S.A. Saad [3]
+
+
+Abstract
+
+
+Coagulase-positive (CPS) and coagulase-negative (CNS) staphylococci cause staphylococcal food poisoning.
+Recently, CPS and CNS have received increasing attention due to their potential role in the dissemination of
+antibiotic resistance markers. The present study aimed to evaluate CPS and CNS species distribution and their
+antibiotic resistance profile isolated from chicken and beef meat. Fifty fresh, uncooked chicken parts and 50
+beef meat cuts (local n = 27; imported n = 23) were used. One hundred staphylococcal isolates belonging to 11
+species were isolated and identified from chicken (n = 50) and beef (n = 50) raw meat samples. Staphylococcus
+hyicus (26/100), lugdunensis (18/100), aureus (15/100) and epidermidis (14/100) were dominant. S. aureus was
+100% resistant to penicillin and sulfamethoxazole/trimethoprim. Vancomycin-resistant S. aureus showed intermediate resistance (51%), which might indicate the dissemination of vancomycin resistance in the community and imply food safety hazards. The percentage of resistance to b-lactams was variable, with the highest
+resistance being to penicillin (94%) and lowest to ampicillin-sulbactam (22%). Antimicrobial resistance was
+mainly against penicillin (94%), clindamycin (90%) and sulfamethoxazole/trimethoprim (82%). The results
+indicate that chicken and beef raw meat are an important source of antibiotic-resistant CPS and CNS.
+
+
+
+Introduction
+
+he poultry industry in Egypt with a population of 1
+billion broilers is estimated to produce 1.5 metric tons
+# T
+(MT) of poultry meat during the period of 2014 (Hassan,
+2014).The investment in the poultry industry is around 25
+billion Egyptian pounds, and ranks first in the Middle East
+(Hassan, 2014). The beef meat imports were around 230 MT
+in the year 2014 (USDA, 2014). Chicken meat contributes
+substantially to the diet in Egypt, and is an important, lowcost source of animal protein encouraging the consumption of
+chicken meat by a large number of consumers.
+Today, according to the current List of Bacterial Names
+with Standing in Nomenclature (Euze´by, 2014), the genus
+Staphylococcus comprises 71 species, with 24 named subspecies. Staphylococcal food poisoning is believed to be
+greatly underreported (by about 25-fold) and underdiagnosed
+(by about 29-fold) (Doyle et al., 2012). The consumption of
+chicken and beef meat was implicated in a large number of
+outbreaks of staphylococcal food poisoning in humans in
+different countries (Argudı´n et al., 2010). Discrimination
+between Staphylococcus (S.) aureus and NSA (non-S. aureus
+staphylococci) involved in meat contamination is essential in
+terms of public health significance. Most staphylococci spe
+
+
+cies are coagulase-negative (CNS) and they are distinguished
+from coagulase-positive staphylococci (CPS) by their inability to produce the enzyme coagulase. Although CPS, and
+especially S. aureus, are regarded as important pathogens in
+humans and animals, CNS should not be ignored in epidemiological investigations of foodborne outbreaks based on
+the presence of enterotoxin genes (Rall et al., 2010; Batista
+et al., 2013). In the last 20 years, however, the interest in CNS
+species has significantly increased in both human and veterinary medicine (Rogers et al., 2009; Braem et al., 2014).
+Information regarding the detailed prevalence of S. aureus
+and NSA isolates was insufficient in Egypt.
+The aim of this study was to evaluate the occurrence of S.
+aureus and NSA and between CPS and CNS strains isolated
+from retail chicken and beef marketed in Cairo, Egypt, by
+using cultural and biochemical tests, to determine their diversity between samples and to characterize the isolated
+strains based on their resistance to antibiotics.
+
+
+Materials and Methods
+
+
+A total of 100 samples each of chicken (n = 50) and beef
+(local, n = 27 and imported, n = 23) were randomly collected
+from various local supermarkets and butcher shops. All
+
+
+
+Departments of [1] Microbiology and [2] Pharmacology, Faculty of Veterinary Medicine, Cairo University, Cairo, Egypt.
+3Department of Poultry Diseases, Animal Health Research Institute, Dokki, Egypt.
+
+
+406
+
+

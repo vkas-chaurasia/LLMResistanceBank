@@ -1,0 +1,127 @@
+Osman et al. ARGs with Staphylococci Chicken Meat
+
+
+
+decades, a continuous loss of susceptibility toward most of
+the available antibiotics was recorded for CNS with a greater
+tendency to develop multidrug resistance (Taponen and Pyörälä,
+2009) limiting present therapies posing a great threat to the health
+care system worldwide (Balaban and Rasooly, 2000; AndersonBerry et al., 2011; deKraker et al., 2011; Jean-Baptiste et al., 2011;
+Marra et al., 2011). CNS of both animal and human origins
+are believed to serve as important reservoirs of antimicrobial
+resistance genes (Becker et al., 2014), which can transfer and
+integrate into the S. aureus genome leading to the emergence of
+new, potentially more resistant strains (Otto, 2012; Vitali et al.,
+2014). The mechanisms responsible for antimicrobial resistance
+in CNS are identical to those occurring in S. aureus (Livermore,
+2000). Reports of methicillin-resistant strains among CNS are
+challenging due to the large proportion of methicillin-resistant
+strains and increasing numbers of isolates reinforcing the need to
+revise their importance to food safety (Bhargava and Zhang, 2014;
+Chah et al., 2014; Osman et al., 2016a,b). Therefore, screening
+of these elements is important for public health and despite the
+importance of such a screen, limited data are available for CNS at
+the species level among the chicken retail meat.
+Consequently, our endeavor was to reveal the hypothetical
+implications that chicken meat may serve as a vector for the
+conveyance of AMRB and AMRG to humans. Therefore,
+we pursued in this study to probe the quinolone resistance
+determining region that has not been formerly analyzed, the
+mecA and cfr genes of methicillin-susceptible Staphylococcus
+aureus (MSSA), methicillin-resistant S. aureus (MRSA),
+methicillin-resistant coagulase-negative staphylococci (MRCNS)
+and methicillin-susceptible coagulase-negative staphylococci
+(MSCNS) isolated from the retail trade of ready-to-eat raw
+chicken meat sold in the retail market.
+
+
+MATERIALS AND METHODS
+
+
+Sample Collection and Processing
+Retail chicken (breasts and thighs) products (n = 100) were
+collected from 20 retail supermarkets and groceries in the Great
+Cairo Area during the year 2013. The purchased products at
+retail were placed in sterile plastic containment (zip-seal bags)
+then into ice chests with cold blocks to be immediately sent to
+the Department of Poultry Diseases, Animal Health Research,
+Institute, Dokki, laboratory for microbiological analyses. Upon
+arrival at the laboratory, the samples were transferred aseptically
+into stomacher bags with sterile tongs and weighed. Samples
+weighing 205 g were hand agitated with 250 ml of sterile 0.1%
+peptone broth. A 30 ml aliquot of sample wash was added to
+30 ml of Baird Parker broth (2x concentration) with tellurite
+enrichment in a 250 ml sterile Erlenmeyer flask and incubated
+at 37 [◦] C for 18–24 h. After enrichment, 10 µl of broth was plated
+onto each of five antibiotic-supplemented Baird Parker agars
+with EY tellurite enrichment (BD) formulations and one unsupplemented formulation and incubated 18–24 h for growth.
+After enrichment, 10 µl was plated onto Baird Parker agar (BPA)
+with EY tellurite enrichment and incubated at 35 [◦] C 18–24 h
+for growth. Ten microliter were also plated onto CHROMagar
+MRSA plates and incubated at 35 [◦] C 24–48 h and examined for
+
+
+
+growth. Presumptive S. aureus (black colonies with clear halos on
+BPA) and presumptive MRSA (mauve colonies on CHROMagar)
+were initially screened using conventional methods: Gram
+staining, coagulase plasma test, hemolysis, catalase production,
+salt mannitol agar growth, Voges-Proskauer test, the maltose
+and trehalose fermentation test, susceptibility to polymyxin B
+test (300 lg, NewProv) and KOH test. Further confirmation
+was achieved by the API Staph kit. Individual colonies from all
+positive plates were streaked for isolated colonies twice before
+being frozen at −80 [◦] C in Brucella Broth (BD) containing 20%
+glycerol (Sigma). On the day of experimentation the isolates
+were subcultured onto Mueller-Hinton agar, stored at 27 [◦] C
+in tryptic soy broth and fetal calf serum containing 2% yeast
+extract and revitalized for phenotypic resistance testing and DNA
+preparation.
+
+
+Antibiotic Susceptibility Test
+Antibiotic resistance of the 50 isolated Staphylococcus spp.
+was examined using 12 commercial antibiotic discs and
+performed by the standard disc diffusion method (CLSI,
+2013). S. aureus ATCC 25923 was plated as a control. After
+incubation at 37 [◦] C for 24 h the diameter of inhibition
+halos around the colonies was measured. The antibiotics
+used were: penicillin (10 µg), ampicillin-sulbactam (20 µg),
+chloramphenicol (30 µg), ciprofloxacin (5 µg), erythromycin
+(15 µg), tetracycline (30 µg), gentamicin (10 µg), clindamycin
+(2 µg), methicillin (5 µg), oxacillin (1 µg), vancomycin
+(30 µg), and sulfamethoxazole/trimethoprim (25 µg). In the
+present investigation, we followed the criteria and standardized
+international terminology for defining multidrug-resistant
+(MDR), extensively drug-resistant (XDR) and pandrug-resistant
+(PDR) in S. aureus that was created through a joint initiative
+by the European Centre for Disease Prevention and Control
+(ECDC) and the Centers for Disease Control and Prevention
+(CDC) (Magiorakos et al., 2012): MDR was defined as acquired
+non-susceptibility to at least one agent in three or more
+antimicrobial categories (and one or more of these have to
+apply: an MRSA is always considered MDR by virtue of being an
+MRSA or/and non-susceptible to ≥1 agent in ≥3 antimicrobial
+categories), XDR was defined as non-susceptibility to at least
+one agent in all but two or fewer antimicrobial categories
+(non-susceptible to ≥1 agent in all but ≤2 categories) and PDR
+was defined as non-susceptibility to all agents in all antimicrobial
+categories.
+
+
+Extraction of Staphylococcal DNA and
+Amplification of the 16S rRNA Gene,
+Quinolone Resistance Determining Region,
+mecA and cfr Genes by PCR
+Bacterial genomic DNA was made from all 50 isolates from 2 mL
+of bacterial suspension from an overnight culture in brain-heart
+infusion using a protocol previously described (Bakshi et al.,
+2005). The DNA pelletts were resuspended in an appropriate
+volume of TE solution (10 mM Tris-HCl, pH 8.0; 1 mM EDTA).
+Amplification was performed from the purified genomic DNA
+
+
+
+[Frontiers in Microbiology | www.frontiersin.org](http://www.frontiersin.org/Microbiology) 3 [November 2016 | Volume 7 | Article 1846](http://www.frontiersin.org/Microbiology/archive)
+
+

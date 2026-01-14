@@ -1,0 +1,96 @@
+Moawad _et al. Gut Pathog (2017) 9:57_ Page 4 of 13
+
+
+**Table 3 PCR primers, their sequences and amplification targets used in this study**
+
+
+**Primer** **Sequence (5′–3′)** **Amplicon size (bp)** **Amplification target** **References**
+
+
+_E. coli_, _Salmonella enterica_ and _Salmonella_ serovar identification
+
+ECO-f GAC CTC GGT TTA GTT CAC AGA 585 _E. coli_ [67]
+
+ECO-r CAC ACG CTG ACG CTG ACC A
+
+OMPCF ATC GCT GAC TTA TGC AAT CG 204 _Salmonella_ genus [68]
+
+OMPCR CGG GTT GCG TTA TAG GTC TG
+
+ENTF TGT GTT TTA TCT GAT GCA AGA GG 304 _S._ Enteritidis [68]
+
+ENTR TGA ACT ACG TTC GTT CTT CTG G
+
+TYPHF TTG TTC ACT TTT TAC CCC TGA A 401 _S_ . Typhimurium [68]
+
+TYPHR CCC TGA CAG CCG TTA GAT ATT
+
+β-Lactamases
+
+TEM-F ATA AAA TTC TTG AAG ACG AAA 1080 _bla_ TEM [69]
+
+TEM-R GAC AGT TAC CAA TGC TTA ATC
+
+OXA-F TCA ACT TTC AAG ATC GCA 591 _bla_ OXA [69]
+
+OXA-R GTG TGT TTA GAA TGG TGA
+
+OXA-F-2 ATT AAG CCC TTT ACC AAA CCA Whole _bla_ OXA [69]
+
+OXA-R-2 AAG GGT TGG GCG ATT TTG CCA
+
+OXA-23-F GAT CGG ATT GGA GAA CCA GA 501 _bla_ OXA-23 [25]
+
+OXA-23-R ATT TCT GAC CGC ATT TCC AT
+
+CTX-M-F CGC TTT GCG ATG TGC AG 550 _bla_ CTX-M [69]
+
+CTX-M-R ACC GCG ATA TCG TTG GT
+
+CTX-M-F2 CCA GAA TAA GGA ATC CCA TG Whole _bla_ CTX-M [69]
+
+CTX-M-R2 GCC GTC TAA GGC GAT AAA C
+
+CMY-F GAC AGC CTC TTT CTC CAC A 1007 _bla_ CMY [69]
+
+CMY-R TGG AAC GAA GGC TAC GTA
+
+CMY-F2 ACG GAA CTG ATT TCA TGA TG Whole _bla_ CMY [69]
+
+CMY-R2 GAA AGG AGG CCC AAT ATC CT
+
+SHV-F TTA TCT CCC TGT TAG CCA CC 795 _bla_ SHV [69]
+
+SHV-R GAT TTG CTG ATT TCG CTC GG
+
+Integrons
+
+5′-CS GGC ATC CAA GCA GCA AG 152 Class 1 integron [69]
+
+3′-CS AAG CAG ACT TGA CCT GA
+
+hep74 CGG GAT CCC GGA CGG CAT GCA CGA TTT GTA 491 Class 2 integron [69]
+
+hep51 GAT GCC ATC GCA AGT ACG AG
+
+Plasmid-mediated quinolone resistance gene
+
+qnrA-F ATT TCT CAC GCC AGG ATT TG 516 _qnr_ A [69]
+
+qnrA-R GAT CGG CAA AGG TTA GGT CA
+
+qnrB-F GAT CGT GAA AGC CAG AAA GG 469 _qnr_ B [69]
+
+qnrB-R ACG ATG CCT GGT AGT TGT CC
+
+qnrS-F ACG ACA TTC GTC AAC TGC AA 417 _qnr_ S [69]
+
+qnrS-R TAA ATT GGC ACC CTG TAG GC
+
+Plasmid-mediated colistin resistance gene
+
+CLR5-F CGG TCA GTC CGT TTG TTC 308 _mcr_ -1 [24]
+
+CLR5-R CTT GGT CGG TCT GTA GGG
+
+

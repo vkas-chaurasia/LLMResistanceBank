@@ -1,1280 +1,490 @@
-# Occurrence of *Salmonella enterica* and *Escherichia coli* in raw chicken and beef meat in northern Egypt and dissemination of their antibiotic resistance markers
+# Frequency of contamination and antimicrobial resistance of thermotolerant Campylobacter isolated from some broiler farms and slaughterhouses in the region of Algiers
 
-**Amira A. Moawad, Helmut Hotzel, Omnia Awad, Herbert Tomaso, Heinrich Neubauer, Hafez M. Hafez and Hosny El-Adawy**
+**Authors:** Sara Messad, Taha-Mossadak Hamdi, Radia Bouhamed, Nadjia Ramdani-Bouguessa, Mohamed Tazir
 
-**Journal:** Gut Pathogens (2017) 9:57
-**DOI:** 10.1186/s13099-017-0206-9
+**Journal:** Food Control 40 (2014) 324-328
 
----
+## Abstract
 
-### Abstract
+Campylobacteriosis in humans is caused by thermotolerant *Campylobacter* spp, following consumption of contaminated poultry, most commonly broiler. The aim of this study was to assess the frequency of contamination by thermotolerant *Campylobacter* and to characterize antimicrobial resistance of the strains isolated from broilers in some farms and slaughterhouses in the region of Algiers.
 
-**Background:** The global incidence of foodborne infections and antibiotic resistance is recently increased and considered of public health concern. Currently, scarcely information is available on foodborne infections and ESBL associated with poultry and beef meat in Egypt.
+One hundred droppings samples, 100 contents of ceaca and 100 neck skins were taken from six poultry farms and five slaughterhouses, than analyzed according to NF ISO 10272-1/1995 norm and the OIE recommendations. Susceptibility to antibiotics was determined according to the guidelines of the CA-SFM/2010 by disc diffusion method.
 
-**Methods:** In total, 180 chicken and beef meat samples as well as internal organs were collected from different districts in northern Egypt. The samples were investigated for the prevalence and antibiotic resistance of *Salmonella enterica* serovars and *Escherichia coli*. All isolates were investigated for harbouring class 1 and class 2 integrons.
+Thermotolerant *Campylobacter* strains were isolated from 85%, 98%, and 80% of droppings, caecal content and neck skin, respectively. All the strains (100%) were resistant to nalidixic acid and sensitive to gentamicin and to chloramphenicol. 83.7% of them were resistant to tetracycline and to ciprofloxacin, 75.3% to ampicillin, 46.8% to amoxicillin/clavulanic acid and 21.7% were resistant to erythromycin. All the isolates showed a multi-drug resistance. Nineteen different profiles were identified with “AM, AMC, NA, CIP, TE” combination as the most common profile identified for 27% (n = 74) of isolated strains. In addition, 15% of the strains were resistant to both erythromycin and ciprofloxacin, which are systematically used in treatment of human *Campylobacter* infections.
 
-**Results:** Out of 180 investigated samples 15 *S. enterica* (8.3%) and 21 *E. coli* (11.7%) were isolated and identified. *S. enterica* isolates were typed as 9 *S.* Typhimurium (60.0%), 3 *S.* Paratyphi A (20.0%), 2 *S.* Enteritidis (13.3%) and 1 *S.* Kentucky (6.7%). Twenty-one *E. coli* isolates were serotyped into O1, O18, O20, O78, O103, O119, O126, O145, O146 and O158. The phenotypic antibiotic resistance profiles of *S. enterica* serovars to ampicillin, cefotaxime, cefpodoxime, trimethoprim/sulphamethoxazole and tetracycline were 86.7, 80.0, 60.0, 53.3 and 40.0%, respectively. Isolated *E. coli* were resistant to tetracycline (80.9%), ampicillin (71.4%), streptomycin, trimethoprim/sulphamethoxazole (61.9% for each) and cefotaxime (33.3%). The dissemination of genes coding for ESBL and AmpC -lactamase in *S. enterica* isolates included  (73.3%),  (73.3%) and  (13.3%). In *E. coli* isolates ,  and  were identified in 52.4, 42.9 and 14.3%, respectively. The plasmid-mediated quinolone resistance genes identified in *S. enterica* were *qnrA* (33.3%), *qnrB* (20.0%) and *qnrS* (6.7%) while *qnrA* and *qnrB* were detected in 33.3% of *E. coli* isolates. Class 1 integron was detected in 13.3% of *S. enterica* and in 14.3% of *E. coli* isolates. Class 2 integron as well as the colistin resistance gene *mcr-1* was not found in any of *E. coli* or *S. enterica* isolates.
+Our results showed a high prevalence of thermotolerant *Campylobacter* with multidrug resistance profiles in poultry farms and slaughterhouses of Algiers. These results stress that the risk of human contamination throughout the food chain is very high, which may generate: i) a danger of food poisoning by ingestion of chicken meat and chicken meat products and, ii) a cross-resistance to antibiotics between human and avian strains. 
 
-**Conclusions:** This study showed high prevalence of *S. enterica* and *E. coli* as foodborne pathogens in raw chicken and beef meat in Nile Delta, Egypt. The emergence of antimicrobial resistance in *S. enterica* and *E. coli* isolates is of public health concern in Egypt. Molecular biological investigation elucidated the presence of genes associated with antibiotic resistance as well as class 1 integron in *S. enterica* and *E. coli*.
+**Keywords:** Thermotolerant *Campylobacter*, Broilers, Frequency of contamination, Antimicrobial resistance, Poultry farms, Slaughterhouses. 
 
-**Keywords:** Salmonella, Escherichia coli, Antibiotic resistance, Integron, Egypt
+## 1. Introduction
 
----
+In human health, *Campylobacter* is considered as the major cause of diarrheal illnesses and, the most common bacterial cause of gastroenteritis in the world, causing up to 14% of diarrhea worldwide. It is estimated that 2.5 million of the diarrhea worldwide occur each year, resulting in 13,000 hospitalizations and 124 deaths. In western Algeria, a case-control study in infants showed that *Campylobacter* were isolated in 17.7% of the 411 patients and in 14.9% of the 247 controls. However, no official data concerning contamination of poultry or other food products in Algeria is available.
 
-### Background
+Compared to *Salmonella*, *Campylobacter* isolation frequency from human diarrheal stool samples is generally similar or higher; thus they represent a major problem in microbiological food safety. *Campylobacter*'s ubiquitous nature and extent of adaptation to wild, farm animals and pets, contribute to the introduction and persistence of this bacteria in different biotopes and to contamination of the foodstuffs. While numerous potential vehicles of transmission exist, commercial chicken meat has been identified as one of the most important food vehicles for these organisms. Preparation of raw poultry and consumption of contaminated chicken meat or chicken products in general have been identified as the main risk factor for human infection with *Campylobacter*. Sporadic human cases have been associated with consumption of under-cooked poultry meat, while larger outbreaks are associated with raw milk. Acute self-limited gastrointestinal illness, characterized by diarrhea, fever and abdominal cramps, is the most common presentation of *Campylobacter* infection; fresh blood may appear in the stools. Local complications such as cholecystitis, pancreatitis and peritonitis occur rarely. It has been recognized that Guillain-Barré syndrome is the most serious complication of *Campylobacter* infection, with an incidence of 1/1000 infections.
 
-In spite of the improved technology and hygienic practices in developed countries at all stages of poultry and beef meat production, foodborne infections remain as a continuous threat to human and animal health. *Escherichia* (*E.*) *coli* and *S. enterica* serovars are the dominant members of Enterobacteriaceae causing foodborne infections. The expansion of antibiotic resistance in bacteria is also an emerging public health hazard due to the compromised efficacy in the treatment of infectious diseases.
+*Campylobacter* diseases are primarily treated with fluoroquinolones and macrolides. However, an increase of acquired resistance to these same antibiotics has been reported by the European food safety authority (EFSA). Because of their ability to be transmitted to humans through food chain, the zoonotic enteropathogenic bacteria resistant to antibiotics, mainly *Campylobacter*, are more dangerous in terms of human health. In the U.S.A, consumption of poultry has been identified as a risk factor for human infection by fluoroquinolone-resistant *Campylobacter* species.
 
-The continuous exposure of bacterial strains by -lactams has led to dynamic and massive production and mutation of -lactamases. Extended-spectrum -lactamases (ESBLs) are derived from point mutations in the  and  -lactamase genes, which cannot hydrolyse cephamycins and are inhibited by clavulanic acid, while ampicillin class C -lactamase (AmpC) enzymes are active on cephamycins as well as oxyiminocephalosporins and monobactams. ESBLs are mostly located on mobile genetic elements (plasmids or integrons), which can facilitate their mobility from bacterial species to others by horizontal gene transfer.
+Our study aims to determine the thermotolerants *Campylobacter* prevalence in broiler in some poultry farms and slaughterhouses of Algiers and the susceptibility of isolated strains to several antibiotics. 
 
-In Egypt, *Salmonella* isolates from chicken meat and organs showed high resistance to different antibiotic classes where also, ESBL-producing *E. coli* were isolated from retail chicken meat and dairy products in Egypt. Quinolones considered as drugs of choice for treatment of human infections caused by Gram-negative bacteria. However, resistance to quinolones has been emerged over the time due to misuse and/or overdose of drugs in human and veterinary practice. Plasmid-mediated quinolone resistance (PMQR) represented by quinolone resistance (*qnr*) genes is widely distributed among bacteria.
+## 2. Material and methods
 
-Integrons are genetic elements able to capture individual antibiotic resistance genes including -lactamases encoding genes and stimulate their transcription and expression. The capture and spread of antibiotic resistance determinants by integrons stimulates the rapid evolution of multidrug resistances (MDR) among Gram-negative bacteria. Among five main integron classes, integrons 1 and 2 are most frequent in Gram-negative bacteria. More than 70 different antibiotic resistance genes have been characterized within integrons.
+### 2.1. Samples collection
 
-Colistin as antimicrobial substance was used against Gram-negative bacteria. Its usage has been limited due to its systemic toxicity but it was re-introduced as a last-line option in treatment of human infections. This study aimed to discuss the prevalence, serotyping, antibiotic resistance and characterization of resistance-associated genes in *S. enterica* serovars and *E. coli* isolated from beef and poultry meat products in the Nile Delta, Egypt.
+Our study was conducted from January to December, 2010. 300 samples were collected from six poultry farms representing about the tenth of poultry buildings in this region, and from five slaughterhouses representing the quarter of the abattoirs of this region, randomly chosen in the Algiers region. The poultry farms have livestock capacity between 4000 and 6000 subjects, while the processing capacity of the slaughterhouses are between 600 and 1200 subjects per hour. First, at the end of rearing period, from six poultry farms, 100 freshly emitted droppings samples were collected during the last week preceding removal; second, on five slaughterhouses, after chickens evisceration, 100 samples of caeca were taken and, 100 fresh broiler chicken neck skins were collected at the end of slaughtering chain. Both cecal contents and neck skin samples were collected from the same slaughter batch (animals had the same origin and were sampled randomly in the slaughterhouse line). For each farm and slaughterhouse, a single visit was performed early in the morning; the samples were placed in sterile plastic pots (droppings and cecal contents) and sterile plastic bags (neck skins) inside an isothermal cool-box at +4 °C and transferred immediately to the laboratory in order to be analyzed on the same day. 
 
-### Methods
+### 2.2. Isolation and identification
 
-**Sampling, isolation and identification of bacteria**
-One hundred and eighty samples were randomly collected aseptically (90 chicken and 90 beef meat and organs) from slaughterhouses and markets in four districts in northern Egypt (Dakahlia, Damietta, Kafr El-Sheikh and Gharbia governorates). Briefly, 30 samples of freshly slaughtered chickens and 30 samples of native frozen chickens from restaurants and supermarkets (each 15 from breast and from thigh muscles and skin) were taken. Thirty samples of organs (gizzard and liver) were collected from freshly slaughtered chickens. In addition, 30 beef meat samples of freshly slaughtered carcasses (neck, brisket, flank and rump muscles) were obtained from slaughterhouses. Thirty samples from locally frozen beef meat, collected from supermarkets and restaurants and 30 samples from organs (liver, spleen and heart) from freshly slaughtered animals were used in this study (Tables 1, 2).
+The isolation and identification of thermotolerant *Campylobacter* were performed according to World Organisation for Animal Health recommendations and to French Agency for Standardization: NF ISO 10272-1: 1995 norm using the following procedures. All cultures and incubations were performed under microaerobic condition which was generated by using an anaerobic jar containing a gas generating CampyGen™ reagents. Culture of *Campylobacter* took place within 4 h after samples collection. From droppings and caecal contents the research of thermotolerant *Campylobacter* was performed by direct isolation on Butzler selective agar medium and incubated at 42 °C for 48 h.
 
-Ten grams of each meat and organ sample were incised using sterile scalpel and forceps, transported immediately to the laboratory in ice bags, then transferred into sterile homogenizer flask containing 45 ml of nutrient broth (Oxoid, Manchester, UK). The mixture was allowed to stand for 15 min at room temperature. From each sample, 1 ml was added to 9 ml of buffered peptone water (Oxoid) for *E. coli* cultivation and 9 ml of Rappaport-Vassiliadis broth (Oxoid) for *S. enterica* isolation. After aerobic incubation at  overnight, a loopful from Rappaport-Vassiliadis broth was streaked on xylose lysine deoxycholate (XLD) agar (Oxoid) and from buffered peptone water on eosin methylene blue (EMB) agar (Oxoid). The inoculated plates were incubated aerobically at  for 18–24 h. Suspected colonies were identified biochemically using API 20E (bioMérieux, Marcy-l’Étoile, France).
+From neck skin samples, isolation on Butzler agar was preceded by a selective enrichment step of sample: 10 g of sample in 90 ml of Preston broth and incubated for 24 h at 42 °C. The culture dishes were then inoculated with a few drops of Preston broth, incubated at 42 °C and read every 24 h up to fifth day. The control strains were: *Campylobacter jejuni* (CIP 70.2), *Campylobacter coli* (CIP 70.80) and *C. fetus* (CIP 53.96).
 
-All biochemically confirmed *Salmonella* isolates were serotyped on the basis of somatic (O) and flagellar (H) antigens by slide agglutination test using commercial antisera (SIFIN, Berlin, Germany) following Kauffman-White scheme. Serological identification of *E. coli* was carried out using slide agglutination method using commercial antisera (SIFIN). The serotyping was carried out at the Serology Unit, Animal Health Research Institute, Dokki, Egypt, and the Bacteriology Laboratory, Central Laboratories of Ministry of Health, Cairo, Egypt.
+Curved Gram-negative bacilli, with typical motility (twirling and rapid darting movements), oxidase positive, catalase positive and which did not show growth at 25 °C were presumed thermotolerant *Campylobacter* in the preliminary identification. Suspect colonies of *Campylobacter* were subsequently purified on Columbia agar with 5% horse blood, and confirmed both by using biochemical test on Triple Sugar Iron agar and sensitivity to cephalothin (30 µg). 
 
-**Table 1: Sources, number of *S. enterica* isolates and results of their serovar identification**
+### 2.3. Antibiotic sensitivity analysis
 
-<table>
+Antimicrobial sensitivity of *Campylobacter* strains was assessed using the disk diffusion assay. All isolates were tested with the following antibiotics: ampicillin (10 µg), amoxicillin/clavulanic acid (20/10 µg) gentamicin (10 µg), erythromycin (15 IU), nalidixic acid (30 µg), ciprofloxacin (5 µg), tetracycline (30 µg) and chloramphenicol (30 µg), the choice of tested antibiotics was carried out according to the guidelines of the CA-SFM/2010 and according to the standardization of the antibiogram in human medicine on a national scale.
+
+Bacterial suspension of 0.5 McFarland was prepared from a pure 18 h culture, than seeded by swabbing. The isolated strains were inoculated on Mueller-Hinton agar supplemented with 5% defibrinated horse blood. After deposition of antibiotics disks, the plates were incubated at 42 °C for 24-48 h in microaerophilic atmosphere. Inhibition zones were measured by a caliper and diameters were interpreted as recommended by the Antibiogram committee of the French Society of Microbiology. For quality control reason, reference strains *E. coli* ATCC 25922 and *Staphylococcus aureus* ATCC 25923 were tested concomitantly with samples. 
+
+### 2.4. Statistical analysis
+
+Chi-square test was used for comparisons in order to determine if there were statistically significant differences at 95% level in the prevalence of thermotolerant *Campylobacter* samples between the farms and between the slaughterhouses and to compare antimicrobial resistance rates. Significant differences were considered when probability (p) was equal to or less than a risk (p ≤ 0.05). 
+
+## 3. Results
+
+### 3.1. Thermotolerant *Campylobacter* Prevalence in tested poultry farms and slaughterhouses
+
+Among 300 tested samples, 263 were positive to thermotolerant *Campylobacter*, which represent an overall prevalence of 87.7%. *Campylobacter* were isolated in 85% (n = 85) of droppings samples, 98% (n = 98) of ceacal contents and 80% (n = 80) of neck skins; indeed no statistically difference was identified between rates (p > 0.05). All samples issued from five farms were positive to thermotolerant *Campylobacter*, whereas no strain has been isolated from the sixth one. *Campylobacter* was isolated from both types of samples in all slaughterhouses (Table 1). 
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+<caption><strong>Table 1: Prevalence of thermotolerants Campylobacter in investigated farms and slaughterhouses.</strong> </caption>
 <thead>
 <tr>
-<th rowspan="2">Serovar</th>
-<th colspan="4">Poultry</th>
-<th colspan="4">Beef</th>
-<th rowspan="2">(Poultry + beef) Total n (%)</th>
+<th colspan="2" style="text-align:center;">Farms</th>
+<th colspan="3" style="text-align:center;">Slaughterhouses</th>
 </tr>
 <tr>
-<th>Fresh meat (n=30)</th>
-<th>Frozen meat (n=30)</th>
-<th>Fresh organs (n=30)</th>
-<th>Total n (%)</th>
-<th>Fresh meat (n=30)</th>
-<th>Frozen meat (n=30)</th>
-<th>Fresh organs (n=30)</th>
-<th>Total n (%)</th>
+<th>Designation</th>
+<th>Droppings no. positive/total of samples (%)</th>
+<th>Designation</th>
+<th>Caecal contents no. positive/total of samples (%)</th>
+<th>Neck skins no. Positive/total of samples (%)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><em>S.</em> Typhimurium</td>
-<td>2</td>
-<td>0</td>
 <td>1</td>
-<td>3 (3.3)</td>
+<td>0/15 (0)</td>
+<td>1</td>
+<td>18/20 (90)</td>
+<td>13/20 (65)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>20/20 (100)</td>
+<td>2</td>
+<td>20/20 (100)</td>
+<td>18/20 (90)</td>
+</tr>
+<tr>
 <td>3</td>
-<td>1</td>
-<td>2</td>
-<td>6 (6.7)</td>
-<td>9 (60.0)</td>
+<td>15/15 (100)</td>
+<td>3</td>
+<td>20/20 (100)</td>
+<td>15/20 (75)</td>
 </tr>
 <tr>
-<td><em>S.</em> Paratyphi A</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>2 (6.7)</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1 (3.3)</td>
-<td>3 (20.0)</td>
+<td>4</td>
+<td>20/20 (100)</td>
+<td>4</td>
+<td>20/20 (100)</td>
+<td>16/20 (80)</td>
 </tr>
 <tr>
-<td><em>S.</em> Enteritidis</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1 (3.3)</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1 (3.3)</td>
-<td>2 (13.3)</td>
+<td>5</td>
+<td>15/15 (100)</td>
+<td>5</td>
+<td>20/20 (100)</td>
+<td>18/20 (90)</td>
 </tr>
 <tr>
-<td><em>S.</em> Kentucky</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1 (3.3)</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>6</td>
+<td>15/15 (100)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>85/100 (85)</strong></td>
+<td><strong>Total</strong></td>
+<td><strong>98/100 (98)</strong></td>
+<td><strong>80/100 (80)</strong></td>
+</tr>
+<tr>
+<td><strong>P<sub>1</sub>-Value</strong></td>
+<td><strong>P < 0.05</strong></td>
+<td><strong>P<sub>2</sub>-Value</strong></td>
+<td colspan="2" style="text-align:center;"><strong>P > 0.05</strong></td>
+</tr>
+</tbody>
+</table>
+
+### 3.2. Antibiotic susceptibility of isolated strains
+
+All isolated strains were resistant to nalidixic acid, and susceptible to gentamycin and to chloramphenicol. 83.7% (n = 220) were resistant to tetracycline and ciprofloxacin, 75.3% (n = 198) to ampicillin, 46.8% (n = 123) to amoxicillin/clavulanic acid, and 21.7% (n = 57) to erythromycin (Table 2). Resistance rates among antibiotics used for the same type of sample showed a significant difference (P < 0.05) but there was no significant difference between the strains isolated from feces, cecal contents and those isolated from neck skins to the same antibiotic.
+
+Moreover, all isolates showed a multidrug resistance to antibiotics (resistance to two antibiotics or more), 5.7% (n = 15) resistant to two antibiotics, 27.4% (n = 72) to three antibiotics, 24.7% (n = 65) to four antibiotics, 36.9% (n = 97) to five antibiotics and 5.3% (n = 14) to six antibiotics. Indeed, nineteen different resistance profiles were noted, with "ampicillin, amoxicillin/clavulanic acid, nalidixic acid, ciprofloxacin, tetracycline" combination as the most common profile identified for 27% (n = 74) of isolated strains, 15% (n = 38) of isolates were resistant to both ciprofloxacin and erythromycin (Table 3). 
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+<caption><strong>Table 2: Antimicrobial resistance rates of thermotolerant Campylobacter isolated strains.</strong> </caption>
+<thead>
+<tr>
+<th>Profil</th>
+<th>AM</th>
+<th>AMC</th>
+<th>GM</th>
+<th>E</th>
+<th>C</th>
+<th>TE</th>
+<th>NA</th>
+<th>CIP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Resistant strains from Droppings
+
+
+
+No. (%)</td>
+<td>62 (72.9)</td>
+<td>42 (49.4)</td>
 <td>0 (0)</td>
-<td>1 (6.7)</td>
+<td>24 (28.2)</td>
+<td>0 (0)</td>
+<td>72 (84.7)</td>
+<td>85 (100)</td>
+<td>77 (90.6)</td>
 </tr>
 <tr>
-<td><strong>Total</strong></td>
-<td><strong>4</strong></td>
-<td><strong>1</strong></td>
-<td><strong>2</strong></td>
-<td><strong>7 (7.8)</strong></td>
-<td><strong>4</strong></td>
-<td><strong>1</strong></td>
-<td><strong>3</strong></td>
-<td><strong>8 (8.8)</strong></td>
-<td><strong>15 (100)</strong></td>
+<td>Resistant strains from Caecal contents
+
+
+
+No. (%)</td>
+<td>73 (74.5)</td>
+<td>42 (42.9)</td>
+<td>0 (0)</td>
+<td>18 (18.4)</td>
+<td>0 (0)</td>
+<td>79 (80.6)</td>
+<td>98 (100)</td>
+<td>78 (79.6)</td>
+</tr>
+<tr>
+<td>Resistant strains from Neck skins
+
+
+
+No. (%)</td>
+<td>63 (78.8)</td>
+<td>39 (48.8)</td>
+<td>0 (0)</td>
+<td>15 (18.8)</td>
+<td>0 (0)</td>
+<td>69 (86.3)</td>
+<td>80 (100)</td>
+<td>65 (81.3)</td>
+</tr>
+<tr>
+<td><strong>Resistant strains Total</strong>
+
+
+
+No. (%)</td>
+<td><strong>198 (75.3)</strong></td>
+<td><strong>123 (46.8)</strong></td>
+<td><strong>0 (0)</strong></td>
+<td><strong>57 (21.7)</strong></td>
+<td><strong>0 (0)</strong></td>
+<td><strong>220 (83.7)</strong></td>
+<td><strong>263 (100)</strong></td>
+<td><strong>220 (83.7)</strong></td>
+</tr>
+<tr>
+<td><strong>P-Value</strong></td>
+<td><strong>P > 0.05</strong></td>
+<td><strong>P > 0.05</strong></td>
+<td><strong>P > 0.05</strong></td>
+<td><strong>P > 0.05</strong></td>
+<td><strong>P > 0.05</strong></td>
+<td><strong>P > 0.05</strong></td>
+<td><strong>P > 0.05</strong></td>
+<td><strong>P > 0.05</strong></td>
 </tr>
 </tbody>
 </table>
+<small>Abbreviations: No, Number; AM, ampicillin; AMC, amoxicillin/clavulanic acid; GM, gentamicin; E, erythromycin; C, chloramphenicol; TE, tetracycline; NA, nalidixic acid; CIP, ciprofloxacin.</small>
 
-**Table 2: Sources, number of *E. coli* isolates and results of their serogroup identification**
-
-<table>
+<table border="1" style="width:100%; border-collapse: collapse;">
+<caption><strong>Table 3: Resistance pattern profiles of isolated thermotolerants Campylobacter strains.</strong> </caption>
 <thead>
 <tr>
-<th>Serogroup</th>
-<th>Fresh poultry meat (n=30)</th>
-<th>Frozen poultry meat (n=30)</th>
-<th>Fresh poultry organs (n=30)</th>
-<th>Fresh beef meat (n=30)</th>
-<th>Frozen beef meat (n=30)</th>
-<th>Fresh beef organs (n=30)</th>
-<th>Total number of isolates</th>
-<th>% of E. coli isolates</th>
+<th>Associated resistances to</th>
+<th>Resistance pattern profiles</th>
+<th>No. of strains</th>
+<th>No. total (%)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>O1</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>9.5</td>
+<td rowspan="2">Two antibiotics</td>
+<td>NA, CIP</td>
+<td>7</td>
+<td rowspan="2">15 (5.7)</td>
 </tr>
 <tr>
-<td>O18</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>4</td>
-<td>19</td>
+<td>NA, AM
+
+
+
+NA, TE</td>
+<td>2
+
+
+
+6</td>
 </tr>
 <tr>
-<td>O20</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>9.5</td>
+<td rowspan="3">Three antibiotics</td>
+<td>NA, CIP, AM</td>
+<td>18</td>
+<td rowspan="3">72 (27.4)</td>
 </tr>
 <tr>
-<td>O78</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>4</td>
-<td>19</td>
+<td>NA, CIP, E
+
+
+
+NA, CIP, TE
+
+
+
+NA, AM, AMC</td>
+<td>6
+
+
+
+32
+
+
+
+4</td>
 </tr>
 <tr>
-<td>O103</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>4.8</td>
+<td>NA, AM, TE
+
+
+
+NA, TE, E</td>
+<td>2
+
+
+
+10</td>
 </tr>
 <tr>
-<td>O119</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>9.5</td>
+<td rowspan="3">Four antibiotics</td>
+<td>NA, CIP, AM, AMC</td>
+<td>9</td>
+<td rowspan="3">65 (24.7)</td>
 </tr>
 <tr>
-<td>O126</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>2</td>
-<td>9.5</td>
+<td>NA, CIP, AM, TE</td>
+<td>41</td>
 </tr>
 <tr>
-<td>O145</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>4.8</td>
+<td>NA, CIP, AMC, TE
+
+
+
+NA, CIP, TE, E
+
+
+
+NA, AM, AMC, TE
+
+
+
+NA, AM, TE, E</td>
+<td>1
+
+
+
+4
+
+
+
+8
+
+
+
+2</td>
 </tr>
 <tr>
-<td>O146</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>4.8</td>
+<td rowspan="2">Five antibiotics</td>
+<td>NA, CIP, AM, AMC, TE</td>
+<td>74</td>
+<td rowspan="2">97 (36.9)</td>
 </tr>
 <tr>
-<td>O158</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>2</td>
-<td>9.5</td>
+<td>NA, CIP, AM, TE, E
+
+
+
+NA, AM, AMC, TE, E</td>
+<td>14
+
+
+
+9</td>
 </tr>
 <tr>
-<td><strong>Total</strong></td>
-<td><strong>6</strong></td>
-<td><strong>4</strong></td>
-<td><strong>4</strong></td>
-<td><strong>2</strong></td>
-<td><strong>4</strong></td>
-<td><strong>1</strong></td>
-<td><strong>21</strong></td>
-<td><strong>100</strong></td>
+<td>Six antibiotics</td>
+<td>NA, CIP, AM, AMC, TE, E</td>
+<td>14</td>
+<td>14 (5.3)</td>
 </tr>
 </tbody>
 </table>
 
-**DNA extraction and purification**
-The identified bacterial cultures were cultivated in Luria-Bertani (LB) broth (Oxoid) at  overnight. DNA was extracted and purified using DNeasy Blood and Tissue Kits (Qiagen, Manchester, UK) according to the manufacturer’s instructions.
+## 4. Discussion
 
-**Molecular identification of *S. enterica* serovars and *E. coli***
-The isolated strains were further identified as *S. enterica* and *E. coli* using PCR assays. The amplification targets and primers (Eurofins, Yokohama, Japan) are listed in Table 3. All phenotypically identified *S. enterica* serovars were tested for harbouring *ompC* gene. Isolated *E. coli* were confirmed by species-specific PCR targeting the 16S rRNA genes and resulting in a 585 bp amplicon. PCR assays used in this study resulted in *Salmonella*, *S.* Enteritidis and *S.* Typhimurium specific products of 204, 304 and 401 bp length, respectively.
+### 4.1. Thermotolerant *Campylobacter* prevalence
 
-The PCR protocol consisted of the following steps: (i) an initial denaturation step of 2 min at ; (ii) 30 cycles with 1 cycle consisting of 1 min at , 1 min at , and 2 min at ; and (iii) a final elongation step of 5 min at . Five-microliter aliquots of reaction mixture were run in electrophoreses using 1.5% agarose gels (Nippon Gene, Tokyo, Japan) and visualized under UV light after ethidium bromide staining.
+Bacteriological analysis of samples showed in a part, high intestinal carriage of *Campylobacter* in broiler (98%) with a high rate of contaminated carcasses (80%). The intestinal carriage is due to the fact that these enteric bacteria are adapted to live in digestive tract mucus. The prevalence of positive broiler flocks in the European Community was estimated to 75% (EFSA, 2010a, 2011, 2012). According to the Swiss report of zoonoses, *Campylobacter* were recovered from all tested chicken flocks in Switzerland. The prevalence of *Campylobacter* was in agreement with previous studies in Iran. However it remains fairly high compared to that reported by Chena et al. in 2010 in China. In this survey, of the five farms, all samples were contaminated, this suggests a horizontal transmission. It has been reported that all chickens are infected one week after introduction of bacteria in poultry building. Chickens are coprophagous and fecal excretion is probably an important factor in spread of microbes in poultry flocks. This result can also be related to high animal density, which promotes contact between animals especially those carrying *Campylobacter*. In addition to sources such as soiled litter, untreated water, other farm animals, wild birds, insects, as well as the human flow, Viable Non-Cultivable forms were associated to *Campylobacter* transmission in broilers, which would in turn be responsible for transmission of these microorganisms to the environment.
 
-**Table 3: PCR primers, their sequences and amplification targets used in this study**
+Although, horizontal transmission of *Campylobacter* in the environment of breeding seems to be the main track, vertical transmission of *Campylobacter* from parent to their chicks is not ruled out. One of the studied farms that received a food supplemented with organic acids was free from *Campylobacter* which suggests that supplementation with organic acids could be indirectly involved in protection as demonstrated by Chaveerach, Keuzenkamp, Urlings, Lipman, and Knapen, in 2002 and Solis de los Santos et al, in 2009. These molecules have been recommended by an expert report of the FAO/WHO (Food and agriculture organization/World Health Organization) as a means of hazard control of *Campylobacter* in chicken meat.
 
-<table>
-<thead>
-<tr>
-<th>Primer</th>
-<th>Sequence (5'-3')</th>
-<th>Amplicon size (bp)</th>
-<th>Amplification target</th>
-<th>References</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="5"><strong><em>E. coli</em>, <em>Salmonella enterica</em> and <em>Salmonella</em> serovar identification</strong></td>
-</tr>
-<tr>
-<td>ECO-F
+In slaughterhouses, contamination of neck skin could be related directly to gut contents of the same animal and/or to cross contamination throughout slaughtering equipment. This contamination may occur in the scalding tanks, in feather removal machine or during evisceration. The nature of slaughter processing makes it impossible to prevent cross-contamination of negative batches by positive batches. In a previous study in Algeria, 66% of chicken neck skins were contaminated. Our results are similar to those reported in Brazil by Franchin, Ogliari, and Batista, in 2007 with a contamination rate of 84.7%. 
 
+### 4.2. Antimicrobial resistance of isolated strains
 
+High susceptibility to gentamicin and chloramphenicol could be explained by none or moderate use of these antibiotics due to due to the no registration in Algeria since 2006. High levels of resistance were observed towards different antibiotics including nalidixic acid, ciprofloxacin, tetracycline and ampicillin (antibiotics widely used in tested farms) which shows similarity of our results compared to those reported by EFSA (2010b). By contrast, no antibiotic resistance against ampicillin, erythromycin, tetracycline and nalidixic acid have previously been observed with strains isolated from droppings and neck skins of broiler in the region of Algiers in 1992. Several authors agree that the use of antibiotics in animals as prophylactic, therapeutic agents or for growth promotion can select for resistance and reduce the effectiveness of these products in veterinary and human medicine, because of emergence of resistant strains, which may occur during or after antimicrobial treatment. However, the use of disinfectants or other biocides, and the environmental stresses encountered by bacteria during the slaughter process may also play a role in the phenomenon of antibiotic resistance.
 
-ECO-R</td>
-<td>GAC CTC GGT TTA GTT CAC AGA
+21.7% of isolated strains were resistant to erythromycin, this resistance remains low in industrialized countries, however, resistant strains are frequently observed in developing countries, including Thailand (50%) and Zimbabwe (14%). In another way, Lin et al. (2007) showed that erythromycin used in low doses over a long period (which corresponds to their use as a growth factor) selects for resistant strains of *Campylobacter*. 83.7% of isolated strains were resistant to ciprofloxacin. Several studies have demonstrated the rapid development of mutants resistant to fluoroquinolones in chickens infected with initially fluoroquinolones susceptible *Campylobacter*, and treated with enrofloxacin. Indeed, treatments of chickens do not eradicate the organism but convert initially susceptible population to resistant fluoroquinolones population which emerges as soon as 24 h from start of treatment. The resistance to tetracycline was very frequent (83.7%) as reported by other authors.
 
+In Malaysia, resistance rates were higher than our results; 86% was recorded to ampicillin, 82% to ciprofloxacin, 92% to tetracycline and 99% to erythromycin and even with gentamicin (35%). Roughly, Vandeplas et al. (2008) believe that changes in rates of antimicrobial resistance between countries reflect various veterinary practices in antimicrobial use for treatment and prevention. All our isolates were multi-drug resistant; we had identified a dominant profile combining resistance to two beta-lactams, two quinolones and tetracycline. In Belgium, the National Reference Laboratory for foodborne disease and antimicrobial resistance of zoonotic agents, announced that the percentages of strains multi-drug resistant of *C. jejuni* and *C. coli* isolated from chickens were 40% and 64% respectively, the dominant profile was “nalidixic acid, ciprofloxacin, tetracycline”.
 
+15% of strains isolated in our study were resistant to both ciprofloxacin and erythromycin. These strains represent a critical profiles, since these two antibiotics are the mostly used in *Campylobacter* infections in humans. In addition to clinical troubles, transmission of multi-resistant *Campylobacter* to humans through food chain can also compromise the effectiveness of treatment. Indeed, the EFSA has published a report indicating that antimicrobial resistance phenomenon occurs in most common zoonosis bacteria, particularly *Campylobacter* from animals and food in the European Union. 
 
-CAC ACG CTG ACG CTG ACC A</td>
-<td>585</td>
-<td><em>E. coli</em></td>
-<td>[67]</td>
-</tr>
-<tr>
-<td>OMPCF
+## 5. Conclusion
 
+Unlike other foodborne pathogens, *Campylobacter* are very susceptible to many environmental conditions, as concluded in this survey, our results confirm that *Campylobacter* can survive well from poultry farms to the plate of consumer and are of concern of food poisoning. Indeed, intestinal carriage and neck skins contamination rates in the present study showed high survival of *Campylobacter* in farms, in slaughterhouses and carcasses. It revealed that antibiotic resistant *Campylobacter* is common among chickens which can find their way into the food chain. The recorded multi-drug resistant campylobacters which was also reported to be common in other countries reflect an alarming situation with regard to this phenomenon which may be due to the widespread use of antibiotics in poultry farming. As major source of human campylobacteriosis, prevention should be focused on reducing *Campylobacter* infection at all stages of poultry production chain, as well as for the controlling use of antimicrobials in veterinary medicine in Algeria. Thus, there is an urgent need for prudent use of antibiotics in poultry production to reduce the development and spread of multi-drug resistant *Campylobacter* which must be diligently monitored. Our results also emphasize the need for a surveillance and monitoring system for the prevalence and antimicrobial resistance of *Campylobacter* in broiler, poultry and other food animals. 
 
+## References
 
-OMPCR</td>
-<td>ATC GCT GAC TTA TGC AAT CG
+AFNOR. (2004). ISO 10272/1995. Microbiologie des aliments Méthode horizontale pour la recherche des *Campylobacter* thermotolérants.
 
+Anonymous. (2001). Identification et caractérisation des dangers et évaluation de l'exposition liés à *Campylobacter* spp. dans les poulets et à *Vibrio* spp. dans les produits de la pêche. Rapport d'experts. FAO/OMS.
 
+Ansari Lari, M., Hosseinzadeh, S., Shahram Shekarforoush, S., Abdollahi, M., & Berizi, E. (2011). Prevalence and risk factors associated with *Campylobacter* infections in broiler flocks in Shiraz, southern Iran. International Journal of Food Microbiology, 144(3-5), 475-479.
 
-CGG GTT GCG TTA TAG GTC TG</td>
-<td>204</td>
-<td><em>Salmonella</em> genus</td>
-<td>[68]</td>
-</tr>
-<tr>
-<td>ENTF
+Avrain, L., Humbert, F., L'Hopsitalier, R., Sanders, P., Vernozy Rozand, C., & Kempf, I. (2003). Antimicrobial resistance in *Campylobacter* from broilers: association with production type and antimicrobial use. Veterinary Microbiology, 96, 267-276.
 
+Bester, L. A., & Essack, S. Y. (2008). Prevalence of antibiotic resistance in *Campylobacter* isolates from commercial poultry suppliers in KwaZulu-Natal, South Africa. Journal of Antimicrobial Chemotherapy, 62, 1298-1300.
 
+Bolla, J. M., & Garnotel, É. (2008). Diarrhées d'origine bactérienne. Les infections à *Campylobacter*. Revue Francophone des Laboratoires, 2008(400), 27-35.
 
-ENTR</td>
-<td>TGT GTT TTA TCT GAT GCA AGA GG
+Braam, H. P. (2004). *Campylobacter* enteritis. In D. L. Heymann (Ed.), Control of communicable disease manual (18th ed.) (pp. 81-84). Washington DC: American Public Health Association.
 
+Butzler, J. P. (2004). *Campylobacter*, from obscurity to celebrity. Clinical Microbiology and Infection, 10, 868-876.
 
+CA-SFM. (2010). Recommandations 2010. Comité de l'antibiogramme de la société française de microbiologie.
 
-TGA ACT ACG TTC GTT CTT CTG G</td>
-<td>304</td>
-<td><em>S.</em> Enteritidis</td>
-<td>[68]</td>
-</tr>
-<tr>
-<td>TYPHF
+Chaveerach, P., Keuzenkamp, D. A., Urlings, H. A., Lipman, L. J., & Knapen, F. (2002). In vitro study on the effect of organic acids on *Campylobacter jejuni/coli* population in mixtures of water and feed. Poultry Science, 81(5), 621-628.
 
+Chena, X., Narena, G. W., Wua, C. M., Wanga, Y., Daia, L., Xiaa, L. N., et al. (2010). Prevalence and antimicrobial resistance of *Campylobacter* isolates in broilers from China. Veterinary Microbiology, 144(1-2), 133-139.
 
+Denis, M., Tanguy, M., Chidaine, B., Laisney, M. J., Mégraud, F., & Pravalo, P. (2011). Description and sources of contamination by *Campylobacter* spp., Of river water destined for human consumption in Brittany, France. Pathologie Biologie, 59, 256-263.
 
-TYPHR</td>
-<td>TTG TTC ACT TTT TAC CCC TGA A
+Dierick, K., Botteldoorn, N., Denayer, S., & Naranjo, M. (2009). Laboratoire National de Référence des toxi-infections alimentaires. In Rapport annuel des toxi-infections alimentaires et résistance antimicrobienne des germes zoonotiques en Belgique 2007. Bruxelles: Institut Scientifique de Santé Publique. Numéro de dépôt: D/2008/2505/35, pp 20, 30, 36.
 
+EFSA, European Food Safety Authority. (2010a). Scientific report of EFSA. Analysis of the baseline survey on the prevalence of *Campylobacter* in broiler batches and of *Campylobacter* and *Salmonella* on broiler carcasses in the EU, 2008. EFSA Journal, 8(3), 1503.
 
+EFSA, European Food Safety Authority. (2010b). Scientific report of EFSA. The Community Summary Report on antimicrobial resistance in zoonotic and indicator bacteria from animals and food in the European Union in 2004-2007. EFSA Journal, 8(4), 1309.
 
-CCC TGA CAG CCG TTA GAT ATT</td>
-<td>401</td>
-<td><em>S.</em> Typhimurium</td>
-<td>[68]</td>
-</tr>
-<tr>
-<td colspan="5"><strong>-Lactamases</strong></td>
-</tr>
-<tr>
-<td>TEM-F
+EFSA, European Food Safety Authority. (2011). The European Union summary report on trends and sources of zoonoses, zoonotic agents and food-borne outbreaks in 2009. EFSA Journal, 9, 2090.
 
+EFSA, European Food Safety Authority. (2012). The European Union summary report on trends and sources of zoonoses, zoonotic agents and food-borne outbreaks in 2010. EFSA Journal, 10, 2597.
 
+Engberg, J., Aarestrup, F. M., Gerner-Smidt, P., & Nachamkin, I. (2001). Quinolone and macrolide resistance in *Campylobacter jejuni* and *C. coli*: resistance Mechanisms and trends in human isolates. Emerging Infectious Diseases, 7(1), 24-34.
 
-TEM-R</td>
-<td>ATA AAA TTC TTG AAG ACG AAA
+Farnell, M. B., Donoghue, A. M., Cole, K., Reyes-Herrera, L., Blore, P. J., & Donoghue, D. J. (2005). *Campylobacter* susceptibility to ciprofloxacin and corresponding fluoroquinolone concentrations within the gastrointestinal tracts of chickens. Journal of Applied Microbiology, 99(5), 1043-1050.
 
+Federighi. (2005). Bactériologie alimentaire. Compendium d'hygiène des aliments. In *Campylobacter*. Ed. Paris: ECONOMICA.
 
+Franchin, P. R., Ogliari, P. J., & Batista, C. R. V. (2007). Frequency of thermophilic *Campylobacter* in broiler chickens during industrial processing in a Southern Brazil slaughterhouse. British Poultry Science, 48(2), 127-132.
 
-GAC AGT TAC CAA TGC TTA ATC</td>
-<td>1080</td>
-<td></td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>OXA-F
+Frediani, W., & Stephan, R. (2003). Resistance patterns of *Campylobacter* spp. strains isolated from poultry carcasses in a big Swiss poultry slaughterhouse. International Journal of Food Microbiology, 89(2-3), 233-240.
 
+Ghafir, Y., & Daube, G. (2007). Le point sur les méthodes de surveillance de la contamination microbienne des denrées alimentaires d'origine animale. Annales Médecine Vétérinaire, 151, 79-100.
 
+Han, J., Sahin, O., Barton, Y. W., & Zhang, Q. (2008). Key role of Mfd in the development of fluoroquinolones resistance in *Campylobacter jejuni*. PLoS Pathogens, 4(6), 1000083.
 
-OXA-R</td>
-<td>TCA ACT TTC AAG ATC GCA
+Hartnett, E., Fazil, A., Paoli, G., Nauta, M., Christensen, B. B., Rosenquist, H., et al. (2009). Série évaluation des risques microbiologiques 11. Rapport. In Evaluation des risques lies a *Campylobacter* spp. dans les poulets de chair, FAO/OMS.
 
+Humphrey, T., O'Brien, S., & Madsen, M. (2007). Campylobacters as zoonotic pathogens: a food production perspective. International Journal of Food Microbiology, 117, 237-257.
 
+Karagiannis, I., Sideroglou, T., Gkolfinopoulou, K., Tsouri, A., Lampousaki, D., Velonakis, E. N., et al. (2010). A waterborne *Campylobacter jejuni* outbreak on a Greek island. Epidemiology and Infection, 138(12), 1726-1734.
 
-GTG TGT TTA GAA TGG TGA</td>
-<td>591</td>
-<td></td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>OXA-F-2
+Lin, J., Yan, M., Sahin, O., Pereira, S., Chang, Y. J., & Zhang, Q. (2007). Effect of macrolide usage on emergence of erythromycin-resistant *campylobacter* isolates in chickens. Antimicrobial Agents and Chemotherapy, 51(5), 1678-1686.
 
+Luangtongkum, T., Jeon, B., Han, J., Plummer, P., Logue, C. M., & Zhang, Q. (2009). Antibiotic resistance in *Campylobacter*, emergence, transmission and persistence. Future Microbiology, 4(2), 189-200.
 
+Luginbühl, A., Marthaler, D., Geiser, F., Lutz, A., & Danuser, J. (2010). Rapport suisse sur les zoonoses 2009. In La détention respectueuse des animaux favorise t'elle la propagation des agents zoonotiques, *Campylobacter* (p. 90). Berne: Office vétérinaire fédérale OVF.
 
-OXA-R-2</td>
-<td>ATT AAG CCC TTT ACC AAA CCA
+Mansouri-najand, L., Saleha, A. A., & Wai, S. S. (2012). Prevalence of multidrug resistance *Campylobacter jejuni* and *Campylobacter coli* in chickens slaughtered in selected markets, Malaysia. Tropical Biomedicine, 29(2), 231-238.
 
+McDermott, P. F., Bodeis, S. M., & English, L. L. (2002). Ciprofloxacin resistance in *Campylobacter jejuni* evolves rapidly in chickens treated with fluoroquinolones. Journal of Infectious Diseases, 185(6), 837-840.
 
+McMahon, M. A. S., Xu, J., Moore, J. E., Blair, I. S., & McDowell, D. A. (2007). Environmental stress and antibiotic resistance in food-related pathogens. Applied and Environmental Microbiology, 73(1), 211-217.
 
-AAG GGT TGG GCG ATT TTG CCA</td>
-<td>501</td>
-<td>Whole </td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>OXA-23-F
+Megraud, F., Boudraa, G., Bessaoud, K., Bensid, S., Dabis, F., Soltana, R., et al. (1990). Incidence of *Campylobacter* infection in infants in western Algeria and the possible protective role of breast feeding. Epidemiology and Infection, 105, 73-78.
 
+Megraud, F., & Bultel, C. (2004). Appréciation des risques alimentaires liés aux *Campylobacters*. Rapport de. In Application au couple poulet/*Campylobacter jejuni*. AFSSA, 96 p.
 
+Mouffok, F. & Lebres, E. (1992). Result of the refinement of a technique for the isolation and identification of *Campylobacter* from food commodities. Archives Institut Pasteur Alger, 58, 239-246.
 
-OXA-23-R</td>
-<td>GAT CGG ATT GGA GAA CCA GA
+OIE. (2008). *Campylobacter Jejuni* et *Campylobacter Coli* (Chapitre 2.9.3). Manuel terrestre de l'OIE, 2008, 1299-1306.
 
+Ono, K., & Yamamoto, K. (1999). Contamination of meat with *Campylobacter jejuni* in Saitama, Japan. International Journal of Food Microbiology, 47, 211-219.
 
+Pearson, A. D., Greenwood, M. H., Feltham, R. K. A., Healing, T. D., Donaldson, J., Jones, D. M., et al. (1996). Microbial ecology of *campylobacter jejuni* in a United Kingdom chicken supply chain: Intermittent common source, vertical transmission, and amplification by flock propagation. Applied and Environmental Microbiology, 62(12), 4614-4620.
 
-ATT TCT GAC CGC ATT TCC AT</td>
-<td></td>
-<td></td>
-<td>[25]</td>
-</tr>
-<tr>
-<td>CTX-M-F
+Posch, J., Feierl, G., Wuest, G., Sixl, W., Schmidt, S., Haas, D., et al. (2006). Transmission of *Campylobacter* spp. in a poultry slaughterhouse and genetic characterisation of the isolates by pulsed-field gel electrophoresis. British Poultry Science, 47(3), 286-293.
 
+Rahimi, E., Momtaz, H., Ameri, M., Ghasemian-Safaei, H., & Ali-Kasemi, M. (2010). Prevalence and antimicrobial resistance of *Campylobacter* species isolated from chicken carcasses during processing in Iran. Poultry Science, 89, 1015-1020.
 
+Russell, A. D. (2002). Mechanisms of antimicrobial action of antiseptics and disinfectants: an increasingly important area of investigation. Journal of Antimicrobial Chemotherapy, 49(4), 597-599.
 
-CTX-M-R</td>
-<td>CGC TTT GCG ATG TGC AG
+Shreeve, J. E., Toszeghy, M., Pattison, M., & Newell, D. G. (2000). Sequential spread of *Campylobacter* infection in a multipen broiler house. Avian Diseases, 44, 983-988.
 
+Solis de los Santos, F., Donoghue, A. M., Venkitanarayanan, K., Metcalf, H. J., Reyes-Herrera, I., Dirain, M. L., et al. (2009). The natural feed additive caprylic acid decreases *Campylobacter jejuni* colonization in market-aged broiler chickens. Poultry Science, 88, 61-64.
 
+Tambur, Z., Miljkovic-Selimovic, B., Doder, R., & Kulisic, Z. (2010). Susceptibility of *Campylobacter jejuni* and *Campylobacter coli* isolated from animals and humans to tetracycline. African Journal of Microbiology Research, 4(12), 1246-1250.
 
-ACC GCG ATA TCG TTG GT</td>
-<td>550</td>
-<td></td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>CTX-M-F2
+Tang, J. Y. H., Mohamad Ghazali, F., Saleha, A. A., Nishibuchi, M., & Son, R. (2009). Comparison of thermophilic *Campylobacter* spp. occurrence in two types of retail chicken samples. International Food Research Journal, 16, 277-288.
 
+Usha, M. R., Fauziah, M., Tunung, R., Chai, L. C., Cheah, Y. K., Farinazleen, M. G., et al. (2010). Occurrence and antibiotic resistance of *Campylobacter jejuni* and *Campylobacter coli* in retail broiler chicken. International Food Research Journal, 17, 247-255.
 
+Vandeplas, S., Marcq, C., Dubois Dauphin, R., Beckers, Y., Thonart, P., & Thewis, A. (2008). Contamination of poultry flocks by the human pathogen *Campylobacter* spp. and strategies to reduce its prevalence at the farm level. Biotechnologie, Agronomie, Société et Environnement, 12(3), 317-334.
 
-CTX-M-R2</td>
-<td>CCA GAA TAA GGA ATC CCA TG
+WHO. (2003). Programme de surveillance mondiale des *Salmonella* et de soutien aux laboratoires. In Techniques de laboratoire: Cours pratique de Niveau 2 Isolement, identification et détermination de la sensibilité aux antibiotiques des *Campylobacter* (p. 30).
 
+WHO. (2008a). Manuel de standardisation de l'antibiogramme en médecine vétérinaire à l'échelle nationale selon les recommandations de l'OMS (4th ed.).
 
+WHO. (2008b). Manuel de standardisation de l'antibiogramme en médecine humaine à l'échelle nationale selon les recommandations de l'OMS (5th ed.).
 
-GCC GTC TAA GGC GAT AAA C</td>
-<td></td>
-<td>Whole </td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>CMY-F
-
-
-
-CMY-R</td>
-<td>GAC AGC CTC TTT CTC CAC A
-
-
-
-TGG AAC GAA GGC TAC GTA</td>
-<td>1007</td>
-<td></td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>CMY-F2
-
-
-
-CMY-R2</td>
-<td>ACG GAA CTG ATT TCA TGA TG
-
-
-
-GAA AGG AGG CCC AAT ATC CT</td>
-<td></td>
-<td>Whole </td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>SHV-F
-
-
-
-SHV-R</td>
-<td>TTA TCT CCC TGT TAG CCA CC
-
-
-
-GAT TTG CTG ATT TCG CTC GG</td>
-<td>795</td>
-<td></td>
-<td>[69]</td>
-</tr>
-<tr>
-<td colspan="5"><strong>Integrons</strong></td>
-</tr>
-<tr>
-<td>5'-CS
-
-
-
-3'-CS</td>
-<td>GGC ATC CAA GCA GCA AG
-
-
-
-AAG CAG ACT TGA CCT GA</td>
-<td>152</td>
-<td>Class 1 integron</td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>hep74
-
-
-
-hep51</td>
-<td>CGG GAT CCC GGA CGG CAT GCA CGA TTT GTA
-
-
-
-GAT GCC ATC GCA AGT ACG AG</td>
-<td>491</td>
-<td>Class 2 integron</td>
-<td>[69]</td>
-</tr>
-<tr>
-<td colspan="5"><strong>Plasmid-mediated quinolone resistance gene</strong></td>
-</tr>
-<tr>
-<td>qnrA-F
-
-
-
-qnrA-R</td>
-<td>ATT TCT CAC GCC AGG ATT TG
-
-
-
-GAT CGG CAA AGG TTA GGT CA</td>
-<td>516</td>
-<td></td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>qnrB-F
-
-
-
-qnrB-R</td>
-<td>GAT CGT GAA AGC CAG AAA GG
-
-
-
-ACG ATG CCT GGT AGT TGT CC</td>
-<td>469</td>
-<td></td>
-<td>[69]</td>
-</tr>
-<tr>
-<td>qnrS-F
-
-
-
-qnrS-R</td>
-<td>ACG ACA TTC GTC AAC TGC AA
-
-
-
-TAA ATT GGC ACC CTG TAG GC</td>
-<td>417</td>
-<td></td>
-<td>[69]</td>
-</tr>
-<tr>
-<td colspan="5"><strong>Plasmid-mediated colistin resistance gene</strong></td>
-</tr>
-<tr>
-<td>CLR5-F
-
-
-
-CLR5-R</td>
-<td>CGG TCA GTC CGT TTG TTC
-
-
-
-CTT GGT CGG TCT GTA GGG</td>
-<td>308</td>
-<td></td>
-<td>[24]</td>
-</tr>
-</tbody>
-</table>
-
-**Determination of antimicrobial susceptibility profiles**
-The antimicrobial susceptibility was determined using the Kirby-Bauer disc diffusion test. Briefly, one colony picked up, streaked on Mueller-Hinton blood agar (Oxoid) and incubated at  overnight. Bacterial colonies were suspended in 0.9% NaCl to obtain a McFarland turbidity of 0.5 (Dr. Lange, photometer CADAS 30, Berlin, Germany) containing  colony-forming units (CFU)/ml of *E. coli* strain ATCC 25922. Three hundred l of the suspension were spread onto the surface of a Mueller-Hinton agar plate (Oxoid) using a sterile swab. The antimicrobial discs (Oxoid) of thirteen clinically used antibiotics, which are used in the Egyptian poultry and cattle farms (Tables 4, 5) were distributed onto the surface of the Mueller-Hinton agar plates using a multi-disc dispenser (Oxoid). The plates were incubated at  overnight. The diameters of inhibition zones were measured using sliding calipers and interpreted using standard break points according to Clinical and Laboratory Standards Institute. The antimicrobial susceptibility of colistin was determined by disc diffusion susceptibility testing using colistin discs (Oxoid) containing 10 g. The disc zone diameters was interpreted according to previous report.
-
-**Table 4: Breakpoint values of antimicrobial agents according to CLSI, 2011 and phenotypic antimicrobial susceptibility profiles of 15 *S. enterica* isolates used in this study**
-
-<table>
-<thead>
-<tr>
-<th>Antibiotic class</th>
-<th>Antimicrobial agent</th>
-<th>Conc. (µg)</th>
-<th>Zone diameter (mm) R / I / S</th>
-<th>S. Typhimurium (9) R / S</th>
-<th>S. Enteritidis (2) R / S</th>
-<th>S. Kentucky (1) R / S</th>
-<th>S. Paratyphi A (3) R / S</th>
-<th>Total Salmonella (15) R (%) / S (%)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Penicillin</td>
-<td>Amoxycillin-clavulanic acid</td>
-<td>20</td>
-<td> / 14-17 / </td>
-<td>5 / 4</td>
-<td>0 / 2</td>
-<td>1 / 0</td>
-<td>1 / 2</td>
-<td>7 (47%) / 8 (53%)</td>
-</tr>
-<tr>
-<td></td>
-<td>Ampicillin</td>
-<td>10</td>
-<td> / 14-16 / </td>
-<td>7 / 2</td>
-<td>2 / 0</td>
-<td>1 / 0</td>
-<td>3 / 0</td>
-<td>13 (87%) / 2 (13%)</td>
-</tr>
-<tr>
-<td>Cephalosporin</td>
-<td>Cefotaxime</td>
-<td>30</td>
-<td> / 23-25 / </td>
-<td>7 / 2</td>
-<td>2 / 0</td>
-<td>0 / 1</td>
-<td>3 / 0</td>
-<td>12 (80%) / 3 (20%)</td>
-</tr>
-<tr>
-<td></td>
-<td>Cefpodoxime</td>
-<td>20</td>
-<td> / 18-20 / </td>
-<td>7 / 2</td>
-<td>1 / 1</td>
-<td>0 / 1</td>
-<td>1 / 2</td>
-<td>9 (60%) / 6 (40%)</td>
-</tr>
-<tr>
-<td></td>
-<td>Ceftazidime</td>
-<td>30</td>
-<td> / 18-20 / </td>
-<td>5 / 3</td>
-<td>2 / 0</td>
-<td>0 / 1</td>
-<td>3 / 0</td>
-<td>10 (67%) / 4 (26%)</td>
-</tr>
-<tr>
-<td></td>
-<td>Ceftriaxone</td>
-<td>30</td>
-<td> / 20-22 / </td>
-<td>6 / 3</td>
-<td>2 / 0</td>
-<td>0 / 1</td>
-<td>2 / 1</td>
-<td>10 (67%) / 5 (33%)</td>
-</tr>
-<tr>
-<td>Miscellaneous</td>
-<td>Chloramphenicol</td>
-<td>30</td>
-<td> / 13-17 / </td>
-<td>0 / 9</td>
-<td>0 / 2</td>
-<td>0 / 1</td>
-<td>0 / 3</td>
-<td>0 (0%) / 15 (100%)</td>
-</tr>
-<tr>
-<td></td>
-<td>Colistin</td>
-<td>10</td>
-<td> / 12-13 / </td>
-<td>0 / 9</td>
-<td>0 / 2</td>
-<td>0 / 1</td>
-<td>0 / 3</td>
-<td>0 (0%) / 15 (100%)</td>
-</tr>
-<tr>
-<td>Fluoroquinolone</td>
-<td>Ciprofloxacin</td>
-<td>5</td>
-<td> / 16-20 / </td>
-<td>0 / 9</td>
-<td>0 / 2</td>
-<td>0 / 1</td>
-<td>0 / 3</td>
-<td>0 (0%) / 15 (100%)</td>
-</tr>
-<tr>
-<td></td>
-<td>Enrofloxacin</td>
-<td>5</td>
-<td> / 18-20 / </td>
-<td>1 / 7</td>
-<td>0 / 1</td>
-<td>0 / 1</td>
-<td>0 / 2</td>
-<td>1 (7%) / 11 (73%)</td>
-</tr>
-<tr>
-<td></td>
-<td>Nalidixic acid</td>
-<td>30</td>
-<td> / 14-18 / </td>
-<td>3 / 6</td>
-<td>1 / 1</td>
-<td>1 / 0</td>
-<td>0 / 3</td>
-<td>5 (33%) / 10 (67%)</td>
-</tr>
-<tr>
-<td>Aminoglycoside</td>
-<td>Streptomycin</td>
-<td>10</td>
-<td> / 12-14 / </td>
-<td>2 / 7</td>
-<td>1 / 1</td>
-<td>1 / 0</td>
-<td>0 / 2</td>
-<td>4 (26%) / 10 (67%)</td>
-</tr>
-<tr>
-<td>Tetracycline</td>
-<td>Tetracycline</td>
-<td>30</td>
-<td> / 12-14 / </td>
-<td>3 / 6</td>
-<td>2 / 0</td>
-<td>1 / 0</td>
-<td>0 / 3</td>
-<td>6 (40%) / 9 (60%)</td>
-</tr>
-<tr>
-<td>Sulphonamide</td>
-<td>Trimethoprim/sulphamethoxazole</td>
-<td>25</td>
-<td> / 11-15 / </td>
-<td>4 / 2</td>
-<td>1 / 1</td>
-<td>1 / 0</td>
-<td>2 / 1</td>
-<td>8 (53%) / 4 (26%)</td>
-</tr>
-</tbody>
-</table>
-S sensitive, I intermediate, R resistant
-
-**Table 5: Breakpoint values of antimicrobial agents according to CLSI, 2011 and phenotypic antimicrobial susceptibility profiles of *E. coli* isolates used in this study**
-
-<table>
-<thead>
-<tr>
-<th rowspan="2">Antibiotic class</th>
-<th rowspan="2">Antimicrobial agent</th>
-<th rowspan="2">Conc. (µg)</th>
-<th rowspan="2">Zone diameter (R / I / S)</th>
-<th colspan="3">E. coli (21) S / I / R</th>
-<th colspan="3">Resistance rate %</th>
-</tr>
-<tr>
-<th>Poultry (15)</th>
-<th>Beef (6)</th>
-<th>Total (21)</th>
-<th>Poultry</th>
-<th>Beef</th>
-<th>Total</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Penicillin</td>
-<td>Amoxycillin-clavulanic acid</td>
-<td>20</td>
-<td> / 14-17 / </td>
-<td>4 / 1 / 10</td>
-<td>3 / 0 / 3</td>
-<td>7 / 1 / 13</td>
-<td>66.7</td>
-<td>50.0</td>
-<td>61.9</td>
-</tr>
-<tr>
-<td></td>
-<td>Ampicillin</td>
-<td>10</td>
-<td> / 14-16 / </td>
-<td>2 / 1 / 12</td>
-<td>2 / 1 / 3</td>
-<td>4 / 2 / 15</td>
-<td>80.0</td>
-<td>50.0</td>
-<td>71.4</td>
-</tr>
-<tr>
-<td>Cephalosporin</td>
-<td>Cefotaxime</td>
-<td>30</td>
-<td> / 23-25 / </td>
-<td>7 / 2 / 6</td>
-<td>4 / 1 / 1</td>
-<td>11 / 3 / 7</td>
-<td>40.0</td>
-<td>16.7</td>
-<td>33.3</td>
-</tr>
-<tr>
-<td></td>
-<td>Cefpodoxime</td>
-<td>20</td>
-<td> / 18-20 / </td>
-<td>12 / 0 / 3</td>
-<td>2 / 2 / 2</td>
-<td>14 / 2 / 5</td>
-<td>20.0</td>
-<td>33.3</td>
-<td>23.8</td>
-</tr>
-<tr>
-<td></td>
-<td>Ceftazidime</td>
-<td>30</td>
-<td> / 18-20 / </td>
-<td>9 / 1 / 5</td>
-<td>6 / 0 / 0</td>
-<td>15 / 1 / 5</td>
-<td>33.3</td>
-<td>0</td>
-<td>23.8</td>
-</tr>
-<tr>
-<td></td>
-<td>Ceftriaxone</td>
-<td>30</td>
-<td> / 20-22 / </td>
-<td>7 / 5 / 3</td>
-<td>4 / 1 / 1</td>
-<td>11 / 6 / 4</td>
-<td>20.0</td>
-<td>16.7</td>
-<td>19.0</td>
-</tr>
-<tr>
-<td>Miscellaneous</td>
-<td>Chloramphenicol</td>
-<td>30</td>
-<td> / 13-17 / </td>
-<td>9 / 3 / 3</td>
-<td>4 / 1 / 1</td>
-<td>13 / 4 / 4</td>
-<td>20.0</td>
-<td>16.7</td>
-<td>19.0</td>
-</tr>
-<tr>
-<td></td>
-<td>Colistin</td>
-<td>10</td>
-<td> / 12-13 / </td>
-<td>15 / 0 / 0</td>
-<td>6 / 0 / 0</td>
-<td>21 / 0 / 0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Fluoroquinolone</td>
-<td>Ciprofloxacin</td>
-<td>5</td>
-<td> / 16-20 / </td>
-<td>8 / 3 / 4</td>
-<td>2 / 2 / 2</td>
-<td>10 / 5 / 6</td>
-<td>26.7</td>
-<td>33.3</td>
-<td>28.6</td>
-</tr>
-<tr>
-<td></td>
-<td>Enrofloxacin</td>
-<td>5</td>
-<td> / 18-20 / </td>
-<td>8 / 5 / 2</td>
-<td>4 / 1 / 1</td>
-<td>12 / 6 / 3</td>
-<td>13.3</td>
-<td>16.7</td>
-<td>14.3</td>
-</tr>
-<tr>
-<td></td>
-<td>Nalidixic acid</td>
-<td>30</td>
-<td> / 14-18 / </td>
-<td>10 / 0 / 5</td>
-<td>4 / 1 / 1</td>
-<td>14 / 1 / 6</td>
-<td>33.3</td>
-<td>16.7</td>
-<td>28.6</td>
-</tr>
-<tr>
-<td>Aminoglycoside</td>
-<td>Streptomycin</td>
-<td>10</td>
-<td> / 12-14 / </td>
-<td>5 / 1 / 9</td>
-<td>2 / 0 / 4</td>
-<td>7 / 1 / 13</td>
-<td>60.0</td>
-<td>66.7</td>
-<td>61.9</td>
-</tr>
-<tr>
-<td>Tetracycline</td>
-<td>Tetracycline</td>
-<td>30</td>
-<td> / 12-14 / </td>
-<td>3 / 0 / 12</td>
-<td>1 / 0 / 5</td>
-<td>4 / 0 / 17</td>
-<td>80.0</td>
-<td>83.3</td>
-<td>81.0</td>
-</tr>
-<tr>
-<td>Sulphonamide</td>
-<td>Trimethoprim/sulphamethoxazole</td>
-<td>25</td>
-<td> / 11-15 / </td>
-<td>3 / 2 / 10</td>
-<td>2 / 1 / 3</td>
-<td>5 / 3 / 13</td>
-<td>66.7</td>
-<td>50.0</td>
-<td>61.9</td>
-</tr>
-</tbody>
-</table>
-S sensitive, I intermediate, R resistant.
-
-**Molecular detection of antimicrobial resistance associated genes**
-*Escherichia coli* and *S. enterica* isolates were tested for -lactamase-encoding genes , , ,  and  by PCR using universal primers for the corresponding gene families (Table 3) as described previously. PCR amplification was also used for screening of plasmid-mediated quinolone resistance genes *qnrA*, *qnrB* and *qnrS*. For detection of variants of , , ,  and  amplified PCR fragments were purified from agarose gels using Nucleospin Gel Extraction Kit (Macherey-Nagel, Düren, Germany). The products were sequenced and the sequencing results were analyzed using BLAST. Colistin resistance associated gene *mcr-1* was identified using a PCR assay (Table 3) as described by Liu et al. PCR for detection of carbapenemases  gene was performed using OXA-23-F and OXA-23-R (Table 3). PCR reaction and conditions were performed according to Braun et al.
-
-**Detection and sequencing of class 1 and class 2 integrons**
-PCR assays for detection of class 1 and class 2 integrons were performed using primers given in Table 3 and yielded PCR fragments that were purified from agarose gels using Nucleospin Gel Extraction Kit (Macherey-Nagel, Düren, Germany). The products were sequenced in Genome Centre, Gifu University, Japan. The sequencing results were analyzed using BLAST.
-
-### Results
-
-Out of 180 examined samples 15 *S. enterica* (8.3%) (7 from poultry and 8 from beef) (Table 1) as well as 21 *E. coli* (11.7%) (15 from poultry and 6 from beef) (Table 2) were isolated and identified using bacteriological methods and biochemical characterization.
-
-**Serological characterization of *S. enterica* and *E. coli***
-Fifteen isolated *S. enterica* were typed as 9 *S. enterica* serovar Typhimurium (60.0%; 3 from chicken and 6 from beef), 3 *S. enterica* Paratyphi A (20.0%; 2 from chickens and 1 from beef), 2 *S. enterica* serovar Enteritidis (13.3%; 1 from chicken and 1 from beef) and 1 *S. enterica* serovar Kentucky (6.7%) from chicken sample (Table 1). Twenty-one *E. coli* isolates were characterized as 4 O18 (19.0%) and 4 O78 (19.0%) serotypes. Other serotypes are given in Table 2.
-
-**Molecular identification of *Salmonella* serovars**
-All 15 recovered *S. enterica* serovars harboured *ompC* gene, which confirms *Salmonella* genus. Nine *S. enterica* serovar Typhimurium (60.0%) and two *S. enterica* serovar Enteritidis (13.3%) were identified by means of serovar-specific bands using PCR (Table 3). Four other isolates could not be typed with PCR method (26.7%).
-
-**Determination of antimicrobial susceptibility profiles**
-The results of determination of antimicrobial resistance of *S. enterica* and *E. coli* isolates to thirteen antibiotics are given in Tables 4 and 5. Most of the *S. enterica* isolates showed resistance to ampicillin (87.0%) and cefotaxime (80.0%) and all were susceptible to chloramphenicol, colistin and ciprofloxacin. Resistance to other antibiotics was shown in Table 4. Seven isolates of *S. enterica* serovar Typhimurium were resistant to ampicillin, cefotaxime and cefpodoxime (77.8%), while 6 isolates (66.7%) were highly sensitive to ciprofloxacin. Resistance to other antibiotics was weaker developed. Both *S. enterica* serovar Enteritidis isolates were resistant to ampicillin, cefotaxime and tetracycline. Additionally, one isolate showed resistance to streptomycin, nalidixic acid, trimethoprim/sulphamethoxazole and streptomycin. In addition to the entire resistance to ampicillin and cefotaxime, majority of the *S. enterica* serovar Paratyphi A isolates were resistant to amoxicillin-clavulanic acid, ceftriaxone and trimethoprim/sulphamethoxazole. *Salmonella enterica* serovar Kentucky isolate showed no pronounced susceptibility to any of the tested antibiotics and was resistant to six of them (Table 4). Seven out of 15 *S. enterica* serovars (46.7%) revealed phenotypic multidrug resistance exhibiting by resistance to three or more classes of antibiotics (Table 4).
-
-*Escherichia coli* isolates showed resistance to tetracycline, ampicillin, streptomycin, trimethoprim/sulphamethoxazole and amoxicillin-clavulanic acid with 80.9, 71.4, 61.9, 61.9 and 61.9%, respectively. Ten (47.6%), 9 (42.8%) and 9 (42.8%) isolates were susceptible to ciprofloxacin, enrofloxacin and ceftriaxone, respectively. All tested isolates were susceptible to colistin. Thirteen *E. coli* isolates (61.9%) were characterized as multidrug resistant (Table 5). The multidrug resistance of isolated *Salmonella* and *E. coli* was shown in Tables 6 and 7, respectively.
-
-**Table 6: Phenotypic resistance and resistance determinants found in *S. enterica* isolates in this study**
-
-<table>
-<thead>
-<tr>
-<th>Source</th>
-<th>Serovar</th>
-<th>Resistance phenotype</th>
-<th>Resistance genes/class 1 integrons</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="4"><strong>Poultry</strong></td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>Typhimurium</td>
-<td>CPD, CTX, NAL</td>
-<td>, , , </td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>Typhimurium</td>
-<td>AMC, AMP, CPD</td>
-<td></td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>Enteritidis</td>
-<td>AMP, CTX, TET</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>Kentucky</td>
-<td>AMC, AMP, NAL, STR, TET, T/S</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Fresh poultry organs (liver)</td>
-<td>Typhimurium</td>
-<td>AMC, AMP, CPD, CRO, CTX, NAL, T/S</td>
-<td>, , , , </td>
-</tr>
-<tr>
-<td>Fresh poultry organs (liver)</td>
-<td>Paratyphi A</td>
-<td>AMC, AMP, CAZ, CRO, CTX, T/S</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Frozen poultry meat</td>
-<td>Paratyphi A</td>
-<td>AMC, AMP, CRO, CTX, T/S</td>
-<td>, </td>
-</tr>
-<tr>
-<td colspan="4"><strong>Beef</strong></td>
-</tr>
-<tr>
-<td>Fresh beef meat</td>
-<td>Typhimurium</td>
-<td>AMP, CAZ, CTX</td>
-<td></td>
-</tr>
-<tr>
-<td>Fresh beef meat</td>
-<td>Typhimurium</td>
-<td>AMP, CAZ, CRO, CTX</td>
-<td></td>
-</tr>
-<tr>
-<td>Fresh beef meat</td>
-<td>Typhimurium</td>
-<td>AMC, CPD, CTX, TET, T/S</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Fresh beef meat</td>
-<td>Enteritidis</td>
-<td>AMP, CPD, CTX, NAL, STR, TET, T/S</td>
-<td>, , , , </td>
-</tr>
-<tr>
-<td>Fresh beef organs (spleen)</td>
-<td>Typhimurium</td>
-<td>AMP, CPD, CTX, STR, TET, T/S</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Fresh beef organs (liver)</td>
-<td>Typhimurium</td>
-<td>AMC, AMP, CPD</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Fresh beef organs (liver)</td>
-<td>Paratyphi A</td>
-<td>AMP, CPD, CTX</td>
-<td></td>
-</tr>
-<tr>
-<td>Frozen beef meat</td>
-<td>Typhimurium</td>
-<td>AMC, AMP, CAZ, CPD, CRO, CTX, ENR, NAL, STR, TET, T/S</td>
-<td>, , , , , </td>
-</tr>
-</tbody>
-</table>
-AMC amoxycillin-clavulanic acid, AMP ampicillin, CAZ ceftazidime, CPD cefpodoxime, CRO chloramphenicol, CTX cefotaxime, ENR enrofloxacin, NAL nalidixic acid, STR streptomycin, TET tetracycline, T/S trimethoprim/sulphamethoxazole
-
-**Table 7: Phenotypic resistance and resistance determinants found in *E. coli* isolates in this study**
-
-<table>
-<thead>
-<tr>
-<th>Source</th>
-<th>E. coli serotype</th>
-<th>Resistance phenotype</th>
-<th>Resistance genes/class 1 integron</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="4"><strong>Poultry</strong></td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>O1</td>
-<td>STR, TET</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>O18</td>
-<td>AMP, CIP, CPD, NAL, STR, TET, T/S</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>O18</td>
-<td>AMC, AMP, CHL, CIP, CRO, CTX, NAL, STR, TET, T/S</td>
-<td>, , , </td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>O78</td>
-<td>AMC, AMP, CAZ, TET, T/S</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>O119</td>
-<td>AMC, AMP, CAZ, CTX, STR, TET, T/S</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Fresh poultry meat</td>
-<td>O20</td>
-<td>AMC, AMP, CPD, TET, T/S</td>
-<td>, , </td>
-</tr>
-<tr>
-<td>Fresh poultry organs (liver)</td>
-<td>O18</td>
-<td>AMC, AMP, CAZ, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, T/S</td>
-<td>, , , , </td>
-</tr>
-<tr>
-<td>Fresh poultry organs (liver)</td>
-<td>O126</td>
-<td>AMP, CTX, STR</td>
-<td></td>
-</tr>
-<tr>
-<td>Fresh poultry organs (gizzard)</td>
-<td>O20</td>
-<td>AMC, AMP, STR, T/S</td>
-<td></td>
-</tr>
-<tr>
-<td>Fresh poultry organs (liver)</td>
-<td>O145</td>
-<td>CAZ, TET</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Frozen poultry meat</td>
-<td>O1</td>
-<td>CTX, NAL, TET</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Frozen poultry meat</td>
-<td>O18</td>
-<td>AMC, AMP, STR, TET, T/S</td>
-<td>, </td>
-</tr>
-<tr>
-<td>Frozen poultry</td>
-<td>O78</td>
-<td>AMC, AMP, CPD</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Frozen poultry meat</td>
-<td>O146</td>
-<td>AMC, AMP, TET, T/S</td>
-<td></td>
-</tr>
-<tr>
-<td>Frozen organ poultry</td>
-<td>O78</td>
-<td>AMC, AMP, CAZ, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, T/S</td>
-<td>, , , , </td>
-</tr>
-<tr>
-<td colspan="4"><strong>Beef</strong></td>
-</tr>
-<tr>
-<td>Fresh beef meat</td>
-<td>O119</td>
-<td>CPD</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Fresh beef meat</td>
-<td>O158</td>
-<td>CPD, TET</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Fresh beef organs (liver)</td>
-<td>O78</td>
-<td>AMC, AMP, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, T/S</td>
-<td>, , , , , </td>
-</tr>
-<tr>
-<td>Frozen beef meat</td>
-<td>O103</td>
-<td>STR, TET</td>
-<td></td>
-</tr>
-<tr>
-<td>Frozen beef meat</td>
-<td>O126</td>
-<td>AMC, AMP, CIP, STR, TET, T/S</td>
-<td>, , </td>
-</tr>
-<tr>
-<td>Frozen beef meat</td>
-<td>O158</td>
-<td>AMC, AMP, STR, TET, T/S</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-AMC amoxycillin-clavulanic acid, AMP ampicillin, CAZ ceftazidime, CPD cefpodoxime, CRO chloramphenicol, CTX cefotaxime, ENR enrofloxacin, NAL nalidixic acid, STR streptomycin, TET tetracycline, T/S trimethoprim/sulphamethoxazole
-
-**Molecular detection of resistance-associated genes**
-Six of 8 screened resistance-associated genes were detected in *S. enterica* serovars by PCR (Table 6). Eleven (73.3%) isolates harboured  gene (1, 3 and 14) associated with cefotaxime resistance and 11 (73.3%) isolates harboured  gene associated with penicillin and narrow spectrum -lactamase resistance. Five (33.3%) isolates harboured quinolone resistance gene A (), while 3 (20.0%), 2 (13.3%) and 1 (6.7%) of *S. enterica* serovars possessed ,  and  genes, respectively.  associated with resistance to ampicillin and cephalothin and  associated with plasmid-mediated ampicillin resistance were not found in any isolate.
-
-In *E. coli* isolates, 5 of 8 screened resistance-associated genes were detected by PCR (Table 7). Eleven (52.4%) out of 21 isolates harboured  (1 and 104), while  (1 and 14) was detected in 9 isolates (42.9%). Seven isolates (33.3%) carried  and  and in three isolates (14.3%)  was detected. Genes ,  and  were not detected in any of the *E. coli* isolates. Plasmid-mediated colistin resistance gene *mcr-1* and carbapenemase resistance gene  were not identified neither in *S. enterica* nor in *E. coli* isolates using PCR assay.
-
-**Integron gene cassettes and DNA sequencing**
-Class 1 integron was detected in two isolates of *S.* Typhimurium using PCR (Table 6). The inserted gene cassettes identified three types of antimicrobial resistance genes associated with class 1 integron: dihydrofolate reductase types (*dfrA15* and *dfrA17*) which confer resistance to trimethoprim, and aminoglycoside adenyltransferase type *aadA2* that confers resistance to streptomycin and spectinomycin. Three *E. coli* isolates of serotypes O18, O78 and O78 were harbouring class 1 integron (Table 7). The inserted gene cassettes identified three types of class 1 integron. The identified antimicrobial resistance genes were dihydrofolate reductase types; *dfrA1*, *dfrA15* and *dfrA1-orf* which confer resistance to trimethoprim. All *S. enterica* and *E. coli* isolates were negative for class 2 integrons.
-
-### Discussion
-
-Salmonellosis and *Salmonella* infections considered as critical threats to human and animal health. In this study, the prevalence of *S. enterica* serovars in chicken and beef meat was 8.3%, which was considerably lower than incidence rates that reported in Ethiopia (12.0% in raw meat), Canary islands (16.5% in chicken meat), Northwestern Spain (17.9% in chicken), Ethiopia (17.9% in chicken and giblets), and Egypt (10.0% in poultry meat). On the other hand, it was higher than reported previously in meat products in Egypt (6.6%) and in ground beef in the United States (4.2%). In total, *S. enterica* serovar Typhimurium was the dominant serovar. These results were in accordance with previous study from chicken products in Cambodia and Thailand. Controversially, *S. enterica* serovar Enteritidis was the dominant serotype in imported frozen poultry samples from Brazil to Canary Islands and in chicken carcasses in Spain. *Salmonella enterica* serovar Kentucky was frequently detected in samples coming from US to Canary Islands.
-
-Prevalence of *E. coli* in chicken meat and organs was 16.7% which was lower than in Nigeria (43.4%) in frozen poultry meat but higher than in Korea (4.9% in poultry meat). Prevalence of *E. coli* in beef meat was 6.7%, while in Korea and Iran were found 4.1 and 29.0%, respectively. In this study, 19.0% of *E. coli* isolates typed as O78 was mainly from poultry products, while in China, O78 was identified in 60.0% of *E. coli* isolated from chicken and ducks. *E. coli* type O158 identified in 9.5% only in beef meat while O158 detected in 22.7% of food isolates in Chile.
-
-Bacterial antimicrobial resistance is a global emerging problem of public health concern. In the current study, a high percentage of *S. enterica* serovars were resistant to ampicillin and cefotaxime. The resistance to other antimicrobial agents was variable while all isolates were sensitive to chloramphenicol and ciprofloxacin. The results were in a partial accordance with results of previous reports stating that all *S. enterica* isolated from chicken meat and beef were sensitive to ciprofloxacin. 72.4% of *Salmonella* isolates in Thai meat products were resistant to ampicillin while 71.0% of isolates in Cambodian meat products were resistant to sulfamethoxazole. Controversially, *S. enterica* isolated from animals and food of animal origin in Italy were highly resistant to ampicillin, chloramphenicol, streptomycin and tetracycline and all *Salmonella* isolated from beef in Tunisia were susceptible to amoxicillin and clavulanic acid. In total, 46.7% of *S. enterica* serovars showed multidrug resistance, which was higher than resistance of *Salmonella* isolated from raw chicken (31.0%) in Pennsylvania during 2010. Less multidrug resistant *S. enterica* isolates (6.0%) were identified in cattle hides and carcasses in the US.
-
-The results of this study showed that the antimicrobial resistance of *E. coli* isolated from poultry was higher than from beef to the most of tested antibiotics. The high resistance to tetracycline, ampicillin, amoxycillin-clavulanic acid, trimethoprim/sulphamethoxazole and streptomycin in this study was in agreement with previous reports conducted in Egypt and Algeria. While in Spain, most of *E. coli* isolated from diarrhoeic and healthy lambs were highly resistant to tetracycline and streptomycin but show lower resistance to ampicillin. Most of *E. coli* isolates in this study were sensitive to enrofloxacin, chloramphenicol and ceftriaxone which is in agreement with previous results in Spain. In this study, 61.9% of *E. coli* isolates were multidrug resistant. Similar results reported previously in Ghana and US.
-
-Most of the phenotypically antibiotic resistant *S. enterica* serovars carried antibiotic resistance marker genes associated with -lactams and quinolones. The -lactamase encoding gene  conferring resistance to penicillins and first-generation cephalosporins was detected in 73.3% of *S. enterica* serovars and in 76.9% of ampicillin-resistant isolates which is significantly high in comparison to 57.3% () in *S. enterica* isolated from retail chickens in China. Another -lactamase encoding gene , an AmpC beta-lactamase gene that confers resistance to a wide variety of -lactam antibiotics detected in 13.3% of isolates. In contrast, in 4.7% of *S. enterica* serovars Typhimurium and Enteritidis originated from diseased broilers in Egypt  was identified and all resistant *S. enterica* serovar Typhimurium isolated from retail meat in US were harbouring . The same gene could not be detected previously in any *S. enterica* serovar Typhimurium isolated from chicken meat in Egypt.  could be identified in 73.3% of isolated *S. enterica* serovars. In 24.0 and 18.8% of different *Salmonella* serovars isolated from retail chicken carcasses in China,  and  were detected, respectively.
-
-The  is responsible for the plasmid-mediated ampicillin resistance and -lactamase encoding genes  conferring resistance to ampicillin and cephalothin not detected in any of *S. enterica* serovars in this study. This result was in accordance with a result for *S. enterica* serovar Typhimurium isolated from chicken meat in Egypt. In contrast, 30.2% of ESBL-producing *Salmonella* isolated from raw chicken carcasses in China were harbouring . Although none of *S. enterica* serovars were phenotypically resistant to ciprofloxacin, *qnrA*, *qnrB* and *qnrS* genes were detected in 33.3, 20.0 and 6.7%, respectively in all *S. enterica* serovars and in 100, 60.0 and 20.0%, respectively in *S. enterica* resistant to nalidixic acid. A different result showed that 1.16% of nalidixic acid-resistant *S. enterica* serovars isolated from animal products in Tunisia carried *qnr* gene. In other studies in China *qnrA*, *qnrB* and *qnrS* genes detected with low percentage in *S. enterica* serovar Enteritidis isolated from retail raw poultry.
-
-The  gene was detected in 52.3% of all isolated *E. coli* and in 73.3% of ampicillin-resistant isolates. Other studies detected  in 97.1 and 75.0% of *E. coli* isolates from lambs in Spain and meat products in Cambodia, respectively. In China,  was identified in 7.8% of ESBL-producing *E. coli* recovered from meat products. The -lactamase encoding gene  was not found in any of the isolated *E. coli*. In contrast,  was detected in 89.0% *E. coli* isolated from poultry meat in Denmark and in 12.5% of ESBL-producing *E. coli* isolated from meat products in Cambodia. The  detected in 42.9% of *E. coli* isolated in this study. In Ghana 50.0% of ESBL-producing *E. coli* isolates from meat harboured  while these -lactamase encoding genes  and  were detected rarely (1.6%) in *E. coli* isolates from meat products in China. The  gene was not found in any of the *E. coli* isolates. Controversially, previous studies detected  in 9.4, 5.3 and 2.0% in meat products in China, broiler chickens and chicken carcasses in Iran, respectively.  was detected in 14.3% of the *E. coli* isolates which is in contrast with previous report conducted in retail meat in US where the gene could not be identified. The most common carbapenemase types were  and  accounting for 47% of all identified carbapenemase genes. In this study,  was not identified in all isolated strains.
-
-In isolated *E. coli*, *qnrA* and *qnrB* detected in 33.3% of isolates, all nalidixic acid and/or ciprofloxacin resistant isolates harboured both genes. While *qnrB* and *qnrS* were identified in 10.4% of nalidixic acid resistant *E. coli* isolated from Algerian retail chicken meat and in 10.0% of *E. coli* isolates obtained from bovine carcasses in Mexico. In contrast, *qnrA*, *qnrB* and *qnrS* genes could not be identified in enrofloxacin-resistant *E. coli* strains from poultry in Mexico.
-
-The presence of genetic elements such as integrons and transposons are often associated with multi-resistant phenotypes among *Salmonella* isolates. In this study, class 1 integron detected in 13.3% of *S. enterica* serovars. The identified gene cassettes were *dfrA15*, *dfrA17* and *aadA2*. In previous studies, class 1 integron identified in 90.0% of multi-drug resistant *Salmonella* isolates from retail chicken meat in Japan and the identified genes cassettes were *dfrA1*, *dfrA7*, *aadA1*, *aadB*, and *catB3*. The gene cassettes of class 1 integron which detected in *Salmonella* spp. isolated from poultry meat in Egypt were harbouring *aac (3)-Id*, *aadA2*, *aadA4*, *aadA7*, *sat*, *dfrA15*, *lnuF* and *estX* resistance genes. In a study conducted in Portugal, 75.0% of *S. enterica* isolated from different sources including food products had one or two class 1 integrons.
-
-The identified gene cassettes of class 1 integron *dfrA1*, *dfrA15* and *dfrA1-orf* which confer resistance to trimethoprim were identified in 14.3% of *E. coli* isolated in this study. This is in agreement with *E. coli* isolates from retail chickens in Japan and in 1.9 and 11.4% of isolates from Thai and Cambodian meat samples obtained from slaughterhouses and fresh markets and the most common gene cassette was *dfrA12-aadA2*. Class 2 integrons were not detected in all isolates of this study which is in contrast to 5.6% positive samples in Egypt.
-
-In this study, *mcr-1* gene associated with colistin resistance was neither detected in *S. enterica* nor *E. coli* isolates. This result was in agreement with the result reported by Doumith et al. who investigated 24,000 isolates of Enterobacteriaceae from food and humans including *S. enterica* and *E. coli* and found only 15 *mcr-1* positive isolates. Recently, Quesada et al. identified the gene *mcr-1* in nine *S. enterica* and *E. coli* isolates from poultry and swine for the first time in Spain. Jayol et al. found the *mcr-1* in 13% of *E. coli* and *S. enterica*. Considering the frequent use of colistin in animal production and the importance of this antimicrobial for the control of multi-resistant Gram-negative nosocomial infections in humans, monitoring the dissemination of resistance to colistin is mandatory.
-
-In conclusion, the results of this study showed high prevalence of *S. enterica* and *E. coli* as foodborne pathogens isolated from poultry and beef meat in Egypt. The emergence of antimicrobial resistance of *S. enterica* and *E. coli* isolates is of public concerns in Egypt. Significant resistance was detected to penicillin, cephalosporins, tetracycline and sulphonamides. Dissemination of ESBL and AmpC--lactamase resistance-associated genes in *S. enterica* and *E. coli* was determined. Presence of class 1 integron in *S. enterica* and *E. coli* and genes associated with antibiotic resistance was also confirmed. Class 2 integron was not detected in any isolate. Further work should be performed to characterize *S. enterica* and *E. coli* isolates of animal and human origin from the same region sharing the same resistance markers in order to highlight potential horizontal gene transfer by these zoonotic organisms.
+WHO. (2008). Résistance aux antimicrobiens provenant des animaux destinés à l'alimentation. Note d'information INFOSAN No. 2/2008.

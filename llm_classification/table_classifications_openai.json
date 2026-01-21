@@ -1,0 +1,1378 @@
+{
+  "Adelowo2014_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table uses sub-headers such as Farm/City and Age, indicating a Grouped structure.",
+      "depth": "The table contains linked variables like location and antimicrobial use, indicating analytical depth of 2.",
+      "semantics": "Values can be read directly without needing comparison, indicating Descriptive semantics.",
+      "representation": "The table contains text and numbers without scientific notation, indicating Plain representation.",
+      "domains": "The table primarily involves microbiology, indicating 1 domain.",
+      "final_rule": "Grouped structure and Descriptive semantic load fit the criteria for Medium complexity."
+    }
+  },
+  "Adelowo2014_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has column groups under 'Distribution of MICs', indicating a grouped structure.",
+      "depth": "The table links two main variables: compounds and their resistance measurements across sources.",
+      "semantics": "Comparisons of resistance across various MIC distributions and sources require interpretation.",
+      "representation": "The table uses scientific notation such as MIC values in mg/L.",
+      "domains": "The table combines microbiology (E. coli resistance) and pharmacology (MIC distributions).",
+      "final_rule": "Grouped AND Scientific representation leads to an Extreme complexity classification."
+    }
+  },
+  "Adelowo2014_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "2 domains",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table has grouping with sub-headers indicating different antibiotics and sources, showing a grouped structure.",
+      "depth": "The combination of antibiotics and sources indicates two linked variables.",
+      "semantics": "Values are read directly from the table without the need for comparison or inference.",
+      "representation": "The table uses text and numbers without any scientific notation.",
+      "domains": "The table integrates microbiology and epidemiology.",
+      "final_rule": "The table is grouped and has descriptive semantic load."
+    }
+  },
+  "Adelowo2014_clean_Table_4.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table uses sub-headers to group data under main categories such as 'IBDAN', 'OBGOMO/OGS', and 'OSOGBO'.",
+      "depth": "The table represents three variables: Isolate, Phenotypic resistance, and Resistance genes profile.",
+      "semantics": "Interpretation requires comparison of resistance profiles across different isolates and sources.",
+      "representation": "The table uses scientific notation such as gene symbols and molecular identifiers.",
+      "domains": "The table integrates microbiology, genetics, and epidemiology domains.",
+      "final_rule": "The table is classified as Extreme due to its Grouped structure, Comparative analysis, Scientific representation, and integration of 3 or more domains."
+    }
+  },
+  "Agabou2016_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has grouped headers for antibiotics and origin of isolates.",
+      "depth": "There are variables for antibiotics, origin of isolates, and percentage values.",
+      "semantics": "Comparison is required across rows and columns, particularly regarding P-values.",
+      "representation": "The table includes scientific notation such as P-values and antibiotic names.",
+      "domains": "Microbiology and Statistics are present, given the resistance profiles and P-values.",
+      "final_rule": "The presence of grouped structure, comparative semantic load, scientific representation, and multiple domains makes the complexity extreme."
+    }
+  },
+  "Agabou2016_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table uses grouping with sub-headers for different isolate origins.",
+      "depth": "Variables include origin of isolates, gene presence, and phylogenetic group.",
+      "semantics": "The table requires comparing gene presence across different isolate origins.",
+      "representation": "The table uses gene symbols and p-values, indicating scientific notation.",
+      "domains": "The table integrates microbiology and statistics.",
+      "final_rule": "Grouped AND Scientific representation results in Extreme complexity."
+    }
+  },
+  "Agabou2016_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has a level of grouping with sub-headers for variables like origin of isolates and gene categories.",
+      "depth": "The table presents multiple linked variables such as isolate origin, gene presence, and comparative p-values.",
+      "semantics": "Comparative reasoning is needed to interpret p-values and gene distributions across groups.",
+      "representation": "The table uses scientific notations such as gene symbols and p-values.",
+      "domains": "Combines microbiology, genetics, and statistics.",
+      "final_rule": "The table is classified as Extreme due to its Grouped structure with Comparative analysis, Scientific representation, and involving 3 or more domains."
+    }
+  },
+  "Ahmed2014_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has a simple grid with a single header row and no grouped headers.",
+      "depth": "There are isolate numbers, sources, resistance phenotypes, and integrons/resistance genes, indicating three variables.",
+      "semantics": "Values can be directly read from the table without requiring comparison or inference.",
+      "representation": "The table uses domain-specific scientific notation including gene symbols and resistance profiles.",
+      "domains": "The table involves microbiology, genetics, and pharmacology.",
+      "final_rule": "The structure is flat but scientific notation and multiple domains elevate complexity to Extreme."
+    }
+  },
+  "Ahmed2014_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has grouped headers with complex data layouts.",
+      "depth": "There are multiple variables like serovar, resistance genotype, and plasmid details.",
+      "semantics": "Comparison is required to understand differences in resistance profiles.",
+      "representation": "Scientific notation is used, including gene symbols and MIC values.",
+      "domains": "Involves microbiology, genetics, and epidemiology.",
+      "final_rule": "Complexity is classified as Extreme due to a Grouped structure combined with Scientific representation, Comparative semantics, and 3 or more domains."
+    }
+  },
+  "Bawa2015_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row and a simple grid.",
+      "depth": "The table links the type of meat sample with the prevalence of Salmonella.",
+      "semantics": "Values are read directly without comparison or reasoning across rows or columns.",
+      "representation": "Percentages are used to represent prevalence.",
+      "domains": "Involves microbiology and epidemiology.",
+      "final_rule": "Flat AND analytical depth = 2"
+    }
+  },
+  "Bawa2015_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table has a grouped header with antibiotic resistance across different types of meat samples.",
+      "depth": "The table links antibiotics and meat sample types.",
+      "semantics": "Understanding requires comparing resistance rates across different meat samples.",
+      "representation": "The table uses percentages to represent resistance data.",
+      "domains": "Involves microbiology and epidemiology.",
+      "final_rule": "Grouped AND (Comparative OR Inferential) AND NOT Hierarchical AND NOT Matrix"
+    }
+  },
+  "Bernadette2012_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Percentages",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table has a single header row with a simple grid structure, and no grouped or nested headers.",
+      "depth": "The table links antibiotic type, strain, and sensitivity, representing more than two variables.",
+      "semantics": "Comparison of resistance profiles across different strains requires understanding relative percentages.",
+      "representation": "Percentages are used for the sensitivity profiles of the strains.",
+      "domains": "Involves microbiology, pharmacology, and epidemiology.",
+      "final_rule": "Flat structure with analytical depth of 3 results in a medium complexity classification."
+    }
+  },
+  "Bounar-Kechih2012_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table has one level of grouping with sub-headers for 'Wilaya (n)' columns.",
+      "depth": "The table links two variables: 'Salmonella serotype' and 'Wilaya'.",
+      "semantics": "Values can be directly read without requiring comparison or reasoning.",
+      "representation": "The table uses plain text and integers.",
+      "domains": "The data pertains primarily to microbiology.",
+      "final_rule": "Grouped AND semantic load = Descriptive"
+    }
+  },
+  "Bounar-Kechih2012_clean_Table_2.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has nested headers indicating multiple levels of categorization, such as serotypes, antibiotics, and resistance profiles.",
+      "depth": "The table presents variables related to serotypes, sources, and resistances, indicating three or more variables.",
+      "semantics": "Interpretation requires comparing resistance profiles across different serotypes and antibiotics.",
+      "representation": "The table includes scientific notations such as resistance profiles with abbreviations for antibiotics and percentages.",
+      "domains": "The table integrates microbiology, pharmacology, and epidemiology domains.",
+      "final_rule": "The hierarchical structure and presence of scientific representation classify it as Extreme complexity."
+    }
+  },
+  "Bounar-Kechih2012_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has grouped headers with sub-categories such as Resistance profile and Transferred resistance.",
+      "depth": "There are three variables: Salmonella serotype, resistance profiles, and transferred resistance.",
+      "semantics": "Values and categories can be read directly without comparisons required across rows or columns.",
+      "representation": "The table uses domain-specific scientific notation such as AMP, TCY, NAL, and ND.",
+      "domains": "The table integrates Microbiology and Epidemiology.",
+      "final_rule": "Grouped AND Scientific representation results in Extreme complexity."
+    }
+  },
+  "Bouzidi2012_clean_Table_1.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has multi-level nested headers like sample type and serovars.",
+      "depth": "The table links variables such as sample type, serovar identification, and resistance pattern.",
+      "semantics": "Values can be read directly without comparative or inferential analysis.",
+      "representation": "Uses domain-specific scientific notations such as gene symbols and MIC values.",
+      "domains": "The table integrates microbiology, genetics, and epidemiology.",
+      "final_rule": "Hierarchical structure results in an Extreme complexity classification."
+    }
+  },
+  "Bouzidi2012_clean_Table_2.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has multi-level headers and nested row categories.",
+      "depth": "Three or more variables are represented, including source, samples tested, and resistance patterns.",
+      "semantics": "The table requires comparison of resistance patterns across different sources and samples.",
+      "representation": "The table uses scientific notation such as antibiotic names and susceptibilities.",
+      "domains": "The table combines microbiology, genetics, and epidemiology.",
+      "final_rule": "Any Hierarchical structure results in an Extreme complexity classification."
+    }
+  },
+  "Bouzidi2012_clean_Table_3.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has nested headers with categories spanning multiple detailed rows.",
+      "depth": "Three variables are linked: sample type, number of samples, and resistance patterns.",
+      "semantics": "The table requires comparing patterns of resistance profiles across different sources.",
+      "representation": "Scientific notations such as gene symbols, MIC values, and symbols are present.",
+      "domains": "Includes microbiology, genetics, and epidemiology as distinct domains.",
+      "final_rule": "Hierarchical structure leads to an Extreme complexity classification."
+    }
+  },
+  "Daka2012_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row and a simple grid.",
+      "depth": "Two variables are linked: sample source and percentage of S. aureus isolates.",
+      "semantics": "Values can be read directly with no comparison or reasoning required.",
+      "representation": "Text and integers only.",
+      "domains": "Only microbiology is represented.",
+      "final_rule": "Flat AND analytical depth = 2."
+    }
+  },
+  "Daka2012_clean_Table_2.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row and a simple grid with no grouped headers.",
+      "depth": "The table links two variables: sample source and antibiotic resistance percentage.",
+      "semantics": "Understanding the table involves comparing antibiotic resistance across different sample sources.",
+      "representation": "The table includes scientific notation, such as antibiotic abbreviations and percentage values.",
+      "domains": "The table combines microbiology and pharmacology, as it deals with antibiotic resistance profiles.",
+      "final_rule": "Flat AND analytical depth = 2 classifies this table as Low complexity."
+    }
+  },
+  "Daka2012_clean_Table_3.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row and a simple grid with no grouping.",
+      "depth": "Two variables are represented: phenotype and percentage.",
+      "semantics": "Values can be read directly without requiring comparison.",
+      "representation": "The table uses text and integers only, without scientific notation.",
+      "domains": "The content is related to microbiology.",
+      "final_rule": "Flat structure with analytical depth of 2 yields a Low complexity classification."
+    }
+  },
+  "Daka2012_clean_Table_4.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has grouped headers with separate sections for different milk sample sources and antibiotics, indicating a Grouped structure.",
+      "depth": "The table links two variables: sample source and antibiotic resistance percentage.",
+      "semantics": "Comparison of antibiotic resistance across different sample sources is necessary, indicating Comparative reasoning.",
+      "representation": "The table uses scientific notation including drug abbreviations and resistance percentages.",
+      "domains": "The table combines microbiology (antibiotic resistance) and potentially epidemiology.",
+      "final_rule": "Grouped AND Scientific representation leads to Extreme complexity."
+    }
+  },
+  "Ejo2016_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Percentages",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row with a simple layout without grouping or hierarchy.",
+      "depth": "The table links two variables: 'Sample type' and 'Number of samples that tested positive'.",
+      "semantics": "Values are presented directly with no comparison or inferential statistics required.",
+      "representation": "The table uses percentages to represent test results.",
+      "domains": "The table is focused on microbiology, concerning Salmonella prevalence.",
+      "final_rule": "Flat structure with analytical depth of 2 variables results in Low complexity."
+    }
+  },
+  "Ejo2016_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table has column groups for 'Susceptible', 'Intermediate', and 'Resistant' but no further nesting.",
+      "depth": "Two variables are linked: Antimicrobials and Susceptibility status (percentages for Susceptible, Intermediate, Resistant).",
+      "semantics": "Values are percentages that can be read directly without requiring comparisons or inference.",
+      "representation": "The table uses percentages to represent susceptibility data.",
+      "domains": "Table integrates data from microbiology and epidemiology in assessing antimicrobial susceptibility.",
+      "final_rule": "Grouped AND semantic load = Descriptive"
+    }
+  },
+  "Ejo2016_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table has grouped headers for 'Number of resistant isolates from food samples' with sub-categories for different food types.",
+      "depth": "There are two variables: antimicrobial tested and the number of resistant isolates from food samples.",
+      "semantics": "Values are directly readable without requiring comparisons or inference.",
+      "representation": "The table includes text and integers only.",
+      "domains": "The table information pertains solely to microbiology.",
+      "final_rule": "The table is Grouped with Descriptive semantics, leading to Medium complexity."
+    }
+  },
+  "Ejo2016_clean_Table_4.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has a single header row with a simple grid format.",
+      "depth": "The table links resistant patterns with antimicrobial profiles and food sources.",
+      "semantics": "Interpretation requires comparing resistance profiles across different food items.",
+      "representation": "Scientific notation is used, including antibiotic abbreviations.",
+      "domains": "The table combines domains such as Microbiology, Pharmacology, and Food Safety.",
+      "final_rule": "Extreme complexity due to Scientific representation and 3 or more domains."
+    }
+  },
+  "Fashae2019_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table has grouped headers with categories for 'No. blood samples collected' and 'No. (%) blood samples positive'.",
+      "depth": "There are two linked variables: number of blood samples and number of samples positive.",
+      "semantics": "Values can be directly read without requiring comparison or statistical reasoning.",
+      "representation": "The table uses percentages to represent the proportion of positive samples.",
+      "domains": "The table integrates Epidemiology and Microbiology.",
+      "final_rule": "Grouped AND semantic load = Descriptive results in Medium complexity."
+    }
+  },
+  "Fashae2019_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Percentages",
+    "step5_domains": "1 domain",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table has grouped headers indicating percentages per serovar.",
+      "depth": "The table links two variables: farm number and serovar occurrence.",
+      "semantics": "Values are descriptive and can be read directly without comparison.",
+      "representation": "Percentages are used to show data proportions.",
+      "domains": "The table pertains to microbiology, focusing on serovar occurrence.",
+      "final_rule": "Grouped AND semantic load = Descriptive leads to Medium complexity."
+    }
+  },
+  "Fashae2019_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table uses grouped headers to organize sample sites and serovars.",
+      "depth": "The table links two variables: sample sites and serovar counts/percentages.",
+      "semantics": "Interpreting the table requires comparing serovar distributions across different sample sites.",
+      "representation": "Data is represented using both raw counts and percentages.",
+      "domains": "The table combines Epidemiology and Microbiology.",
+      "final_rule": "Grouped structure with Comparative semantic load and absence of hierarchical structure results in High complexity."
+    }
+  },
+  "Fashae2019_clean_Table_4.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table includes grouped headers for antimicrobials and percentages within parentheses.",
+      "depth": "The table links the serovar, antimicrobial, and resistance incidence.",
+      "semantics": "Comparison is needed to interpret resistance patterns across serovars.",
+      "representation": "The table uses percentages to represent resistance prevalence.",
+      "domains": "Involves microbiology and epidemiology.",
+      "final_rule": "Grouped AND Comparative AND NOT Hierarchical AND NOT Matrix."
+    }
+  },
+  "Fashae2019_clean_Table_5.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table has sub-headers for multiple antibiotics categories under a common header.",
+      "depth": "The table represents serovars, antibiotics, and resistance percentages, linking three variables.",
+      "semantics": "Comparison across serovars for different antibiotics is required to understand resistance patterns.",
+      "representation": "The table includes percentages to show resistance frequencies.",
+      "domains": "The domains of Microbiology and Epidemiology are involved in the study of antimicrobial resistance patterns.",
+      "final_rule": "Grouped AND Comparative AND NOT Hierarchical AND NOT Matrix results in High complexity."
+    }
+  },
+  "Gharieb2015_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row and a simple grid without grouped headers or nested categories.",
+      "depth": "The table links two variables: serotype and different sources of specimens.",
+      "semantics": "Understanding requires comparing serotype distributions across different sources.",
+      "representation": "The table uses text and integers only, with no scientific notation.",
+      "domains": "The table involves one domain, microbiology.",
+      "final_rule": "Flat structure with analytical depth of 2 leads to a Low complexity classification."
+    }
+  },
+  "Gharieb2015_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has column groups with sub-headers for antibiotics, indicating a grouped structure.",
+      "depth": "It includes variables such as source/serovar, antibiotics, and concentration levels.",
+      "semantics": "The table requires comparison of resistance patterns across different sources/serovars.",
+      "representation": "It uses scientific notation like Amoxicillin and antibiotic concentrations.",
+      "domains": "The table combines microbiology and pharmacology.",
+      "final_rule": "Grouped structure with scientific representation leads to Extreme complexity."
+    }
+  },
+  "Gharieb2015_clean_Table_3.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table includes nested row categories such as serovar types and detailed information on resistance patterns.",
+      "depth": "The table represents variables like strain, resistance pattern, and virulence genes.",
+      "semantics": "The values can be directly read without needing comparison or reasoning.",
+      "representation": "The table utilizes scientific notation with gene names and accession numbers.",
+      "domains": "The table combines microbiology, genetics, and pharmacology.",
+      "final_rule": "The table has a Hierarchical structure, qualifying its complexity as Extreme."
+    }
+  },
+  "Gharieb2015_clean_Table_4.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row with no grouped elements.",
+      "depth": "The table links two variables: gene names and their amplification conditions.",
+      "semantics": "Each row presents data directly without requiring comparisons.",
+      "representation": "The table uses scientific notation like gene sequences and temperatures.",
+      "domains": "The data falls under a single domain, microbiology/genetics.",
+      "final_rule": "Flat AND analytical depth = 2"
+    }
+  },
+  "Hiko2008_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table uses grouped headers with column/row groups.",
+      "depth": "Three variables are represented: raw meat type, source, and the number of samples.",
+      "semantics": "Comparisons are required to understand distribution across sources.",
+      "representation": "Includes text and integers only, without scientific notation.",
+      "domains": "Covers a single domain related to microbiology and meat sources.",
+      "final_rule": "Grouped AND semantic load = Descriptive"
+    }
+  },
+  "Hiko2008_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has grouped headers with sub-headers for different sources and antimicrobial susceptibility patterns.",
+      "depth": "The table links two variables: sources and antimicrobial susceptibility.",
+      "semantics": "Values are presented directly without requiring comparison or statistical inference.",
+      "representation": "The table includes scientific notation such as gene symbols and abbreviations for antibiotics.",
+      "domains": "The table integrates microbiology and pharmacology.",
+      "final_rule": "Grouped AND Scientific representation indicates Extreme complexity."
+    }
+  },
+  "Hiko2008_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has grouped headers for 'Source' and 'Antimicrobials', indicating a grouped structure.",
+      "depth": "The table links two variables: 'Source' and 'Antimicrobial susceptibility'.",
+      "semantics": "The table requires comparison of antimicrobial susceptibility patterns across different sources.",
+      "representation": "The table uses domain-specific scientific notation with antimicrobial abbreviations.",
+      "domains": "The table integrates microbiology (antimicrobials) and epidemiology (sources of E. coli).",
+      "final_rule": "The table is Grouped and uses Scientific representation, leading to an Extreme complexity classification."
+    }
+  },
+  "Hiko2008_clean_Table_4.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table uses sub-headers for different sources of meat like goat, mutton, and beef.",
+      "depth": "The table compares antimicrobial susceptibility against variables: source, antimicrobial, and susceptibility level.",
+      "semantics": "Comparison is required to understand susceptibility patterns across different meat sources and antimicrobials.",
+      "representation": "The table uses scientific notation such as gene symbols and antimicrobial identifiers like AK, AMP, etc.",
+      "domains": "The table involves microbiology and epidemiology due to the context of antimicrobial resistance and sample sources.",
+      "final_rule": "The table is classified as Extreme due to Grouped structure, Scientific representation, and multi-domain integration."
+    }
+  },
+  "Messad2014_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row with a simple grid.",
+      "depth": "The table links two variables: farms and slaughterhouses with sample data.",
+      "semantics": "Values can be read directly without needing comparison, as illustrated by simple counts and percentages.",
+      "representation": "The table uses plain text and integers only.",
+      "domains": "The content is focused on a single domain of microbiology related to bacteria prevalence.",
+      "final_rule": "Flat structure with analytical depth of 2 results in a Low complexity."
+    }
+  },
+  "Messad2014_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has a grouping level with sub-headers 'Resistant strains from' and 'P-value'.",
+      "depth": "Variables linked in the table include strain types and resistance percentages.",
+      "semantics": "Comparison of resistance rates across different sources is required.",
+      "representation": "The table includes scientific abbreviations and notation related to antibiotics.",
+      "domains": "Includes microbiology and pharmacology, shown by antibiotic resistance data.",
+      "final_rule": "Grouped with Scientific representation qualifies as Extreme complexity."
+    }
+  },
+  "Messad2014_clean_Table_3.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table shows multi-level headers grouped by antibiotic resistance profiles and multiple antibiotics.",
+      "depth": "The table includes variables such as resistance pattern, number of profiles, and total percentage.",
+      "semantics": "Direct values can be read without comparing patterns or inferring statistical results.",
+      "representation": "The table uses plain text and integers only.",
+      "domains": "The table content pertains to the domain of microbiology.",
+      "final_rule": "The table is hierarchical, leading to an extreme complexity classification."
+    }
+  },
+  "Moawad2017_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a simple header row and grid with no grouped headers or nested categories.",
+      "depth": "There are two linked variables, 'Serovar' and 'Source (Fresh meat, Frozen meat, Fresh organs)'.",
+      "semantics": "Values can be read directly without the need for comparison or reasoning.",
+      "representation": "The table uses percentages to represent part of the data.",
+      "domains": "The table combines microbiology (serovar information) and epidemiology (source and percentage data).",
+      "final_rule": "Flat AND analytical depth = 2"
+    }
+  },
+  "Moawad2017_clean_Table_2.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row and a simple grid structure.",
+      "depth": "The table links two variables: 'Serogroup' and 'Sources of isolates'.",
+      "semantics": "Values can be read directly without comparison or reasoning.",
+      "representation": "The table uses text and integers only, with no scientific notation.",
+      "domains": "Focuses on microbiology without crossing into other domains.",
+      "final_rule": "Flat AND analytical depth = 2 results in a Low complexity."
+    }
+  },
+  "Moawad2017_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "There is one level of grouping by sub-headers within the primer categories.",
+      "depth": "The table links sequence information with amplification targets, representing two variables.",
+      "semantics": "Values can be read directly without comparison or further inference.",
+      "representation": "Domain-specific gene symbols and scientific terms are used.",
+      "domains": "Microbiology and Genetics are represented in the table.",
+      "final_rule": "Grouped AND Scientific representation leads to Extreme complexity."
+    }
+  },
+  "Moawad2017_clean_Table_4.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has grouped headers for different Salmonella serotypes and classes of antibiotics.",
+      "depth": "The table represents multiple variables: antibiotic class, antimicrobial agent, Salmonella serotypes, and resistance profiles.",
+      "semantics": "Understanding requires comparing resistance profiles across different serotypes and antibiotics.",
+      "representation": "It uses scientific notations such as MIC values and molecular identifiers.",
+      "domains": "The table integrates Microbiology and Pharmacology.",
+      "final_rule": "Grouped structure with Scientific representation leads to Extreme complexity."
+    }
+  },
+  "Moawad2017_clean_Table_5.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table includes multi-level (nested) headers for 'Zone diameter (\u00d8)' and 'Resistance rate'.",
+      "depth": "The table links variables such as 'Antimicrobial agent', 'Zone diameter', and 'Resistance rate'.",
+      "semantics": "Comparison across different antibiotics and categories is needed to interpret the resistance rates.",
+      "representation": "The table uses scientific notation, including concentration units (\u00b5g) and zone diameters (\u00d8).",
+      "domains": "Involves multiple domains such as Microbiology, Pharmacology, and Epidemiology.",
+      "final_rule": "The table is classified as Extreme due to its Hierarchical structure."
+    }
+  },
+  "Moawad2017_clean_Table_6.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table uses column groups (Source, Serovar, Resistance phenotype, Resistance genes/class 1 integrons).",
+      "depth": "The table involves Source, Serovar, and Resistance variables.",
+      "semantics": "Comparing resistance profiles across serovars and sources is necessary.",
+      "representation": "The table includes gene symbols and scientific notation (e.g., blaCTX-M-1, AMX, CPD).",
+      "domains": "Microbiology, Genetics, and Pharmacology are integrated.",
+      "final_rule": "The table is grouped, uses scientific notation, and involves multiple scientific domains, reaching Extreme complexity."
+    }
+  },
+  "Moawad2017_clean_Table_7.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table uses grouped headers like 'Source' and includes subcategories such as 'Fresh poultry meat', indicating grouping.",
+      "depth": "The table presents three or more variables: source, resistance phenotype, and resistance genes.",
+      "semantics": "Values are read directly without requiring comparison or inference.",
+      "representation": "Contains domain-specific notation such as gene symbols and resistance phenotypes.",
+      "domains": "Combines Microbiology and Genetics.",
+      "final_rule": "The table is classified as Extreme due to the presence of Scientific representation and a Grouped structure."
+    }
+  },
+  "Nguyen2016_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "2 domains",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table has one level of grouping using sub-headers for different antibiotics.",
+      "depth": "The table includes antibiotic, method, and sequence information, indicating three variables.",
+      "semantics": "Values such as primer sequences and amplicon lengths can be read directly without comparison.",
+      "representation": "The table contains text and integers, with no scientific notation.",
+      "domains": "Microbiology and Genetics are involved, linking primers and resistance detection.",
+      "final_rule": "Grouped structure and descriptive semantic load lead to a Medium complexity classification."
+    }
+  },
+  "Nguyen2016_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has a header row with sub-headers for row groups (e.g., Cultivation and mPCR identification categories) indicating a grouped structure.",
+      "depth": "The table links cultivation results with mPCR identification results, representing two variables.",
+      "semantics": "Values can be directly read without requiring comparison or reasoning.",
+      "representation": "The table uses scientific notation such as bacterial names and percentage symbols.",
+      "domains": "The table combines Microbiology and Genetics.",
+      "final_rule": "Grouped structure with Scientific representation results in Extreme complexity."
+    }
+  },
+  "Nguyen2016_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has sub-headers grouping different antibiotic classes and susceptibility data, indicating a Grouped structure.",
+      "depth": "The table links three variables: class, antibiotic \u00d7 concentration, and resistance percentage.",
+      "semantics": "Interpreting the table requires comparing resistance profiles across classes and concentrations.",
+      "representation": "Scientific notation is present like antibiotic concentrations (\u00b5g/ml) and resistance percentages.",
+      "domains": "The table involves Microbiology, Pharmacology, and Statistics.",
+      "final_rule": "The table is classified as Extreme due to the Grouped structure, Scientific representation, and multiple scientific domains."
+    }
+  },
+  "Nguyen2016_clean_Table_4.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has one level of grouping with sub-headers across antibiotics and susceptibility measurements.",
+      "depth": "Three or more variables are represented, including class, antibiotic concentration, and resistance rate.",
+      "semantics": "The table requires comparing resistance rates across different antibiotics and concentrations.",
+      "representation": "It uses scientific notation with antibiotic names and concentrations.",
+      "domains": "The table integrates microbiology and pharmacology.",
+      "final_rule": "Grouped with Scientific representation makes the complexity Extreme."
+    }
+  },
+  "Nguyen2016_clean_Table_5.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row and no grouped or nested headers.",
+      "depth": "There are two linked variables: 'Antibiotic resistance profile' and 'No. of resistant isolates (%).'",
+      "semantics": "Values can be read directly without requiring comparison.",
+      "representation": "The table uses abbreviations and subscripts related to antibiotics, indicating scientific notation.",
+      "domains": "The data presented falls within a single domain of microbiology.",
+      "final_rule": "The table is flat and has analytical depth of 2, leading to a classification of Low complexity."
+    }
+  },
+  "Odwar2014_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "2 domains",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table includes grouped sub-headers under 'Bacteria' and 'Summary statistics'.",
+      "depth": "The table displays two variables: bacteria type and summary statistics for counts from different retail outlets.",
+      "semantics": "Values can be directly read and no comparison or reasoning is required.",
+      "representation": "The table uses plain text and integer values without any scientific notation.",
+      "domains": "The data combines elements of microbiology and statistics.",
+      "final_rule": "Grouped AND semantic load = Descriptive results in a Medium complexity."
+    }
+  },
+  "Odwar2014_clean_Table_2.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row with a simple grid format.",
+      "depth": "The table links retail outlets and microbial counts, representing two variables.",
+      "semantics": "Understanding requires comparing percentages across different retail outlets.",
+      "representation": "The table uses percentages to convey data.",
+      "domains": "The table combines elements of Microbiology and Epidemiology.",
+      "final_rule": "Flat structure with analytical depth of 2 results in low complexity."
+    }
+  },
+  "Odwar2014_clean_Table_3.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a simple grid with a single header row, showing antibiotics and their associated values.",
+      "depth": "Two variables are present: antibiotic and frequency of resistant isolates.",
+      "semantics": "Interpreting the table requires comparing resistance frequencies across antibiotics.",
+      "representation": "The table uses only text and integers without any scientific notation.",
+      "domains": "Only microbiology is represented, as the table focuses on antimicrobial resistance.",
+      "final_rule": "Flat AND analytical depth = 2 leads to a Low complexity classification."
+    }
+  },
+  "Odwar2014_clean_Table_4.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row without any grouped headers or nested categories.",
+      "depth": "The table links two variables: Antibiotic and Frequency of resistant isolates.",
+      "semantics": "Values in the table can be read directly without requiring comparison or inference.",
+      "representation": "The table uses basic text and integers only, without scientific notation.",
+      "domains": "The table content pertains solely to microbiology.",
+      "final_rule": "Flat AND analytical depth = 2 leads to a final complexity of Low."
+    }
+  },
+  "Osman2015_clean_Table_1.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has nested headers for types of isolates and antibiotic counts.",
+      "depth": "There are variables for antibiotic resistance profile, number of isolates, and number of antibiotics.",
+      "semantics": "Interpreting patterns across different isolate categories requires comparison.",
+      "representation": "The table uses only text and integer values.",
+      "domains": "Combines microbiology, epidemiology, and pharmacology.",
+      "final_rule": "Hierarchical structure leads to an Extreme complexity classification."
+    }
+  },
+  "Osman2015_clean_Table_2.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has multi-level headers with category distinctions across different isolates and antibiotic profiles.",
+      "depth": "The table links two variables: antibiotic resistance profiles and isolate categories.",
+      "semantics": "Values can be read directly without requiring comparison or inference.",
+      "representation": "The table uses antibiotic and bacterial nomenclature, a form of domain-specific scientific notation.",
+      "domains": "The table involves Microbiology and Pharmacology.",
+      "final_rule": "Extreme complexity is due to hierarchical structure and scientific representation."
+    }
+  },
+  "Osman2015_clean_Table_3.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has multiple levels of headers with different categories like 'Chicken isolates' and 'Beef isolates'.",
+      "depth": "The table links at least three variables: antibiotic resistance profile, number of isolates, and type of isolates.",
+      "semantics": "Values are directly provided without requiring comparison or statistical inference.",
+      "representation": "The table uses scientific notations such as antibiotic codes and resistance profile symbols.",
+      "domains": "The table involves microbiology and pharmacology due to antibiotic resistance profiles.",
+      "final_rule": "The table is classified as Extreme due to its Hierarchical structure."
+    }
+  },
+  "Osman2015_clean_Table_4.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Percentages",
+    "step5_domains": "1 domain",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table has column groups for different meat types and overall totals, but no deep nesting.",
+      "depth": "The table links two variables: Staphylococcus species and meat type.",
+      "semantics": "Understanding requires comparing occurrence percentages across meat types.",
+      "representation": "The table uses percentages to represent data.",
+      "domains": "All information presented pertains to microbiology.",
+      "final_rule": "Grouped AND Comparative AND NOT Hierarchical AND NOT Matrix."
+    }
+  },
+  "Osman2016_1_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row with a simple grid and no grouping.",
+      "depth": "Two variables are represented: gene designation and various associated details.",
+      "semantics": "Values can be read directly without comparison or reasoning.",
+      "representation": "The table uses scientific notation such as gene symbols and units.",
+      "domains": "The table integrates Genetics and Microbiology.",
+      "final_rule": "Flat structure with analytical depth of 2 results in a low complexity."
+    }
+  },
+  "Osman2016_1_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table features grouped headers with 'Coagulase reaction' and 'Staphylococcus spp.' over multiple columns, indicating a Grouped structure.",
+      "depth": "The table links two variables: 'Coagulase reaction' and 'Antibiotics'.",
+      "semantics": "Interpreting the resistance patterns across species requires comparison, thus indicating a Comparative semantic load.",
+      "representation": "The table uses text and integers only, with no special scientific notation.",
+      "domains": "The table integrates concepts primarily from Microbiology.",
+      "final_rule": "Since the table is Grouped and Comparative, it is classified as High complexity."
+    }
+  },
+  "Osman2016_1_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "2 domains",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table has one level of grouping with sub-headers for CPS and CNS under 'Number of staphylococci = 50'.",
+      "depth": "The table represents three variables: antibiotic type, resistance pattern, and coagulase status.",
+      "semantics": "Comparison of resistance patterns between CPS and CNS is necessary to understand the data.",
+      "representation": "The table includes text and integer values only.",
+      "domains": "Microbiology and Pharmacology are integrated as the table relates to bacterial resistance patterns to antibiotics.",
+      "final_rule": "Grouped AND Comparative AND NOT Hierarchical AND NOT Matrix results in High complexity."
+    }
+  },
+  "Osman2016_1_clean_Table_4.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table is organized with sub-headers like 'COAGULASE POSITIVE' and 'COAGULASE NEGATIVE', indicating grouping.",
+      "depth": "The table involves multiple variables: resistance combinations, antibiotic numbers, and resistance genes.",
+      "semantics": "Understanding requires comparing resistance profiles across different species.",
+      "representation": "The table contains gene symbols and symbolic encodings such as 'ND' and '+'.",
+      "domains": "Combines microbiology (resistance genes), pharmacology (antibiotics), and genetics (gene resistance profiles).",
+      "final_rule": "Grouped AND Scientific representation qualifies the table as Extreme complexity."
+    }
+  },
+  "Osman2016_1_clean_Table_5.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "2 domains",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table uses row groups to differentiate between Coagulase Positive and Negative categories.",
+      "depth": "The table links two variables: Staphylococcus spp. and presence of mecA gene.",
+      "semantics": "Understanding requires comparing patterns of prevalence between different groups.",
+      "representation": "The table uses plain text and integers with no scientific notation.",
+      "domains": "Microbiology and Epidemiology are represented through species prevalence and gene presence.",
+      "final_rule": "Grouped with Comparative semantic load results in a High complexity."
+    }
+  },
+  "Osman2016_1_clean_Table_6.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table uses column groups for resistance genes, forming a grouped structure.",
+      "depth": "The table involves Phenotypic resistance patterns and resistance genes, amounting to two variables.",
+      "semantics": "Values such as presence of genes (+, ND) are directly readable without comparison.",
+      "representation": "The table uses symbolic encodings (+, ND) typical of scientific notation.",
+      "domains": "Microbiology and Genetics are evident through the presentation of resistance genes and phenotypic patterns.",
+      "final_rule": "Grouped structure with scientific representation warrants an Extreme classification."
+    }
+  },
+  "Osman2016_2_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row with a simple grid, no grouped headers.",
+      "depth": "The table links two variables: gene designation and their sequences.",
+      "semantics": "Values such as gene sequences and amplification sizes can be read directly.",
+      "representation": "The table uses domain-specific notation like gene symbols and PCR conditions.",
+      "domains": "The table integrates Microbiology and Genetics, focusing on genes and PCR methods.",
+      "final_rule": "The table is Flat and has an analytical depth of 2."
+    }
+  },
+  "Osman2016_2_clean_Table_2.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "2 domains",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table has grouped headers such as 'Number of isolates showing', indicating one level of sub-headers.",
+      "depth": "The table links multiple variables including species, assays, and biofilm production results.",
+      "semantics": "The table requires comparison across different variables and species, indicating comparative analysis.",
+      "representation": "The table uses text and integers only, without scientific notation.",
+      "domains": "The table integrates microbiology and bacteriology, evident from species and assay data.",
+      "final_rule": "The structure is Grouped with Comparative semantic load, leading to a High complexity classification."
+    }
+  },
+  "Osman2016_2_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has columns grouped under 'Bacterial strains' and 'Zone diameter values in mm'.",
+      "depth": "There are three variables: antibiotic, concentration, and bacterial strain.",
+      "semantics": "Patterns across different bacterial strains and antibiotics require comparison.",
+      "representation": "The table uses scientific notation such as zone diameter and resistance indications (R).",
+      "domains": "Involves microbiology and pharmacology due to bacterial strains and antibiotic resistance.",
+      "final_rule": "Extreme complexity due to Grouped structure with Scientific representation."
+    }
+  },
+  "Osman2016_2_clean_Table_4.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "2 domains",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row and a simple grid without any grouping.",
+      "depth": "The table links two variables: number of resistant antibiotics and number of species.",
+      "semantics": "Values can be read directly with no comparison required across rows or columns.",
+      "representation": "The table uses text and integers only without any scientific notation.",
+      "domains": "The table involves Microbiology and Pharmacology domains.",
+      "final_rule": "The table is Flat and has an analytical depth of 2, classifying it as Low complexity."
+    }
+  },
+  "Osman2016_2_clean_Table_5.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table uses sub-headers for different Staphylococcus spp., indicating a grouped structure.",
+      "depth": "The table includes variables such as species, resistance pattern, number of antibiotics, and resistance genes, totaling more than two variables.",
+      "semantics": "Comparison of resistance patterns and gene presence across species requires comparative analysis.",
+      "representation": "Scientific notations are present, such as gene symbols (e.g., mecA, gyrA).",
+      "domains": "The table integrates microbiology and genetics through species and gene analysis.",
+      "final_rule": "The presence of a grouped structure combined with scientific notation, comparative semantics, and integration of multiple domains qualifies as 'Extreme' complexity."
+    }
+  },
+  "Osman2016_2_clean_Table_6.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Percentages",
+    "step5_domains": "2 domains",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table has grouped headers shown by sub-headers for different species.",
+      "depth": "The table links two variables: presence of mecA and staphylococcus species.",
+      "semantics": "Comparison is required to interpret percentages and species distribution.",
+      "representation": "The table uses percentages to show data.",
+      "domains": "The table includes concepts from microbiology and statistics.",
+      "final_rule": "Grouped structure with Comparative semantics and not Hierarchical or Matrix results in high complexity."
+    }
+  },
+  "Queslati2016_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table contains grouped headers for virulence genes and antibiotic resistance profile.",
+      "depth": "The table represents serotype, animal age, culling motif, virulence genes, and resistance profile, indicating three or more variables.",
+      "semantics": "Comparison across antibiotic resistance profiles is needed to understand patterns.",
+      "representation": "Scientific notation is present with gene symbols and symbolic encoding.",
+      "domains": "The table integrates microbiology and epidemiology, focusing on serotype and resistance patterns.",
+      "final_rule": "The table is classified as Extreme due to its grouped structure, scientific representation, and comparative semantic load."
+    }
+  },
+  "Salem2017_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table uses sub-headers and groups, indicating a grouped structure.",
+      "depth": "There are multiple variables such as Resistance profile, Virulence, and Plasmid profile.",
+      "semantics": "Comparisons across rows and columns are required to understand patterns.",
+      "representation": "The table includes gene symbols and numerical codes, indicative of scientific notation.",
+      "domains": "Domains include microbiology, genetics, and epidemiology.",
+      "final_rule": "Grouped AND Scientific representation leads to an Extreme complexity rating."
+    }
+  },
+  "Samaxa2011_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table uses column groups with sub-headers, indicating a grouped structure.",
+      "depth": "There are two linked variables: 'Sausage type' and 'presence of Salmonella' results.",
+      "semantics": "Comparison is needed across rows to interpret the prevalence data across sausage types.",
+      "representation": "Only text and integers are present, indicating plain notation.",
+      "domains": "The table pertains solely to microbiology.",
+      "final_rule": "The table is classified as High complexity because it is Grouped with Comparative semantic load."
+    }
+  },
+  "Samaxa2011_clean_Table_2.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row with a simple grid, indicating a Flat structure.",
+      "depth": "The table links two variables: sausage type and Salmonella serotype.",
+      "semantics": "Values can be read directly, with no comparison required, thus it is Descriptive.",
+      "representation": "The table contains only text and integers.",
+      "domains": "Focus is solely on Microbiology, with no integration of additional domains.",
+      "final_rule": "Meets the criteria for Low complexity: Flat AND analytical depth = 2."
+    }
+  },
+  "Samaxa2011_clean_Table_3.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table has hierarchical structure with categories spanning multiple rows, such as 'Sausage type' and 'Salmonella serotype'.",
+      "depth": "It links variables such as 'Sausage type', 'Salmonella serotype', and 'Resistant pattern'.",
+      "semantics": "Comparison of resistance patterns across different isolates and sausage types is required.",
+      "representation": "It uses scientific notation, including abbreviations for antibiotics and resistance patterns.",
+      "domains": "The table integrates microbiology, genetics, and epidemiology.",
+      "final_rule": "An extreme complexity level is assigned because the table has a hierarchical structure."
+    }
+  },
+  "Shousha2015_clean_Table_1.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a single header row with no grouped or nested categories.",
+      "depth": "The table links two variables: 'Antimicrobial resistance' and 'No. of samples'.",
+      "semantics": "Values are read directly with no comparison or reasoning required.",
+      "representation": "The table uses text and integers only.",
+      "domains": "The table seems to involve primarily Microbiology.",
+      "final_rule": "Flat AND analytical depth = 2 results in Low complexity."
+    }
+  },
+  "Shousha2015_clean_Table_2.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Plain",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a simple grid with a single header row and no grouped headers.",
+      "depth": "The table links two variables: type of resistant E. coli and number of samples.",
+      "semantics": "Values are direct and do not require comparison or reasoning.",
+      "representation": "The table uses plain text and integers without any scientific notation.",
+      "domains": "The table relates only to microbiology.",
+      "final_rule": "Flat structure with analytical depth of 2 is classified as Low complexity."
+    }
+  },
+  "Shousha2015_clean_Table_3.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Scientific",
+    "step5_domains": "3 or more domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table uses column grouping with sub-headers for different antimicrobial agents.",
+      "depth": "The table links phage types and resistance to antimicrobial agents, representing two variables.",
+      "semantics": "Comparative interpretation is required to analyze the resistance profiles across different phages.",
+      "representation": "Scientific notations such as symbolic gene/phage representations and Greek letters are present.",
+      "domains": "The table integrates concepts from microbiology, genetics, and pharmacology.",
+      "final_rule": "Grouped AND Scientific representation results in Extreme complexity."
+    }
+  },
+  "Shousha2015_clean_Table_4.md": {
+    "step1_structure": "Flat",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Inferential",
+    "step4_representation": "Percentages",
+    "step5_domains": "1 domain",
+    "final_complexity": "Low",
+    "decision_trace": {
+      "structure": "The table has a simple grid with a single header row.",
+      "depth": "There are two variables: antimicrobial resistance type and sample number.",
+      "semantics": "Includes p-values indicating inferential statistics.",
+      "representation": "Uses percentages and includes a 'P' column.",
+      "domains": "Primarily microbiology-related data present.",
+      "final_rule": "Flat AND analytical depth = 2"
+    }
+  },
+  "Wabeto2017_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "3",
+    "step3_semantic_load": "Comparative",
+    "step4_representation": "Plain",
+    "step5_domains": "2 domains",
+    "final_complexity": "High",
+    "decision_trace": {
+      "structure": "The table uses grouping with sub-headers for antimicrobial drugs and their isolates.",
+      "depth": "It links three variables: antimicrobial drugs, percentage, and count of isolates.",
+      "semantics": "Interpretation requires comparison of antimicrobial resistance percentages across different drugs.",
+      "representation": "The table uses plain text and integers without scientific notation.",
+      "domains": "The table combines microbiology and epidemiology.",
+      "final_rule": "Grouped structure with Comparative semantic load resulted in High complexity."
+    }
+  },
+  "Xie2019_clean_Table_1.md": {
+    "step1_structure": "Grouped",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Percentages",
+    "step5_domains": "1 domain",
+    "final_complexity": "Medium",
+    "decision_trace": {
+      "structure": "The table uses column groups with sub-headers for different antimicrobial categories.",
+      "depth": "Two variables are presented: antimicrobial agent and resistance profile percent.",
+      "semantics": "Values are presented directly and can be read without comparison.",
+      "representation": "The table uses percentages to express resistance levels.",
+      "domains": "Content is primarily microbiological, relating to antimicrobial resistance.",
+      "final_rule": "Grouped AND semantic load = Descriptive."
+    }
+  },
+  "Xie2019_clean_Table_2.md": {
+    "step1_structure": "Hierarchical",
+    "step2_analytical_depth": "2",
+    "step3_semantic_load": "Descriptive",
+    "step4_representation": "Scientific",
+    "step5_domains": "2 domains",
+    "final_complexity": "Extreme",
+    "decision_trace": {
+      "structure": "The table includes multi-level nested categories, with subcategories under each main heading.",
+      "depth": "Two variables are represented, such as genetic markers and sample identifiers.",
+      "semantics": "Values are read directly without requiring comparison or inference.",
+      "representation": "The table uses scientific notations such as gene symbols and abbreviations.",
+      "domains": "The table combines at least microbiology and genetics through gene symbols and isolate references.",
+      "final_rule": "Hierarchical structure results in an Extreme complexity classification."
+    }
+  }
+}

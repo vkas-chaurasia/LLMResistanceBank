@@ -1,0 +1,638 @@
+# Source: Moawad2017_clean.md
+
+**Captured Caption**: Table 3 PCR primers, their sequences and amplification targets used in this study
+
+<table border="1" style="margin: auto; width: max-content;">
+ <tr>
+  <td style="text-align: center;">
+   Primer
+  </td>
+  <td style="text-align: center;">
+   Sequence (5′-3′)
+  </td>
+  <td style="text-align: center;">
+   Amplicon size (bp)
+  </td>
+  <td style="text-align: center;">
+   Amplification target
+  </td>
+  <td style="text-align: center;">
+   References
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   E. coli, Salmonella enterica and Salmonella serovar identification
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   ECO-f
+  </td>
+  <td style="text-align: center;">
+   GAC CTC GGT TTA GTT CAC AGA
+  </td>
+  <td style="text-align: center;">
+   585
+  </td>
+  <td style="text-align: center;">
+   E. coli
+  </td>
+  <td style="text-align: center;">
+   [67]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   ECO-r
+  </td>
+  <td style="text-align: center;">
+   CAC ACG CTG ACG CTG ACC A
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   OMPCF
+  </td>
+  <td style="text-align: center;">
+   ATC GCT GAC TTA TGC AAT CG
+  </td>
+  <td style="text-align: center;">
+   204
+  </td>
+  <td style="text-align: center;">
+   Salmonella genus
+  </td>
+  <td style="text-align: center;">
+   [68]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   OMPCR
+  </td>
+  <td style="text-align: center;">
+   CGG GTT GCG TTA TAG GTC TG
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   ENTF
+  </td>
+  <td style="text-align: center;">
+   TGT GTT TTA TCT GAT GCA AGA GG
+  </td>
+  <td style="text-align: center;">
+   304
+  </td>
+  <td style="text-align: center;">
+   S. Enteritidis
+  </td>
+  <td style="text-align: center;">
+   [68]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   ENTR
+  </td>
+  <td style="text-align: center;">
+   TGA ACT ACG TTC GTT CTT CTG G
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   TYPHF
+  </td>
+  <td style="text-align: center;">
+   TTG TTC ACT TTT TAC CCC TGA A
+  </td>
+  <td style="text-align: center;">
+   401
+  </td>
+  <td style="text-align: center;">
+   S. Typhimurium
+  </td>
+  <td style="text-align: center;">
+   [68]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   TYPHR
+  </td>
+  <td style="text-align: center;">
+   CCC TGA CAG CCG TTA GAT ATT
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   $ \beta $ -Lactamases
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   TEM-F
+  </td>
+  <td style="text-align: center;">
+   ATA AAA TTC TTG AAG ACG AAA
+  </td>
+  <td style="text-align: center;">
+   1080
+  </td>
+  <td style="text-align: center;">
+   bla $ _{\text{TEM}} $
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   TEM-R
+  </td>
+  <td style="text-align: center;">
+   GAC AGT TAC CAA TGC TTA ATC
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   OXA-F
+  </td>
+  <td style="text-align: center;">
+   TCA ACT TTC AAG ATC GCA
+  </td>
+  <td style="text-align: center;">
+   591
+  </td>
+  <td style="text-align: center;">
+   bla $ _{\text{OXA}} $
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   OXA-R
+  </td>
+  <td style="text-align: center;">
+   GTG TGT TTA GAA TGG TGA
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   OXA-F-2
+  </td>
+  <td style="text-align: center;">
+   ATT AAG CCC TTT ACC AAA CCA
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+   Whole bla $ _{\text{OXA}} $
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   OXA-R-2
+  </td>
+  <td style="text-align: center;">
+   AAG GGT TGG GCG ATT TTG CCA
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   OXA-23-F
+  </td>
+  <td style="text-align: center;">
+   GAT CGG ATT GGA GAA CCA GA
+  </td>
+  <td style="text-align: center;">
+   501
+  </td>
+  <td style="text-align: center;">
+   bla $ _{\text{OXA-23}} $
+  </td>
+  <td style="text-align: center;">
+   [25]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   OXA-23-R
+  </td>
+  <td style="text-align: center;">
+   ATT TCT GAC CGC ATT TCC AT
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CTX-M-F
+  </td>
+  <td style="text-align: center;">
+   CGC TTT GCG ATG TGC AG
+  </td>
+  <td style="text-align: center;">
+   550
+  </td>
+  <td style="text-align: center;">
+   bla $ _{\text{CTX-M}} $
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CTX-M-R
+  </td>
+  <td style="text-align: center;">
+   ACC GCG ATA TCG TTG GT
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CTX-M-F2
+  </td>
+  <td style="text-align: center;">
+   CCA GAA TAA GGA ATC CCA TG
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+   Whole bla $ _{\text{CTX-M}} $
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CTX-M-R2
+  </td>
+  <td style="text-align: center;">
+   GCC GTC TAA GGC GAT AAA C
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CMY-F
+  </td>
+  <td style="text-align: center;">
+   GAC AGC CTC TTT CTC CAC A
+  </td>
+  <td style="text-align: center;">
+   1007
+  </td>
+  <td style="text-align: center;">
+   bla $ _{\text{CMY}} $
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CMY-R
+  </td>
+  <td style="text-align: center;">
+   TGG AAC GAA GGC TAC GTA
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CMY-F2
+  </td>
+  <td style="text-align: center;">
+   ACG GAA CTG ATT TCA TGA TG
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+   Whole bla $ _{\text{CMY}} $
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CMY-R2
+  </td>
+  <td style="text-align: center;">
+   GAA AGG AGG CCC AAT ATC CT
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   SHV-F
+  </td>
+  <td style="text-align: center;">
+   TTA TCT CCC TGT TAG CCA CC
+  </td>
+  <td style="text-align: center;">
+   795
+  </td>
+  <td style="text-align: center;">
+   bla $ _{\text{SHV}} $
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   SHV-R
+  </td>
+  <td style="text-align: center;">
+   GAT TTG CTG ATT TCG CTC GG
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   Integrons
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   5′-CS
+  </td>
+  <td style="text-align: center;">
+   GGC ATC CAA GCA GCA AG
+  </td>
+  <td style="text-align: center;">
+   152
+  </td>
+  <td style="text-align: center;">
+   Class 1 integron
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   3′-CS
+  </td>
+  <td style="text-align: center;">
+   AAG CAG ACT TGA CCT GA
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   hep74
+  </td>
+  <td style="text-align: center;">
+   CGG GAT CCC GGA CGG CAT GCA CGA TTT GTA
+  </td>
+  <td style="text-align: center;">
+   491
+  </td>
+  <td style="text-align: center;">
+   Class 2 integron
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   hep51
+  </td>
+  <td style="text-align: center;">
+   GAT GCC ATC GCA AGT ACG AG
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   Plasmid-mediated quinolone resistance gene
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   qnrA-F
+  </td>
+  <td style="text-align: center;">
+   ATT TCT CAC GCC AGG ATT TG
+  </td>
+  <td style="text-align: center;">
+   516
+  </td>
+  <td style="text-align: center;">
+   qnrA
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   qnrA-R
+  </td>
+  <td style="text-align: center;">
+   GAT CGG CAA AGG TTA GGT CA
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   qnrB-F
+  </td>
+  <td style="text-align: center;">
+   GAT CGT GAA AGC CAG AAA GG
+  </td>
+  <td style="text-align: center;">
+   469
+  </td>
+  <td style="text-align: center;">
+   qnrB
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   qnrB-R
+  </td>
+  <td style="text-align: center;">
+   ACG ATG CCT GGT AGT TGT CC
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   qnrS-F
+  </td>
+  <td style="text-align: center;">
+   ACG ACA TTC GTC AACTGC AA
+  </td>
+  <td style="text-align: center;">
+   417
+  </td>
+  <td style="text-align: center;">
+   qnrS
+  </td>
+  <td style="text-align: center;">
+   [69]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   qnrS-R
+  </td>
+  <td style="text-align: center;">
+   TAA ATT GGC ACC CTG TAG GC
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   Plasmid-mediated colistin resistance gene
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CLR5-F
+  </td>
+  <td style="text-align: center;">
+   CGG TCA GTC CGT TTG TTC
+  </td>
+  <td style="text-align: center;">
+   308
+  </td>
+  <td style="text-align: center;">
+   mcr-1
+  </td>
+  <td style="text-align: center;">
+   [24]
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   CLR5-R
+  </td>
+  <td style="text-align: center;">
+   CTT GGT CGG TCT GTA GGG
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+</table>
+
+
+**Captured Notes**: <div style="text-align: center;">Table 4 Breakpoint values of antimicrobial agents according to CLSI, 2011 and phenotypic antimicrobial susceptibility profiles of 15 S. enterica isolates used in this study</div>
+

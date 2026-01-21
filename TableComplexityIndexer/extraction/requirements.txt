@@ -1,8 +1,0 @@
---index-url https://pypi.org/simple
---extra-index-url https://www.paddlepaddle.org.cn/packages/stable/cu126/
-paddlepaddle-gpu==3.2.1
-paddleocr[doc-parser]
-pytest
-pymupdf
-numpy<2
-https://paddle-whl.bj.bcebos.com/nightly/cu126/safetensors/safetensors-0.6.2.dev0-cp38-abi3-linux_x86_64.whl

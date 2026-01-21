@@ -1,0 +1,949 @@
+# Source: Bounar-Kechih2012_clean.md
+
+**Captured Caption**: Table 2. Rates and antimicrobial resistance profiles of Salmonella strains isolated from Gallus gallus</div>
+
+<div style="text-align: center;"> $ ^{3} $ AMP: ampicillin; K: kanamycin; FT: nitrofurantoin; NAL: nalidixic acid; TCY: tetracycline; SSS: sulphonamides, TMP: trimethoprim, SXT: cotrimoxazole.
+
+<table border="1" style="margin: auto; width: max-content;">
+ <tr>
+  <td rowspan="2">
+   Salmonella serotype
+  </td>
+  <td rowspan="2">
+   n1¹
+  </td>
+  <td style="text-align: center;">
+   β-Lactam
+  </td>
+  <td style="text-align: center;">
+   Aminoglycoside
+  </td>
+  <td style="text-align: center;">
+   Furan
+  </td>
+  <td style="text-align: center;">
+   Quinolone
+  </td>
+  <td style="text-align: center;">
+   Cycline
+  </td>
+  <td colspan="3">
+   Sulphonamide
+  </td>
+  <td rowspan="2">
+   n2²
+  </td>
+  <td rowspan="2">
+   Resistance profile³
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   AMP
+  </td>
+  <td style="text-align: center;">
+   K
+  </td>
+  <td style="text-align: center;">
+   FT
+  </td>
+  <td style="text-align: center;">
+   NAL
+  </td>
+  <td style="text-align: center;">
+   TCY
+  </td>
+  <td style="text-align: center;">
+   SSS
+  </td>
+  <td style="text-align: center;">
+   TMP
+  </td>
+  <td style="text-align: center;">
+   SXT
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="3">
+   Heidelberg
+  </td>
+  <td rowspan="3">
+   19/24
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   AMP, TCY
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   NAL
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   17
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   17
+  </td>
+  <td style="text-align: center;">
+   TCY, NAL
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="2">
+   Enteritidis
+  </td>
+  <td rowspan="2">
+   12/20
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   9
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   9
+  </td>
+  <td style="text-align: center;">
+   FT
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   3
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   3
+  </td>
+  <td style="text-align: center;">
+   NAL
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   Albany
+  </td>
+  <td style="text-align: center;">
+   2/16
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   2
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   2
+  </td>
+  <td style="text-align: center;">
+   NAL
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="3">
+   Typhimurium
+  </td>
+  <td rowspan="3">
+   5/9
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   FT, SSS
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   TMP, SXT
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   3
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   3
+  </td>
+  <td style="text-align: center;">
+   SSS, TCY, NAL
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="3">
+   Pullorum
+  </td>
+  <td rowspan="3">
+   4/4
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   NAL
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   NAL, SSS
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   2
+  </td>
+  <td style="text-align: center;">
+   FT
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="2">
+   Blockley
+  </td>
+  <td rowspan="2">
+   3/6
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   SSS
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   2
+  </td>
+  <td style="text-align: center;">
+   TCY
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="3">
+   Hadar
+  </td>
+  <td rowspan="3">
+   3/5
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   AMP, TCY
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   NAL
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   K, TCY
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="2">
+   Indiana
+  </td>
+  <td rowspan="2">
+   2/2
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   FT
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   TMP, SXT, SSS, TCY
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   Infantis
+  </td>
+  <td style="text-align: center;">
+   1/6
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   NAL
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   Livingstone
+  </td>
+  <td style="text-align: center;">
+   1/5
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   TCY, SXT, TMP
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   Newport
+  </td>
+  <td style="text-align: center;">
+   1/1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   1
+  </td>
+  <td style="text-align: center;">
+   AMP, TCY, NAL
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   Kedougou
+  </td>
+  <td style="text-align: center;">
+   0/1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   /
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   Montevideo
+  </td>
+  <td style="text-align: center;">
+   0/1
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   0
+  </td>
+  <td style="text-align: center;">
+   /
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   %
+  </td>
+  <td style="text-align: center;">
+   53/100
+  </td>
+  <td style="text-align: center;">
+   5.66
+  </td>
+  <td style="text-align: center;">
+   1.89
+  </td>
+  <td style="text-align: center;">
+   22.64
+  </td>
+  <td style="text-align: center;">
+   58.49
+  </td>
+  <td style="text-align: center;">
+   16.98
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+   11.32
+  </td>
+  <td style="text-align: center;">
+  </td>
+  <td style="text-align: center;">
+   53
+  </td>
+  <td style="text-align: center;">
+  </td>
+ </tr>
+</table>
+
+

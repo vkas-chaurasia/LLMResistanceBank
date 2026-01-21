@@ -1,0 +1,523 @@
+# Source: Salem2017_clean.md
+
+**Captured Caption**: Table 1</div>
+
+<div style="text-align: center;">Resistance properties, virulotypes, plasmid profiles and XbaI-PFGE profiles of Salmonella enterica serotype Enteritidis from chicken and farm environmental samples.
+
+<table border="1" style="margin: auto; width: max-content;">
+ <tr>
+  <td style="text-align: center;">
+   R&lt;sup&gt;a&lt;/sup&gt; (N&lt;sup&gt;b&lt;/sup&gt;)
+  </td>
+  <td style="text-align: center;">
+   Phenotype&lt;sup&gt;c&lt;/sup&gt;
+  </td>
+  <td style="text-align: center;">
+   Genotype (N&lt;sup&gt;b&lt;/sup&gt;)
+  </td>
+  <td style="text-align: center;">
+   V&lt;sup&gt;d&lt;/sup&gt; (N&lt;sup&gt;b&lt;/sup&gt;)
+  </td>
+  <td style="text-align: center;">
+   Detected virulence genes
+  </td>
+  <td style="text-align: center;">
+   RV&lt;sup&gt;e&lt;/sup&gt;
+  </td>
+  <td style="text-align: center;">
+   P&lt;sup&gt;f&lt;/sup&gt; (N&lt;sup&gt;b&lt;/sup&gt;)
+  </td>
+  <td style="text-align: center;">
+   RVP&lt;sup&gt;g&lt;/sup&gt; (N&lt;sup&gt;b&lt;/sup&gt;)
+  </td>
+  <td style="text-align: center;">
+   R1&lt;sup&gt;h&lt;/sup&gt; (O&lt;sup&gt;i&lt;/sup&gt;)
+  </td>
+  <td style="text-align: center;">
+   X&lt;sup&gt;i&lt;/sup&gt;
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="6">
+   R0 (51)
+  </td>
+  <td rowspan="6">
+  </td>
+  <td rowspan="6">
+  </td>
+  <td style="text-align: center;">
+   V1 (28)
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC
+  </td>
+  <td style="text-align: center;">
+   R0V1
+  </td>
+  <td style="text-align: center;">
+   P1 (27)
+  </td>
+  <td style="text-align: center;">
+   R0V1P1 (27)
+  </td>
+  <td style="text-align: center;">
+   432I (HCk)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="3">
+   V2 (20)
+  </td>
+  <td rowspan="3">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-gipA-bcfC-spvC
+  </td>
+  <td rowspan="3">
+   R0V2
+  </td>
+  <td style="text-align: center;">
+   P4
+  </td>
+  <td style="text-align: center;">
+   R0V1P4
+  </td>
+  <td style="text-align: center;">
+   49I (HCk)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   P1 (18)
+  </td>
+  <td style="text-align: center;">
+   R0V2P1 (18)
+  </td>
+  <td style="text-align: center;">
+   816/09lit (Fenv)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   P2
+  </td>
+  <td style="text-align: center;">
+   R0V2P2
+  </td>
+  <td style="text-align: center;">
+   1990Dv (Fenv)
+  </td>
+  <td style="text-align: center;">
+   X3
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   V3
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-spvC
+  </td>
+  <td style="text-align: center;">
+   R0V3
+  </td>
+  <td style="text-align: center;">
+   P6
+  </td>
+  <td style="text-align: center;">
+   R0V2P6
+  </td>
+  <td style="text-align: center;">
+   198/09Dv3 (Fenv)
+  </td>
+  <td style="text-align: center;">
+   X3
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   V5 (2)
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-bcfC-spvC
+  </td>
+  <td style="text-align: center;">
+   R0V5
+  </td>
+  <td style="text-align: center;">
+   P1
+  </td>
+  <td style="text-align: center;">
+   R0V3P1
+  </td>
+  <td style="text-align: center;">
+   510/09 (Fenv)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="7">
+   R1 (17)
+  </td>
+  <td rowspan="7">
+   NAL
+  </td>
+  <td style="text-align: center;">
+   GAC/AAC (Asp87Asn)
+  </td>
+  <td rowspan="2">
+   V1 (3)
+  </td>
+  <td rowspan="2">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC
+  </td>
+  <td rowspan="2">
+   R1V1
+  </td>
+  <td style="text-align: center;">
+   P1 (2)
+  </td>
+  <td style="text-align: center;">
+   R1V1P1 (2)
+  </td>
+  <td style="text-align: center;">
+   728/09Dch (Fenv)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   ni
+  </td>
+  <td style="text-align: center;">
+   P2
+  </td>
+  <td style="text-align: center;">
+   R1V1P2
+  </td>
+  <td style="text-align: center;">
+   Ssp1 (HCk)
+  </td>
+  <td style="text-align: center;">
+   X4
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   GAC/TAC (Asp87Tyr)
+  </td>
+  <td rowspan="3">
+   V2 (12)
+  </td>
+  <td rowspan="3">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-gipA-bcfC-spvC
+  </td>
+  <td rowspan="3">
+   R1V2
+  </td>
+  <td rowspan="3">
+   P1 (12)
+  </td>
+  <td rowspan="3">
+   R1V2P1 (12)
+  </td>
+  <td rowspan="3">
+   ST2 (HCk)
+  </td>
+  <td rowspan="3">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="2">
+   GAC/AAC (Asp87Asn)
+  </td>
+ </tr>
+ <tr>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   GAC/TAC (Asp87Tyr)
+  </td>
+  <td style="text-align: center;">
+   V3
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-spvC
+  </td>
+  <td style="text-align: center;">
+   R1V3
+  </td>
+  <td style="text-align: center;">
+   P1
+  </td>
+  <td style="text-align: center;">
+   R1V3P1
+  </td>
+  <td style="text-align: center;">
+   312I (HCk)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   ni
+  </td>
+  <td style="text-align: center;">
+   V6
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-bcfC-spvC
+  </td>
+  <td style="text-align: center;">
+   R1V6
+  </td>
+  <td style="text-align: center;">
+   P1
+  </td>
+  <td style="text-align: center;">
+   R1V6P1
+  </td>
+  <td style="text-align: center;">
+   685/09lit (Fenv)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="2">
+   R2 (3)
+  </td>
+  <td rowspan="2">
+   AMP
+  </td>
+  <td style="text-align: center;">
+   bla&lt;sub&gt;TEM-1-like&lt;/sub&gt;(2)
+  </td>
+  <td rowspan="2">
+   V2 (3)
+  </td>
+  <td rowspan="2">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-gipA-bcfC-spvC
+  </td>
+  <td rowspan="2">
+   R2V2
+  </td>
+  <td rowspan="2">
+   P3 (3)
+  </td>
+  <td rowspan="2">
+   R2V2P3 (3)
+  </td>
+  <td rowspan="2">
+   11/013 (SCk)
+  </td>
+  <td rowspan="2">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   bla&lt;sub&gt;SHV&lt;/sub&gt;
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   R3
+  </td>
+  <td style="text-align: center;">
+   STR
+  </td>
+  <td style="text-align: center;">
+   strB
+  </td>
+  <td style="text-align: center;">
+   V1
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC
+  </td>
+  <td style="text-align: center;">
+   R3V1
+  </td>
+  <td style="text-align: center;">
+   P1
+  </td>
+  <td style="text-align: center;">
+   R3V1P1
+  </td>
+  <td style="text-align: center;">
+   58/013 (SCk)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td rowspan="2">
+   R4 (2)
+  </td>
+  <td rowspan="2">
+   SUL
+  </td>
+  <td rowspan="2">
+   sul3
+  </td>
+  <td style="text-align: center;">
+   V1
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC
+  </td>
+  <td style="text-align: center;">
+   R4V1
+  </td>
+  <td style="text-align: center;">
+   P1
+  </td>
+  <td style="text-align: center;">
+   R4V1P1
+  </td>
+  <td style="text-align: center;">
+   238S (HCk)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   V2
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-gipA-bcfC-spvC
+  </td>
+  <td style="text-align: center;">
+   R4V2
+  </td>
+  <td style="text-align: center;">
+   P1
+  </td>
+  <td style="text-align: center;">
+   R4V2P1
+  </td>
+  <td style="text-align: center;">
+   539W (HCk)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   R5
+  </td>
+  <td style="text-align: center;">
+   AMP-NAL
+  </td>
+  <td style="text-align: center;">
+   bla&lt;sub&gt;TEM-1-like&lt;/sub&gt;(GAC/AAC (Asp87Asn)
+  </td>
+  <td style="text-align: center;">
+   V4
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-gipA-bcfC-spvC
+  </td>
+  <td style="text-align: center;">
+   R5V4
+  </td>
+  <td style="text-align: center;">
+   P3
+  </td>
+  <td style="text-align: center;">
+   R5V4P3
+  </td>
+  <td style="text-align: center;">
+   1024E (Fenv)
+  </td>
+  <td style="text-align: center;">
+   X4
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   R6
+  </td>
+  <td style="text-align: center;">
+   SUL-NAL
+  </td>
+  <td style="text-align: center;">
+   sul1-ni
+  </td>
+  <td style="text-align: center;">
+   V1
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-sopE1-sodC1-gipA-bcfC-spvC
+  </td>
+  <td style="text-align: center;">
+   R6V1
+  </td>
+  <td style="text-align: center;">
+   P3
+  </td>
+  <td style="text-align: center;">
+   R6V1P3
+  </td>
+  <td style="text-align: center;">
+   595/09Dch (Fenv)
+  </td>
+  <td style="text-align: center;">
+   X1
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: center;">
+   R7
+  </td>
+  <td style="text-align: center;">
+   AMP-NAL-CIP&lt;sup&gt;l&lt;/sup&gt;
+  </td>
+  <td style="text-align: center;">
+   bla&lt;sub&gt;TEM-1-like&lt;/sub&gt;-ni-qnrB
+  </td>
+  <td style="text-align: center;">
+   V4
+  </td>
+  <td style="text-align: center;">
+   orgA-ssaQ-mgtC-siiD-sopB-gipA-bcfC-spvC
+  </td>
+  <td style="text-align: center;">
+   R7V4
+  </td>
+  <td style="text-align: center;">
+   P5
+  </td>
+  <td style="text-align: center;">
+   R7V4P5
+  </td>
+  <td style="text-align: center;">
+   1025E (Fenv)
+  </td>
+  <td style="text-align: center;">
+   X4
+  </td>
+ </tr>
+</table>
+
+
